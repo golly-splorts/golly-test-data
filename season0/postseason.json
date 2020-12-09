@@ -884,7 +884,8 @@
                 },
                 "team1Score": 115,
                 "team2Score": 136,
-                "generations": 1933
+                "generations": 1933,
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -929,7 +930,8 @@
                 },
                 "team1Score": 140,
                 "team2Score": 104,
-                "generations": 1941
+                "generations": 1941,
+                "isPlayoffs": true
             }
         ],
         [
@@ -976,7 +978,8 @@
                 },
                 "team1Score": 168,
                 "team2Score": 123,
-                "generations": 1568
+                "generations": 1568,
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -1021,7 +1024,8 @@
                 },
                 "team1Score": 55,
                 "team2Score": 169,
-                "generations": 1731
+                "generations": 1731,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1068,7 +1072,8 @@
                 },
                 "team1Score": 118,
                 "team2Score": 114,
-                "generations": 1561
+                "generations": 1561,
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -1113,7 +1118,8 @@
                 },
                 "team1Score": 84,
                 "team2Score": 74,
-                "generations": 1263
+                "generations": 1263,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1160,7 +1166,8 @@
                 },
                 "team1Score": 173,
                 "team2Score": 20,
-                "generations": 2029
+                "generations": 2029,
+                "isPlayoffs": true
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -1205,7 +1212,8 @@
                 },
                 "team1Score": 231,
                 "team2Score": 35,
-                "generations": 2662
+                "generations": 2662,
+                "isPlayoffs": true
             }
         ]
     ],
@@ -1253,7 +1261,8 @@
                 },
                 "team1Score": 142,
                 "team2Score": 164,
-                "generations": 2342
+                "generations": 2342,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1299,7 +1308,8 @@
                 },
                 "team1Score": 60,
                 "team2Score": 86,
-                "generations": 1014
+                "generations": 1014,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1345,7 +1355,8 @@
                 },
                 "team1Score": 632,
                 "team2Score": 0,
-                "generations": 1955
+                "generations": 1955,
+                "isPlayoffs": true
             }
         ],
         [
@@ -1391,7 +1402,8 @@
                 },
                 "team1Score": 264,
                 "team2Score": 32,
-                "generations": 3127
+                "generations": 3127,
+                "isPlayoffs": true
             }
         ]
     ]

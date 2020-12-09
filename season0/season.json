@@ -302,10 +302,10 @@
             "team2Color": "#3e92cc",
             "team1WinLoss": [
                 0,
-                0
+                1
             ],
             "team2WinLoss": [
-                0,
+                1,
                 0
             ],
             "map": {
@@ -338,10 +338,10 @@
             "team2Color": "#f2c57c",
             "team1WinLoss": [
                 0,
-                0
+                1
             ],
             "team2WinLoss": [
-                0,
+                1,
                 0
             ],
             "map": {
@@ -373,12 +373,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
+                1,
                 0
             ],
             "team2WinLoss": [
                 0,
-                0
+                1
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -410,10 +410,10 @@
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
                 0,
-                0
+                1
             ],
             "team2WinLoss": [
-                0,
+                1,
                 0
             ],
             "map": {
@@ -446,10 +446,10 @@
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
                 0,
-                0
+                1
             ],
             "team2WinLoss": [
-                0,
+                1,
                 0
             ],
             "map": {
@@ -482,10 +482,10 @@
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 0,
-                0
+                1
             ],
             "team2WinLoss": [
-                0,
+                1,
                 0
             ],
             "map": {
@@ -518,10 +518,10 @@
             "team2Color": "#9963ab",
             "team1WinLoss": [
                 0,
-                0
+                1
             ],
             "team2WinLoss": [
-                0,
+                1,
                 0
             ],
             "map": {
@@ -553,12 +553,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                1,
-                0
+                0,
+                1
             ],
             "team2WinLoss": [
-                7,
-                8
+                1,
+                0
             ],
             "map": {
                 "patternName": "eightr",
@@ -591,12 +591,12 @@
             "team1Color": "#53917e",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                1,
+                1
             ],
             "team2WinLoss": [
-                0,
-                0
+                1,
+                1
             ],
             "map": {
                 "patternName": "random",
@@ -627,12 +627,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
+                2,
                 0
             ],
             "team2WinLoss": [
-                0,
-                0
+                1,
+                1
             ],
             "map": {
                 "patternName": "twomultum",
@@ -663,12 +663,12 @@
             "team1Color": "#f08700",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                1,
+                1
             ],
             "team2WinLoss": [
-                0,
-                0
+                1,
+                1
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -699,12 +699,12 @@
             "team1Color": "#990000",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                1,
+                1
             ],
             "team2WinLoss": [
                 0,
-                0
+                2
             ],
             "map": {
                 "patternName": "eightr",
@@ -735,12 +735,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                0,
-                0
+                1,
+                1
             ],
             "team2WinLoss": [
-                0,
-                0
+                1,
+                1
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -771,12 +771,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                0,
-                0
+                1,
+                1
             ],
             "team2WinLoss": [
-                0,
-                0
+                1,
+                1
             ],
             "map": {
                 "patternName": "timebomb",
@@ -807,12 +807,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                0,
+                2,
                 0
             ],
             "team2WinLoss": [
                 0,
-                0
+                2
             ],
             "map": {
                 "patternName": "eightpi",
@@ -843,12 +843,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                8,
-                8
+                1,
+                1
             ],
             "team2WinLoss": [
-                8,
-                8
+                1,
+                1
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -881,12 +881,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                1,
+                2
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                1
             ],
             "map": {
                 "patternName": "random",
@@ -917,12 +917,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                1
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                1
             ],
             "map": {
                 "patternName": "twomultum",
@@ -953,12 +953,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                1
             ],
             "team2WinLoss": [
-                0,
-                0
+                1,
+                2
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -990,11 +990,11 @@
             "team2Color": "#990000",
             "team1WinLoss": [
                 0,
-                0
+                3
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                1
             ],
             "map": {
                 "patternName": "eightr",
@@ -1025,12 +1025,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                1
             ],
             "team2WinLoss": [
-                0,
-                0
+                1,
+                2
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -1061,12 +1061,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                0,
-                0
+                1,
+                2
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                1
             ],
             "map": {
                 "patternName": "timebomb",
@@ -1098,10 +1098,10 @@
             "team2Color": "#9963ab",
             "team1WinLoss": [
                 0,
-                0
+                3
             ],
             "team2WinLoss": [
-                0,
+                3,
                 0
             ],
             "map": {
@@ -1133,12 +1133,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                11,
-                8
+                1,
+                2
             ],
             "team2WinLoss": [
-                13,
-                16
+                2,
+                1
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -1171,12 +1171,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                2
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                2
             ],
             "map": {
                 "patternName": "eightpi",
@@ -1207,12 +1207,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                3,
+                1
             ],
             "team2WinLoss": [
-                0,
-                0
+                3,
+                1
             ],
             "map": {
                 "patternName": "eightr",
@@ -1243,12 +1243,12 @@
             "team1Color": "#e86215",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                1,
+                3
             ],
             "team2WinLoss": [
-                0,
-                0
+                1,
+                3
             ],
             "map": {
                 "patternName": "timebomb",
@@ -1279,12 +1279,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                2
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                2
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -1315,12 +1315,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                0,
-                0
+                1,
+                3
             ],
             "team2WinLoss": [
-                0,
-                0
+                1,
+                3
             ],
             "map": {
                 "patternName": "random",
@@ -1351,12 +1351,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                0,
-                0
+                3,
+                1
             ],
             "team2WinLoss": [
                 0,
-                0
+                4
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -1387,12 +1387,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                0,
+                4,
                 0
             ],
             "team2WinLoss": [
-                16,
-                16
+                2,
+                2
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -1423,12 +1423,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                16,
-                16
+                2,
+                2
             ],
             "team2WinLoss": [
-                0,
-                0
+                3,
+                1
             ],
             "map": {
                 "patternName": "twomultum",
@@ -1461,12 +1461,12 @@
             "team1Color": "#53917e",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                3,
+                2
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                3
             ],
             "map": {
                 "patternName": "eightpi",
@@ -1497,12 +1497,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                4,
+                1
             ],
             "team2WinLoss": [
-                0,
-                0
+                3,
+                2
             ],
             "map": {
                 "patternName": "eightr",
@@ -1533,12 +1533,12 @@
             "team1Color": "#f08700",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                1,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                3
             ],
             "map": {
                 "patternName": "timebomb",
@@ -1569,12 +1569,12 @@
             "team1Color": "#990000",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                3,
+                2
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                3
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -1605,12 +1605,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                1,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                3
             ],
             "map": {
                 "patternName": "random",
@@ -1642,11 +1642,11 @@
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 0,
-                0
+                5
             ],
             "team2WinLoss": [
-                0,
-                0
+                4,
+                1
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -1677,11 +1677,11 @@
             "team1Color": "#0dab76",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                16,
-                16
+                2,
+                3
             ],
             "team2WinLoss": [
-                0,
+                5,
                 0
             ],
             "map": {
@@ -1714,11 +1714,11 @@
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
                 3,
-                0
+                2
             ],
             "team2WinLoss": [
-                21,
-                24
+                3,
+                2
             ],
             "map": {
                 "patternName": "twomultum",
@@ -1751,12 +1751,12 @@
             "team1Color": "#53917e",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                4,
+                2
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                4
             ],
             "map": {
                 "patternName": "twomultum",
@@ -1787,12 +1787,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                5,
+                1
             ],
             "team2WinLoss": [
-                0,
-                0
+                3,
+                3
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -1823,12 +1823,12 @@
             "team1Color": "#f08700",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                4
             ],
             "map": {
                 "patternName": "eightr",
@@ -1859,12 +1859,12 @@
             "team1Color": "#990000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                3,
+                3
             ],
             "team2WinLoss": [
-                0,
-                0
+                3,
+                3
             ],
             "map": {
                 "patternName": "random",
@@ -1895,12 +1895,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                1
             ],
             "map": {
                 "patternName": "timebomb",
@@ -1931,12 +1931,12 @@
             "team1Color": "#697a21",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                0,
-                0
+                1,
+                5
             ],
             "team2WinLoss": [
-                22,
-                24
+                3,
+                3
             ],
             "map": {
                 "patternName": "eightpi",
@@ -1967,12 +1967,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                16,
-                16
+                3,
+                3
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                4
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -2003,12 +2003,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                10,
-                8
+                4,
+                2
             ],
             "team2WinLoss": [
-                0,
-                0
+                4,
+                2
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -2041,12 +2041,12 @@
             "team1Color": "#e86215",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                5
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                2
             ],
             "map": {
                 "patternName": "twomultum",
@@ -2077,12 +2077,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                4,
+                3
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                2
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -2113,12 +2113,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                5
             ],
             "team2WinLoss": [
-                0,
-                0
+                3,
+                4
             ],
             "map": {
                 "patternName": "eightr",
@@ -2149,12 +2149,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                3,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                4,
+                3
             ],
             "map": {
                 "patternName": "random",
@@ -2185,12 +2185,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                0,
-                0
+                6,
+                1
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                5
             ],
             "map": {
                 "patternName": "timebomb",
@@ -2221,12 +2221,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                22,
-                24
+                3,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                5
             ],
             "map": {
                 "patternName": "eightpi",
@@ -2257,12 +2257,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                5
             ],
             "team2WinLoss": [
-                16,
-                16
+                4,
+                3
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -2293,12 +2293,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                2,
-                0
+                4,
+                3
             ],
             "team2WinLoss": [
-                16,
-                16
+                5,
+                2
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -2331,12 +2331,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                3
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -2367,12 +2367,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                4,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                6,
+                2
             ],
             "map": {
                 "patternName": "twomultum",
@@ -2403,12 +2403,12 @@
             "team1Color": "#e86215",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                3,
+                5
             ],
             "team2WinLoss": [
-                0,
-                0
+                4,
+                4
             ],
             "map": {
                 "patternName": "timebomb",
@@ -2439,12 +2439,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                4,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                4,
+                4
             ],
             "map": {
                 "patternName": "random",
@@ -2475,12 +2475,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                2,
+                6
             ],
             "map": {
                 "patternName": "eightpi",
@@ -2511,12 +2511,12 @@
             "team1Color": "#697a21",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                6
             ],
             "team2WinLoss": [
-                7,
-                8
+                5,
+                3
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -2547,12 +2547,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                16,
-                16
+                5,
+                3
             ],
             "team2WinLoss": [
-                0,
-                0
+                7,
+                1
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -2583,12 +2583,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                19,
-                16
+                5,
+                3
             ],
             "team2WinLoss": [
-                22,
-                24
+                4,
+                4
             ],
             "map": {
                 "patternName": "eightr",
@@ -2621,12 +2621,12 @@
             "team1Color": "#53917e",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                5,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                3,
+                6
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -2657,12 +2657,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                6,
+                3
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                4
             ],
             "map": {
                 "patternName": "twomultum",
@@ -2693,12 +2693,12 @@
             "team1Color": "#f08700",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                4,
+                5
             ],
             "team2WinLoss": [
-                0,
-                0
+                4,
+                5
             ],
             "map": {
                 "patternName": "timebomb",
@@ -2729,12 +2729,12 @@
             "team1Color": "#990000",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                4,
+                5
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                4
             ],
             "map": {
                 "patternName": "random",
@@ -2765,12 +2765,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                0,
-                0
+                2,
+                7
             ],
             "team2WinLoss": [
-                0,
-                0
+                3,
+                6
             ],
             "map": {
                 "patternName": "eightpi",
@@ -2801,12 +2801,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                7,
-                8
+                5,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                3,
+                6
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -2837,12 +2837,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                2
             ],
             "team2WinLoss": [
-                16,
-                16
+                6,
+                3
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -2873,12 +2873,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                22,
-                24
+                4,
+                5
             ],
             "team2WinLoss": [
-                27,
-                24
+                6,
+                3
             ],
             "map": {
                 "patternName": "eightr",
@@ -2911,12 +2911,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                3,
+                7
             ],
             "team2WinLoss": [
-                0,
-                0
+                6,
+                4
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -2947,12 +2947,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                6,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                5
             ],
             "map": {
                 "patternName": "eightr",
@@ -2983,12 +2983,12 @@
             "team1Color": "#e86215",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                4,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                5
             ],
             "map": {
                 "patternName": "random",
@@ -3019,12 +3019,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                5,
+                5
             ],
             "team2WinLoss": [
-                0,
-                0
+                6,
+                4
             ],
             "map": {
                 "patternName": "twomultum",
@@ -3055,12 +3055,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                0,
-                0
+                3,
+                7
             ],
             "team2WinLoss": [
-                7,
-                8
+                6,
+                4
             ],
             "map": {
                 "patternName": "eightpi",
@@ -3091,12 +3091,12 @@
             "team1Color": "#697a21",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                0,
-                0
+                3,
+                7
             ],
             "team2WinLoss": [
-                0,
-                0
+                7,
+                3
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -3127,12 +3127,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                16,
-                16
+                7,
+                3
             ],
             "team2WinLoss": [
-                28,
-                32
+                5,
+                5
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -3163,12 +3163,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                29,
-                24
+                6,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                3,
+                7
             ],
             "map": {
                 "patternName": "timebomb",
@@ -3201,12 +3201,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                6,
+                5
             ],
             "team2WinLoss": [
-                0,
-                0
+                4,
+                7
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -3237,12 +3237,12 @@
             "team1Color": "#f08700",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                5,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                7,
+                4
             ],
             "map": {
                 "patternName": "eightr",
@@ -3273,12 +3273,12 @@
             "team1Color": "#990000",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                5,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                6
             ],
             "map": {
                 "patternName": "random",
@@ -3309,12 +3309,12 @@
             "team1Color": "#53917e",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                6
             ],
             "map": {
                 "patternName": "twomultum",
@@ -3346,11 +3346,11 @@
             "team2Color": "#ffb627",
             "team1WinLoss": [
                 7,
-                8
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                3,
+                8
             ],
             "map": {
                 "patternName": "eightpi",
@@ -3381,12 +3381,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                4,
+                7
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -3417,12 +3417,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                28,
-                32
+                5,
+                6
             ],
             "team2WinLoss": [
-                16,
-                16
+                8,
+                3
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -3453,12 +3453,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                2,
-                0
+                3,
+                8
             ],
             "team2WinLoss": [
-                35,
-                32
+                7,
+                4
             ],
             "map": {
                 "patternName": "timebomb",
@@ -3491,12 +3491,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                4,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                7,
+                5
             ],
             "map": {
                 "patternName": "twomultum",
@@ -3527,12 +3527,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                5
             ],
             "team2WinLoss": [
-                0,
-                0
+                7,
+                5
             ],
             "map": {
                 "patternName": "timebomb",
@@ -3563,12 +3563,12 @@
             "team1Color": "#e86215",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                5,
+                7
             ],
             "team2WinLoss": [
-                0,
-                0
+                6,
+                6
             ],
             "map": {
                 "patternName": "eightpi",
@@ -3599,12 +3599,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                6,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                6,
+                6
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -3635,12 +3635,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                8,
-                8
+                3,
+                9
             ],
             "team2WinLoss": [
-                0,
-                0
+                3,
+                9
             ],
             "map": {
                 "patternName": "eightr",
@@ -3671,12 +3671,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                7,
-                8
+                8,
+                4
             ],
             "team2WinLoss": [
-                0,
-                0
+                4,
+                8
             ],
             "map": {
                 "patternName": "random",
@@ -3707,12 +3707,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                0,
-                0
+                8,
+                4
             ],
             "team2WinLoss": [
-                16,
-                16
+                8,
+                4
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -3743,12 +3743,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                28,
-                32
+                6,
+                6
             ],
             "team2WinLoss": [
-                37,
-                32
+                8,
+                4
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -3781,12 +3781,12 @@
             "team1Color": "#53917e",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                8
             ],
             "map": {
                 "patternName": "twomultum",
@@ -3817,12 +3817,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                8,
+                5
             ],
             "map": {
                 "patternName": "timebomb",
@@ -3853,12 +3853,12 @@
             "team1Color": "#f08700",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                8
             ],
             "map": {
                 "patternName": "eightpi",
@@ -3889,12 +3889,12 @@
             "team1Color": "#990000",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                6,
+                7
             ],
             "team2WinLoss": [
-                0,
-                0
+                7,
+                6
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -3925,12 +3925,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                3,
+                10
             ],
             "team2WinLoss": [
-                8,
-                8
+                4,
+                9
             ],
             "map": {
                 "patternName": "eightr",
@@ -3961,12 +3961,12 @@
             "team1Color": "#697a21",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                0,
-                0
+                4,
+                9
             ],
             "team2WinLoss": [
-                7,
-                8
+                9,
+                4
             ],
             "map": {
                 "patternName": "random",
@@ -3997,12 +3997,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                16,
-                16
+                8,
+                5
             ],
             "team2WinLoss": [
-                0,
-                0
+                9,
+                4
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -4033,12 +4033,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                38,
-                32
+                8,
+                5
             ],
             "team2WinLoss": [
-                35,
-                40
+                7,
+                6
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -4071,12 +4071,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                5,
+                9
             ],
             "team2WinLoss": [
-                0,
-                0
+                7,
+                7
             ],
             "map": {
                 "patternName": "eightpi",
@@ -4107,12 +4107,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                8,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                7,
+                7
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -4143,12 +4143,12 @@
             "team1Color": "#e86215",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                6,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                8,
+                6
             ],
             "map": {
                 "patternName": "twomultum",
@@ -4179,12 +4179,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                7
             ],
             "team2WinLoss": [
-                0,
-                0
+                8,
+                6
             ],
             "map": {
                 "patternName": "timebomb",
@@ -4215,12 +4215,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                0,
-                0
+                4,
+                10
             ],
             "team2WinLoss": [
-                0,
-                0
+                9,
+                5
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -4251,12 +4251,12 @@
             "team1Color": "#697a21",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                0,
-                0
+                5,
+                9
             ],
             "team2WinLoss": [
-                36,
-                40
+                7,
+                7
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -4287,12 +4287,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                16,
-                16
+                9,
+                5
             ],
             "team2WinLoss": [
-                8,
-                8
+                4,
+                10
             ],
             "map": {
                 "patternName": "eightr",
@@ -4323,12 +4323,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                45,
-                40
+                9,
+                5
             ],
             "team2WinLoss": [
-                7,
-                8
+                9,
+                5
             ],
             "map": {
                 "patternName": "random",
@@ -4361,12 +4361,12 @@
             "team1Color": "#f08700",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                6,
+                9
             ],
             "map": {
                 "patternName": "eightpi",
@@ -4397,12 +4397,12 @@
             "team1Color": "#990000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                9,
+                6
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -4433,12 +4433,12 @@
             "team1Color": "#53917e",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                6,
+                9
             ],
             "map": {
                 "patternName": "twomultum",
@@ -4469,12 +4469,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                8,
+                7
             ],
             "team2WinLoss": [
-                0,
-                0
+                8,
+                7
             ],
             "map": {
                 "patternName": "timebomb",
@@ -4505,12 +4505,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                5,
+                10
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -4541,12 +4541,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                36,
-                40
+                7,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                6,
+                9
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -4577,12 +4577,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                8,
-                8
+                4,
+                11
             ],
             "team2WinLoss": [
-                16,
-                16
+                10,
+                5
             ],
             "map": {
                 "patternName": "eightr",
@@ -4613,12 +4613,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                8,
-                8
+                9,
+                6
             ],
             "team2WinLoss": [
-                52,
-                48
+                10,
+                5
             ],
             "map": {
                 "patternName": "random",
@@ -4651,12 +4651,12 @@
             "team1Color": "#53917e",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                10,
+                6
             ],
             "team2WinLoss": [
-                0,
-                0
+                9,
+                7
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -4687,12 +4687,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                7
             ],
             "team2WinLoss": [
-                0,
-                0
+                6,
+                10
             ],
             "map": {
                 "patternName": "twomultum",
@@ -4723,12 +4723,12 @@
             "team1Color": "#f08700",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                8,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                8,
+                8
             ],
             "map": {
                 "patternName": "timebomb",
@@ -4759,12 +4759,12 @@
             "team1Color": "#990000",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                8,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                6,
+                10
             ],
             "map": {
                 "patternName": "eightpi",
@@ -4795,12 +4795,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                8,
-                8
+                4,
+                12
             ],
             "team2WinLoss": [
-                0,
-                0
+                6,
+                10
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -4831,12 +4831,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                14,
-                16
+                10,
+                6
             ],
             "team2WinLoss": [
-                16,
-                16
+                11,
+                5
             ],
             "map": {
                 "patternName": "eightr",
@@ -4867,12 +4867,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                7
             ],
             "team2WinLoss": [
-                54,
-                48
+                10,
+                6
             ],
             "map": {
                 "patternName": "random",
@@ -4903,12 +4903,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                36,
-                40
+                8,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                6,
+                10
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -4941,12 +4941,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                11,
+                6
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -4977,12 +4977,12 @@
             "team1Color": "#e86215",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                6,
+                11
             ],
             "team2WinLoss": [
-                0,
-                0
+                10,
+                7
             ],
             "map": {
                 "patternName": "twomultum",
@@ -5013,12 +5013,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                8,
+                9
             ],
             "map": {
                 "patternName": "timebomb",
@@ -5049,12 +5049,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                6,
+                11
             ],
             "team2WinLoss": [
-                0,
-                0
+                9,
+                8
             ],
             "map": {
                 "patternName": "eightpi",
@@ -5085,12 +5085,12 @@
             "team1Color": "#697a21",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                6,
+                11
             ],
             "team2WinLoss": [
-                8,
-                8
+                5,
+                12
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -5121,12 +5121,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                16,
-                16
+                11,
+                6
             ],
             "team2WinLoss": [
-                14,
-                16
+                11,
+                6
             ],
             "map": {
                 "patternName": "eightr",
@@ -5157,12 +5157,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                54,
-                48
+                10,
+                7
             ],
             "team2WinLoss": [
-                0,
-                0
+                10,
+                7
             ],
             "map": {
                 "patternName": "random",
@@ -5193,12 +5193,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                1,
-                0
+                6,
+                11
             ],
             "team2WinLoss": [
-                43,
-                48
+                9,
+                8
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -5231,12 +5231,12 @@
             "team1Color": "#53917e",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                11,
+                7
             ],
             "team2WinLoss": [
-                0,
-                0
+                10,
+                8
             ],
             "map": {
                 "patternName": "twomultum",
@@ -5267,12 +5267,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                10,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                7,
+                11
             ],
             "map": {
                 "patternName": "timebomb",
@@ -5303,12 +5303,12 @@
             "team1Color": "#f08700",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                8,
+                10
             ],
             "team2WinLoss": [
-                0,
-                0
+                10,
+                8
             ],
             "map": {
                 "patternName": "random",
@@ -5339,12 +5339,12 @@
             "team1Color": "#990000",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                9
             ],
             "team2WinLoss": [
-                0,
-                0
+                7,
+                11
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -5375,12 +5375,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                8,
-                8
+                5,
+                13
             ],
             "team2WinLoss": [
-                54,
-                48
+                11,
+                7
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -5411,12 +5411,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                14,
-                16
+                12,
+                6
             ],
             "team2WinLoss": [
-                8,
-                8
+                7,
+                11
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -5447,12 +5447,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                0,
-                0
+                10,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                7,
+                11
             ],
             "map": {
                 "patternName": "eightr",
@@ -5483,12 +5483,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                44,
-                48
+                9,
+                9
             ],
             "team2WinLoss": [
-                16,
-                16
+                11,
+                7
             ],
             "map": {
                 "patternName": "eightpi",
@@ -5521,12 +5521,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                11,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                11,
+                8
             ],
             "map": {
                 "patternName": "twomultum",
@@ -5557,12 +5557,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                12
             ],
             "team2WinLoss": [
-                0,
-                0
+                11,
+                8
             ],
             "map": {
                 "patternName": "timebomb",
@@ -5593,12 +5593,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                10,
+                9
             ],
             "team2WinLoss": [
-                0,
-                0
+                9,
+                10
             ],
             "map": {
                 "patternName": "random",
@@ -5629,12 +5629,12 @@
             "team1Color": "#e86215",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                12
             ],
             "team2WinLoss": [
-                0,
-                0
+                10,
+                9
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -5665,12 +5665,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                54,
-                48
+                11,
+                8
             ],
             "team2WinLoss": [
-                8,
-                8
+                6,
+                13
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -5702,11 +5702,11 @@
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 8,
-                8
+                11
             ],
             "team2WinLoss": [
-                14,
-                16
+                12,
+                7
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -5737,12 +5737,12 @@
             "team1Color": "#697a21",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                12
             ],
             "team2WinLoss": [
-                0,
-                0
+                11,
+                8
             ],
             "map": {
                 "patternName": "eightr",
@@ -5773,12 +5773,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                18,
-                16
+                11,
+                8
             ],
             "team2WinLoss": [
-                50,
-                56
+                10,
+                9
             ],
             "map": {
                 "patternName": "eightpi",
@@ -5811,12 +5811,12 @@
             "team1Color": "#53917e",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                12,
+                8
             ],
             "team2WinLoss": [
-                0,
-                0
+                11,
+                9
             ],
             "map": {
                 "patternName": "random",
@@ -5847,12 +5847,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                11,
+                9
             ],
             "team2WinLoss": [
-                0,
-                0
+                7,
+                13
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -5883,12 +5883,12 @@
             "team1Color": "#f08700",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                11
             ],
             "team2WinLoss": [
-                0,
-                0
+                11,
+                9
             ],
             "map": {
                 "patternName": "twomultum",
@@ -5919,12 +5919,12 @@
             "team1Color": "#990000",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                11,
+                9
             ],
             "team2WinLoss": [
-                0,
-                0
+                8,
+                12
             ],
             "map": {
                 "patternName": "timebomb",
@@ -5955,12 +5955,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                8,
-                8
+                9,
+                11
             ],
             "team2WinLoss": [
-                14,
-                16
+                12,
+                8
             ],
             "map": {
                 "patternName": "eightr",
@@ -5991,12 +5991,12 @@
             "team1Color": "#697a21",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                0,
-                0
+                8,
+                12
             ],
             "team2WinLoss": [
-                0,
-                0
+                11,
+                9
             ],
             "map": {
                 "patternName": "eightpi",
@@ -6027,12 +6027,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                24,
-                24
+                12,
+                8
             ],
             "team2WinLoss": [
-                52,
-                56
+                10,
+                10
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -6063,12 +6063,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                54,
-                48
+                12,
+                8
             ],
             "team2WinLoss": [
-                8,
-                8
+                6,
+                14
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -6101,12 +6101,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                11,
+                10
             ],
             "team2WinLoss": [
-                0,
-                0
+                13,
+                8
             ],
             "map": {
                 "patternName": "random",
@@ -6137,12 +6137,12 @@
             "team1Color": "#e86215",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                7,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                12,
+                9
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -6173,12 +6173,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                11,
+                10
             ],
             "team2WinLoss": [
-                0,
-                0
+                10,
+                11
             ],
             "map": {
                 "patternName": "twomultum",
@@ -6209,12 +6209,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                8,
+                13
             ],
             "team2WinLoss": [
-                0,
-                0
+                12,
+                9
             ],
             "map": {
                 "patternName": "timebomb",
@@ -6245,12 +6245,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                14,
-                16
+                12,
+                9
             ],
             "team2WinLoss": [
-                8,
-                8
+                10,
+                11
             ],
             "map": {
                 "patternName": "eightr",
@@ -6281,12 +6281,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                0,
-                0
+                11,
+                10
             ],
             "team2WinLoss": [
-                0,
-                0
+                9,
+                12
             ],
             "map": {
                 "patternName": "eightpi",
@@ -6317,12 +6317,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                52,
-                56
+                10,
+                11
             ],
             "team2WinLoss": [
-                24,
-                24
+                13,
+                8
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -6353,12 +6353,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                9,
-                8
+                7,
+                14
             ],
             "team2WinLoss": [
-                61,
-                56
+                12,
+                9
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -6391,12 +6391,12 @@
             "team1Color": "#53917e",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                13,
+                9
             ],
             "team2WinLoss": [
-                0,
-                0
+                9,
+                13
             ],
             "map": {
                 "patternName": "eightr",
@@ -6427,12 +6427,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                12,
+                10
             ],
             "team2WinLoss": [
-                0,
-                0
+                12,
+                10
             ],
             "map": {
                 "patternName": "random",
@@ -6463,12 +6463,12 @@
             "team1Color": "#f08700",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                10,
+                12
             ],
             "team2WinLoss": [
-                0,
-                0
+                8,
+                14
             ],
             "map": {
                 "patternName": "twomultum",
@@ -6499,12 +6499,12 @@
             "team1Color": "#990000",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                12,
+                10
             ],
             "team2WinLoss": [
-                0,
-                0
+                12,
+                10
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -6535,12 +6535,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                8,
-                8
+                11,
+                11
             ],
             "team2WinLoss": [
-                16,
-                16
+                8,
+                14
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -6571,12 +6571,12 @@
             "team1Color": "#697a21",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                13
             ],
             "team2WinLoss": [
-                14,
-                16
+                12,
+                10
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -6607,12 +6607,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                24,
-                24
+                13,
+                9
             ],
             "team2WinLoss": [
-                0,
-                0
+                12,
+                10
             ],
             "map": {
                 "patternName": "timebomb",
@@ -6643,12 +6643,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                62,
-                56
+                12,
+                10
             ],
             "team2WinLoss": [
-                52,
-                56
+                11,
+                11
             ],
             "map": {
                 "patternName": "eightpi",
@@ -6681,12 +6681,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                14,
+                9
             ],
             "map": {
                 "patternName": "eightr",
@@ -6717,12 +6717,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                12,
+                11
             ],
             "team2WinLoss": [
-                0,
-                0
+                13,
+                10
             ],
             "map": {
                 "patternName": "random",
@@ -6753,12 +6753,12 @@
             "team1Color": "#e86215",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                8,
+                15
             ],
             "team2WinLoss": [
-                0,
-                0
+                11,
+                12
             ],
             "map": {
                 "patternName": "twomultum",
@@ -6789,12 +6789,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                12,
+                11
             ],
             "team2WinLoss": [
-                0,
-                0
+                13,
+                10
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -6825,12 +6825,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                16,
-                16
+                8,
+                15
             ],
             "team2WinLoss": [
-                8,
-                8
+                12,
+                11
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -6861,12 +6861,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                14,
-                16
+                13,
+                10
             ],
             "team2WinLoss": [
-                0,
-                0
+                9,
+                14
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -6897,12 +6897,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                0,
-                0
+                12,
+                11
             ],
             "team2WinLoss": [
-                24,
-                24
+                14,
+                9
             ],
             "map": {
                 "patternName": "timebomb",
@@ -6933,12 +6933,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                53,
-                56
+                11,
+                12
             ],
             "team2WinLoss": [
-                69,
-                64
+                13,
+                10
             ],
             "map": {
                 "patternName": "eightpi",
@@ -6971,12 +6971,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                15
             ],
             "team2WinLoss": [
-                0,
-                0
+                12,
+                12
             ],
             "map": {
                 "patternName": "timebomb",
@@ -7007,12 +7007,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                13,
+                11
             ],
             "team2WinLoss": [
-                0,
-                0
+                14,
+                10
             ],
             "map": {
                 "patternName": "random",
@@ -7043,12 +7043,12 @@
             "team1Color": "#e86215",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                8,
+                16
             ],
             "team2WinLoss": [
-                0,
-                0
+                15,
+                9
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -7079,12 +7079,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                12,
+                12
             ],
             "team2WinLoss": [
-                0,
-                0
+                13,
+                11
             ],
             "map": {
                 "patternName": "twomultum",
@@ -7115,12 +7115,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                8,
-                8
+                13,
+                11
             ],
             "team2WinLoss": [
-                0,
-                0
+                13,
+                11
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -7151,12 +7151,12 @@
             "team1Color": "#697a21",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                0,
-                0
+                10,
+                14
             ],
             "team2WinLoss": [
-                56,
-                64
+                12,
+                12
             ],
             "map": {
                 "patternName": "eightr",
@@ -7187,11 +7187,11 @@
             "team1Color": "#0dab76",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                24,
-                24
+                14,
+                10
             ],
             "team2WinLoss": [
-                16,
+                8,
                 16
             ],
             "map": {
@@ -7223,12 +7223,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                74,
-                64
+                13,
+                11
             ],
             "team2WinLoss": [
-                14,
-                16
+                13,
+                11
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -7261,12 +7261,12 @@
             "team1Color": "#f08700",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                12,
+                13
             ],
             "team2WinLoss": [
-                0,
-                0
+                10,
+                15
             ],
             "map": {
                 "patternName": "timebomb",
@@ -7297,12 +7297,12 @@
             "team1Color": "#990000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                14,
+                11
             ],
             "team2WinLoss": [
-                0,
-                0
+                14,
+                11
             ],
             "map": {
                 "patternName": "random",
@@ -7333,12 +7333,12 @@
             "team1Color": "#53917e",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                15,
+                10
             ],
             "team2WinLoss": [
-                0,
-                0
+                9,
+                16
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -7369,12 +7369,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                13,
+                12
             ],
             "team2WinLoss": [
-                0,
-                0
+                13,
+                12
             ],
             "map": {
                 "patternName": "twomultum",
@@ -7405,12 +7405,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                0,
-                0
+                13,
+                12
             ],
             "team2WinLoss": [
-                8,
-                8
+                14,
+                11
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -7441,12 +7441,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                56,
-                64
+                12,
+                13
             ],
             "team2WinLoss": [
-                0,
-                0
+                11,
+                14
             ],
             "map": {
                 "patternName": "eightr",
@@ -7477,12 +7477,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                16,
-                16
+                8,
+                17
             ],
             "team2WinLoss": [
-                24,
-                24
+                15,
+                10
             ],
             "map": {
                 "patternName": "eightpi",
@@ -7513,12 +7513,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                14,
-                16
+                13,
+                12
             ],
             "team2WinLoss": [
-                82,
-                72
+                14,
+                11
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -7551,12 +7551,12 @@
             "team1Color": "#53917e",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                16,
+                10
             ],
             "team2WinLoss": [
-                0,
-                0
+                14,
+                12
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -7587,12 +7587,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                14,
+                12
             ],
             "team2WinLoss": [
-                0,
-                0
+                9,
+                17
             ],
             "map": {
                 "patternName": "eightpi",
@@ -7623,12 +7623,12 @@
             "team1Color": "#f08700",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                13,
+                13
             ],
             "team2WinLoss": [
-                0,
-                0
+                13,
+                13
             ],
             "map": {
                 "patternName": "eightr",
@@ -7659,12 +7659,12 @@
             "team1Color": "#990000",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                15,
+                11
             ],
             "team2WinLoss": [
-                0,
-                0
+                10,
+                16
             ],
             "map": {
                 "patternName": "timebomb",
@@ -7695,12 +7695,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                16,
-                16
+                9,
+                17
             ],
             "team2WinLoss": [
-                0,
-                0
+                11,
+                15
             ],
             "map": {
                 "patternName": "twomultum",
@@ -7731,12 +7731,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                22,
-                24
+                14,
+                12
             ],
             "team2WinLoss": [
-                24,
-                24
+                15,
+                11
             ],
             "map": {
                 "patternName": "random",
@@ -7767,12 +7767,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                0,
-                0
+                14,
+                12
             ],
             "team2WinLoss": [
-                82,
-                72
+                14,
+                12
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -7803,12 +7803,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                56,
-                64
+                13,
+                13
             ],
             "team2WinLoss": [
-                8,
-                8
+                14,
+                12
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -7841,12 +7841,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                14,
+                13
             ],
             "team2WinLoss": [
-                0,
-                0
+                17,
+                10
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -7877,12 +7877,12 @@
             "team1Color": "#e86215",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                18
             ],
             "team2WinLoss": [
-                0,
-                0
+                15,
+                12
             ],
             "map": {
                 "patternName": "eightpi",
@@ -7913,12 +7913,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                14,
+                13
             ],
             "team2WinLoss": [
-                0,
-                0
+                13,
+                14
             ],
             "map": {
                 "patternName": "eightr",
@@ -7949,12 +7949,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                11,
+                16
             ],
             "team2WinLoss": [
-                0,
-                0
+                15,
+                12
             ],
             "map": {
                 "patternName": "timebomb",
@@ -7985,12 +7985,12 @@
             "team1Color": "#697a21",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                12,
+                15
             ],
             "team2WinLoss": [
-                16,
-                16
+                9,
+                18
             ],
             "map": {
                 "patternName": "twomultum",
@@ -8021,12 +8021,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                24,
-                24
+                15,
+                12
             ],
             "team2WinLoss": [
-                22,
-                24
+                15,
+                12
             ],
             "map": {
                 "patternName": "random",
@@ -8057,12 +8057,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                82,
-                72
+                14,
+                13
             ],
             "team2WinLoss": [
-                0,
-                0
+                15,
+                12
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -8093,12 +8093,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                12,
-                8
+                15,
+                12
             ],
             "team2WinLoss": [
-                60,
-                72
+                13,
+                14
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -8131,12 +8131,12 @@
             "team1Color": "#f08700",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                13,
+                15
             ],
             "team2WinLoss": [
-                0,
-                0
+                17,
+                11
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -8167,12 +8167,12 @@
             "team1Color": "#990000",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                15,
+                13
             ],
             "team2WinLoss": [
-                0,
-                0
+                16,
+                12
             ],
             "map": {
                 "patternName": "eightpi",
@@ -8203,12 +8203,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                15,
+                13
             ],
             "team2WinLoss": [
-                0,
-                0
+                15,
+                13
             ],
             "map": {
                 "patternName": "random",
@@ -8239,12 +8239,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                12,
+                16
             ],
             "team2WinLoss": [
-                0,
-                0
+                9,
+                19
             ],
             "map": {
                 "patternName": "timebomb",
@@ -8275,12 +8275,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                16,
-                16
+                9,
+                19
             ],
             "team2WinLoss": [
-                22,
-                24
+                15,
+                13
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -8311,12 +8311,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                62,
-                72
+                13,
+                15
             ],
             "team2WinLoss": [
-                0,
-                0
+                16,
+                12
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -8347,12 +8347,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                24,
-                24
+                16,
+                12
             ],
             "team2WinLoss": [
-                18,
-                16
+                16,
+                12
             ],
             "map": {
                 "patternName": "eightr",
@@ -8383,12 +8383,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                82,
-                72
+                14,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                13,
+                15
             ],
             "map": {
                 "patternName": "twomultum",
@@ -8421,12 +8421,12 @@
             "team1Color": "#53917e",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                17,
+                12
             ],
             "team2WinLoss": [
-                0,
-                0
+                14,
+                15
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -8457,12 +8457,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                16,
+                13
             ],
             "team2WinLoss": [
-                0,
-                0
+                16,
+                13
             ],
             "map": {
                 "patternName": "eightpi",
@@ -8493,12 +8493,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                15,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                16,
+                13
             ],
             "map": {
                 "patternName": "random",
@@ -8529,12 +8529,12 @@
             "team1Color": "#e86215",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                9,
+                20
             ],
             "team2WinLoss": [
-                0,
-                0
+                13,
+                16
             ],
             "map": {
                 "patternName": "timebomb",
@@ -8565,12 +8565,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                22,
-                24
+                15,
+                14
             ],
             "team2WinLoss": [
-                16,
-                16
+                10,
+                19
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -8601,12 +8601,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                0,
-                0
+                16,
+                13
             ],
             "team2WinLoss": [
-                62,
-                72
+                14,
+                15
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -8637,12 +8637,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                18,
-                16
+                16,
+                13
             ],
             "team2WinLoss": [
-                24,
-                24
+                17,
+                12
             ],
             "map": {
                 "patternName": "eightr",
@@ -8673,12 +8673,12 @@
             "team1Color": "#697a21",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                0,
-                0
+                13,
+                16
             ],
             "team2WinLoss": [
-                90,
-                80
+                15,
+                14
             ],
             "map": {
                 "patternName": "twomultum",
@@ -8711,12 +8711,12 @@
             "team1Color": "#53917e",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                18,
+                12
             ],
             "team2WinLoss": [
-                0,
-                0
+                17,
+                13
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -8747,12 +8747,12 @@
             "team1Color": "#f08700",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                14,
+                16
             ],
             "team2WinLoss": [
-                0,
-                0
+                16,
+                14
             ],
             "map": {
                 "patternName": "eightr",
@@ -8783,12 +8783,12 @@
             "team1Color": "#e86215",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                10,
+                20
             ],
             "team2WinLoss": [
-                0,
-                0
+                16,
+                14
             ],
             "map": {
                 "patternName": "twomultum",
@@ -8819,12 +8819,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                13,
+                17
             ],
             "team2WinLoss": [
-                0,
-                0
+                16,
+                14
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -8855,12 +8855,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                17,
+                13
             ],
             "team2WinLoss": [
-                16,
-                16
+                10,
+                20
             ],
             "map": {
                 "patternName": "eightpi",
@@ -8891,12 +8891,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                62,
-                72
+                14,
+                16
             ],
             "team2WinLoss": [
-                22,
-                24
+                16,
+                14
             ],
             "map": {
                 "patternName": "random",
@@ -8927,12 +8927,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                24,
-                24
+                17,
+                13
             ],
             "team2WinLoss": [
-                18,
-                16
+                17,
+                13
             ],
             "map": {
                 "patternName": "timebomb",
@@ -8963,12 +8963,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                90,
-                80
+                15,
+                15
             ],
             "team2WinLoss": [
-                8,
-                8
+                14,
+                16
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -9001,12 +9001,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                17,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                19,
+                12
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -9037,12 +9037,12 @@
             "team1Color": "#990000",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                17,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                14,
+                17
             ],
             "map": {
                 "patternName": "eightr",
@@ -9073,12 +9073,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                16,
+                15
             ],
             "team2WinLoss": [
-                0,
-                0
+                11,
+                20
             ],
             "map": {
                 "patternName": "twomultum",
@@ -9109,12 +9109,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                17,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                13,
+                18
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -9145,12 +9145,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                16,
-                16
+                11,
+                20
             ],
             "team2WinLoss": [
-                0,
-                0
+                17,
+                14
             ],
             "map": {
                 "patternName": "eightpi",
@@ -9181,12 +9181,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                22,
-                24
+                16,
+                15
             ],
             "team2WinLoss": [
-                62,
-                72
+                15,
+                16
             ],
             "map": {
                 "patternName": "random",
@@ -9217,12 +9217,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                18,
-                16
+                17,
+                14
             ],
             "team2WinLoss": [
-                24,
-                24
+                18,
+                13
             ],
             "map": {
                 "patternName": "timebomb",
@@ -9253,12 +9253,12 @@
             "team1Color": "#697a21",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                11,
-                8
+                14,
+                17
             ],
             "team2WinLoss": [
-                95,
-                88
+                16,
+                15
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -9291,12 +9291,12 @@
             "team1Color": "#990000",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                18,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                14,
+                18
             ],
             "map": {
                 "patternName": "twomultum",
@@ -9327,12 +9327,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                18,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                19,
+                13
             ],
             "map": {
                 "patternName": "timebomb",
@@ -9363,12 +9363,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                16,
+                16
             ],
             "team2WinLoss": [
-                0,
-                0
+                12,
+                20
             ],
             "map": {
                 "patternName": "eightpi",
@@ -9399,12 +9399,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                13,
+                19
             ],
             "team2WinLoss": [
-                0,
-                0
+                18,
+                14
             ],
             "map": {
                 "patternName": "eightr",
@@ -9435,12 +9435,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                22,
-                24
+                17,
+                15
             ],
             "team2WinLoss": [
-                16,
-                16
+                12,
+                20
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -9471,12 +9471,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                62,
-                72
+                15,
+                17
             ],
             "team2WinLoss": [
-                0,
-                0
+                17,
+                15
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -9507,12 +9507,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                24,
-                24
+                19,
+                13
             ],
             "team2WinLoss": [
-                97,
-                88
+                16,
+                16
             ],
             "map": {
                 "patternName": "random",
@@ -9543,12 +9543,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                18,
-                16
+                17,
+                15
             ],
             "team2WinLoss": [
-                17,
-                16
+                15,
+                17
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -9581,12 +9581,12 @@
             "team1Color": "#f08700",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                14,
+                19
             ],
             "team2WinLoss": [
-                0,
-                0
+                19,
+                14
             ],
             "map": {
                 "patternName": "twomultum",
@@ -9617,12 +9617,12 @@
             "team1Color": "#53917e",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                19,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                19,
+                14
             ],
             "map": {
                 "patternName": "timebomb",
@@ -9653,12 +9653,12 @@
             "team1Color": "#e86215",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                13,
+                20
             ],
             "team2WinLoss": [
-                0,
-                0
+                16,
+                17
             ],
             "map": {
                 "patternName": "eightpi",
@@ -9689,12 +9689,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                18,
+                15
             ],
             "team2WinLoss": [
-                0,
-                0
+                14,
+                19
             ],
             "map": {
                 "patternName": "eightr",
@@ -9725,12 +9725,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                16,
-                16
+                13,
+                20
             ],
             "team2WinLoss": [
-                22,
-                24
+                17,
+                16
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -9761,12 +9761,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                0,
-                0
+                17,
+                16
             ],
             "team2WinLoss": [
-                62,
-                72
+                16,
+                17
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -9797,12 +9797,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                97,
-                88
+                16,
+                17
             ],
             "team2WinLoss": [
-                24,
-                24
+                20,
+                13
             ],
             "map": {
                 "patternName": "random",
@@ -9833,12 +9833,12 @@
             "team1Color": "#697a21",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                19,
-                16
+                15,
+                18
             ],
             "team2WinLoss": [
-                24,
-                24
+                18,
+                15
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -9871,12 +9871,12 @@
             "team1Color": "#990000",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                20,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                14,
+                20
             ],
             "map": {
                 "patternName": "eightr",
@@ -9907,12 +9907,12 @@
             "team1Color": "#53917e",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                20,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                19,
+                15
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -9943,12 +9943,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                16,
+                18
             ],
             "team2WinLoss": [
-                0,
-                0
+                14,
+                20
             ],
             "map": {
                 "patternName": "timebomb",
@@ -9979,12 +9979,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                15,
+                19
             ],
             "team2WinLoss": [
-                0,
-                0
+                18,
+                16
             ],
             "map": {
                 "patternName": "eightpi",
@@ -10015,12 +10015,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                16,
-                16
+                14,
+                20
             ],
             "team2WinLoss": [
-                22,
-                24
+                17,
+                17
             ],
             "map": {
                 "patternName": "random",
@@ -10051,12 +10051,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                0,
-                0
+                18,
+                16
             ],
             "team2WinLoss": [
-                62,
-                72
+                16,
+                18
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -10087,12 +10087,12 @@
             "team1Color": "#697a21",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                25,
-                24
+                16,
+                18
             ],
             "team2WinLoss": [
-                97,
-                88
+                17,
+                17
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -10123,12 +10123,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                26,
-                24
+                18,
+                16
             ],
             "team2WinLoss": [
-                24,
-                24
+                20,
+                14
             ],
             "map": {
                 "patternName": "twomultum",
@@ -10161,12 +10161,12 @@
             "team1Color": "#f08700",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                14,
+                21
             ],
             "team2WinLoss": [
-                0,
-                0
+                21,
+                14
             ],
             "map": {
                 "patternName": "eightr",
@@ -10197,12 +10197,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                19,
+                16
             ],
             "team2WinLoss": [
-                0,
-                0
+                21,
+                14
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -10233,12 +10233,12 @@
             "team1Color": "#e86215",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                14,
+                21
             ],
             "team2WinLoss": [
-                0,
-                0
+                17,
+                18
             ],
             "map": {
                 "patternName": "timebomb",
@@ -10269,12 +10269,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                18,
+                17
             ],
             "team2WinLoss": [
-                0,
-                0
+                16,
+                19
             ],
             "map": {
                 "patternName": "eightpi",
@@ -10305,12 +10305,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                22,
-                24
+                17,
+                18
             ],
             "team2WinLoss": [
-                16,
-                16
+                15,
+                20
             ],
             "map": {
                 "patternName": "random",
@@ -10341,12 +10341,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                62,
-                72
+                16,
+                19
             ],
             "team2WinLoss": [
-                0,
-                0
+                19,
+                16
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -10377,12 +10377,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                97,
-                88
+                17,
+                18
             ],
             "team2WinLoss": [
-                25,
-                24
+                17,
+                18
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -10413,12 +10413,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                24,
-                24
+                20,
+                15
             ],
             "team2WinLoss": [
-                34,
-                32
+                19,
+                16
             ],
             "map": {
                 "patternName": "twomultum",
@@ -10451,12 +10451,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                19,
+                17
             ],
             "team2WinLoss": [
-                0,
-                0
+                15,
+                21
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -10487,12 +10487,12 @@
             "team1Color": "#53917e",
             "team2Color": "#990000",
             "team1WinLoss": [
-                0,
-                0
+                22,
+                14
             ],
             "team2WinLoss": [
-                0,
-                0
+                21,
+                15
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -10523,12 +10523,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                0,
-                0
+                17,
+                19
             ],
             "team2WinLoss": [
-                0,
-                0
+                19,
+                17
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -10559,12 +10559,12 @@
             "team1Color": "#e86215",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                0,
-                0
+                15,
+                21
             ],
             "team2WinLoss": [
-                0,
-                0
+                16,
+                20
             ],
             "map": {
                 "patternName": "random",
@@ -10595,12 +10595,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                62,
-                72
+                17,
+                19
             ],
             "team2WinLoss": [
-                22,
-                24
+                18,
+                18
             ],
             "map": {
                 "patternName": "twomultum",
@@ -10631,12 +10631,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                16,
-                16
+                15,
+                21
             ],
             "team2WinLoss": [
-                0,
-                0
+                19,
+                17
             ],
             "map": {
                 "patternName": "eightr",
@@ -10667,12 +10667,12 @@
             "team1Color": "#697a21",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                25,
-                24
+                18,
+                18
             ],
             "team2WinLoss": [
-                36,
-                32
+                19,
+                17
             ],
             "map": {
                 "patternName": "eightpi",
@@ -10703,12 +10703,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                97,
-                88
+                17,
+                19
             ],
             "team2WinLoss": [
-                30,
-                32
+                21,
+                15
             ],
             "map": {
                 "patternName": "timebomb",
@@ -10741,12 +10741,12 @@
             "team1Color": "#f08700",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                0,
-                0
+                16,
+                21
             ],
             "team2WinLoss": [
-                0,
-                0
+                19,
+                18
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -10777,12 +10777,12 @@
             "team1Color": "#990000",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                22,
+                15
             ],
             "team2WinLoss": [
-                0,
-                0
+                22,
+                15
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -10813,12 +10813,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                19,
+                18
             ],
             "team2WinLoss": [
-                0,
-                0
+                18,
+                19
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -10849,12 +10849,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                16,
+                21
             ],
             "team2WinLoss": [
-                0,
-                0
+                16,
+                21
             ],
             "map": {
                 "patternName": "random",
@@ -10885,12 +10885,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                22,
-                24
+                19,
+                18
             ],
             "team2WinLoss": [
-                62,
-                72
+                17,
+                20
             ],
             "map": {
                 "patternName": "twomultum",
@@ -10921,12 +10921,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                20,
+                17
             ],
             "team2WinLoss": [
-                16,
-                16
+                15,
+                22
             ],
             "map": {
                 "patternName": "eightr",
@@ -10957,12 +10957,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                36,
-                32
+                19,
+                18
             ],
             "team2WinLoss": [
-                25,
-                24
+                19,
+                18
             ],
             "map": {
                 "patternName": "eightpi",
@@ -10993,12 +10993,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                34,
-                32
+                21,
+                16
             ],
             "team2WinLoss": [
-                101,
-                96
+                18,
+                19
             ],
             "map": {
                 "patternName": "timebomb",
@@ -11031,12 +11031,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                0,
-                0
+                19,
+                19
             ],
             "team2WinLoss": [
-                0,
-                0
+                22,
+                16
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -11067,12 +11067,12 @@
             "team1Color": "#990000",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                0,
-                0
+                23,
+                15
             ],
             "team2WinLoss": [
-                0,
-                0
+                17,
+                21
             ],
             "map": {
                 "patternName": "random",
@@ -11103,12 +11103,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                0,
-                0
+                17,
+                21
             ],
             "team2WinLoss": [
-                0,
-                0
+                18,
+                20
             ],
             "map": {
                 "patternName": "timebomb",
@@ -11139,12 +11139,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                0,
-                0
+                20,
+                18
             ],
             "team2WinLoss": [
-                0,
-                0
+                16,
+                22
             ],
             "map": {
                 "patternName": "eightr",
@@ -11175,12 +11175,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                62,
-                72
+                17,
+                21
             ],
             "team2WinLoss": [
-                0,
-                0
+                20,
+                18
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -11212,11 +11212,11 @@
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 16,
-                16
+                22
             ],
             "team2WinLoss": [
-                22,
-                24
+                20,
+                18
             ],
             "map": {
                 "patternName": "twomultum",
@@ -11247,12 +11247,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                41,
-                40
+                22,
+                16
             ],
             "team2WinLoss": [
-                102,
-                96
+                18,
+                20
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -11283,12 +11283,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                36,
-                32
+                20,
+                18
             ],
             "team2WinLoss": [
-                25,
-                24
+                19,
+                19
             ],
             "map": {
                 "patternName": "eightpi",
@@ -11612,10 +11612,10 @@
             "team2Color": "#3e92cc",
             "team1WinLoss": [
                 16,
-                23
+                24
             ],
             "team2WinLoss": [
-                18,
+                19,
                 21
             ],
             "map": {
@@ -11647,12 +11647,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                21,
+                22,
                 18
             ],
             "team2WinLoss": [
                 18,
-                21
+                22
             ],
             "map": {
                 "patternName": "eightpi",
@@ -11684,10 +11684,10 @@
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
                 17,
-                22
+                23
             ],
             "team2WinLoss": [
-                19,
+                20,
                 20
             ],
             "map": {
@@ -11720,10 +11720,10 @@
             "team2Color": "#990000",
             "team1WinLoss": [
                 23,
-                16
+                17
             ],
             "team2WinLoss": [
-                24,
+                25,
                 15
             ],
             "map": {
@@ -11756,10 +11756,10 @@
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
                 17,
-                22
+                23
             ],
             "team2WinLoss": [
-                17,
+                18,
                 22
             ],
             "map": {
@@ -11791,12 +11791,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                21,
+                22,
                 18
             ],
             "team2WinLoss": [
                 20,
-                19
+                20
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -11828,10 +11828,10 @@
             "team2Color": "#ffb627",
             "team1WinLoss": [
                 19,
-                20
+                21
             ],
             "team2WinLoss": [
-                21,
+                22,
                 18
             ],
             "map": {
@@ -11863,12 +11863,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                20,
-                21
+                18,
+                22
             ],
             "team2WinLoss": [
-                29,
-                24
+                24,
+                16
             ],
             "map": {
                 "patternName": "random",
@@ -11902,10 +11902,10 @@
             "team2Color": "#3e92cc",
             "team1WinLoss": [
                 16,
-                23
+                25
             ],
             "team2WinLoss": [
-                18,
+                20,
                 21
             ],
             "map": {
@@ -11937,12 +11937,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                21,
+                23,
                 18
             ],
             "team2WinLoss": [
                 18,
-                21
+                23
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -11973,12 +11973,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                19,
-                20
+                20,
+                21
             ],
             "team2WinLoss": [
-                17,
-                22
+                18,
+                23
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -12009,12 +12009,12 @@
             "team1Color": "#53917e",
             "team2Color": "#990000",
             "team1WinLoss": [
-                23,
-                16
+                24,
+                17
             ],
             "team2WinLoss": [
-                24,
-                15
+                25,
+                16
             ],
             "map": {
                 "patternName": "eightpi",
@@ -12045,12 +12045,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                20,
-                19
+                21,
+                20
             ],
             "team2WinLoss": [
-                21,
-                18
+                22,
+                19
             ],
             "map": {
                 "patternName": "random",
@@ -12081,12 +12081,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                17,
+                19,
                 22
             ],
             "team2WinLoss": [
                 17,
-                22
+                24
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -12117,12 +12117,12 @@
             "team1Color": "#697a21",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                19,
-                20
+                20,
+                21
             ],
             "team2WinLoss": [
-                32,
-                24
+                24,
+                17
             ],
             "map": {
                 "patternName": "eightr",
@@ -12153,12 +12153,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                25,
-                29
+                19,
+                22
             ],
             "team2WinLoss": [
-                21,
-                18
+                22,
+                19
             ],
             "map": {
                 "patternName": "timebomb",
@@ -12191,12 +12191,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                18,
-                21
+                20,
+                22
             ],
             "team2WinLoss": [
-                16,
-                23
+                17,
+                25
             ],
             "map": {
                 "patternName": "twomultum",
@@ -12228,10 +12228,10 @@
             "team2Color": "#f2c57c",
             "team1WinLoss": [
                 18,
-                21
+                24
             ],
             "team2WinLoss": [
-                21,
+                24,
                 18
             ],
             "map": {
@@ -12263,12 +12263,12 @@
             "team1Color": "#f08700",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                17,
-                22
+                19,
+                23
             ],
             "team2WinLoss": [
-                19,
-                20
+                20,
+                22
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -12299,12 +12299,12 @@
             "team1Color": "#990000",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                24,
-                15
+                25,
+                17
             ],
             "team2WinLoss": [
-                23,
-                16
+                25,
+                17
             ],
             "map": {
                 "patternName": "eightpi",
@@ -12335,12 +12335,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                21,
-                18
+                22,
+                20
             ],
             "team2WinLoss": [
-                20,
-                19
+                22,
+                20
             ],
             "map": {
                 "patternName": "random",
@@ -12372,10 +12372,10 @@
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
                 17,
-                22
+                25
             ],
             "team2WinLoss": [
-                17,
+                20,
                 22
             ],
             "map": {
@@ -12407,12 +12407,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                32,
-                24
+                24,
+                18
             ],
             "team2WinLoss": [
-                19,
-                20
+                21,
+                21
             ],
             "map": {
                 "patternName": "eightr",
@@ -12444,11 +12444,11 @@
             "team2Color": "#ff1717",
             "team1WinLoss": [
                 22,
-                18
+                20
             ],
             "team2WinLoss": [
-                32,
-                37
+                20,
+                22
             ],
             "map": {
                 "patternName": "timebomb",
@@ -12481,12 +12481,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                18,
-                21
+                21,
+                22
             ],
             "team2WinLoss": [
-                21,
-                18
+                24,
+                19
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -12517,12 +12517,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                18,
-                21
+                19,
+                24
             ],
             "team2WinLoss": [
-                16,
-                23
+                17,
+                26
             ],
             "map": {
                 "patternName": "eightr",
@@ -12553,12 +12553,12 @@
             "team1Color": "#53917e",
             "team2Color": "#990000",
             "team1WinLoss": [
-                23,
-                16
+                25,
+                18
             ],
             "team2WinLoss": [
-                24,
-                15
+                26,
+                17
             ],
             "map": {
                 "patternName": "eightpi",
@@ -12589,12 +12589,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                19,
-                20
+                20,
+                23
             ],
             "team2WinLoss": [
-                17,
-                22
+                20,
+                23
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -12625,12 +12625,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                17,
-                22
+                20,
+                23
             ],
             "team2WinLoss": [
-                20,
-                19
+                22,
+                21
             ],
             "map": {
                 "patternName": "timebomb",
@@ -12661,12 +12661,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                21,
-                18
+                23,
+                20
             ],
             "team2WinLoss": [
-                17,
-                22
+                18,
+                25
             ],
             "map": {
                 "patternName": "twomultum",
@@ -12697,12 +12697,12 @@
             "team1Color": "#697a21",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                19,
-                20
+                21,
+                22
             ],
             "team2WinLoss": [
-                30,
-                26
+                23,
+                20
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -12733,12 +12733,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                32,
-                24
+                25,
+                18
             ],
             "team2WinLoss": [
-                32,
-                37
+                20,
+                23
             ],
             "map": {
                 "patternName": "random",
@@ -12771,12 +12771,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                21,
-                18
+                24,
+                20
             ],
             "team2WinLoss": [
-                18,
-                21
+                22,
+                22
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -12807,12 +12807,12 @@
             "team1Color": "#e86215",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                16,
-                23
+                17,
+                27
             ],
             "team2WinLoss": [
-                18,
-                21
+                20,
+                24
             ],
             "map": {
                 "patternName": "eightr",
@@ -12843,12 +12843,12 @@
             "team1Color": "#990000",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                24,
-                15
+                26,
+                18
             ],
             "team2WinLoss": [
-                23,
-                16
+                26,
+                18
             ],
             "map": {
                 "patternName": "eightpi",
@@ -12879,12 +12879,12 @@
             "team1Color": "#f08700",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                17,
-                22
+                21,
+                23
             ],
             "team2WinLoss": [
-                19,
-                20
+                20,
+                24
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -12915,12 +12915,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                20,
-                19
+                23,
+                21
             ],
             "team2WinLoss": [
-                17,
-                22
+                20,
+                24
             ],
             "map": {
                 "patternName": "timebomb",
@@ -12951,12 +12951,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                17,
-                22
+                19,
+                25
             ],
             "team2WinLoss": [
-                21,
-                18
+                23,
+                21
             ],
             "map": {
                 "patternName": "twomultum",
@@ -12987,12 +12987,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                30,
-                26
+                24,
+                20
             ],
             "team2WinLoss": [
-                19,
-                20
+                21,
+                23
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -13023,12 +13023,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                36,
-                37
+                20,
+                24
             ],
             "team2WinLoss": [
-                36,
-                32
+                26,
+                18
             ],
             "map": {
                 "patternName": "random",
@@ -13061,12 +13061,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                18,
-                21
+                23,
+                22
             ],
             "team2WinLoss": [
-                16,
-                23
+                18,
+                27
             ],
             "map": {
                 "patternName": "random",
@@ -13097,12 +13097,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                18,
-                21
+                20,
+                25
             ],
             "team2WinLoss": [
-                21,
-                18
+                24,
+                21
             ],
             "map": {
                 "patternName": "timebomb",
@@ -13133,12 +13133,12 @@
             "team1Color": "#53917e",
             "team2Color": "#990000",
             "team1WinLoss": [
-                23,
-                16
+                27,
+                18
             ],
             "team2WinLoss": [
-                24,
-                15
+                26,
+                19
             ],
             "map": {
                 "patternName": "eightpi",
@@ -13169,12 +13169,12 @@
             "team1Color": "#f08700",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                17,
-                22
+                22,
+                23
             ],
             "team2WinLoss": [
-                19,
-                20
+                20,
+                25
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -13205,12 +13205,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                17,
-                22
+                20,
+                25
             ],
             "team2WinLoss": [
-                21,
-                18
+                23,
+                22
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -13241,12 +13241,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                20,
-                19
+                23,
+                22
             ],
             "team2WinLoss": [
-                17,
-                22
+                21,
+                24
             ],
             "map": {
                 "patternName": "twomultum",
@@ -13277,12 +13277,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                30,
-                26
+                24,
+                21
             ],
             "team2WinLoss": [
-                19,
-                20
+                22,
+                23
             ],
             "map": {
                 "patternName": "eightr",
@@ -13313,12 +13313,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                40,
-                45
+                21,
+                24
             ],
             "team2WinLoss": [
-                40,
-                32
+                26,
+                19
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -13351,12 +13351,12 @@
             "team1Color": "#e86215",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                16,
-                23
+                18,
+                28
             ],
             "team2WinLoss": [
-                18,
-                21
+                24,
+                22
             ],
             "map": {
                 "patternName": "random",
@@ -13387,12 +13387,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                21,
-                18
+                24,
+                22
             ],
             "team2WinLoss": [
-                18,
-                21
+                21,
+                25
             ],
             "map": {
                 "patternName": "timebomb",
@@ -13423,12 +13423,12 @@
             "team1Color": "#990000",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                24,
-                15
+                27,
+                19
             ],
             "team2WinLoss": [
-                23,
-                16
+                27,
+                19
             ],
             "map": {
                 "patternName": "eightpi",
@@ -13459,12 +13459,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                19,
-                20
+                20,
+                26
             ],
             "team2WinLoss": [
-                17,
-                22
+                23,
+                23
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -13495,12 +13495,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                21,
-                18
+                23,
+                23
             ],
             "team2WinLoss": [
-                17,
-                22
+                21,
+                25
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -13531,12 +13531,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                17,
-                22
+                21,
+                25
             ],
             "team2WinLoss": [
-                20,
-                19
+                24,
+                22
             ],
             "map": {
                 "patternName": "twomultum",
@@ -13567,12 +13567,12 @@
             "team1Color": "#697a21",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                19,
-                20
+                22,
+                24
             ],
             "team2WinLoss": [
-                30,
-                26
+                25,
+                21
             ],
             "map": {
                 "patternName": "eightr",
@@ -13603,12 +13603,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                41,
-                32
+                26,
+                20
             ],
             "team2WinLoss": [
-                47,
-                53
+                22,
+                24
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -13641,12 +13641,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#e86215",
             "team1WinLoss": [
-                18,
-                21
+                22,
+                25
             ],
             "team2WinLoss": [
-                16,
-                23
+                19,
+                28
             ],
             "map": {
                 "patternName": "eightpi",
@@ -13677,12 +13677,12 @@
             "team1Color": "#f2c57c",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                21,
-                18
+                24,
+                23
             ],
             "team2WinLoss": [
-                18,
-                21
+                24,
+                23
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -13713,12 +13713,12 @@
             "team1Color": "#53917e",
             "team2Color": "#f08700",
             "team1WinLoss": [
-                23,
-                16
+                27,
+                20
             ],
             "team2WinLoss": [
-                17,
-                22
+                23,
+                24
             ],
             "map": {
                 "patternName": "eightr",
@@ -13749,12 +13749,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#990000",
             "team1WinLoss": [
-                19,
-                20
+                21,
+                26
             ],
             "team2WinLoss": [
-                24,
-                15
+                28,
+                19
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -13785,12 +13785,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                17,
-                22
+                21,
+                26
             ],
             "team2WinLoss": [
-                21,
-                18
+                24,
+                23
             ],
             "map": {
                 "patternName": "timebomb",
@@ -13821,12 +13821,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                20,
-                19
+                24,
+                23
             ],
             "team2WinLoss": [
-                17,
-                22
+                22,
+                25
             ],
             "map": {
                 "patternName": "random",
@@ -13857,12 +13857,12 @@
             "team1Color": "#ffb627",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                30,
-                26
+                26,
+                21
             ],
             "team2WinLoss": [
-                47,
-                40
+                27,
+                20
             ],
             "map": {
                 "patternName": "twomultum",
@@ -13893,12 +13893,12 @@
             "team1Color": "#697a21",
             "team2Color": "#ff1717",
             "team1WinLoss": [
-                19,
-                20
+                22,
+                25
             ],
             "team2WinLoss": [
-                49,
-                53
+                22,
+                25
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -13931,12 +13931,12 @@
             "team1Color": "#e86215",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                16,
-                23
+                19,
+                29
             ],
             "team2WinLoss": [
-                18,
-                21
+                23,
+                25
             ],
             "map": {
                 "patternName": "eightpi",
@@ -13967,12 +13967,12 @@
             "team1Color": "#3e92cc",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                18,
-                21
+                24,
+                24
             ],
             "team2WinLoss": [
-                21,
-                18
+                25,
+                23
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -14003,12 +14003,12 @@
             "team1Color": "#f08700",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                17,
-                22
+                23,
+                25
             ],
             "team2WinLoss": [
-                23,
-                16
+                28,
+                20
             ],
             "map": {
                 "patternName": "eightr",
@@ -14039,12 +14039,12 @@
             "team1Color": "#990000",
             "team2Color": "#ef6f6c",
             "team1WinLoss": [
-                24,
-                15
+                28,
+                20
             ],
             "team2WinLoss": [
-                19,
-                20
+                22,
+                26
             ],
             "map": {
                 "patternName": "twoacorn",
@@ -14075,12 +14075,12 @@
             "team1Color": "#9963ab",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
-                21,
-                18
+                25,
+                23
             ],
             "team2WinLoss": [
-                17,
-                22
+                21,
+                27
             ],
             "map": {
                 "patternName": "timebomb",
@@ -14111,12 +14111,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
-                17,
-                22
+                22,
+                26
             ],
             "team2WinLoss": [
-                20,
-                19
+                25,
+                23
             ],
             "map": {
                 "patternName": "random",
@@ -14147,12 +14147,12 @@
             "team1Color": "#0dab76",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                47,
-                40
+                28,
+                20
             ],
             "team2WinLoss": [
-                30,
-                26
+                26,
+                22
             ],
             "map": {
                 "patternName": "twomultum",
@@ -14183,12 +14183,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                52,
-                53
+                23,
+                25
             ],
             "team2WinLoss": [
-                24,
-                28
+                22,
+                26
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -14221,12 +14221,12 @@
             "team1Color": "#e86215",
             "team2Color": "#a0e7e5",
             "team1WinLoss": [
-                16,
-                23
+                19,
+                30
             ],
             "team2WinLoss": [
-                18,
-                21
+                24,
+                25
             ],
             "map": {
                 "patternName": "eightpi",
@@ -14257,12 +14257,12 @@
             "team1Color": "#990000",
             "team2Color": "#f2c57c",
             "team1WinLoss": [
-                24,
-                15
+                28,
+                21
             ],
             "team2WinLoss": [
-                21,
-                18
+                25,
+                24
             ],
             "map": {
                 "patternName": "random",
@@ -14293,12 +14293,12 @@
             "team1Color": "#ef6f6c",
             "team2Color": "#3e92cc",
             "team1WinLoss": [
-                19,
-                20
+                23,
+                26
             ],
             "team2WinLoss": [
-                18,
-                21
+                25,
+                24
             ],
             "map": {
                 "patternName": "twomultum",
@@ -14329,12 +14329,12 @@
             "team1Color": "#f08700",
             "team2Color": "#53917e",
             "team1WinLoss": [
-                17,
-                22
+                24,
+                25
             ],
             "team2WinLoss": [
-                23,
-                16
+                28,
+                21
             ],
             "map": {
                 "patternName": "timebomb",
@@ -14365,12 +14365,12 @@
             "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "team1WinLoss": [
-                58,
-                61
+                24,
+                25
             ],
             "team2WinLoss": [
-                26,
-                28
+                22,
+                27
             ],
             "map": {
                 "patternName": "fourrabbits",
@@ -14401,12 +14401,12 @@
             "team1Color": "#e7d7c1",
             "team2Color": "#ffb627",
             "team1WinLoss": [
-                17,
-                22
+                21,
+                28
             ],
             "team2WinLoss": [
-                30,
-                26
+                26,
+                23
             ],
             "map": {
                 "patternName": "twospaceshipgenerators",
@@ -14437,12 +14437,12 @@
             "team1Color": "#ff66cc",
             "team2Color": "#0dab76",
             "team1WinLoss": [
-                20,
-                19
+                25,
+                24
             ],
             "team2WinLoss": [
-                47,
-                40
+                29,
+                20
             ],
             "map": {
                 "patternName": "eightr",
@@ -14473,12 +14473,12 @@
             "team1Color": "#a0e7e5",
             "team2Color": "#9963ab",
             "team1WinLoss": [
-                17,
-                22
+                23,
+                26
             ],
             "team2WinLoss": [
-                21,
-                18
+                26,
+                23
             ],
             "map": {
                 "patternName": "twoacorn",
