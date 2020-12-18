@@ -1,0 +1,20 @@
+[
+    {
+        "league": "Cold League",
+        "seed_list": [
+            "Tucson Butchers",
+            "Jersey OSHA Violations",
+            "Long Beach Flightless Birds",
+            "San Diego Balloon Animals"
+        ]
+    },
+    {
+        "league": "Hot League",
+        "seed_list": [
+            "Orlando Business Majors",
+            "Milwaukee Flamingos",
+            "Sacramento Boot Lickers",
+            "Detroit Grape Chews"
+        ]
+    }
+]
