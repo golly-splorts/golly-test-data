@@ -170,6 +170,24 @@
                 "description": "Game 5, Cold League Division Series 2",
                 "id": "fbaff111-6e33-4018-8cf1-4fec36fc0927",
                 "isPlayoffs": true
+            },
+            {
+                "league": "Hot League",
+                "team1Name": "Detroit Grape Chews",
+                "team2Name": "Orlando Business Majors",
+                "patternName": "eightr",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "6f798d03-75cc-4325-8f33-a06366d94cc3",
+                "isPlayoffs": true
+            },
+            {
+                "league": "Hot League",
+                "team1Name": "Sacramento Boot Lickers",
+                "team2Name": "Milwaukee Flamingos",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "fbaff111-6e33-4018-8cf1-4fec36fc0927",
+                "isPlayoffs": true
             }
         ]
     ],
