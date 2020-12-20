@@ -168,24 +168,6 @@
                 "team2Name": "Long Beach Flightless Birds",
                 "patternName": "fourrabbits",
                 "description": "Game 5, Cold League Division Series 2",
-                "id": "12a81d5b-236d-43f4-8fbd-fb127ca37095",
-                "isPlayoffs": true
-            },
-            {
-                "league": "Hot League",
-                "team1Name": "Orlando Business Majors",
-                "team2Name": "Detroit Grape Chews",
-                "patternName": "eightr",
-                "description": "Game 5, Hot League Division Series 1",
-                "id": "bbe56ea4-18e1-4782-90ec-f8a027ac6464",
-                "isPlayoffs": true
-            },
-            {
-                "league": "Hot League",
-                "team1Name": "Milwaukee Flamingos",
-                "team2Name": "Sacramento Boot Lickers",
-                "patternName": "twoacorn",
-                "description": "Game 5, Hot League Division Series 2",
                 "id": "fbaff111-6e33-4018-8cf1-4fec36fc0927",
                 "isPlayoffs": true
             }
@@ -274,21 +256,21 @@
         ],
         [
             {
-                "team1Name": "Top Seed",
-                "team2Name": "Bottom Seed",
-                "patternName": "twoacorn",
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "eightr",
                 "league": "Cold League",
                 "description": "Game 5, Cold League Championship Series",
-                "id": "533c7884-e42b-442f-a4a6-b3ef3bb31fef",
+                "id": "41b6b1de-a68b-40ce-9db8-605aae7b1a5a",
                 "isPlayoffs": true
             },
             {
-                "team1Name": "Top Seed",
-                "team2Name": "Bottom Seed",
-                "patternName": "twomultum",
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "eightpi",
                 "league": "Hot League",
                 "description": "Game 5, Hot League Championship Series",
-                "id": "140b21c4-a27e-4ee7-8088-28b6de40d936",
+                "id": "b1c498de-fb18-4f0e-b0d7-c2f751973575",
                 "isPlayoffs": true
             }
         ]
@@ -338,29 +320,29 @@
             {
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
-                "patternName": "twoacorn",
+                "patternName": "fourrabbits",
                 "description": "Game 5, World Series",
-                "id": "f9761c6c-b412-49c0-b8ac-13dfbe86cbeb",
+                "id": "941b71d2-eeb9-4795-b069-59923a3dcec6",
                 "isPlayoffs": true
             }
         ],
         [
             {
-                "team1Name": "Cold League",
-                "team2Name": "Hot League",
-                "patternName": "random",
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "fourrabbits",
                 "description": "Game 6, World Series",
-                "id": "d02164c4-6d40-4ef3-a6c5-14b1a8c66d02",
+                "id": "5efb60bc-d70d-4fcc-ae4b-7ea854f634af",
                 "isPlayoffs": true
             }
         ],
         [
             {
-                "team1Name": "Cold League",
-                "team2Name": "Hot League",
-                "patternName": "twospaceshipgenerators",
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "fourrabbits",
                 "description": "Game 7, World Series",
-                "id": "370446d7-0965-4398-b9e3-6be6dd1f8fb4",
+                "id": "2f3dfabd-27d5-470c-8093-7f2a7d5fee64",
                 "isPlayoffs": true
             }
         ]
