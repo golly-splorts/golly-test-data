@@ -10,7 +10,7 @@
                 "day": 49,
                 "season": 0,
                 "id": "9bffb20c-1b9d-4e72-ae09-da5beecd63b4",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 1, Cold League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -64,7 +64,7 @@
                 "day": 49,
                 "season": 0,
                 "id": "bbbe96a4-7fb0-4faa-a3d3-fd7aedb8b842",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 1, Cold League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -118,7 +118,7 @@
                 "day": 49,
                 "season": 0,
                 "id": "85c6a837-0c12-437e-b140-1522f850a2a3",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 1, Hot League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -172,7 +172,7 @@
                 "day": 49,
                 "season": 0,
                 "id": "57af7424-a198-4644-a75f-144d0230dbf1",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 1, Hot League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -228,7 +228,7 @@
                 "day": 50,
                 "season": 0,
                 "id": "037ce69a-bc28-4326-a7aa-9b4b3888b5a1",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 2, Cold League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -282,7 +282,7 @@
                 "day": 50,
                 "season": 0,
                 "id": "512afbc8-8c4b-4b0f-9e62-5d061f4eaf25",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 2, Cold League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -336,7 +336,7 @@
                 "day": 50,
                 "season": 0,
                 "id": "7ed3d7a7-94f9-450d-b502-b0d6db99b6de",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 2, Hot League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -390,7 +390,7 @@
                 "day": 50,
                 "season": 0,
                 "id": "041b3e2f-a402-4c98-bc37-50a5bf677d42",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 2, Hot League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -446,7 +446,7 @@
                 "day": 51,
                 "season": 0,
                 "id": "3c4e90ae-b1df-47f3-8270-8a39698412d9",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 3, Cold League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -500,7 +500,7 @@
                 "day": 51,
                 "season": 0,
                 "id": "69d2499a-f313-40fe-a0a7-e38e9d9687f6",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 3, Cold League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -554,7 +554,7 @@
                 "day": 51,
                 "season": 0,
                 "id": "a8cbb04f-7d2b-4c4f-8999-22c54f928647",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 3, Hot League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -608,7 +608,7 @@
                 "day": 51,
                 "season": 0,
                 "id": "2fa89f63-1540-4d9e-b491-cbbae0889cd0",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 3, Hot League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -664,7 +664,7 @@
                 "day": 52,
                 "season": 0,
                 "id": "d1f38648-e03b-4f23-a6b6-c172d428d836",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 4, Cold League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -718,7 +718,7 @@
                 "day": 52,
                 "season": 0,
                 "id": "c9a7f7a3-8116-4bff-afaa-d6d55b4686f3",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 4, Cold League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -772,7 +772,7 @@
                 "day": 52,
                 "season": 0,
                 "id": "c8066c1d-1989-484d-a43e-78d2b47853ed",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 4, Hot League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -826,7 +826,7 @@
                 "day": 52,
                 "season": 0,
                 "id": "72c6ce25-5fff-4b99-b9ae-c9da17b976cb",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 4, Hot League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -882,7 +882,7 @@
                 "day": 53,
                 "season": 0,
                 "id": "c0b9eae7-f292-47d1-8839-a3ab0aaae9b0",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 5, Cold League Division Series 1",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -936,7 +936,7 @@
                 "day": 53,
                 "season": 0,
                 "id": "fbaff111-6e33-4018-8cf1-4fec36fc0927",
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "description": "Game 5, Hot League Division Series 2",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
@@ -1029,7 +1029,7 @@
                 "team1Score": 115,
                 "team2Score": 136,
                 "generations": 1933,
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "team1PlayoffsWinLoss": [
                     3,
                     2
@@ -1083,7 +1083,7 @@
                 "team1Score": 140,
                 "team2Score": 104,
                 "generations": 1941,
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "team1PlayoffsWinLoss": [
                     3,
                     2
@@ -1139,7 +1139,7 @@
                 "team1Score": 168,
                 "team2Score": 123,
                 "generations": 1568,
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "team1PlayoffsWinLoss": [
                     3,
                     3
@@ -1193,7 +1193,7 @@
                 "team1Score": 55,
                 "team2Score": 169,
                 "generations": 1731,
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "team1PlayoffsWinLoss": [
                     4,
                     2
@@ -1249,7 +1249,7 @@
                 "team1Score": 118,
                 "team2Score": 114,
                 "generations": 1561,
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "team1PlayoffsWinLoss": [
                     4,
                     2
@@ -1303,7 +1303,7 @@
                 "team1Score": 84,
                 "team2Score": 74,
                 "generations": 1263,
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "team1PlayoffsWinLoss": [
                     4,
                     2
@@ -1359,7 +1359,7 @@
                 "team1Score": 173,
                 "team2Score": 20,
                 "generations": 2029,
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "team1PlayoffsWinLoss": [
                     5,
                     2
@@ -1413,7 +1413,7 @@
                 "team1Score": 231,
                 "team2Score": 35,
                 "generations": 2662,
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "team1PlayoffsWinLoss": [
                     5,
                     2
@@ -1470,7 +1470,7 @@
                 "team1Score": 142,
                 "team2Score": 164,
                 "generations": 2342,
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "team1PlayoffsWinLoss": [
                     6,
                     2
@@ -1525,7 +1525,7 @@
                 "team1Score": 60,
                 "team2Score": 86,
                 "generations": 1014,
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "team1PlayoffsWinLoss": [
                     6,
                     3
@@ -1580,7 +1580,7 @@
                 "team1Score": 632,
                 "team2Score": 0,
                 "generations": 1955,
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "team1PlayoffsWinLoss": [
                     8,
                     2
@@ -1635,7 +1635,7 @@
                 "team1Score": 264,
                 "team2Score": 32,
                 "generations": 3127,
-                "isPlayoffs": true,
+                "isPostseason": true,
                 "team1PlayoffsWinLoss": [
                     9,
                     2
