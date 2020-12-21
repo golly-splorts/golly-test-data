@@ -12,7 +12,6 @@
                 "id": "7fb9ad18-f96e-4937-bf7b-188d38fd244e",
                 "isPostseason": true,
                 "description": "Game 1, Cold League Division Series 1",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     0,
                     0
@@ -45,15 +44,7 @@
                 },
                 "team1Score": 76,
                 "team2Score": 92,
-                "generations": 1006,
-                "team1PlayoffsWinLoss": [
-                    0,
-                    0
-                ],
-                "team2PlayoffsWinLoss": [
-                    0,
-                    0
-                ]
+                "generations": 1006
             },
             {
                 "team1Name": "Jersey OSHA Violations",
@@ -66,7 +57,6 @@
                 "id": "6edca63e-199a-4923-910f-b27a5577ed76",
                 "isPostseason": true,
                 "description": "Game 1, Cold League Division Series 2",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     0,
                     0
@@ -99,15 +89,7 @@
                 },
                 "team1Score": 218,
                 "team2Score": 135,
-                "generations": 1584,
-                "team1PlayoffsWinLoss": [
-                    0,
-                    0
-                ],
-                "team2PlayoffsWinLoss": [
-                    0,
-                    0
-                ]
+                "generations": 1584
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -120,7 +102,6 @@
                 "id": "37272db9-1ab1-4a84-aaff-5800ac34736f",
                 "isPostseason": true,
                 "description": "Game 1, Hot League Division Series 1",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     0,
                     0
@@ -153,15 +134,7 @@
                 },
                 "team1Score": 63,
                 "team2Score": 58,
-                "generations": 1596,
-                "team1PlayoffsWinLoss": [
-                    0,
-                    0
-                ],
-                "team2PlayoffsWinLoss": [
-                    0,
-                    0
-                ]
+                "generations": 1596
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -174,7 +147,6 @@
                 "id": "d6e0fd4a-2354-4f8b-bc93-a9873e994420",
                 "isPostseason": true,
                 "description": "Game 1, Hot League Division Series 2",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     0,
                     0
@@ -207,15 +179,7 @@
                 },
                 "team1Score": 219,
                 "team2Score": 91,
-                "generations": 2766,
-                "team1PlayoffsWinLoss": [
-                    0,
-                    0
-                ],
-                "team2PlayoffsWinLoss": [
-                    0,
-                    0
-                ]
+                "generations": 2766
             }
         ],
         [
@@ -230,7 +194,6 @@
                 "id": "9848bca7-9031-4c37-96dd-4abdf4022446",
                 "isPostseason": true,
                 "description": "Game 2, Cold League Division Series 1",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     0,
                     1
@@ -263,15 +226,7 @@
                 },
                 "team1Score": 138,
                 "team2Score": 133,
-                "generations": 2837,
-                "team1PlayoffsWinLoss": [
-                    0,
-                    1
-                ],
-                "team2PlayoffsWinLoss": [
-                    1,
-                    0
-                ]
+                "generations": 2837
             },
             {
                 "team1Name": "Jersey OSHA Violations",
@@ -284,7 +239,6 @@
                 "id": "4e099d2e-0a2b-494f-a67e-718928cd55b1",
                 "isPostseason": true,
                 "description": "Game 2, Cold League Division Series 2",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     1,
                     0
@@ -317,15 +271,7 @@
                 },
                 "team1Score": 188,
                 "team2Score": 30,
-                "generations": 1361,
-                "team1PlayoffsWinLoss": [
-                    1,
-                    0
-                ],
-                "team2PlayoffsWinLoss": [
-                    0,
-                    1
-                ]
+                "generations": 1361
             },
             {
                 "team1Name": "Orlando Business Majors",
@@ -338,7 +284,6 @@
                 "id": "ee01c3e3-0c70-43ab-adac-dab4bf806a75",
                 "isPostseason": true,
                 "description": "Game 2, Hot League Division Series 1",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     1,
                     0
@@ -371,15 +316,7 @@
                 },
                 "team1Score": 73,
                 "team2Score": 142,
-                "generations": 1336,
-                "team1PlayoffsWinLoss": [
-                    1,
-                    0
-                ],
-                "team2PlayoffsWinLoss": [
-                    0,
-                    1
-                ]
+                "generations": 1336
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -392,7 +329,6 @@
                 "id": "a6c20a69-b7f3-475e-b34c-2feb70065b74",
                 "isPostseason": true,
                 "description": "Game 2, Hot League Division Series 2",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     1,
                     0
@@ -425,15 +361,7 @@
                 },
                 "team1Score": 107,
                 "team2Score": 44,
-                "generations": 1087,
-                "team1PlayoffsWinLoss": [
-                    1,
-                    0
-                ],
-                "team2PlayoffsWinLoss": [
-                    0,
-                    1
-                ]
+                "generations": 1087
             }
         ],
         [
@@ -448,7 +376,6 @@
                 "id": "5b691434-2b6f-4139-8f4e-220888a248d4",
                 "isPostseason": true,
                 "description": "Game 3, Cold League Division Series 1",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     1,
                     1
@@ -481,15 +408,7 @@
                 },
                 "team1Score": 40,
                 "team2Score": 75,
-                "generations": 2153,
-                "team1PlayoffsWinLoss": [
-                    1,
-                    1
-                ],
-                "team2PlayoffsWinLoss": [
-                    1,
-                    1
-                ]
+                "generations": 2153
             },
             {
                 "team1Name": "Long Beach Flightless Birds",
@@ -502,7 +421,6 @@
                 "id": "4ffd4fce-c5d2-4a8d-968a-633ffbe5395c",
                 "isPostseason": true,
                 "description": "Game 3, Cold League Division Series 2",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     0,
                     2
@@ -535,15 +453,7 @@
                 },
                 "team1Score": 188,
                 "team2Score": 111,
-                "generations": 1316,
-                "team1PlayoffsWinLoss": [
-                    0,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    2,
-                    0
-                ]
+                "generations": 1316
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -556,7 +466,6 @@
                 "id": "90627e48-fea8-4058-a21f-b913d5019025",
                 "isPostseason": true,
                 "description": "Game 3, Hot League Division Series 1",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     1,
                     1
@@ -589,15 +498,7 @@
                 },
                 "team1Score": 287,
                 "team2Score": 29,
-                "generations": 1405,
-                "team1PlayoffsWinLoss": [
-                    1,
-                    1
-                ],
-                "team2PlayoffsWinLoss": [
-                    1,
-                    1
-                ]
+                "generations": 1405
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -610,7 +511,6 @@
                 "id": "be89f031-8fa1-4e36-a1f4-28cd410bb6c5",
                 "isPostseason": true,
                 "description": "Game 3, Hot League Division Series 2",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     0,
                     2
@@ -643,15 +543,7 @@
                 },
                 "team1Score": 184,
                 "team2Score": 83,
-                "generations": 2381,
-                "team1PlayoffsWinLoss": [
-                    0,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    2,
-                    0
-                ]
+                "generations": 2381
             }
         ],
         [
@@ -666,7 +558,6 @@
                 "id": "f51a5596-3fb1-416b-a63c-d1d0b3aa1655",
                 "isPostseason": true,
                 "description": "Game 4, Cold League Division Series 1",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     1,
                     2
@@ -699,15 +590,7 @@
                 },
                 "team1Score": 253,
                 "team2Score": 19,
-                "generations": 2072,
-                "team1PlayoffsWinLoss": [
-                    1,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    2,
-                    1
-                ]
+                "generations": 2072
             },
             {
                 "team1Name": "Long Beach Flightless Birds",
@@ -720,7 +603,6 @@
                 "id": "0c7f83d7-29ef-4360-9671-1223c730662c",
                 "isPostseason": true,
                 "description": "Game 4, Cold League Division Series 2",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     1,
                     2
@@ -753,15 +635,7 @@
                 },
                 "team1Score": 91,
                 "team2Score": 134,
-                "generations": 1645,
-                "team1PlayoffsWinLoss": [
-                    1,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    2,
-                    1
-                ]
+                "generations": 1645
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -774,7 +648,6 @@
                 "id": "cea9e7ad-66cb-4e5d-849f-c0c8883ba721",
                 "isPostseason": true,
                 "description": "Game 4, Hot League Division Series 1",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     2,
                     1
@@ -807,15 +680,7 @@
                 },
                 "team1Score": 194,
                 "team2Score": 76,
-                "generations": 2050,
-                "team1PlayoffsWinLoss": [
-                    2,
-                    1
-                ],
-                "team2PlayoffsWinLoss": [
-                    1,
-                    2
-                ]
+                "generations": 2050
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -828,7 +693,6 @@
                 "id": "fb672bab-69b0-4240-87d9-288201038ab3",
                 "isPostseason": true,
                 "description": "Game 4, Hot League Division Series 2",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     1,
                     2
@@ -861,15 +725,7 @@
                 },
                 "team1Score": 228,
                 "team2Score": 6,
-                "generations": 1280,
-                "team1PlayoffsWinLoss": [
-                    1,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    2,
-                    1
-                ]
+                "generations": 1280
             }
         ],
         [
@@ -884,7 +740,6 @@
                 "id": "989bbc76-8079-40e3-a9a9-ac5afab65926",
                 "isPostseason": true,
                 "description": "Game 5, Cold League Division Series 1",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     2,
                     2
@@ -917,15 +772,7 @@
                 },
                 "team1Score": 191,
                 "team2Score": 7,
-                "generations": 1800,
-                "team1PlayoffsWinLoss": [
-                    2,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    2,
-                    2
-                ]
+                "generations": 1800
             },
             {
                 "team1Name": "Milwaukee Flamingos",
@@ -938,7 +785,6 @@
                 "id": "00b9deab-2619-403c-99ac-48b6e4725f4b",
                 "isPostseason": true,
                 "description": "Game 5, Hot League Division Series 2",
-                "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     2,
                     2
@@ -971,15 +817,7 @@
                 },
                 "team1Score": 41,
                 "team2Score": 216,
-                "generations": 1732,
-                "team1PlayoffsWinLoss": [
-                    2,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    2,
-                    2
-                ]
+                "generations": 1732
             }
         ]
     ],
@@ -1028,16 +866,7 @@
                 },
                 "team1Score": 115,
                 "team2Score": 136,
-                "generations": 1933,
-                "isPostseason": true,
-                "team1PlayoffsWinLoss": [
-                    3,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    3,
-                    1
-                ]
+                "generations": 1933
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -1082,16 +911,7 @@
                 },
                 "team1Score": 140,
                 "team2Score": 104,
-                "generations": 1941,
-                "isPostseason": true,
-                "team1PlayoffsWinLoss": [
-                    3,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    3,
-                    1
-                ]
+                "generations": 1941
             }
         ],
         [
@@ -1138,16 +958,7 @@
                 },
                 "team1Score": 168,
                 "team2Score": 123,
-                "generations": 1568,
-                "isPostseason": true,
-                "team1PlayoffsWinLoss": [
-                    3,
-                    3
-                ],
-                "team2PlayoffsWinLoss": [
-                    4,
-                    1
-                ]
+                "generations": 1568
             },
             {
                 "team1Name": "Sacramento Boot Lickers",
@@ -1192,16 +1003,7 @@
                 },
                 "team1Score": 55,
                 "team2Score": 169,
-                "generations": 1731,
-                "isPostseason": true,
-                "team1PlayoffsWinLoss": [
-                    4,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    3,
-                    2
-                ]
+                "generations": 1731
             }
         ],
         [
@@ -1248,16 +1050,7 @@
                 },
                 "team1Score": 118,
                 "team2Score": 114,
-                "generations": 1561,
-                "isPostseason": true,
-                "team1PlayoffsWinLoss": [
-                    4,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    4,
-                    3
-                ]
+                "generations": 1561
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -1302,16 +1095,7 @@
                 },
                 "team1Score": 84,
                 "team2Score": 74,
-                "generations": 1263,
-                "isPostseason": true,
-                "team1PlayoffsWinLoss": [
-                    4,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    4,
-                    3
-                ]
+                "generations": 1263
             }
         ],
         [
@@ -1358,16 +1142,7 @@
                 },
                 "team1Score": 173,
                 "team2Score": 20,
-                "generations": 2029,
-                "isPostseason": true,
-                "team1PlayoffsWinLoss": [
-                    5,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    4,
-                    4
-                ]
+                "generations": 2029
             },
             {
                 "team1Name": "Detroit Grape Chews",
@@ -1412,16 +1187,7 @@
                 },
                 "team1Score": 231,
                 "team2Score": 35,
-                "generations": 2662,
-                "isPostseason": true,
-                "team1PlayoffsWinLoss": [
-                    5,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    4,
-                    4
-                ]
+                "generations": 2662
             }
         ]
     ],
@@ -1469,16 +1235,7 @@
                 },
                 "team1Score": 142,
                 "team2Score": 164,
-                "generations": 2342,
-                "isPostseason": true,
-                "team1PlayoffsWinLoss": [
-                    6,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    6,
-                    2
-                ]
+                "generations": 2342
             }
         ],
         [
@@ -1524,16 +1281,7 @@
                 },
                 "team1Score": 60,
                 "team2Score": 86,
-                "generations": 1014,
-                "isPostseason": true,
-                "team1PlayoffsWinLoss": [
-                    6,
-                    3
-                ],
-                "team2PlayoffsWinLoss": [
-                    7,
-                    2
-                ]
+                "generations": 1014
             }
         ],
         [
@@ -1579,16 +1327,7 @@
                 },
                 "team1Score": 632,
                 "team2Score": 0,
-                "generations": 1955,
-                "isPostseason": true,
-                "team1PlayoffsWinLoss": [
-                    8,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    6,
-                    4
-                ]
+                "generations": 1955
             }
         ],
         [
@@ -1634,16 +1373,7 @@
                 },
                 "team1Score": 264,
                 "team2Score": 32,
-                "generations": 3127,
-                "isPostseason": true,
-                "team1PlayoffsWinLoss": [
-                    9,
-                    2
-                ],
-                "team2PlayoffsWinLoss": [
-                    6,
-                    5
-                ]
+                "generations": 3127
             }
         ]
     ]
