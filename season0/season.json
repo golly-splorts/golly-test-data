@@ -1,8 +1,8 @@
 [
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 0,
             "id": "b5ef9013-f6c8-418b-a342-b46657f2438e",
@@ -37,8 +37,8 @@
             "generations": 1995
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 0,
             "id": "059975d4-b1fc-48d9-ae9d-1ea0d0da2997",
@@ -73,8 +73,8 @@
             "generations": 1496
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 0,
             "id": "a3f91f8a-02b3-4b6c-8b15-cda7fa61ca6a",
@@ -109,8 +109,8 @@
             "generations": 2429
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 0,
             "id": "1e86aa7d-8400-4ab4-829f-62409d97faba",
@@ -145,14 +145,14 @@
             "generations": 1008
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 0,
             "id": "a1493cd0-c299-4059-a015-a863b4794305",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "team1WinLoss": [
                 0,
@@ -181,8 +181,8 @@
             "generations": 2773
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 0,
             "id": "e61aabd8-d65f-4db1-86f0-ca5a413ce30d",
@@ -217,8 +217,8 @@
             "generations": 3800
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 0,
             "id": "a282d69a-b75b-4161-bfdd-52c14b50e1d4",
@@ -253,8 +253,8 @@
             "generations": 2561
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 0,
             "id": "ab9c75fb-c2b4-47e0-8b3f-1504cc852201",
@@ -291,8 +291,8 @@
     ],
     [
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 1,
             "id": "bab78a8a-eebf-4244-bd3f-39d846456f64",
@@ -327,8 +327,8 @@
             "generations": 1401
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 1,
             "id": "5fcd271e-a0ac-4b74-b967-e2d4783c1741",
@@ -363,8 +363,8 @@
             "generations": 1181
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 1,
             "id": "4989a8e4-172b-43dc-937b-faaf127e126a",
@@ -399,8 +399,8 @@
             "generations": 1133
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 1,
             "id": "fe734988-7f49-4608-800c-54392faf94f9",
@@ -435,15 +435,15 @@
             "generations": 2699
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 1,
             "id": "f8d7f711-5ef0-4192-9952-c2cde49240c4",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 0,
                 1
@@ -471,8 +471,8 @@
             "generations": 2049
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 1,
             "id": "44aac6c8-8940-414c-bdb2-2623ff06188b",
@@ -507,8 +507,8 @@
             "generations": 1693
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 1,
             "id": "eed1de11-93ef-4e98-ab6c-b997c3f1ef0b",
@@ -543,8 +543,8 @@
             "generations": 1642
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 1,
             "id": "3e869610-b9eb-46cb-80bd-d5482f157fc1",
@@ -581,8 +581,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 2,
             "id": "e10ab86e-243d-464a-adc2-b3200120ee20",
@@ -617,8 +617,8 @@
             "generations": 1245
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 2,
             "id": "81ee3344-5f95-4431-b90b-3de5bfe167ef",
@@ -653,8 +653,8 @@
             "generations": 1343
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 2,
             "id": "e52fa7f8-6658-44ae-9ef7-75260f578e77",
@@ -689,8 +689,8 @@
             "generations": 2048
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 2,
             "id": "2ef6df57-9700-45a6-9e91-c15427fe6638",
@@ -725,14 +725,14 @@
             "generations": 1700
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 2,
             "id": "347e6e0c-0fdd-43e6-9e49-9cada29a11eb",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "team1WinLoss": [
                 1,
@@ -761,8 +761,8 @@
             "generations": 2711
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 2,
             "id": "00246f88-2987-46f1-8e2c-8b767af9a96b",
@@ -797,8 +797,8 @@
             "generations": 1568
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 2,
             "id": "4294ec9a-4aaa-4c60-a5cc-fcbe702b65c8",
@@ -833,8 +833,8 @@
             "generations": 2148
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 2,
             "id": "afe5b0da-b9f6-40fa-b3d8-ed9ef37cd694",
@@ -871,8 +871,8 @@
     ],
     [
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 3,
             "id": "23a980e1-36b2-4c27-8b56-f0bbc2211fbc",
@@ -907,8 +907,8 @@
             "generations": 1442
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 3,
             "id": "f385f3c1-e198-4e49-b87b-6093a2cf3564",
@@ -943,8 +943,8 @@
             "generations": 1710
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 3,
             "id": "4e942b59-2e03-4f35-8b4a-d0bfb404dd26",
@@ -979,8 +979,8 @@
             "generations": 2088
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 3,
             "id": "5d4d6e44-a9c4-4f95-a1b9-7259fa05d1c6",
@@ -1015,15 +1015,15 @@
             "generations": 1041
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 3,
             "id": "1519d041-f27e-486f-84f0-ed18b9c6bb66",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 2,
                 1
@@ -1051,8 +1051,8 @@
             "generations": 2476
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 3,
             "id": "1ce6c67d-a88a-47dc-9173-f7745eab24b0",
@@ -1087,8 +1087,8 @@
             "generations": 2066
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 3,
             "id": "de6286e2-16b9-4c41-94cb-2d5ca68b803f",
@@ -1123,8 +1123,8 @@
             "generations": 2128
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 3,
             "id": "033ee107-1e1a-44f5-a55d-16ad8437bcdd",
@@ -1161,8 +1161,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 4,
             "id": "dbe7fa63-d6a7-45e2-ab8c-4937859a2c8c",
@@ -1197,8 +1197,8 @@
             "generations": 1924
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 4,
             "id": "03ab26fc-0a99-4c0d-9d52-ccb72842fa48",
@@ -1233,8 +1233,8 @@
             "generations": 1004
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 4,
             "id": "41c519ee-3e8c-4638-81a7-62bfaa20cacb",
@@ -1269,8 +1269,8 @@
             "generations": 1624
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 4,
             "id": "ec6b039a-817d-4d17-a659-16483e1ef611",
@@ -1305,14 +1305,14 @@
             "generations": 2398
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 4,
             "id": "51a138aa-d715-41bd-ad0e-d8c84c188642",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "team1WinLoss": [
                 1,
@@ -1341,8 +1341,8 @@
             "generations": 1249
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 4,
             "id": "c3cfa7bb-2235-4133-b8fc-a3b24a3fcfb8",
@@ -1377,8 +1377,8 @@
             "generations": 1982
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 4,
             "id": "60d32816-ba61-4d94-bd72-1b20b65e4b7a",
@@ -1413,8 +1413,8 @@
             "generations": 1628
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 4,
             "id": "8f8099dd-391c-462b-bbd6-4d0db1e1b74c",
@@ -1451,8 +1451,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 5,
             "id": "6a687830-b901-4bd0-839b-a784b3db4f78",
@@ -1487,8 +1487,8 @@
             "generations": 2932
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 5,
             "id": "5bebde1c-980a-4f14-a642-3d6dfcddb6aa",
@@ -1523,8 +1523,8 @@
             "generations": 2265
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 5,
             "id": "c398e87d-b907-4941-8651-f11fbf76066e",
@@ -1559,8 +1559,8 @@
             "generations": 1680
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 5,
             "id": "d9ac1669-4338-404f-bcbb-a7aeedbc3f10",
@@ -1595,15 +1595,15 @@
             "generations": 1255
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 5,
             "id": "5baa19e7-0de3-4877-b18e-d5353774aa53",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 1,
                 4
@@ -1631,8 +1631,8 @@
             "generations": 2501
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 5,
             "id": "b3371aab-f957-4d31-b9b4-6d4c704bb234",
@@ -1667,8 +1667,8 @@
             "generations": 1469
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 5,
             "id": "850382d6-95e7-4e3b-b4a5-aeffa7fbbf98",
@@ -1703,8 +1703,8 @@
             "generations": 1141
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 5,
             "id": "3ece204a-9a88-4c48-815d-b491c9f94aac",
@@ -1741,8 +1741,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 6,
             "id": "2c9ba16d-8bc7-43c8-82d4-e3615a28745c",
@@ -1777,8 +1777,8 @@
             "generations": 1252
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 6,
             "id": "4ecf6b6a-5f32-41bc-9e5a-bafa70e02146",
@@ -1813,8 +1813,8 @@
             "generations": 1696
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 6,
             "id": "cba7c0f8-ca0c-480d-82be-78791c4d97ab",
@@ -1849,8 +1849,8 @@
             "generations": 2076
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 6,
             "id": "57342adb-ae0d-4330-9931-122b8b814b94",
@@ -1885,8 +1885,8 @@
             "generations": 2546
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 6,
             "id": "784c7d1b-9a3c-4e80-88f6-e1ba017ce726",
@@ -1921,8 +1921,8 @@
             "generations": 1089
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 6,
             "id": "0b08fbf5-e81d-46d7-8aca-ea4c41e25277",
@@ -1957,15 +1957,15 @@
             "generations": 1453
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 6,
             "id": "132bd96c-36ce-4048-977d-cdd888952305",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 3,
                 3
@@ -1993,8 +1993,8 @@
             "generations": 1094
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 6,
             "id": "6b17e8ee-012a-4d2b-8d5c-b33ea4fe5a32",
@@ -2031,8 +2031,8 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 7,
             "id": "8acd1b68-9480-4e9d-b028-848df7ac72d8",
@@ -2067,8 +2067,8 @@
             "generations": 1730
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 7,
             "id": "c3691492-a48c-492a-b557-a9dbab021590",
@@ -2103,8 +2103,8 @@
             "generations": 1480
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 7,
             "id": "7b814d50-137d-40b0-b990-08b730188122",
@@ -2139,8 +2139,8 @@
             "generations": 2100
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 7,
             "id": "d3b2ceac-9710-4273-bd4a-9920019bdf7e",
@@ -2175,8 +2175,8 @@
             "generations": 1327
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 7,
             "id": "a5f8cf2a-3534-41bc-8368-02d91253ed97",
@@ -2211,8 +2211,8 @@
             "generations": 1281
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 7,
             "id": "2edae274-6808-463e-8cf8-1f7c5e016fa1",
@@ -2247,14 +2247,14 @@
             "generations": 2349
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 7,
             "id": "6deb79fd-a71a-4234-8a6e-3f73fc2f2be5",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#0dab76",
             "team1WinLoss": [
                 2,
@@ -2283,8 +2283,8 @@
             "generations": 1215
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 7,
             "id": "7f4ea9fd-b129-4e9e-b62e-26d6aac80d60",
@@ -2321,8 +2321,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 8,
             "id": "a75346a1-7796-40e8-ab51-88e541c2a119",
@@ -2357,8 +2357,8 @@
             "generations": 1782
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 8,
             "id": "813570d4-9b01-4126-b10d-301ba4d5807e",
@@ -2393,8 +2393,8 @@
             "generations": 2037
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 8,
             "id": "3fc6920e-a81c-4e7d-9869-d4d55a19bf25",
@@ -2429,8 +2429,8 @@
             "generations": 1669
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 8,
             "id": "f0756e82-2e38-4b88-9315-f9d9816ddc02",
@@ -2465,15 +2465,15 @@
             "generations": 2687
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 8,
             "id": "6c9c9713-61d0-4148-baff-ae1c3af59057",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 2,
                 6
@@ -2501,8 +2501,8 @@
             "generations": 1432
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 8,
             "id": "a8cbe41a-3770-497e-8eea-5103b3d2fb18",
@@ -2537,8 +2537,8 @@
             "generations": 2708
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 8,
             "id": "69ceffe9-a495-48a9-8a7e-c3df62a9c1d5",
@@ -2573,8 +2573,8 @@
             "generations": 2621
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 8,
             "id": "5cf559b3-ed38-446b-8290-4699e2a969c6",
@@ -2611,8 +2611,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 9,
             "id": "c5d4ddb6-471d-4aaf-9435-9e611d42f104",
@@ -2647,8 +2647,8 @@
             "generations": 3314
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 9,
             "id": "8d39556c-6520-4834-bd33-357f039af058",
@@ -2683,8 +2683,8 @@
             "generations": 1245
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 9,
             "id": "4ea981c0-2841-4a78-9c21-571b876715de",
@@ -2719,8 +2719,8 @@
             "generations": 2879
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 9,
             "id": "6ed503d0-9055-468a-b67e-1599eaeedf46",
@@ -2755,14 +2755,14 @@
             "generations": 1551
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 9,
             "id": "dc1c0cad-11cb-4f6a-9746-ef84e4879340",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "team1WinLoss": [
                 2,
@@ -2791,8 +2791,8 @@
             "generations": 2932
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 9,
             "id": "541df444-5dc0-47ca-8f31-c4c2dee0c497",
@@ -2827,8 +2827,8 @@
             "generations": 2081
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 9,
             "id": "03ffbba3-429a-4bfd-becd-fdee8d5ea4bd",
@@ -2863,8 +2863,8 @@
             "generations": 1995
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 9,
             "id": "f9f88743-d638-46d2-921e-1d989f0b4565",
@@ -2901,8 +2901,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 10,
             "id": "4915c626-469f-4a8a-bcfe-ee8d12a7e7b0",
@@ -2937,8 +2937,8 @@
             "generations": 1840
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 10,
             "id": "da3e286e-4cbf-4978-869c-c1a787e39f9b",
@@ -2973,8 +2973,8 @@
             "generations": 3325
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 10,
             "id": "354f5f5b-280d-4358-879b-78a4810284f1",
@@ -3009,8 +3009,8 @@
             "generations": 1442
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 10,
             "id": "ea86cdc6-105b-4e73-bd5e-359b61375363",
@@ -3045,8 +3045,8 @@
             "generations": 3606
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 10,
             "id": "4ff7ff9d-6958-4f7a-b9fd-a3b735bcace0",
@@ -3081,8 +3081,8 @@
             "generations": 1766
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 10,
             "id": "c504f1f4-5173-44da-9fcf-43e3d08be23c",
@@ -3117,8 +3117,8 @@
             "generations": 1941
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 10,
             "id": "95360907-d151-4a8b-9259-ecc3e7c5fcfc",
@@ -3153,15 +3153,15 @@
             "generations": 1401
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 10,
             "id": "dfa10796-7ab6-4dd2-8de3-9f5cbe4864fc",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 6,
                 4
@@ -3191,8 +3191,8 @@
     ],
     [
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 11,
             "id": "c4ab7b70-c325-444a-9c70-d053ae264f01",
@@ -3227,8 +3227,8 @@
             "generations": 1667
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 11,
             "id": "cb98c188-df78-4de1-9e89-fb06d5e41af6",
@@ -3263,8 +3263,8 @@
             "generations": 2195
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 11,
             "id": "1427a863-02d3-47ad-aa28-653ebae7afe3",
@@ -3299,8 +3299,8 @@
             "generations": 2916
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 11,
             "id": "8ccebc35-5d89-440f-8df8-867ae70ff487",
@@ -3335,8 +3335,8 @@
             "generations": 1446
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 11,
             "id": "c91d1b4a-7436-41a1-9b19-ba8e14024ad2",
@@ -3371,8 +3371,8 @@
             "generations": 2395
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 11,
             "id": "684d6fa7-dc30-4108-b29b-325648c76521",
@@ -3407,8 +3407,8 @@
             "generations": 1042
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 11,
             "id": "87c67104-a90e-4000-bf51-ed29a5d3e2e0",
@@ -3443,14 +3443,14 @@
             "generations": 2726
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 11,
             "id": "4feb0262-df9f-4939-b7b3-5ae19c72be84",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "team1WinLoss": [
                 3,
@@ -3481,8 +3481,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 12,
             "id": "6db65ea4-5431-49a4-9351-311e4ef0fc53",
@@ -3517,8 +3517,8 @@
             "generations": 2573
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 12,
             "id": "54f61d61-cc5f-444b-a823-9704920cb850",
@@ -3553,8 +3553,8 @@
             "generations": 4193
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 12,
             "id": "ba5a1f9f-3d23-4026-a190-277369d20287",
@@ -3589,8 +3589,8 @@
             "generations": 1241
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 12,
             "id": "d1fe9c24-92c7-4794-9102-d25ded3632fb",
@@ -3625,14 +3625,14 @@
             "generations": 1416
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 12,
             "id": "e40d2e1a-9644-41a2-bf4a-6d7bf3247e64",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "team1WinLoss": [
                 3,
@@ -3661,8 +3661,8 @@
             "generations": 1262
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 12,
             "id": "5c95bfec-e7d3-4bd1-a1a2-435e64d73174",
@@ -3697,8 +3697,8 @@
             "generations": 1480
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 12,
             "id": "6d34e139-7eda-4a4f-a5d8-c22b71cb44b0",
@@ -3733,8 +3733,8 @@
             "generations": 1273
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 12,
             "id": "de7890a2-825d-420e-8d7e-9f92b4a70b4a",
@@ -3771,8 +3771,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 13,
             "id": "f1915abc-1c00-4e1f-910e-0ea596c21ce3",
@@ -3807,8 +3807,8 @@
             "generations": 1562
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 13,
             "id": "fa4d6791-0c84-41e7-b668-aea932e333bf",
@@ -3843,8 +3843,8 @@
             "generations": 2065
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 13,
             "id": "6c68907a-ae57-4de1-bcc0-c7799322a6f0",
@@ -3879,8 +3879,8 @@
             "generations": 1448
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 13,
             "id": "9e0066cd-d53e-40cf-944c-cb80a8849bbb",
@@ -3915,15 +3915,15 @@
             "generations": 2037
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 13,
             "id": "f8701582-8bd6-4e7a-8d4e-cd1a679925f8",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 3,
                 10
@@ -3951,8 +3951,8 @@
             "generations": 3330
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 13,
             "id": "16dccc53-b1a0-4289-8c37-90bc58be533e",
@@ -3987,8 +3987,8 @@
             "generations": 2002
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 13,
             "id": "dd21e412-f81e-4f1a-97e7-e0c886437457",
@@ -4023,8 +4023,8 @@
             "generations": 1270
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 13,
             "id": "16d559a8-14c8-4228-8283-87147b3854e4",
@@ -4061,8 +4061,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 14,
             "id": "1456deb4-7215-4a5e-90f5-7342f1f34bd8",
@@ -4097,8 +4097,8 @@
             "generations": 1412
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 14,
             "id": "f4378a96-dcf3-4c6e-b76c-141724ee13de",
@@ -4133,8 +4133,8 @@
             "generations": 1323
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 14,
             "id": "789aff09-c791-424f-82d1-af6b51744f53",
@@ -4169,8 +4169,8 @@
             "generations": 1531
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 14,
             "id": "af3097e3-e355-4ecb-9ea6-fb028b41b64b",
@@ -4205,8 +4205,8 @@
             "generations": 3363
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 14,
             "id": "9f1f9876-d450-4dee-8e9a-66e19863bb1e",
@@ -4241,8 +4241,8 @@
             "generations": 2316
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 14,
             "id": "4b9a11f2-3247-4576-9e01-9cd10ee56756",
@@ -4277,15 +4277,15 @@
             "generations": 2227
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 14,
             "id": "900319ae-5847-4bc6-a982-ce723a346106",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 9,
                 5
@@ -4313,8 +4313,8 @@
             "generations": 1042
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 14,
             "id": "85da4980-e2bc-4480-9a5e-cd96559b11a1",
@@ -4351,8 +4351,8 @@
     ],
     [
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 15,
             "id": "495f5a0f-8d8f-4748-b961-3d259a8539fe",
@@ -4387,8 +4387,8 @@
             "generations": 1962
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 15,
             "id": "53a5dfb4-eac9-43d1-9dc9-05279d210356",
@@ -4423,8 +4423,8 @@
             "generations": 1060
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 15,
             "id": "4fcf3073-c268-40f0-80d5-d0af0baca19a",
@@ -4459,8 +4459,8 @@
             "generations": 1536
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 15,
             "id": "521d9ba1-cd45-4ef5-a515-6cb742b9a610",
@@ -4495,8 +4495,8 @@
             "generations": 1283
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 15,
             "id": "8e79ff32-acc5-4b3e-bc00-1e3f536ad4bc",
@@ -4531,8 +4531,8 @@
             "generations": 2351
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 15,
             "id": "be7f9786-ea26-4fb7-a403-ced9a69c62a5",
@@ -4567,14 +4567,14 @@
             "generations": 1596
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 15,
             "id": "7f01ae98-e6c1-47b2-97ad-6362e855ae00",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#0dab76",
             "team1WinLoss": [
                 4,
@@ -4603,8 +4603,8 @@
             "generations": 1177
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 15,
             "id": "827c54d7-3b26-4ac5-b57c-6dca15d0af00",
@@ -4641,8 +4641,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 16,
             "id": "96b053a6-dd72-4297-b674-45d91af2afe0",
@@ -4677,8 +4677,8 @@
             "generations": 2234
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 16,
             "id": "30ab3d65-ac51-43e6-948f-8f85883b3456",
@@ -4713,8 +4713,8 @@
             "generations": 1840
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 16,
             "id": "6f8f8c3d-377c-4be3-848a-493165cd5843",
@@ -4749,8 +4749,8 @@
             "generations": 2156
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 16,
             "id": "0e28dc29-1f51-4ec6-95a2-9107a9c1c52b",
@@ -4785,14 +4785,14 @@
             "generations": 1184
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 16,
             "id": "9a71fa43-0446-4e7e-9ffa-31de422cad91",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#697a21",
             "team1WinLoss": [
                 4,
@@ -4821,8 +4821,8 @@
             "generations": 2625
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 16,
             "id": "03329741-f17a-4585-9a46-8a6476269b3b",
@@ -4857,8 +4857,8 @@
             "generations": 1517
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 16,
             "id": "3825fb1c-a18d-4991-a6fc-41637e8d9d35",
@@ -4893,8 +4893,8 @@
             "generations": 1111
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 16,
             "id": "87245356-eee1-48fa-9e56-7e5caf817263",
@@ -4931,8 +4931,8 @@
     ],
     [
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 17,
             "id": "4fcaa70d-9399-40db-bbc5-1c933b89a77b",
@@ -4967,8 +4967,8 @@
             "generations": 2365
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 17,
             "id": "d0849203-f37e-4066-b5a3-2afccd87d3ee",
@@ -5003,8 +5003,8 @@
             "generations": 2905
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 17,
             "id": "b134e513-67e0-458a-841e-2cfa481054bd",
@@ -5039,8 +5039,8 @@
             "generations": 1036
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 17,
             "id": "dff0cb53-132e-4e2f-a18d-630be98d0a3d",
@@ -5075,15 +5075,15 @@
             "generations": 1399
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 17,
             "id": "0d1d17e1-9c97-4450-a24d-67fd8b33a4b9",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#697a21",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 6,
                 11
@@ -5111,8 +5111,8 @@
             "generations": 1089
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 17,
             "id": "d1008cf2-6ded-4793-add1-79f336058dde",
@@ -5147,8 +5147,8 @@
             "generations": 1256
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 17,
             "id": "4bc93ef0-d996-4afe-a6e4-5086a1e8d70f",
@@ -5183,8 +5183,8 @@
             "generations": 3704
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 17,
             "id": "7a479be6-9b8c-4c14-a226-0837e551b5ab",
@@ -5221,8 +5221,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 18,
             "id": "3c2dfeb9-9b6d-4711-a705-49ca16bf9f81",
@@ -5257,8 +5257,8 @@
             "generations": 1094
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 18,
             "id": "637f2dc4-1786-443f-ac97-6030edecb278",
@@ -5293,8 +5293,8 @@
             "generations": 1303
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 18,
             "id": "5353d087-1f0b-4f9c-bd40-a3cda4ed3a78",
@@ -5329,8 +5329,8 @@
             "generations": 1580
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 18,
             "id": "f421fbdb-9859-4a00-a63a-0ae5c71ca9dc",
@@ -5365,14 +5365,14 @@
             "generations": 1452
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 18,
             "id": "a769cc6d-3e7c-4e09-b9d2-dbf9f149aca1",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "team1WinLoss": [
                 5,
@@ -5401,8 +5401,8 @@
             "generations": 1496
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 18,
             "id": "41614e48-dbbf-4d86-b708-b461dfbc3663",
@@ -5437,8 +5437,8 @@
             "generations": 1556
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 18,
             "id": "8e831ac3-6c52-4755-9982-93acdc2eb2f5",
@@ -5473,8 +5473,8 @@
             "generations": 1310
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 18,
             "id": "2ee68125-d7bc-49a0-a9c9-bf2173824432",
@@ -5511,8 +5511,8 @@
     ],
     [
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 19,
             "id": "b47fd4fa-aa37-4552-9308-b3de868ae741",
@@ -5547,8 +5547,8 @@
             "generations": 1827
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 19,
             "id": "c4870b1d-c588-48ce-b2f0-7dccabc1d622",
@@ -5583,8 +5583,8 @@
             "generations": 3682
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 19,
             "id": "4168b5b7-8350-4b8b-b816-8cf70b79de65",
@@ -5619,8 +5619,8 @@
             "generations": 1324
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 19,
             "id": "bd1d21f4-8b53-4a24-ac7d-b221fd2894c5",
@@ -5655,15 +5655,15 @@
             "generations": 1401
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 19,
             "id": "3b3d95b8-8c04-46f6-a12d-ba967a4dcd19",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 11,
                 8
@@ -5691,8 +5691,8 @@
             "generations": 1439
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 19,
             "id": "626530f4-5a50-4c23-bfde-3fd467fafd89",
@@ -5727,8 +5727,8 @@
             "generations": 2227
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 19,
             "id": "282697f1-bd77-4858-a6d9-9d8c902f0316",
@@ -5763,8 +5763,8 @@
             "generations": 1117
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 19,
             "id": "d5d7dd8a-2faa-429b-92f3-70c5f3c73f4d",
@@ -5801,8 +5801,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 20,
             "id": "355aaa56-0024-46b3-86a0-e718d7d3eeb0",
@@ -5837,8 +5837,8 @@
             "generations": 1999
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 20,
             "id": "dc46f418-a4c6-4158-9932-9963488001e1",
@@ -5873,8 +5873,8 @@
             "generations": 1545
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 20,
             "id": "5283fd9d-5bef-4ac5-a7a0-9ed521b8b808",
@@ -5909,8 +5909,8 @@
             "generations": 1613
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 20,
             "id": "79be1a14-064c-4e4d-85b8-40e6ea2da807",
@@ -5945,8 +5945,8 @@
             "generations": 3189
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 20,
             "id": "1907d96c-bba9-4157-87d0-9f4ddbf743d5",
@@ -5981,8 +5981,8 @@
             "generations": 1031
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 20,
             "id": "80e259d7-5082-4b91-83a0-7d9e34c122bf",
@@ -6017,8 +6017,8 @@
             "generations": 1447
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 20,
             "id": "fb4d6761-a75f-4bda-a106-0b8e14ebf8ae",
@@ -6053,15 +6053,15 @@
             "generations": 1254
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 20,
             "id": "3d9522ee-b787-49fa-8b50-428f4c7d5415",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 12,
                 8
@@ -6091,8 +6091,8 @@
     ],
     [
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 21,
             "id": "477c76f5-26ba-485f-9510-a85bb5f0cb5f",
@@ -6127,8 +6127,8 @@
             "generations": 1000
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 21,
             "id": "f5ce1ebf-42a0-4683-8404-d99ff3384980",
@@ -6163,8 +6163,8 @@
             "generations": 1843
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 21,
             "id": "67cfa6d7-136e-4df3-ba89-bba438fafe8e",
@@ -6199,8 +6199,8 @@
             "generations": 2967
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 21,
             "id": "db532076-4402-4ec7-bea1-ba9820fbfa7c",
@@ -6235,8 +6235,8 @@
             "generations": 1617
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 21,
             "id": "5ff2c1bc-e9bd-4cca-9b1a-fbc461d7fc06",
@@ -6271,8 +6271,8 @@
             "generations": 1332
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 21,
             "id": "82da7f00-434c-4c5f-847f-a2586ce54286",
@@ -6307,8 +6307,8 @@
             "generations": 1739
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 21,
             "id": "57bc5bf0-f135-425d-abb8-de1baddfaa58",
@@ -6343,14 +6343,14 @@
             "generations": 1929
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 21,
             "id": "a0f9c4a3-d544-47cb-a8e8-8cbda3367cfb",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "team1WinLoss": [
                 7,
@@ -6381,8 +6381,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 22,
             "id": "b8cd0fd8-57e6-4f96-9755-26f54f39780e",
@@ -6417,8 +6417,8 @@
             "generations": 2357
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 22,
             "id": "0c448e0f-5d93-439b-90ac-f1ed6f579249",
@@ -6453,8 +6453,8 @@
             "generations": 1126
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 22,
             "id": "e99b38ea-c30c-47b6-ab9f-16aeaf797ba3",
@@ -6489,8 +6489,8 @@
             "generations": 1317
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 22,
             "id": "152f3c64-67c3-4a7d-95df-a578a400d2cf",
@@ -6525,15 +6525,15 @@
             "generations": 1103
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 22,
             "id": "511319a0-f96f-4728-9a42-9960bdaee9a9",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 11,
                 11
@@ -6561,8 +6561,8 @@
             "generations": 1671
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 22,
             "id": "d3bcfc66-3da7-4bb4-9c8b-bb296d6ef1c0",
@@ -6597,8 +6597,8 @@
             "generations": 1030
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 22,
             "id": "f3658178-589f-479d-b262-af1be0d963ea",
@@ -6633,8 +6633,8 @@
             "generations": 1806
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 22,
             "id": "7dcabfbf-d756-4f06-91b0-a4a195f94b63",
@@ -6671,8 +6671,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 23,
             "id": "3b422e14-cb91-4dc8-b0bb-f7ccdd91dc13",
@@ -6707,8 +6707,8 @@
             "generations": 1634
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 23,
             "id": "d1fd2f87-dd2f-4fd4-ae73-9d7b2301fe48",
@@ -6743,8 +6743,8 @@
             "generations": 1853
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 23,
             "id": "8aa51ab7-5a40-4164-9f15-9b9f90445dd1",
@@ -6779,8 +6779,8 @@
             "generations": 1273
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 23,
             "id": "b3c39f98-e8d6-45d8-b65f-4f146cf65f35",
@@ -6815,14 +6815,14 @@
             "generations": 1765
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 23,
             "id": "dfe8f5de-ccb3-4cbf-ac10-93ae5c02f3e3",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "team1WinLoss": [
                 8,
@@ -6851,8 +6851,8 @@
             "generations": 1880
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 23,
             "id": "ddcb4e68-a134-4e4f-8f55-a49f74d6e26f",
@@ -6887,8 +6887,8 @@
             "generations": 2143
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 23,
             "id": "98fa46a9-52bb-42b8-a215-afc5a246e51c",
@@ -6923,8 +6923,8 @@
             "generations": 2419
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 23,
             "id": "34ac0e5d-6455-45bb-b208-5ae5acbd6803",
@@ -6961,8 +6961,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 24,
             "id": "5e93345d-4a03-4a1b-9f26-7bb70ec4aa50",
@@ -6997,8 +6997,8 @@
             "generations": 1633
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 24,
             "id": "8a44a781-ade6-4517-a58d-d5d37463bcaa",
@@ -7033,8 +7033,8 @@
             "generations": 2060
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 24,
             "id": "ab6aad2b-2e11-4f50-8268-90ba1b9d7f3d",
@@ -7069,8 +7069,8 @@
             "generations": 2004
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 24,
             "id": "1c624b7e-b624-4500-a4ca-5c201af953f3",
@@ -7105,8 +7105,8 @@
             "generations": 3901
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 24,
             "id": "fdbf921b-f790-41b8-8666-c78ceb7b5a3a",
@@ -7141,8 +7141,8 @@
             "generations": 1641
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 24,
             "id": "b95fe57e-aa66-4f8f-b3e5-282a4a3e6968",
@@ -7177,15 +7177,15 @@
             "generations": 1753
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 24,
             "id": "e39905d5-02ec-4de4-acb5-24792aeeefe5",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 14,
                 10
@@ -7213,8 +7213,8 @@
             "generations": 2064
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 24,
             "id": "a44f853a-09e5-47cc-a669-cf9b7cbf59b9",
@@ -7251,8 +7251,8 @@
     ],
     [
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 25,
             "id": "1ad63123-eb41-4a26-9159-136313ebd431",
@@ -7287,8 +7287,8 @@
             "generations": 2065
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 25,
             "id": "2a7abfad-2824-4440-83ce-4f749583a0b6",
@@ -7323,8 +7323,8 @@
             "generations": 1512
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 25,
             "id": "ecbd2410-b85f-4ad8-9985-eb9b08e106fb",
@@ -7359,8 +7359,8 @@
             "generations": 3202
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 25,
             "id": "1e898158-8693-4703-84bc-d68fde96ea95",
@@ -7395,8 +7395,8 @@
             "generations": 1528
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 25,
             "id": "ece0a8ea-001a-4a5d-8552-28ae48d88e8f",
@@ -7431,8 +7431,8 @@
             "generations": 2094
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 25,
             "id": "6e7eda27-ea11-4984-87a9-3bd820148e54",
@@ -7467,14 +7467,14 @@
             "generations": 2888
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 25,
             "id": "36215fed-4b17-4c3d-80a8-c469fb3ef6e4",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#0dab76",
             "team1WinLoss": [
                 8,
@@ -7503,8 +7503,8 @@
             "generations": 1725
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 25,
             "id": "0b856cb1-5fc8-4e07-b23f-735a403f4583",
@@ -7541,8 +7541,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 26,
             "id": "d4793d60-779e-4793-ad6a-c60413c39c0e",
@@ -7577,8 +7577,8 @@
             "generations": 1236
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 26,
             "id": "9a519e4d-7c0e-430b-af9e-9dd1adfd2a71",
@@ -7613,8 +7613,8 @@
             "generations": 1774
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 26,
             "id": "2c31cffb-f8b7-4b72-8235-7e356bbecf8a",
@@ -7649,8 +7649,8 @@
             "generations": 1697
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 26,
             "id": "7fee18df-f6ad-49aa-b4a3-9fe89443a571",
@@ -7685,14 +7685,14 @@
             "generations": 1614
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 26,
             "id": "5ce513c0-8744-407f-b511-c9cedcfd3608",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#697a21",
             "team1WinLoss": [
                 9,
@@ -7721,8 +7721,8 @@
             "generations": 1078
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 26,
             "id": "c98bb945-ce54-4504-afd8-dd1780007485",
@@ -7757,8 +7757,8 @@
             "generations": 1990
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 26,
             "id": "b05d9fb1-3316-4660-967a-787ebcb98c2a",
@@ -7793,8 +7793,8 @@
             "generations": 1008
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 26,
             "id": "ae457176-5dc4-44e8-8aca-4545b18c1c25",
@@ -7831,8 +7831,8 @@
     ],
     [
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 27,
             "id": "87a30d2c-6dae-47df-81d8-acef99821426",
@@ -7867,8 +7867,8 @@
             "generations": 1304
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 27,
             "id": "4416c2dd-0c81-4d53-9e28-2b77cf06ba4e",
@@ -7903,8 +7903,8 @@
             "generations": 1797
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 27,
             "id": "312a4891-a36a-46e4-8240-46f29af836d3",
@@ -7939,8 +7939,8 @@
             "generations": 1309
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 27,
             "id": "276b1569-cdc0-469b-846d-8ff428e04995",
@@ -7975,15 +7975,15 @@
             "generations": 1967
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 27,
             "id": "dc709713-b1a7-4c0e-9a40-6e4e7dcceb28",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#697a21",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 12,
                 15
@@ -8011,8 +8011,8 @@
             "generations": 1061
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 27,
             "id": "eb6a9282-d688-4c66-85b2-25819c3ff9fe",
@@ -8047,8 +8047,8 @@
             "generations": 2445
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 27,
             "id": "4f2217ab-0937-495d-970a-878fcb53e5f7",
@@ -8083,8 +8083,8 @@
             "generations": 1184
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 27,
             "id": "c8fd3294-5f3d-41b5-8be4-3f68f4a2840a",
@@ -8121,8 +8121,8 @@
     ],
     [
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 28,
             "id": "241346d0-e019-4af2-b5a7-ebbcbf2542f3",
@@ -8157,8 +8157,8 @@
             "generations": 2288
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 28,
             "id": "81e8dc7b-6e28-44c6-b15b-7dc617b3fee0",
@@ -8193,8 +8193,8 @@
             "generations": 2156
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 28,
             "id": "403a54a5-79e1-44fe-b6c4-c55dacb298b5",
@@ -8229,8 +8229,8 @@
             "generations": 2371
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 28,
             "id": "a2805caa-8a6f-4164-a63d-caeac2d9099a",
@@ -8265,14 +8265,14 @@
             "generations": 1169
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 28,
             "id": "60fd4732-a8fc-4659-aa6c-c543bbb9afaf",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 9,
@@ -8301,8 +8301,8 @@
             "generations": 1368
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 28,
             "id": "1877a271-b65f-429e-9de3-26c551a65200",
@@ -8337,8 +8337,8 @@
             "generations": 1809
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 28,
             "id": "c67f3340-5fa6-4fba-9798-1d15c5580b47",
@@ -8373,8 +8373,8 @@
             "generations": 1358
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 28,
             "id": "413c02ea-fafd-4df2-80b2-429922c2153c",
@@ -8411,8 +8411,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 29,
             "id": "a892a690-fe13-4502-9d72-012cef48026d",
@@ -8447,8 +8447,8 @@
             "generations": 1245
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 29,
             "id": "8c33492d-6708-4c0e-84f3-63e978646a29",
@@ -8483,8 +8483,8 @@
             "generations": 2179
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 29,
             "id": "acf18b2f-cd20-4dd7-9901-c5d829a3b1d9",
@@ -8519,8 +8519,8 @@
             "generations": 1756
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 29,
             "id": "432e81f0-6e06-4d79-81d4-4236b58e8aee",
@@ -8555,15 +8555,15 @@
             "generations": 1106
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 29,
             "id": "2c7e923a-71d6-4dfb-a65f-dd14e7e5d52e",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 15,
                 14
@@ -8591,8 +8591,8 @@
             "generations": 3438
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 29,
             "id": "1a2a2c02-3fb1-4e04-b1d0-f49c9bb3ee22",
@@ -8627,8 +8627,8 @@
             "generations": 1618
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 29,
             "id": "55818737-72c6-4b88-9756-59776f309e60",
@@ -8663,8 +8663,8 @@
             "generations": 2928
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 29,
             "id": "fb3fc3d1-7af9-4d32-8ab7-34d7ca2ed805",
@@ -8701,8 +8701,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 30,
             "id": "6b931335-876c-4ed3-b10e-8cf1232cbf30",
@@ -8737,8 +8737,8 @@
             "generations": 1412
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 30,
             "id": "5a5af108-2a88-4c3a-b80d-68599a9dd16a",
@@ -8773,8 +8773,8 @@
             "generations": 1154
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 30,
             "id": "d7d933d0-851f-4a5a-82fe-d1babec621ae",
@@ -8809,8 +8809,8 @@
             "generations": 1730
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 30,
             "id": "e579f261-3566-474e-b23e-745e3d166843",
@@ -8845,15 +8845,15 @@
             "generations": 1705
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 30,
             "id": "ac379eb8-9008-46aa-a3ed-f876365792b4",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 17,
                 13
@@ -8881,8 +8881,8 @@
             "generations": 1034
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 30,
             "id": "572dfc39-76d7-4237-a20d-632c1ec848a3",
@@ -8917,8 +8917,8 @@
             "generations": 1225
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 30,
             "id": "a805b4a8-c6a2-41fb-b68e-728682b282ad",
@@ -8953,8 +8953,8 @@
             "generations": 1331
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 30,
             "id": "159d3600-f7cd-4010-b6fb-a4604fe43135",
@@ -8991,8 +8991,8 @@
     ],
     [
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 31,
             "id": "53f68c2c-94c6-48b1-abb4-7762b6670fb2",
@@ -9027,8 +9027,8 @@
             "generations": 1001
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 31,
             "id": "ac3cd127-7eba-4793-9fef-4482f2320b58",
@@ -9063,8 +9063,8 @@
             "generations": 3366
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 31,
             "id": "fb39b8bf-b8d2-472b-950c-2f901f8d006c",
@@ -9099,8 +9099,8 @@
             "generations": 1087
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 31,
             "id": "6ae258db-b9e2-4516-bbc9-cad22c787c2c",
@@ -9135,14 +9135,14 @@
             "generations": 1049
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 31,
             "id": "3b249788-5571-4623-a788-1fe7d63691cf",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#9963ab",
             "team1WinLoss": [
                 11,
@@ -9171,8 +9171,8 @@
             "generations": 2086
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 31,
             "id": "4c7c6fdb-b5dd-4b2c-a267-85ab19ff4e31",
@@ -9207,8 +9207,8 @@
             "generations": 1280
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 31,
             "id": "8d7a90ec-1416-4080-9a16-eefd186a8ab4",
@@ -9243,8 +9243,8 @@
             "generations": 2825
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 31,
             "id": "97864b6b-f441-4059-9fde-416b37a9b1b4",
@@ -9281,8 +9281,8 @@
     ],
     [
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 32,
             "id": "cbc1c936-834e-4231-8464-2e1361e33b14",
@@ -9317,8 +9317,8 @@
             "generations": 1273
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 32,
             "id": "0d6d56de-c08d-4b05-947f-2dfebacd190a",
@@ -9353,8 +9353,8 @@
             "generations": 1417
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 32,
             "id": "2e56b6ff-c29c-4f63-aa7a-a1c1e96a7558",
@@ -9389,8 +9389,8 @@
             "generations": 2530
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 32,
             "id": "a7f507fe-6e32-4434-ab76-237d3df6709c",
@@ -9425,15 +9425,15 @@
             "generations": 1647
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 32,
             "id": "343dc963-c2d3-41b5-ad47-3123566b57ac",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 17,
                 15
@@ -9461,8 +9461,8 @@
             "generations": 1290
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 32,
             "id": "e059637c-3790-4cec-bddc-8083e3a08b61",
@@ -9497,8 +9497,8 @@
             "generations": 1717
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 32,
             "id": "0bb7b101-8b87-49b9-95ce-34a36c8ed856",
@@ -9533,8 +9533,8 @@
             "generations": 1542
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 32,
             "id": "22312fc3-c060-4dc9-92ef-f30aa41f16d0",
@@ -9571,8 +9571,8 @@
     ],
     [
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 33,
             "id": "ccdb894a-c834-4913-a210-180f70cf8aba",
@@ -9607,8 +9607,8 @@
             "generations": 2813
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 33,
             "id": "22f0caa8-61dd-43ec-a88f-3c8bc6f5a8f6",
@@ -9643,8 +9643,8 @@
             "generations": 1929
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 33,
             "id": "069aaca8-711b-413f-8794-d23fccddc790",
@@ -9679,8 +9679,8 @@
             "generations": 1302
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 33,
             "id": "cb66f9d3-0c4b-49a5-9578-52d270a79828",
@@ -9715,14 +9715,14 @@
             "generations": 1250
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 33,
             "id": "62765373-bc9a-46dc-b19a-b29f2b9b3827",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 13,
@@ -9751,8 +9751,8 @@
             "generations": 1576
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 33,
             "id": "78b5f7a6-df5d-4fd8-8951-5e435303c553",
@@ -9787,8 +9787,8 @@
             "generations": 3963
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 33,
             "id": "7b54f723-8edd-42cb-9f60-83238c79c77e",
@@ -9823,8 +9823,8 @@
             "generations": 2347
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 33,
             "id": "16dfac91-e98c-4bc3-9ff2-aba27ee4b850",
@@ -9861,8 +9861,8 @@
     ],
     [
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 34,
             "id": "1a906693-2c25-4111-82d6-5eb3a873c36d",
@@ -9897,8 +9897,8 @@
             "generations": 2456
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 34,
             "id": "a169988c-ea24-4f61-aca9-f06ff095e2d6",
@@ -9933,8 +9933,8 @@
             "generations": 2024
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 34,
             "id": "067f4ca6-3e2f-4fb8-a8ec-73d808c795d8",
@@ -9969,8 +9969,8 @@
             "generations": 1495
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 34,
             "id": "76b85b07-7927-4136-9114-b557f26f6890",
@@ -10005,14 +10005,14 @@
             "generations": 1286
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 34,
             "id": "9cb41cd4-5ebf-426c-8d25-1b3b6cf57264",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 14,
@@ -10041,8 +10041,8 @@
             "generations": 1940
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 34,
             "id": "bb0cb05f-0b36-441e-84a4-11772390790f",
@@ -10077,8 +10077,8 @@
             "generations": 1699
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 34,
             "id": "b760e034-e1b7-4e9a-bf72-cea304794728",
@@ -10113,8 +10113,8 @@
             "generations": 1837
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 34,
             "id": "a7e5ab57-5da2-4962-9419-b54dae491aa5",
@@ -10151,8 +10151,8 @@
     ],
     [
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 35,
             "id": "688308e2-c6b4-4018-a069-3e1e62626513",
@@ -10187,8 +10187,8 @@
             "generations": 1133
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 35,
             "id": "2c5c1eac-08bd-42e9-b6d7-074da312771c",
@@ -10223,8 +10223,8 @@
             "generations": 2147
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 35,
             "id": "fcd0c79d-6e1f-4206-94a1-779c28f4800f",
@@ -10259,8 +10259,8 @@
             "generations": 2151
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 35,
             "id": "052a0cc3-393d-4615-865b-44afd68058e4",
@@ -10295,15 +10295,15 @@
             "generations": 1118
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 35,
             "id": "b898847c-dbb2-49a5-b231-03df920dca4d",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 17,
                 18
@@ -10331,8 +10331,8 @@
             "generations": 1235
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 35,
             "id": "983b8b3d-4f4e-4ceb-938e-2e8fd3d9643f",
@@ -10367,8 +10367,8 @@
             "generations": 1746
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 35,
             "id": "0ffb7a46-d16a-4529-9bfd-275cab0aa8ee",
@@ -10403,8 +10403,8 @@
             "generations": 3060
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 35,
             "id": "7990e1b3-ab94-453e-884e-d091af0c5116",
@@ -10441,8 +10441,8 @@
     ],
     [
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 36,
             "id": "0e197666-3dc1-4d04-89b9-3fee5ce96bcc",
@@ -10477,8 +10477,8 @@
             "generations": 2514
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 36,
             "id": "0b1c8c2c-94a8-4a96-a20c-6b818d49f2ab",
@@ -10513,8 +10513,8 @@
             "generations": 1949
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 36,
             "id": "285f35b1-6553-4e1c-a324-41d37e211242",
@@ -10549,8 +10549,8 @@
             "generations": 1414
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 36,
             "id": "a9415000-9d6b-425e-a8b8-e820076289a4",
@@ -10585,8 +10585,8 @@
             "generations": 5340
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 36,
             "id": "7434b863-8031-4eff-8615-0b8999b94608",
@@ -10621,14 +10621,14 @@
             "generations": 1520
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 36,
             "id": "f67cc7d9-a72f-475c-91c4-af451331b244",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#9963ab",
             "team1WinLoss": [
                 15,
@@ -10657,8 +10657,8 @@
             "generations": 1269
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 36,
             "id": "2263649f-efa3-4be5-a91e-f4be84e59e2e",
@@ -10693,8 +10693,8 @@
             "generations": 2179
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 36,
             "id": "259d4385-9d5f-47d8-a494-07e0901d2bb2",
@@ -10731,8 +10731,8 @@
     ],
     [
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 37,
             "id": "566c8709-f933-459b-ba34-91a11f0c5ab8",
@@ -10767,8 +10767,8 @@
             "generations": 1103
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 37,
             "id": "a16596ab-a99f-4f85-9a20-5a338b493d82",
@@ -10803,8 +10803,8 @@
             "generations": 2768
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 37,
             "id": "11553ce1-3908-421d-ac70-f4e174bfd740",
@@ -10839,8 +10839,8 @@
             "generations": 1383
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 37,
             "id": "88d40f4b-203e-4ec7-a880-4598fe3d8d5e",
@@ -10875,8 +10875,8 @@
             "generations": 1875
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 37,
             "id": "3a4476bd-5fb0-42bf-962f-e160a1b642d0",
@@ -10911,15 +10911,15 @@
             "generations": 2082
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 37,
             "id": "4aaa13b7-6a19-435c-b01f-4f775cf80ce3",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 20,
                 17
@@ -10947,8 +10947,8 @@
             "generations": 1171
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 37,
             "id": "93e7c3a7-dcde-4ed2-87f3-dc1135ef75c1",
@@ -10983,8 +10983,8 @@
             "generations": 1272
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 37,
             "id": "117c3057-0c91-4fe5-99ff-53e36959dfcc",
@@ -11021,8 +11021,8 @@
     ],
     [
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 38,
             "id": "986de343-e576-461e-8d5e-ecb960c14703",
@@ -11057,8 +11057,8 @@
             "generations": 1498
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 38,
             "id": "a1edad2d-a930-4a0e-b3e5-1e2a57bb6c43",
@@ -11093,8 +11093,8 @@
             "generations": 3139
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 38,
             "id": "f9e3e7a6-9140-4171-ad7b-b3a2cfe873cd",
@@ -11129,8 +11129,8 @@
             "generations": 2236
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 38,
             "id": "d449154d-242f-4141-a58b-34bbe83b92a5",
@@ -11165,8 +11165,8 @@
             "generations": 2183
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 38,
             "id": "3632d631-0d8b-47a2-b738-30c33f429b28",
@@ -11201,14 +11201,14 @@
             "generations": 1724
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 38,
             "id": "b6d65497-86ce-4372-ab65-3c96549c9a7d",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 16,
@@ -11237,8 +11237,8 @@
             "generations": 2695
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 38,
             "id": "de1d4b30-a44e-4670-b956-1ca5436acf6f",
@@ -11273,8 +11273,8 @@
             "generations": 1357
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 38,
             "id": "8aa7c9aa-77f6-4e46-8cc9-2242911c4b69",
@@ -11311,8 +11311,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 39,
             "id": "7e80acaa-96f1-466c-9b2a-fa7a8fdc6103",
@@ -11347,8 +11347,8 @@
             "generations": 3515
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 39,
             "id": "90269755-9af6-47f7-96f3-aca8667dea25",
@@ -11383,8 +11383,8 @@
             "generations": 3103
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 39,
             "id": "26b3364f-6d1f-4582-988f-5360b98c1e2e",
@@ -11419,8 +11419,8 @@
             "generations": 1974
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 39,
             "id": "4b06c2ba-1327-484a-b92a-7eae27f93c7a",
@@ -11455,14 +11455,14 @@
             "generations": 1593
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 39,
             "id": "6b8dd067-407a-4b10-87bd-3dcd6005bcf1",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
                 17,
@@ -11491,8 +11491,8 @@
             "generations": 5905
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 39,
             "id": "f38821b0-66bb-4082-8ce2-147219a24311",
@@ -11527,8 +11527,8 @@
             "generations": 2539
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 39,
             "id": "2e2286bb-87ab-412b-9dba-6a3dbe324ce3",
@@ -11563,8 +11563,8 @@
             "generations": 1052
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 39,
             "id": "cdd8a239-caf2-4fb3-819a-bf7ca24dad0f",
@@ -11601,8 +11601,8 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 40,
             "id": "6641d93c-1b2d-4370-a8f9-ca34e8844695",
@@ -11637,8 +11637,8 @@
             "generations": 1372
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 40,
             "id": "831b765a-df37-44a4-9853-056917e916ce",
@@ -11673,8 +11673,8 @@
             "generations": 1184
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 40,
             "id": "d15b260f-5007-4084-ba6f-b681c8f3051b",
@@ -11709,8 +11709,8 @@
             "generations": 2533
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 40,
             "id": "9a284485-7863-4b5e-abe4-7680f410f9d1",
@@ -11745,15 +11745,15 @@
             "generations": 1365
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 40,
             "id": "53543762-6ae8-4e31-952c-ff214d13ed5f",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 17,
                 23
@@ -11781,8 +11781,8 @@
             "generations": 1447
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 40,
             "id": "4367f8cb-37a8-4934-8c29-0776652d24ef",
@@ -11817,8 +11817,8 @@
             "generations": 2693
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 40,
             "id": "c659f7c7-fe67-4118-a4ab-c44232083018",
@@ -11853,8 +11853,8 @@
             "generations": 1022
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 40,
             "id": "ba823dad-ba53-4f90-8529-177a2411aa74",
@@ -11891,8 +11891,8 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 41,
             "id": "e3e4ff13-b145-4d5e-96ae-326a5daba6f9",
@@ -11927,8 +11927,8 @@
             "generations": 2891
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 41,
             "id": "a6b30228-5d08-4615-a3cf-db2efca9467d",
@@ -11963,8 +11963,8 @@
             "generations": 2832
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 41,
             "id": "6e6d8ce5-8cab-441d-9728-50227d3be22e",
@@ -11999,8 +11999,8 @@
             "generations": 1664
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 41,
             "id": "6df35e69-e9b2-430e-a810-09cd7e8a1504",
@@ -12035,8 +12035,8 @@
             "generations": 1298
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 41,
             "id": "2058b46e-c67d-476b-8d2b-d42eb41cbac4",
@@ -12071,14 +12071,14 @@
             "generations": 2429
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 41,
             "id": "1479e035-5168-427a-85db-9012a453490e",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#e7d7c1",
             "team1WinLoss": [
                 19,
@@ -12107,8 +12107,8 @@
             "generations": 1667
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 41,
             "id": "a2f45933-e629-4010-a136-68b0583de7b0",
@@ -12143,8 +12143,8 @@
             "generations": 1940
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 41,
             "id": "f093e95d-3ca4-4fd7-9345-5f7042bf4b1c",
@@ -12181,8 +12181,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 42,
             "id": "04a7640c-a314-4b12-8dcf-195fafc8d282",
@@ -12217,8 +12217,8 @@
             "generations": 1587
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 42,
             "id": "1ef615c5-cb2f-46d0-9c38-eb895cffec78",
@@ -12253,8 +12253,8 @@
             "generations": 2295
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 42,
             "id": "8b85da1b-aace-409b-b186-3f281236c43a",
@@ -12289,8 +12289,8 @@
             "generations": 1224
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 42,
             "id": "50f4921c-7123-4093-be9c-29c25a4dedd6",
@@ -12325,8 +12325,8 @@
             "generations": 1212
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 42,
             "id": "b1f4b27c-b6d2-4aa7-8d77-22a3a28f6940",
@@ -12361,15 +12361,15 @@
             "generations": 2915
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 42,
             "id": "3d55cbbb-7746-4560-999b-1e25b2fc3417",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 17,
                 25
@@ -12397,8 +12397,8 @@
             "generations": 2392
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 42,
             "id": "fcc0ea76-ccea-41cd-940e-f317f0f13c37",
@@ -12433,8 +12433,8 @@
             "generations": 1749
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 42,
             "id": "00f1b2df-fd7f-46b7-93bf-dcc3793624b8",
@@ -12471,8 +12471,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 43,
             "id": "be6bb3cc-c9b5-435c-a84d-a3ce969629bd",
@@ -12507,8 +12507,8 @@
             "generations": 1073
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 43,
             "id": "25efad44-223e-4b86-9057-c4f83140fb41",
@@ -12543,8 +12543,8 @@
             "generations": 1158
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 43,
             "id": "e3a0e534-eb73-4505-9d60-2f27227d802e",
@@ -12579,8 +12579,8 @@
             "generations": 1818
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 43,
             "id": "68b4b11a-e971-43df-88d2-79e635936e1b",
@@ -12615,14 +12615,14 @@
             "generations": 1184
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 43,
             "id": "de42f8ab-7180-49bd-9387-72fd365f98b3",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 20,
@@ -12651,8 +12651,8 @@
             "generations": 1478
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 43,
             "id": "0a686d12-8abc-4f29-8466-84e75b1407d3",
@@ -12687,8 +12687,8 @@
             "generations": 1112
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 43,
             "id": "d81b3eb8-11b8-4af4-850a-31407dd898f4",
@@ -12723,8 +12723,8 @@
             "generations": 3424
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 43,
             "id": "851032c1-fc5b-4669-860f-8c302c733783",
@@ -12761,8 +12761,8 @@
     ],
     [
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 44,
             "id": "04313575-9044-4610-b162-ee7682c75c2d",
@@ -12797,8 +12797,8 @@
             "generations": 1606
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 44,
             "id": "f76e5abf-3f0d-4ce1-9565-58b6d463c9ce",
@@ -12833,8 +12833,8 @@
             "generations": 1256
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 44,
             "id": "29da53c7-f6d4-4dad-b72e-711f0371dc3e",
@@ -12869,8 +12869,8 @@
             "generations": 1277
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 44,
             "id": "cb23b168-cea2-4536-889d-dc652926cab2",
@@ -12905,15 +12905,15 @@
             "generations": 2625
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 44,
             "id": "7bb806f2-a5f4-4b31-be1f-f8a08c39fc76",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 23,
                 21
@@ -12941,8 +12941,8 @@
             "generations": 1582
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 44,
             "id": "f3affc3c-ccd3-4659-bd17-52a0a5d9f43c",
@@ -12977,8 +12977,8 @@
             "generations": 3311
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 44,
             "id": "4469155d-3a9a-4088-8aad-99029f46d79a",
@@ -13013,8 +13013,8 @@
             "generations": 1703
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 44,
             "id": "baf20fb1-6821-48e7-ba6b-ab29765e7bcb",
@@ -13051,8 +13051,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 45,
             "id": "e74368aa-5c0c-4304-a5c5-b9b11af59616",
@@ -13087,8 +13087,8 @@
             "generations": 1907
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 45,
             "id": "8dbfb385-f55b-4077-851f-abdfddadfff6",
@@ -13123,8 +13123,8 @@
             "generations": 2716
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 45,
             "id": "90df8917-c39c-4be9-8bff-13003c55d88a",
@@ -13159,8 +13159,8 @@
             "generations": 1557
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 45,
             "id": "ceec6268-a1c6-4c67-940a-1e53442e2b9b",
@@ -13195,8 +13195,8 @@
             "generations": 1263
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 45,
             "id": "a65c015e-003d-4c4f-8a8a-c2502bfee324",
@@ -13231,15 +13231,15 @@
             "generations": 3654
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 45,
             "id": "e6fe3532-c44d-4287-b454-62fd3493c585",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 23,
                 22
@@ -13267,8 +13267,8 @@
             "generations": 1378
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 45,
             "id": "05c32d8d-3aad-4572-8b16-a78c9ffce190",
@@ -13303,8 +13303,8 @@
             "generations": 3485
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 45,
             "id": "13f0ff02-f90a-4e09-98ec-561e4d821815",
@@ -13341,8 +13341,8 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 46,
             "id": "3da35b1d-0f8f-43f4-9744-c165a08a4502",
@@ -13377,8 +13377,8 @@
             "generations": 2300
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 46,
             "id": "ae5f4df8-f334-4f0a-83cc-43da14641e99",
@@ -13413,8 +13413,8 @@
             "generations": 1113
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 46,
             "id": "d2371640-2841-40c4-8137-19697151ac4d",
@@ -13449,8 +13449,8 @@
             "generations": 2860
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 46,
             "id": "1d2bbe24-e249-4c65-bf46-4f6498cf0363",
@@ -13485,8 +13485,8 @@
             "generations": 1246
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 46,
             "id": "dcf5255a-1c82-4445-873f-a35b6833732a",
@@ -13521,14 +13521,14 @@
             "generations": 4153
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 46,
             "id": "97d88788-a4da-412f-ae08-c413f4ff3ad3",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 21,
@@ -13557,8 +13557,8 @@
             "generations": 1618
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 46,
             "id": "9d757e3f-4b5f-4abd-b912-7b0685726cdc",
@@ -13593,8 +13593,8 @@
             "generations": 1235
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 46,
             "id": "a5139fdb-567a-4a7e-930a-65ceb091c6d8",
@@ -13631,8 +13631,8 @@
     ],
     [
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Reedsport Commuters",
             "season": 0,
             "day": 47,
             "id": "f9953907-a2fc-400e-a1fa-3697977bd974",
@@ -13667,8 +13667,8 @@
             "generations": 1271
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Milton Butchers",
             "season": 0,
             "day": 47,
             "id": "56b314f0-ca9a-42fc-9710-f0741617631a",
@@ -13703,8 +13703,8 @@
             "generations": 1761
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Rye Red Rumps",
             "season": 0,
             "day": 47,
             "id": "65115ea5-91e5-482d-b388-41d41074ba44",
@@ -13739,8 +13739,8 @@
             "generations": 2259
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Gold Bar Postdocs",
             "season": 0,
             "day": 47,
             "id": "726eed99-e2f7-463b-a208-246d19def609",
@@ -13775,8 +13775,8 @@
             "generations": 1712
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "season": 0,
             "day": 47,
             "id": "97b5b4ed-866e-4ef2-993e-fadeb016d917",
@@ -13811,15 +13811,15 @@
             "generations": 1672
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Greenfield Train Robbers",
             "season": 0,
             "day": 47,
             "id": "d52dca5b-fedf-434f-9384-8b2fab1fd356",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "team1WinLoss": [
                 24,
                 23
@@ -13847,8 +13847,8 @@
             "generations": 1460
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "season": 0,
             "day": 47,
             "id": "b15b9f98-c9d4-4857-b41f-e95764c56c96",
@@ -13883,8 +13883,8 @@
             "generations": 1082
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Chatmoss Tailing Ponds",
             "season": 0,
             "day": 47,
             "id": "0c655d02-14df-4c7d-b36f-f1ad25df50c1",
@@ -13921,8 +13921,8 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gardnerville Moths",
             "season": 0,
             "day": 48,
             "id": "6ceb9fed-6b6c-4a38-989d-074350835583",
@@ -13957,8 +13957,8 @@
             "generations": 1488
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Lely Closed Circuits",
             "season": 0,
             "day": 48,
             "id": "abc4e893-c7b8-4fa7-b9db-2327769f3a6e",
@@ -13993,8 +13993,8 @@
             "generations": 1629
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Eastpoint Germophiles",
             "season": 0,
             "day": 48,
             "id": "7c1e02f5-ed1a-4b89-b81f-95e592b17b61",
@@ -14029,8 +14029,8 @@
             "generations": 2579
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Conway Umbrellas",
             "season": 0,
             "day": 48,
             "id": "68d80e22-51ef-4ca5-803b-ef4f2aab5830",
@@ -14065,8 +14065,8 @@
             "generations": 1732
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Mogul Geniuses",
             "season": 0,
             "day": 48,
             "id": "5db5e6de-74f9-4c4d-90ac-1552085b04b9",
@@ -14101,14 +14101,14 @@
             "generations": 2770
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
             "season": 0,
             "day": 48,
             "id": "07da3148-3cd0-463b-bf96-66bcde057217",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e5",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "team1WinLoss": [
                 22,
@@ -14137,8 +14137,8 @@
             "generations": 2000
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Northfield Troubles",
             "season": 0,
             "day": 48,
             "id": "cdf577c6-ce62-44e5-a130-c31faabb1679",
@@ -14173,8 +14173,8 @@
             "generations": 1130
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Nokomis Squids",
             "season": 0,
             "day": 48,
             "id": "679d4957-cd46-497e-8622-d57c250df10c",

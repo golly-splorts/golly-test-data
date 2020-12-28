@@ -2,8 +2,8 @@
     "LDS": [
         [
             {
-                "team1Name": "Tucson Butchers",
-                "team2Name": "San Diego Balloon Animals",
+                "team1Name": "Gold Bar Postdocs",
+                "team2Name": "Rye Red Rumps",
                 "team1Color": "#990000",
                 "team2Color": "#f08700",
                 "league": "Cold League",
@@ -47,8 +47,8 @@
                 "generations": 1006
             },
             {
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Eastpoint Germophiles",
+                "team2Name": "Lely Closed Circuits",
                 "team1Color": "#53917e",
                 "team2Color": "#f2c57c",
                 "league": "Cold League",
@@ -92,8 +92,8 @@
                 "generations": 1584
             },
             {
-                "team1Name": "Orlando Business Majors",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Pleasant Prairie Frowny Faces",
+                "team2Name": "Carlinville Thirdborn",
                 "team1Color": "#0dab76",
                 "team2Color": "#9963ab",
                 "league": "Hot League",
@@ -137,8 +137,8 @@
                 "generations": 1596
             },
             {
-                "team1Name": "Milwaukee Flamingos",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Xenia Tools",
+                "team2Name": "Northfield Troubles",
                 "team1Color": "#ff66cc",
                 "team2Color": "#ffb627",
                 "league": "Hot League",
@@ -184,8 +184,8 @@
         ],
         [
             {
-                "team1Name": "Tucson Butchers",
-                "team2Name": "San Diego Balloon Animals",
+                "team1Name": "Gold Bar Postdocs",
+                "team2Name": "Rye Red Rumps",
                 "team1Color": "#990000",
                 "team2Color": "#f08700",
                 "league": "Cold League",
@@ -229,8 +229,8 @@
                 "generations": 2837
             },
             {
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Eastpoint Germophiles",
+                "team2Name": "Lely Closed Circuits",
                 "team1Color": "#53917e",
                 "team2Color": "#f2c57c",
                 "league": "Cold League",
@@ -274,8 +274,8 @@
                 "generations": 1361
             },
             {
-                "team1Name": "Orlando Business Majors",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Pleasant Prairie Frowny Faces",
+                "team2Name": "Carlinville Thirdborn",
                 "team1Color": "#0dab76",
                 "team2Color": "#9963ab",
                 "league": "Hot League",
@@ -319,8 +319,8 @@
                 "generations": 1336
             },
             {
-                "team1Name": "Milwaukee Flamingos",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Xenia Tools",
+                "team2Name": "Northfield Troubles",
                 "team1Color": "#ff66cc",
                 "team2Color": "#ffb627",
                 "league": "Hot League",
@@ -366,8 +366,8 @@
         ],
         [
             {
-                "team1Name": "San Diego Balloon Animals",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Rye Red Rumps",
+                "team2Name": "Gold Bar Postdocs",
                 "team1Color": "#f08700",
                 "team2Color": "#990000",
                 "league": "Cold League",
@@ -411,8 +411,8 @@
                 "generations": 2153
             },
             {
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Lely Closed Circuits",
+                "team2Name": "Eastpoint Germophiles",
                 "team1Color": "#f2c57c",
                 "team2Color": "#53917e",
                 "league": "Cold League",
@@ -456,8 +456,8 @@
                 "generations": 1316
             },
             {
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Orlando Business Majors",
+                "team1Name": "Carlinville Thirdborn",
+                "team2Name": "Pleasant Prairie Frowny Faces",
                 "team1Color": "#9963ab",
                 "team2Color": "#0dab76",
                 "league": "Hot League",
@@ -501,8 +501,8 @@
                 "generations": 1405
             },
             {
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Milwaukee Flamingos",
+                "team1Name": "Northfield Troubles",
+                "team2Name": "Xenia Tools",
                 "team1Color": "#ffb627",
                 "team2Color": "#ff66cc",
                 "league": "Hot League",
@@ -548,8 +548,8 @@
         ],
         [
             {
-                "team1Name": "San Diego Balloon Animals",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Rye Red Rumps",
+                "team2Name": "Gold Bar Postdocs",
                 "team1Color": "#f08700",
                 "team2Color": "#990000",
                 "league": "Cold League",
@@ -593,8 +593,8 @@
                 "generations": 2072
             },
             {
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Lely Closed Circuits",
+                "team2Name": "Eastpoint Germophiles",
                 "team1Color": "#f2c57c",
                 "team2Color": "#53917e",
                 "league": "Cold League",
@@ -638,8 +638,8 @@
                 "generations": 1645
             },
             {
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Orlando Business Majors",
+                "team1Name": "Carlinville Thirdborn",
+                "team2Name": "Pleasant Prairie Frowny Faces",
                 "team1Color": "#9963ab",
                 "team2Color": "#0dab76",
                 "league": "Hot League",
@@ -683,8 +683,8 @@
                 "generations": 2050
             },
             {
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Milwaukee Flamingos",
+                "team1Name": "Northfield Troubles",
+                "team2Name": "Xenia Tools",
                 "team1Color": "#ffb627",
                 "team2Color": "#ff66cc",
                 "league": "Hot League",
@@ -730,8 +730,8 @@
         ],
         [
             {
-                "team1Name": "Tucson Butchers",
-                "team2Name": "San Diego Balloon Animals",
+                "team1Name": "Gold Bar Postdocs",
+                "team2Name": "Rye Red Rumps",
                 "team1Color": "#990000",
                 "team2Color": "#f08700",
                 "league": "Cold League",
@@ -775,8 +775,8 @@
                 "generations": 1800
             },
             {
-                "team1Name": "Milwaukee Flamingos",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Xenia Tools",
+                "team2Name": "Northfield Troubles",
                 "team1Color": "#ff66cc",
                 "team2Color": "#ffb627",
                 "league": "Hot League",
@@ -824,8 +824,8 @@
     "LCS": [
         [
             {
-                "team1Name": "Tucson Butchers",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Gold Bar Postdocs",
+                "team2Name": "Eastpoint Germophiles",
                 "team1Color": "#990000",
                 "team2Color": "#53917e",
                 "league": "Cold League",
@@ -869,8 +869,8 @@
                 "generations": 1933
             },
             {
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Northfield Troubles",
+                "team2Name": "Carlinville Thirdborn",
                 "team1Color": "#ffb627",
                 "team2Color": "#9963ab",
                 "league": "Hot League",
@@ -916,8 +916,8 @@
         ],
         [
             {
-                "team1Name": "Tucson Butchers",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Gold Bar Postdocs",
+                "team2Name": "Eastpoint Germophiles",
                 "team1Color": "#990000",
                 "team2Color": "#53917e",
                 "league": "Cold League",
@@ -961,8 +961,8 @@
                 "generations": 1568
             },
             {
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Northfield Troubles",
+                "team2Name": "Carlinville Thirdborn",
                 "team1Color": "#ffb627",
                 "team2Color": "#9963ab",
                 "league": "Hot League",
@@ -1008,8 +1008,8 @@
         ],
         [
             {
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Eastpoint Germophiles",
+                "team2Name": "Gold Bar Postdocs",
                 "team1Color": "#53917e",
                 "team2Color": "#990000",
                 "league": "Cold League",
@@ -1053,8 +1053,8 @@
                 "generations": 1561
             },
             {
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Carlinville Thirdborn",
+                "team2Name": "Northfield Troubles",
                 "team1Color": "#9963ab",
                 "team2Color": "#ffb627",
                 "league": "Hot League",
@@ -1100,8 +1100,8 @@
         ],
         [
             {
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Eastpoint Germophiles",
+                "team2Name": "Gold Bar Postdocs",
                 "team1Color": "#53917e",
                 "team2Color": "#990000",
                 "league": "Cold League",
@@ -1145,8 +1145,8 @@
                 "generations": 2029
             },
             {
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Carlinville Thirdborn",
+                "team2Name": "Northfield Troubles",
                 "team1Color": "#9963ab",
                 "team2Color": "#ffb627",
                 "league": "Hot League",
@@ -1194,8 +1194,8 @@
     "WS": [
         [
             {
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Eastpoint Germophiles",
+                "team2Name": "Carlinville Thirdborn",
                 "team1Color": "#53917e",
                 "team2Color": "#9963ab",
                 "day": 58,
@@ -1240,8 +1240,8 @@
         ],
         [
             {
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Eastpoint Germophiles",
+                "team2Name": "Carlinville Thirdborn",
                 "team1Color": "#53917e",
                 "team2Color": "#9963ab",
                 "day": 59,
@@ -1286,8 +1286,8 @@
         ],
         [
             {
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Carlinville Thirdborn",
+                "team2Name": "Eastpoint Germophiles",
                 "team1Color": "#9963ab",
                 "team2Color": "#53917e",
                 "day": 60,
@@ -1332,8 +1332,8 @@
         ],
         [
             {
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Carlinville Thirdborn",
+                "team2Name": "Eastpoint Germophiles",
                 "team1Color": "#9963ab",
                 "team2Color": "#53917e",
                 "day": 61,

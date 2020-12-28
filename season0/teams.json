@@ -2,15 +2,15 @@
     {
         "teamId": "0cc4ede7-37de-490b-8429-5969837ca1cf",
         "teamAbbr": "DECO",
-        "teamName": "Delaware Corporate Shells",
-        "teamColor": "#a0e7e5",
+        "teamName": "Greenfield Train Robbers",
+        "teamColor": "#a0e7e8",
         "league": "Hot League",
         "division": "Fire Division"
     },
     {
         "teamId": "69b329dd-3500-4ea9-b68b-66e47252d895",
         "teamAbbr": "MILF",
-        "teamName": "Milwaukee Flamingos",
+        "teamName": "Xenia Tools",
         "teamColor": "#ff66cc",
         "league": "Hot League",
         "division": "Fire Division"
@@ -18,7 +18,7 @@
     {
         "teamId": "12ec8a48-870d-428d-bbdc-6e791b771186",
         "teamAbbr": "DET",
-        "teamName": "Detroit Grape Chews",
+        "teamName": "Carlinville Thirdborn",
         "teamColor": "#9963ab",
         "league": "Hot League",
         "division": "Fire Division"
@@ -26,7 +26,7 @@
     {
         "teamId": "4b0765b0-1ada-470b-bc76-4f004200526c",
         "teamAbbr": "SFBS",
-        "teamName": "San Francisco Boat Shoes",
+        "teamName": "Mogul Geniuses",
         "teamColor": "#e7d7c1",
         "league": "Hot League",
         "division": "Fire Division"
@@ -34,7 +34,7 @@
     {
         "teamId": "a9e07e95-e1a1-45da-870e-5073b238b4b2",
         "teamAbbr": "SAC",
-        "teamName": "Sacramento Boot Lickers",
+        "teamName": "Northfield Troubles",
         "teamColor": "#ffb627",
         "league": "Hot League",
         "division": "Water Division"
@@ -42,7 +42,7 @@
     {
         "teamId": "a37bb689-1b15-4f40-92a0-2d270acefbe4",
         "teamAbbr": "ATL",
-        "teamName": "Atlanta Glitter Sharks",
+        "teamName": "Nokomis Squids",
         "teamColor": "#697a21",
         "league": "Hot League",
         "division": "Water Division"
@@ -50,7 +50,7 @@
     {
         "teamId": "0f57285c-b61e-4e96-955d-df4e032c9494",
         "teamAbbr": "ORL",
-        "teamName": "Orlando Business Majors",
+        "teamName": "Pleasant Prairie Frowny Faces",
         "teamColor": "#0dab76",
         "league": "Hot League",
         "division": "Water Division"
@@ -58,7 +58,7 @@
     {
         "teamId": "4f51e5e9-8633-44a0-874b-34f9025435a5",
         "teamAbbr": "AA",
-        "teamName": "Alewife Arsonists",
+        "teamName": "Chatmoss Tailing Ponds",
         "teamColor": "#ff1717",
         "league": "Hot League",
         "division": "Water Division"
@@ -66,7 +66,7 @@
     {
         "teamId": "66b76929-2401-4e2b-847a-2580632c732b",
         "teamAbbr": "BTX",
-        "teamName": "Baltimore Texas",
+        "teamName": "Milton Butchers",
         "teamColor": "#3e92cc",
         "league": "Cold League",
         "division": "Fire Division"
@@ -74,7 +74,7 @@
     {
         "teamId": "9c0b7b22-98f8-4e3c-8193-b05af9b791be",
         "teamAbbr": "LBFB",
-        "teamName": "Long Beach Flightless Birds",
+        "teamName": "Lely Closed Circuits",
         "teamColor": "#f2c57c",
         "league": "Cold League",
         "division": "Fire Division"
@@ -82,7 +82,7 @@
     {
         "teamId": "3ad5ac8d-25f3-4c54-8e85-a1626bba7ef3",
         "teamAbbr": "SS",
-        "teamName": "Seattle Sneakers",
+        "teamName": "Reedsport Commuters",
         "teamColor": "#e86215",
         "league": "Cold League",
         "division": "Fire Division"
@@ -90,7 +90,7 @@
     {
         "teamId": "fe58b2e0-f6cf-4431-ab19-6aa8c70f5360",
         "teamAbbr": "EA",
-        "teamName": "Elko Astronauts",
+        "teamName": "Gardnerville Moths",
         "teamColor": "#a0e7e5",
         "league": "Cold League",
         "division": "Fire Division"
@@ -98,7 +98,7 @@
     {
         "teamId": "cea9491d-d408-431f-94b7-46c467c25478",
         "teamAbbr": "OSHA",
-        "teamName": "Jersey OSHA Violations",
+        "teamName": "Eastpoint Germophiles",
         "teamColor": "#53917e",
         "league": "Cold League",
         "division": "Water Division"
@@ -106,7 +106,7 @@
     {
         "teamId": "b7ef8708-1d48-4677-8653-5511f5c21bda",
         "teamAbbr": "FWPT",
-        "teamName": "Ft. Worth Piano Tuners",
+        "teamName": "Conway Umbrellas",
         "teamColor": "#ef6f6c",
         "league": "Cold League",
         "division": "Water Division"
@@ -114,7 +114,7 @@
     {
         "teamId": "82c4ea01-97f2-44a8-a6c1-e30c1cbf69d1",
         "teamAbbr": "SDBA",
-        "teamName": "San Diego Balloon Animals",
+        "teamName": "Rye Red Rumps",
         "teamColor": "#f08700",
         "league": "Cold League",
         "division": "Water Division"
@@ -122,7 +122,7 @@
     {
         "teamId": "e7eaeaba-737c-4cd5-9815-0b23c0736aa8",
         "teamAbbr": "TB",
-        "teamName": "Tucson Butchers",
+        "teamName": "Gold Bar Postdocs",
         "teamColor": "#990000",
         "league": "Cold League",
         "division": "Water Division"
