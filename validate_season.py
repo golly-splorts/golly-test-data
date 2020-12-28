@@ -2,7 +2,7 @@ import os
 import json
 
 
-NSEASONS = 2
+NSEASONS = 3
 for iseason in range(NSEASONS):
     seasondir = "season%d"%(iseason)
 
@@ -35,6 +35,9 @@ for iseason in range(NSEASONS):
     # -----------
     # game function defs
 
+    def check_id(game):
+        if 'id' not in game:
+            raise Exception(f"Error: missing game id from game {game}")
     def check_name_color_match(game):
         """For a given game ensure the team name matches the team color"""
         t1 = game['team1Name']
@@ -61,12 +64,12 @@ for iseason in range(NSEASONS):
         t1lea = get_team_league(t1)
         t2lea = get_team_league(t2)
         if (t1lea!=league) or (t2lea!=league):
-            raise Exception(f"Error in game {game.id} of day {game.day}: league information does not match: {t1}:{t1lea}, {t2}:{t2lea}")
+            raise Exception(f"Error in game {game['id']} of day {game['day']}: league information does not match: {t1}:{t1lea}, {t2}:{t2lea}")
 
     def check_id(game):
         if 'id' not in game.keys():
             print(game)
-            raise Exception(f"Error in game on day {game.day}: no id found")
+            raise Exception(f"Error in game on day {game['day']}: no id found")
 
     def check_pattern(game):
         if 'patternName' not in game.keys():
@@ -155,6 +158,7 @@ for iseason in range(NSEASONS):
             t1 = game['team1Name']
             t2 = game['team1Name']
 
+            check_id(game)
             check_name_color_match(game)
             check_league(game)
             check_pattern(game)
@@ -190,6 +194,7 @@ for iseason in range(NSEASONS):
             t1 = game['team1Name']
             t2 = game['team2Name']
 
+            check_id(game)
             check_name_color_match(game)
             check_score(game)
             check_league(game)

@@ -1,8 +1,8 @@
 [
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#3e92cc",
             "team2Color": "#990000",
             "id": "b5ef9013-f6c8-418b-a342-b46657f2438e",
@@ -13,8 +13,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#f2c57c",
             "team2Color": "#53917e",
             "id": "059975d4-b1fc-48d9-ae9d-1ea0d0da2997",
@@ -25,8 +25,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#e86215",
             "team2Color": "#ef6f6c",
             "id": "a3f91f8a-02b3-4b6c-8b15-cda7fa61ca6a",
@@ -37,8 +37,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#a0e7e5",
             "team2Color": "#f08700",
             "id": "1e86aa7d-8400-4ab4-829f-62409d97faba",
@@ -49,9 +49,9 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Alewife Arsonists",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Chatmoss Tailing Ponds",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "id": "a1493cd0-c299-4059-a015-a863b4794305",
             "season": 0,
@@ -61,8 +61,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#ff66cc",
             "team2Color": "#ffb627",
             "id": "e61aabd8-d65f-4db1-86f0-ca5a413ce30d",
@@ -73,8 +73,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#9963ab",
             "team2Color": "#697a21",
             "id": "a282d69a-b75b-4161-bfdd-52c14b50e1d4",
@@ -85,8 +85,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#e7d7c1",
             "team2Color": "#0dab76",
             "id": "ab9c75fb-c2b4-47e0-8b3f-1504cc852201",
@@ -99,8 +99,8 @@
     ],
     [
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Milton Butchers",
             "team1Color": "#990000",
             "team2Color": "#3e92cc",
             "id": "bab78a8a-eebf-4244-bd3f-39d846456f64",
@@ -111,8 +111,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#53917e",
             "team2Color": "#f2c57c",
             "id": "5fcd271e-a0ac-4b74-b967-e2d4783c1741",
@@ -123,8 +123,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#ef6f6c",
             "team2Color": "#e86215",
             "id": "4989a8e4-172b-43dc-937b-faaf127e126a",
@@ -135,8 +135,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#f08700",
             "team2Color": "#a0e7e5",
             "id": "fe734988-7f49-4608-800c-54392faf94f9",
@@ -147,10 +147,10 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "f8d7f711-5ef0-4192-9952-c2cde49240c4",
             "season": 0,
             "day": 1,
@@ -159,8 +159,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Xenia Tools",
             "team1Color": "#ffb627",
             "team2Color": "#ff66cc",
             "id": "44aac6c8-8940-414c-bdb2-2623ff06188b",
@@ -171,8 +171,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#697a21",
             "team2Color": "#9963ab",
             "id": "eed1de11-93ef-4e98-ab6c-b997c3f1ef0b",
@@ -183,8 +183,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#0dab76",
             "team2Color": "#e7d7c1",
             "id": "3e869610-b9eb-46cb-80bd-d5482f157fc1",
@@ -197,8 +197,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#53917e",
             "team2Color": "#a0e7e5",
             "id": "e10ab86e-243d-464a-adc2-b3200120ee20",
@@ -209,8 +209,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Milton Butchers",
             "team1Color": "#ef6f6c",
             "team2Color": "#3e92cc",
             "id": "81ee3344-5f95-4431-b90b-3de5bfe167ef",
@@ -221,8 +221,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#f08700",
             "team2Color": "#f2c57c",
             "id": "e52fa7f8-6658-44ae-9ef7-75260f578e77",
@@ -233,8 +233,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#990000",
             "team2Color": "#e86215",
             "id": "2ef6df57-9700-45a6-9e91-c15427fe6638",
@@ -245,9 +245,9 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Alewife Arsonists",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Chatmoss Tailing Ponds",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "id": "347e6e0c-0fdd-43e6-9e49-9cada29a11eb",
             "season": 0,
@@ -257,8 +257,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#ff66cc",
             "team2Color": "#ffb627",
             "id": "00246f88-2987-46f1-8e2c-8b767af9a96b",
@@ -269,8 +269,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#9963ab",
             "team2Color": "#697a21",
             "id": "4294ec9a-4aaa-4c60-a5cc-fcbe702b65c8",
@@ -281,8 +281,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#e7d7c1",
             "team2Color": "#0dab76",
             "id": "afe5b0da-b9f6-40fa-b3d8-ed9ef37cd694",
@@ -295,8 +295,8 @@
     ],
     [
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#a0e7e5",
             "team2Color": "#53917e",
             "id": "23a980e1-36b2-4c27-8b56-f0bbc2211fbc",
@@ -307,8 +307,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#3e92cc",
             "team2Color": "#ef6f6c",
             "id": "f385f3c1-e198-4e49-b87b-6093a2cf3564",
@@ -319,8 +319,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#f2c57c",
             "team2Color": "#f08700",
             "id": "4e942b59-2e03-4f35-8b4a-d0bfb404dd26",
@@ -331,8 +331,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#e86215",
             "team2Color": "#990000",
             "id": "5d4d6e44-a9c4-4f95-a1b9-7259fa05d1c6",
@@ -343,10 +343,10 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "1519d041-f27e-486f-84f0-ed18b9c6bb66",
             "season": 0,
             "day": 3,
@@ -355,8 +355,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Xenia Tools",
             "team1Color": "#ffb627",
             "team2Color": "#ff66cc",
             "id": "1ce6c67d-a88a-47dc-9173-f7745eab24b0",
@@ -367,8 +367,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#697a21",
             "team2Color": "#9963ab",
             "id": "de6286e2-16b9-4c41-94cb-2d5ca68b803f",
@@ -379,8 +379,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#0dab76",
             "team2Color": "#e7d7c1",
             "id": "033ee107-1e1a-44f5-a55d-16ad8437bcdd",
@@ -393,8 +393,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#3e92cc",
             "team2Color": "#53917e",
             "id": "dbe7fa63-d6a7-45e2-ab8c-4937859a2c8c",
@@ -405,8 +405,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#f2c57c",
             "team2Color": "#ef6f6c",
             "id": "03ab26fc-0a99-4c0d-9d52-ccb72842fa48",
@@ -417,8 +417,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#e86215",
             "team2Color": "#f08700",
             "id": "41c519ee-3e8c-4638-81a7-62bfaa20cacb",
@@ -429,8 +429,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#a0e7e5",
             "team2Color": "#990000",
             "id": "ec6b039a-817d-4d17-a659-16483e1ef611",
@@ -441,9 +441,9 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Sacramento Boot Lickers",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Northfield Troubles",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "id": "51a138aa-d715-41bd-ad0e-d8c84c188642",
             "season": 0,
@@ -453,8 +453,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ff66cc",
             "team2Color": "#697a21",
             "id": "c3cfa7bb-2235-4133-b8fc-a3b24a3fcfb8",
@@ -465,8 +465,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#9963ab",
             "team2Color": "#0dab76",
             "id": "60d32816-ba61-4d94-bd72-1b20b65e4b7a",
@@ -477,8 +477,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#e7d7c1",
             "team2Color": "#ff1717",
             "id": "8f8099dd-391c-462b-bbd6-4d0db1e1b74c",
@@ -491,8 +491,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Milton Butchers",
             "team1Color": "#53917e",
             "team2Color": "#3e92cc",
             "id": "6a687830-b901-4bd0-839b-a784b3db4f78",
@@ -503,8 +503,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#ef6f6c",
             "team2Color": "#f2c57c",
             "id": "5bebde1c-980a-4f14-a642-3d6dfcddb6aa",
@@ -515,8 +515,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#f08700",
             "team2Color": "#e86215",
             "id": "c398e87d-b907-4941-8651-f11fbf76066e",
@@ -527,8 +527,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#990000",
             "team2Color": "#a0e7e5",
             "id": "d9ac1669-4338-404f-bcbb-a7aeedbc3f10",
@@ -539,10 +539,10 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "5baa19e7-0de3-4877-b18e-d5353774aa53",
             "season": 0,
             "day": 5,
@@ -551,8 +551,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Xenia Tools",
             "team1Color": "#697a21",
             "team2Color": "#ff66cc",
             "id": "b3371aab-f957-4d31-b9b4-6d4c704bb234",
@@ -563,8 +563,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#0dab76",
             "team2Color": "#9963ab",
             "id": "850382d6-95e7-4e3b-b4a5-aeffa7fbbf98",
@@ -575,8 +575,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#ff1717",
             "team2Color": "#e7d7c1",
             "id": "3ece204a-9a88-4c48-815d-b491c9f94aac",
@@ -589,8 +589,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#53917e",
             "team2Color": "#e86215",
             "id": "2c9ba16d-8bc7-43c8-82d4-e3615a28745c",
@@ -601,8 +601,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#ef6f6c",
             "team2Color": "#a0e7e5",
             "id": "4ecf6b6a-5f32-41bc-9e5a-bafa70e02146",
@@ -613,8 +613,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Milton Butchers",
             "team1Color": "#f08700",
             "team2Color": "#3e92cc",
             "id": "cba7c0f8-ca0c-480d-82be-78791c4d97ab",
@@ -625,8 +625,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#990000",
             "team2Color": "#f2c57c",
             "id": "57342adb-ae0d-4330-9931-122b8b814b94",
@@ -637,8 +637,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#ffb627",
             "team2Color": "#9963ab",
             "id": "784c7d1b-9a3c-4e80-88f6-e1ba017ce726",
@@ -649,8 +649,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#697a21",
             "team2Color": "#e7d7c1",
             "id": "0b08fbf5-e81d-46d7-8aca-ea4c41e25277",
@@ -661,10 +661,10 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#0dab76",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "132bd96c-36ce-4048-977d-cdd888952305",
             "season": 0,
             "day": 6,
@@ -673,8 +673,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Xenia Tools",
             "team1Color": "#ff1717",
             "team2Color": "#ff66cc",
             "id": "6b17e8ee-012a-4d2b-8d5c-b33ea4fe5a32",
@@ -687,8 +687,8 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#e86215",
             "team2Color": "#53917e",
             "id": "8acd1b68-9480-4e9d-b028-848df7ac72d8",
@@ -699,8 +699,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#a0e7e5",
             "team2Color": "#ef6f6c",
             "id": "c3691492-a48c-492a-b557-a9dbab021590",
@@ -711,8 +711,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#3e92cc",
             "team2Color": "#f08700",
             "id": "7b814d50-137d-40b0-b990-08b730188122",
@@ -723,8 +723,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#f2c57c",
             "team2Color": "#990000",
             "id": "d3b2ceac-9710-4273-bd4a-9920019bdf7e",
@@ -735,8 +735,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#9963ab",
             "team2Color": "#ffb627",
             "id": "a5f8cf2a-3534-41bc-8368-02d91253ed97",
@@ -747,8 +747,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#e7d7c1",
             "team2Color": "#697a21",
             "id": "2edae274-6808-463e-8cf8-1f7c5e016fa1",
@@ -759,9 +759,9 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Orlando Business Majors",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Pleasant Prairie Frowny Faces",
+            "team1Color": "#a0e7e8",
             "team2Color": "#0dab76",
             "id": "6deb79fd-a71a-4234-8a6e-3f73fc2f2be5",
             "season": 0,
@@ -771,8 +771,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#ff66cc",
             "team2Color": "#ff1717",
             "id": "7f4ea9fd-b129-4e9e-b62e-26d6aac80d60",
@@ -785,8 +785,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#3e92cc",
             "team2Color": "#53917e",
             "id": "a75346a1-7796-40e8-ab51-88e541c2a119",
@@ -797,8 +797,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#f2c57c",
             "team2Color": "#ef6f6c",
             "id": "813570d4-9b01-4126-b10d-301ba4d5807e",
@@ -809,8 +809,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#e86215",
             "team2Color": "#f08700",
             "id": "3fc6920e-a81c-4e7d-9869-d4d55a19bf25",
@@ -821,8 +821,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#a0e7e5",
             "team2Color": "#990000",
             "id": "f0756e82-2e38-4b88-9315-f9d9816ddc02",
@@ -833,10 +833,10 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "6c9c9713-61d0-4148-baff-ae1c3af59057",
             "season": 0,
             "day": 8,
@@ -845,8 +845,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Xenia Tools",
             "team1Color": "#697a21",
             "team2Color": "#ff66cc",
             "id": "a8cbe41a-3770-497e-8eea-5103b3d2fb18",
@@ -857,8 +857,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#0dab76",
             "team2Color": "#9963ab",
             "id": "69ceffe9-a495-48a9-8a7e-c3df62a9c1d5",
@@ -869,8 +869,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#ff1717",
             "team2Color": "#e7d7c1",
             "id": "5cf559b3-ed38-446b-8290-4699e2a969c6",
@@ -883,8 +883,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Milton Butchers",
             "team1Color": "#53917e",
             "team2Color": "#3e92cc",
             "id": "c5d4ddb6-471d-4aaf-9435-9e611d42f104",
@@ -895,8 +895,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#ef6f6c",
             "team2Color": "#f2c57c",
             "id": "8d39556c-6520-4834-bd33-357f039af058",
@@ -907,8 +907,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#f08700",
             "team2Color": "#e86215",
             "id": "4ea981c0-2841-4a78-9c21-571b876715de",
@@ -919,8 +919,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#990000",
             "team2Color": "#a0e7e5",
             "id": "6ed503d0-9055-468a-b67e-1599eaeedf46",
@@ -931,9 +931,9 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Sacramento Boot Lickers",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Northfield Troubles",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "id": "dc1c0cad-11cb-4f6a-9746-ef84e4879340",
             "season": 0,
@@ -943,8 +943,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ff66cc",
             "team2Color": "#697a21",
             "id": "541df444-5dc0-47ca-8f31-c4c2dee0c497",
@@ -955,8 +955,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#9963ab",
             "team2Color": "#0dab76",
             "id": "03ffbba3-429a-4bfd-becd-fdee8d5ea4bd",
@@ -967,8 +967,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#e7d7c1",
             "team2Color": "#ff1717",
             "id": "f9f88743-d638-46d2-921e-1d989f0b4565",
@@ -981,8 +981,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#3e92cc",
             "team2Color": "#ef6f6c",
             "id": "4915c626-469f-4a8a-bcfe-ee8d12a7e7b0",
@@ -993,8 +993,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#f2c57c",
             "team2Color": "#f08700",
             "id": "da3e286e-4cbf-4978-869c-c1a787e39f9b",
@@ -1005,8 +1005,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#e86215",
             "team2Color": "#990000",
             "id": "354f5f5b-280d-4358-879b-78a4810284f1",
@@ -1017,8 +1017,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#a0e7e5",
             "team2Color": "#53917e",
             "id": "ea86cdc6-105b-4e73-bd5e-359b61375363",
@@ -1029,8 +1029,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Xenia Tools",
             "team1Color": "#ffb627",
             "team2Color": "#ff66cc",
             "id": "4ff7ff9d-6958-4f7a-b9fd-a3b735bcace0",
@@ -1041,8 +1041,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#697a21",
             "team2Color": "#9963ab",
             "id": "c504f1f4-5173-44da-9fcf-43e3d08be23c",
@@ -1053,8 +1053,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#0dab76",
             "team2Color": "#e7d7c1",
             "id": "95360907-d151-4a8b-9259-ecc3e7c5fcfc",
@@ -1065,10 +1065,10 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "dfa10796-7ab6-4dd2-8de3-9f5cbe4864fc",
             "season": 0,
             "day": 10,
@@ -1079,8 +1079,8 @@
     ],
     [
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Milton Butchers",
             "team1Color": "#ef6f6c",
             "team2Color": "#3e92cc",
             "id": "c4ab7b70-c325-444a-9c70-d053ae264f01",
@@ -1091,8 +1091,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#f08700",
             "team2Color": "#f2c57c",
             "id": "cb98c188-df78-4de1-9e89-fb06d5e41af6",
@@ -1103,8 +1103,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#990000",
             "team2Color": "#e86215",
             "id": "1427a863-02d3-47ad-aa28-653ebae7afe3",
@@ -1115,8 +1115,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#53917e",
             "team2Color": "#a0e7e5",
             "id": "8ccebc35-5d89-440f-8df8-867ae70ff487",
@@ -1127,8 +1127,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#ff66cc",
             "team2Color": "#ffb627",
             "id": "c91d1b4a-7436-41a1-9b19-ba8e14024ad2",
@@ -1139,8 +1139,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#9963ab",
             "team2Color": "#697a21",
             "id": "684d6fa7-dc30-4108-b29b-325648c76521",
@@ -1151,8 +1151,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#e7d7c1",
             "team2Color": "#0dab76",
             "id": "87c67104-a90e-4000-bf51-ed29a5d3e2e0",
@@ -1163,9 +1163,9 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Alewife Arsonists",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Chatmoss Tailing Ponds",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "id": "4feb0262-df9f-4939-b7b3-5ae19c72be84",
             "season": 0,
@@ -1177,8 +1177,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#3e92cc",
             "team2Color": "#53917e",
             "id": "6db65ea4-5431-49a4-9351-311e4ef0fc53",
@@ -1189,8 +1189,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#f2c57c",
             "team2Color": "#ef6f6c",
             "id": "54f61d61-cc5f-444b-a823-9704920cb850",
@@ -1201,8 +1201,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#e86215",
             "team2Color": "#f08700",
             "id": "ba5a1f9f-3d23-4026-a190-277369d20287",
@@ -1213,8 +1213,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#a0e7e5",
             "team2Color": "#990000",
             "id": "d1fe9c24-92c7-4794-9102-d25ded3632fb",
@@ -1225,9 +1225,9 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Sacramento Boot Lickers",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Northfield Troubles",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "id": "e40d2e1a-9644-41a2-bf4a-6d7bf3247e64",
             "season": 0,
@@ -1237,8 +1237,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ff66cc",
             "team2Color": "#697a21",
             "id": "5c95bfec-e7d3-4bd1-a1a2-435e64d73174",
@@ -1249,8 +1249,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#9963ab",
             "team2Color": "#0dab76",
             "id": "6d34e139-7eda-4a4f-a5d8-c22b71cb44b0",
@@ -1261,8 +1261,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#e7d7c1",
             "team2Color": "#ff1717",
             "id": "de7890a2-825d-420e-8d7e-9f92b4a70b4a",
@@ -1275,8 +1275,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Milton Butchers",
             "team1Color": "#53917e",
             "team2Color": "#3e92cc",
             "id": "f1915abc-1c00-4e1f-910e-0ea596c21ce3",
@@ -1287,8 +1287,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#ef6f6c",
             "team2Color": "#f2c57c",
             "id": "fa4d6791-0c84-41e7-b668-aea932e333bf",
@@ -1299,8 +1299,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#f08700",
             "team2Color": "#e86215",
             "id": "6c68907a-ae57-4de1-bcc0-c7799322a6f0",
@@ -1311,8 +1311,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#990000",
             "team2Color": "#a0e7e5",
             "id": "9e0066cd-d53e-40cf-944c-cb80a8849bbb",
@@ -1323,10 +1323,10 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "f8701582-8bd6-4e7a-8d4e-cd1a679925f8",
             "season": 0,
             "day": 13,
@@ -1335,8 +1335,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Xenia Tools",
             "team1Color": "#697a21",
             "team2Color": "#ff66cc",
             "id": "16dccc53-b1a0-4289-8c37-90bc58be533e",
@@ -1347,8 +1347,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#0dab76",
             "team2Color": "#9963ab",
             "id": "dd21e412-f81e-4f1a-97e7-e0c886437457",
@@ -1359,8 +1359,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#ff1717",
             "team2Color": "#e7d7c1",
             "id": "16d559a8-14c8-4228-8283-87147b3854e4",
@@ -1373,8 +1373,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#3e92cc",
             "team2Color": "#f08700",
             "id": "1456deb4-7215-4a5e-90f5-7342f1f34bd8",
@@ -1385,8 +1385,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#f2c57c",
             "team2Color": "#990000",
             "id": "f4378a96-dcf3-4c6e-b76c-141724ee13de",
@@ -1397,8 +1397,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#e86215",
             "team2Color": "#53917e",
             "id": "789aff09-c791-424f-82d1-af6b51744f53",
@@ -1409,8 +1409,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#a0e7e5",
             "team2Color": "#ef6f6c",
             "id": "af3097e3-e355-4ecb-9ea6-fb028b41b64b",
@@ -1421,8 +1421,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#ffb627",
             "team2Color": "#9963ab",
             "id": "9f1f9876-d450-4dee-8e9a-66e19863bb1e",
@@ -1433,8 +1433,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#697a21",
             "team2Color": "#e7d7c1",
             "id": "4b9a11f2-3247-4576-9e01-9cd10ee56756",
@@ -1445,10 +1445,10 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#0dab76",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "900319ae-5847-4bc6-a982-ce723a346106",
             "season": 0,
             "day": 14,
@@ -1457,8 +1457,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Xenia Tools",
             "team1Color": "#ff1717",
             "team2Color": "#ff66cc",
             "id": "85da4980-e2bc-4480-9a5e-cd96559b11a1",
@@ -1471,8 +1471,8 @@
     ],
     [
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Milton Butchers",
             "team1Color": "#f08700",
             "team2Color": "#3e92cc",
             "id": "495f5a0f-8d8f-4748-b961-3d259a8539fe",
@@ -1483,8 +1483,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#990000",
             "team2Color": "#f2c57c",
             "id": "53a5dfb4-eac9-43d1-9dc9-05279d210356",
@@ -1495,8 +1495,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#53917e",
             "team2Color": "#e86215",
             "id": "4fcf3073-c268-40f0-80d5-d0af0baca19a",
@@ -1507,8 +1507,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#ef6f6c",
             "team2Color": "#a0e7e5",
             "id": "521d9ba1-cd45-4ef5-a515-6cb742b9a610",
@@ -1519,8 +1519,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#9963ab",
             "team2Color": "#ffb627",
             "id": "8e79ff32-acc5-4b3e-bc00-1e3f536ad4bc",
@@ -1531,8 +1531,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#e7d7c1",
             "team2Color": "#697a21",
             "id": "be7f9786-ea26-4fb7-a403-ced9a69c62a5",
@@ -1543,9 +1543,9 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Orlando Business Majors",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Pleasant Prairie Frowny Faces",
+            "team1Color": "#a0e7e8",
             "team2Color": "#0dab76",
             "id": "7f01ae98-e6c1-47b2-97ad-6362e855ae00",
             "season": 0,
@@ -1555,8 +1555,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#ff66cc",
             "team2Color": "#ff1717",
             "id": "827c54d7-3b26-4ac5-b57c-6dca15d0af00",
@@ -1569,8 +1569,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#53917e",
             "team2Color": "#f2c57c",
             "id": "96b053a6-dd72-4297-b674-45d91af2afe0",
@@ -1581,8 +1581,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#ef6f6c",
             "team2Color": "#e86215",
             "id": "30ab3d65-ac51-43e6-948f-8f85883b3456",
@@ -1593,8 +1593,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#f08700",
             "team2Color": "#a0e7e5",
             "id": "6f8f8c3d-377c-4be3-848a-493165cd5843",
@@ -1605,8 +1605,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Milton Butchers",
             "team1Color": "#990000",
             "team2Color": "#3e92cc",
             "id": "0e28dc29-1f51-4ec6-95a2-9107a9c1c52b",
@@ -1617,9 +1617,9 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Atlanta Glitter Sharks",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Nokomis Squids",
+            "team1Color": "#a0e7e8",
             "team2Color": "#697a21",
             "id": "9a71fa43-0446-4e7e-9ffa-31de422cad91",
             "season": 0,
@@ -1629,8 +1629,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#ff66cc",
             "team2Color": "#0dab76",
             "id": "03329741-f17a-4585-9a46-8a6476269b3b",
@@ -1641,8 +1641,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#9963ab",
             "team2Color": "#ff1717",
             "id": "3825fb1c-a18d-4991-a6fc-41637e8d9d35",
@@ -1653,8 +1653,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#e7d7c1",
             "team2Color": "#ffb627",
             "id": "87245356-eee1-48fa-9e56-7e5caf817263",
@@ -1667,8 +1667,8 @@
     ],
     [
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#f2c57c",
             "team2Color": "#53917e",
             "id": "4fcaa70d-9399-40db-bbc5-1c933b89a77b",
@@ -1679,8 +1679,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#e86215",
             "team2Color": "#ef6f6c",
             "id": "d0849203-f37e-4066-b5a3-2afccd87d3ee",
@@ -1691,8 +1691,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#a0e7e5",
             "team2Color": "#f08700",
             "id": "b134e513-67e0-458a-841e-2cfa481054bd",
@@ -1703,8 +1703,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#3e92cc",
             "team2Color": "#990000",
             "id": "dff0cb53-132e-4e2f-a18d-630be98d0a3d",
@@ -1715,10 +1715,10 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#697a21",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "0d1d17e1-9c97-4450-a24d-67fd8b33a4b9",
             "season": 0,
             "day": 17,
@@ -1727,8 +1727,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Xenia Tools",
             "team1Color": "#0dab76",
             "team2Color": "#ff66cc",
             "id": "d1008cf2-6ded-4793-add1-79f336058dde",
@@ -1739,8 +1739,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#ff1717",
             "team2Color": "#9963ab",
             "id": "4bc93ef0-d996-4afe-a6e4-5086a1e8d70f",
@@ -1751,8 +1751,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#ffb627",
             "team2Color": "#e7d7c1",
             "id": "7a479be6-9b8c-4c14-a226-0837e551b5ab",
@@ -1765,8 +1765,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#53917e",
             "team2Color": "#a0e7e5",
             "id": "3c2dfeb9-9b6d-4711-a705-49ca16bf9f81",
@@ -1777,8 +1777,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Milton Butchers",
             "team1Color": "#ef6f6c",
             "team2Color": "#3e92cc",
             "id": "637f2dc4-1786-443f-ac97-6030edecb278",
@@ -1789,8 +1789,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#f08700",
             "team2Color": "#f2c57c",
             "id": "5353d087-1f0b-4f9c-bd40-a3cda4ed3a78",
@@ -1801,8 +1801,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#990000",
             "team2Color": "#e86215",
             "id": "f421fbdb-9859-4a00-a63a-0ae5c71ca9dc",
@@ -1813,9 +1813,9 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Alewife Arsonists",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Chatmoss Tailing Ponds",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "id": "a769cc6d-3e7c-4e09-b9d2-dbf9f149aca1",
             "season": 0,
@@ -1825,8 +1825,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#ff66cc",
             "team2Color": "#ffb627",
             "id": "41614e48-dbbf-4d86-b708-b461dfbc3663",
@@ -1837,8 +1837,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#9963ab",
             "team2Color": "#697a21",
             "id": "8e831ac3-6c52-4755-9982-93acdc2eb2f5",
@@ -1849,8 +1849,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#e7d7c1",
             "team2Color": "#0dab76",
             "id": "2ee68125-d7bc-49a0-a9c9-bf2173824432",
@@ -1863,8 +1863,8 @@
     ],
     [
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#a0e7e5",
             "team2Color": "#53917e",
             "id": "b47fd4fa-aa37-4552-9308-b3de868ae741",
@@ -1875,8 +1875,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#3e92cc",
             "team2Color": "#ef6f6c",
             "id": "c4870b1d-c588-48ce-b2f0-7dccabc1d622",
@@ -1887,8 +1887,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#f2c57c",
             "team2Color": "#f08700",
             "id": "4168b5b7-8350-4b8b-b816-8cf70b79de65",
@@ -1899,8 +1899,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#e86215",
             "team2Color": "#990000",
             "id": "bd1d21f4-8b53-4a24-ac7d-b221fd2894c5",
@@ -1911,10 +1911,10 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "3b3d95b8-8c04-46f6-a12d-ba967a4dcd19",
             "season": 0,
             "day": 19,
@@ -1923,8 +1923,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Xenia Tools",
             "team1Color": "#ffb627",
             "team2Color": "#ff66cc",
             "id": "626530f4-5a50-4c23-bfde-3fd467fafd89",
@@ -1935,8 +1935,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#697a21",
             "team2Color": "#9963ab",
             "id": "282697f1-bd77-4858-a6d9-9d8c902f0316",
@@ -1947,8 +1947,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#0dab76",
             "team2Color": "#e7d7c1",
             "id": "d5d7dd8a-2faa-429b-92f3-70c5f3c73f4d",
@@ -1961,8 +1961,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#53917e",
             "team2Color": "#f2c57c",
             "id": "355aaa56-0024-46b3-86a0-e718d7d3eeb0",
@@ -1973,8 +1973,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#ef6f6c",
             "team2Color": "#e86215",
             "id": "dc46f418-a4c6-4158-9932-9963488001e1",
@@ -1985,8 +1985,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#f08700",
             "team2Color": "#a0e7e5",
             "id": "5283fd9d-5bef-4ac5-a7a0-9ed521b8b808",
@@ -1997,8 +1997,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Milton Butchers",
             "team1Color": "#990000",
             "team2Color": "#3e92cc",
             "id": "79be1a14-064c-4e4d-85b8-40e6ea2da807",
@@ -2009,8 +2009,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Xenia Tools",
             "team1Color": "#ffb627",
             "team2Color": "#ff66cc",
             "id": "1907d96c-bba9-4157-87d0-9f4ddbf743d5",
@@ -2021,8 +2021,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#697a21",
             "team2Color": "#9963ab",
             "id": "80e259d7-5082-4b91-83a0-7d9e34c122bf",
@@ -2033,8 +2033,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#0dab76",
             "team2Color": "#e7d7c1",
             "id": "fb4d6761-a75f-4bda-a106-0b8e14ebf8ae",
@@ -2045,10 +2045,10 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "3d9522ee-b787-49fa-8b50-428f4c7d5415",
             "season": 0,
             "day": 20,
@@ -2059,8 +2059,8 @@
     ],
     [
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#f2c57c",
             "team2Color": "#53917e",
             "id": "477c76f5-26ba-485f-9510-a85bb5f0cb5f",
@@ -2071,8 +2071,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#e86215",
             "team2Color": "#ef6f6c",
             "id": "f5ce1ebf-42a0-4683-8404-d99ff3384980",
@@ -2083,8 +2083,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#a0e7e5",
             "team2Color": "#f08700",
             "id": "67cfa6d7-136e-4df3-ba89-bba438fafe8e",
@@ -2095,8 +2095,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#3e92cc",
             "team2Color": "#990000",
             "id": "db532076-4402-4ec7-bea1-ba9820fbfa7c",
@@ -2107,8 +2107,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#ff66cc",
             "team2Color": "#ffb627",
             "id": "5ff2c1bc-e9bd-4cca-9b1a-fbc461d7fc06",
@@ -2119,8 +2119,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#9963ab",
             "team2Color": "#697a21",
             "id": "82da7f00-434c-4c5f-847f-a2586ce54286",
@@ -2131,8 +2131,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#e7d7c1",
             "team2Color": "#0dab76",
             "id": "57bc5bf0-f135-425d-abb8-de1baddfaa58",
@@ -2143,9 +2143,9 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Alewife Arsonists",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Chatmoss Tailing Ponds",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff1717",
             "id": "a0f9c4a3-d544-47cb-a8e8-8cbda3367cfb",
             "season": 0,
@@ -2157,8 +2157,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Milton Butchers",
             "team1Color": "#53917e",
             "team2Color": "#3e92cc",
             "id": "b8cd0fd8-57e6-4f96-9755-26f54f39780e",
@@ -2169,8 +2169,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#ef6f6c",
             "team2Color": "#f2c57c",
             "id": "0c448e0f-5d93-439b-90ac-f1ed6f579249",
@@ -2181,8 +2181,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#f08700",
             "team2Color": "#e86215",
             "id": "e99b38ea-c30c-47b6-ab9f-16aeaf797ba3",
@@ -2193,8 +2193,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#990000",
             "team2Color": "#a0e7e5",
             "id": "152f3c64-67c3-4a7d-95df-a578a400d2cf",
@@ -2205,10 +2205,10 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "511319a0-f96f-4728-9a42-9960bdaee9a9",
             "season": 0,
             "day": 22,
@@ -2217,8 +2217,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Xenia Tools",
             "team1Color": "#697a21",
             "team2Color": "#ff66cc",
             "id": "d3bcfc66-3da7-4bb4-9c8b-bb296d6ef1c0",
@@ -2229,8 +2229,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#0dab76",
             "team2Color": "#9963ab",
             "id": "f3658178-589f-479d-b262-af1be0d963ea",
@@ -2241,8 +2241,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#ff1717",
             "team2Color": "#e7d7c1",
             "id": "7dcabfbf-d756-4f06-91b0-a4a195f94b63",
@@ -2255,8 +2255,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#3e92cc",
             "team2Color": "#53917e",
             "id": "3b422e14-cb91-4dc8-b0bb-f7ccdd91dc13",
@@ -2267,8 +2267,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#f2c57c",
             "team2Color": "#ef6f6c",
             "id": "d1fd2f87-dd2f-4fd4-ae73-9d7b2301fe48",
@@ -2279,8 +2279,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#e86215",
             "team2Color": "#f08700",
             "id": "8aa51ab7-5a40-4164-9f15-9b9f90445dd1",
@@ -2291,8 +2291,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#a0e7e5",
             "team2Color": "#990000",
             "id": "b3c39f98-e8d6-45d8-b65f-4f146cf65f35",
@@ -2303,9 +2303,9 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Sacramento Boot Lickers",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Northfield Troubles",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ffb627",
             "id": "dfe8f5de-ccb3-4cbf-ac10-93ae5c02f3e3",
             "season": 0,
@@ -2315,8 +2315,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ff66cc",
             "team2Color": "#697a21",
             "id": "ddcb4e68-a134-4e4f-8f55-a49f74d6e26f",
@@ -2327,8 +2327,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#9963ab",
             "team2Color": "#0dab76",
             "id": "98fa46a9-52bb-42b8-a215-afc5a246e51c",
@@ -2339,8 +2339,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#e7d7c1",
             "team2Color": "#ff1717",
             "id": "34ac0e5d-6455-45bb-b208-5ae5acbd6803",
@@ -2353,8 +2353,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#3e92cc",
             "team2Color": "#f08700",
             "id": "5e93345d-4a03-4a1b-9f26-7bb70ec4aa50",
@@ -2365,8 +2365,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#f2c57c",
             "team2Color": "#990000",
             "id": "8a44a781-ade6-4517-a58d-d5d37463bcaa",
@@ -2377,8 +2377,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#e86215",
             "team2Color": "#53917e",
             "id": "ab6aad2b-2e11-4f50-8268-90ba1b9d7f3d",
@@ -2389,8 +2389,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#a0e7e5",
             "team2Color": "#ef6f6c",
             "id": "1c624b7e-b624-4500-a4ca-5c201af953f3",
@@ -2401,8 +2401,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#ffb627",
             "team2Color": "#9963ab",
             "id": "fdbf921b-f790-41b8-8666-c78ceb7b5a3a",
@@ -2413,8 +2413,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#697a21",
             "team2Color": "#e7d7c1",
             "id": "b95fe57e-aa66-4f8f-b3e5-282a4a3e6968",
@@ -2425,10 +2425,10 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#0dab76",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "e39905d5-02ec-4de4-acb5-24792aeeefe5",
             "season": 0,
             "day": 24,
@@ -2437,8 +2437,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Xenia Tools",
             "team1Color": "#ff1717",
             "team2Color": "#ff66cc",
             "id": "a44f853a-09e5-47cc-a669-cf9b7cbf59b9",
@@ -2451,8 +2451,8 @@
     ],
     [
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Milton Butchers",
             "team1Color": "#f08700",
             "team2Color": "#3e92cc",
             "id": "1ad63123-eb41-4a26-9159-136313ebd431",
@@ -2463,8 +2463,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#990000",
             "team2Color": "#f2c57c",
             "id": "2a7abfad-2824-4440-83ce-4f749583a0b6",
@@ -2475,8 +2475,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#53917e",
             "team2Color": "#e86215",
             "id": "ecbd2410-b85f-4ad8-9985-eb9b08e106fb",
@@ -2487,8 +2487,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#ef6f6c",
             "team2Color": "#a0e7e5",
             "id": "1e898158-8693-4703-84bc-d68fde96ea95",
@@ -2499,8 +2499,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#9963ab",
             "team2Color": "#ffb627",
             "id": "ece0a8ea-001a-4a5d-8552-28ae48d88e8f",
@@ -2511,8 +2511,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#e7d7c1",
             "team2Color": "#697a21",
             "id": "6e7eda27-ea11-4984-87a9-3bd820148e54",
@@ -2523,9 +2523,9 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Orlando Business Majors",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Pleasant Prairie Frowny Faces",
+            "team1Color": "#a0e7e8",
             "team2Color": "#0dab76",
             "id": "36215fed-4b17-4c3d-80a8-c469fb3ef6e4",
             "season": 0,
@@ -2535,8 +2535,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#ff66cc",
             "team2Color": "#ff1717",
             "id": "0b856cb1-5fc8-4e07-b23f-735a403f4583",
@@ -2549,8 +2549,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#53917e",
             "team2Color": "#f2c57c",
             "id": "d4793d60-779e-4793-ad6a-c60413c39c0e",
@@ -2561,8 +2561,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#ef6f6c",
             "team2Color": "#e86215",
             "id": "9a519e4d-7c0e-430b-af9e-9dd1adfd2a71",
@@ -2573,8 +2573,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#f08700",
             "team2Color": "#a0e7e5",
             "id": "2c31cffb-f8b7-4b72-8235-7e356bbecf8a",
@@ -2585,8 +2585,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Milton Butchers",
             "team1Color": "#990000",
             "team2Color": "#3e92cc",
             "id": "7fee18df-f6ad-49aa-b4a3-9fe89443a571",
@@ -2597,9 +2597,9 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Atlanta Glitter Sharks",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Nokomis Squids",
+            "team1Color": "#a0e7e8",
             "team2Color": "#697a21",
             "id": "5ce513c0-8744-407f-b511-c9cedcfd3608",
             "season": 0,
@@ -2609,8 +2609,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#ff66cc",
             "team2Color": "#0dab76",
             "id": "c98bb945-ce54-4504-afd8-dd1780007485",
@@ -2621,8 +2621,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#9963ab",
             "team2Color": "#ff1717",
             "id": "b05d9fb1-3316-4660-967a-787ebcb98c2a",
@@ -2633,8 +2633,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#e7d7c1",
             "team2Color": "#ffb627",
             "id": "ae457176-5dc4-44e8-8aca-4545b18c1c25",
@@ -2647,8 +2647,8 @@
     ],
     [
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#f2c57c",
             "team2Color": "#53917e",
             "id": "87a30d2c-6dae-47df-81d8-acef99821426",
@@ -2659,8 +2659,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#e86215",
             "team2Color": "#ef6f6c",
             "id": "4416c2dd-0c81-4d53-9e28-2b77cf06ba4e",
@@ -2671,8 +2671,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#a0e7e5",
             "team2Color": "#f08700",
             "id": "312a4891-a36a-46e4-8240-46f29af836d3",
@@ -2683,8 +2683,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#3e92cc",
             "team2Color": "#990000",
             "id": "276b1569-cdc0-469b-846d-8ff428e04995",
@@ -2695,10 +2695,10 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#697a21",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "dc709713-b1a7-4c0e-9a40-6e4e7dcceb28",
             "season": 0,
             "day": 27,
@@ -2707,8 +2707,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Xenia Tools",
             "team1Color": "#0dab76",
             "team2Color": "#ff66cc",
             "id": "eb6a9282-d688-4c66-85b2-25819c3ff9fe",
@@ -2719,8 +2719,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#ff1717",
             "team2Color": "#9963ab",
             "id": "4f2217ab-0937-495d-970a-878fcb53e5f7",
@@ -2731,8 +2731,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#ffb627",
             "team2Color": "#e7d7c1",
             "id": "c8fd3294-5f3d-41b5-8be4-3f68f4a2840a",
@@ -2745,8 +2745,8 @@
     ],
     [
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#f08700",
             "team2Color": "#53917e",
             "id": "241346d0-e019-4af2-b5a7-ebbcbf2542f3",
@@ -2757,8 +2757,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#990000",
             "team2Color": "#ef6f6c",
             "id": "81e8dc7b-6e28-44c6-b15b-7dc617b3fee0",
@@ -2769,8 +2769,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#a0e7e5",
             "team2Color": "#f2c57c",
             "id": "403a54a5-79e1-44fe-b6c4-c55dacb298b5",
@@ -2781,8 +2781,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#3e92cc",
             "team2Color": "#e86215",
             "id": "a2805caa-8a6f-4164-a63d-caeac2d9099a",
@@ -2793,9 +2793,9 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "id": "60fd4732-a8fc-4659-aa6c-c543bbb9afaf",
             "season": 0,
@@ -2805,8 +2805,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "id": "1877a271-b65f-429e-9de3-26c551a65200",
@@ -2817,8 +2817,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#0dab76",
             "team2Color": "#ffb627",
             "id": "c67f3340-5fa6-4fba-9798-1d15c5580b47",
@@ -2829,8 +2829,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "id": "413c02ea-fafd-4df2-80b2-429922c2153c",
@@ -2843,8 +2843,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#53917e",
             "team2Color": "#f08700",
             "id": "a892a690-fe13-4502-9d72-012cef48026d",
@@ -2855,8 +2855,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#ef6f6c",
             "team2Color": "#990000",
             "id": "8c33492d-6708-4c0e-84f3-63e978646a29",
@@ -2867,8 +2867,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#f2c57c",
             "team2Color": "#a0e7e5",
             "id": "acf18b2f-cd20-4dd7-9901-c5d829a3b1d9",
@@ -2879,8 +2879,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Milton Butchers",
             "team1Color": "#e86215",
             "team2Color": "#3e92cc",
             "id": "432e81f0-6e06-4d79-81d4-4236b58e8aee",
@@ -2891,10 +2891,10 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "2c7e923a-71d6-4dfb-a65f-dd14e7e5d52e",
             "season": 0,
             "day": 29,
@@ -2903,8 +2903,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#9963ab",
             "team2Color": "#e7d7c1",
             "id": "1a2a2c02-3fb1-4e04-b1d0-f49c9bb3ee22",
@@ -2915,8 +2915,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#ffb627",
             "team2Color": "#0dab76",
             "id": "55818737-72c6-4b88-9756-59776f309e60",
@@ -2927,8 +2927,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#697a21",
             "team2Color": "#ff1717",
             "id": "fb3fc3d1-7af9-4d32-8ab7-34d7ca2ed805",
@@ -2941,8 +2941,8 @@
     ],
     [
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#53917e",
             "team2Color": "#ef6f6c",
             "id": "6b931335-876c-4ed3-b10e-8cf1232cbf30",
@@ -2953,8 +2953,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#f08700",
             "team2Color": "#990000",
             "id": "5a5af108-2a88-4c3a-b80d-68599a9dd16a",
@@ -2965,8 +2965,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#e86215",
             "team2Color": "#a0e7e5",
             "id": "d7d933d0-851f-4a5a-82fe-d1babec621ae",
@@ -2977,8 +2977,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#3e92cc",
             "team2Color": "#f2c57c",
             "id": "e579f261-3566-474e-b23e-745e3d166843",
@@ -2989,10 +2989,10 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "ac379eb8-9008-46aa-a3ed-f876365792b4",
             "season": 0,
             "day": 30,
@@ -3001,8 +3001,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Xenia Tools",
             "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc",
             "id": "572dfc39-76d7-4237-a20d-632c1ec848a3",
@@ -3013,8 +3013,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#0dab76",
             "team2Color": "#ffb627",
             "id": "a805b4a8-c6a2-41fb-b68e-728682b282ad",
@@ -3025,8 +3025,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "id": "159d3600-f7cd-4010-b6fb-a4604fe43135",
@@ -3039,8 +3039,8 @@
     ],
     [
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#ef6f6c",
             "team2Color": "#53917e",
             "id": "53f68c2c-94c6-48b1-abb4-7762b6670fb2",
@@ -3051,8 +3051,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#990000",
             "team2Color": "#f08700",
             "id": "ac3cd127-7eba-4793-9fef-4482f2320b58",
@@ -3063,8 +3063,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#a0e7e5",
             "team2Color": "#e86215",
             "id": "fb39b8bf-b8d2-472b-950c-2f901f8d006c",
@@ -3075,8 +3075,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Milton Butchers",
             "team1Color": "#f2c57c",
             "team2Color": "#3e92cc",
             "id": "6ae258db-b9e2-4516-bbc9-cad22c787c2c",
@@ -3087,9 +3087,9 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Detroit Grape Chews",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Carlinville Thirdborn",
+            "team1Color": "#a0e7e8",
             "team2Color": "#9963ab",
             "id": "3b249788-5571-4623-a788-1fe7d63691cf",
             "season": 0,
@@ -3099,8 +3099,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#ff66cc",
             "team2Color": "#e7d7c1",
             "id": "4c7c6fdb-b5dd-4b2c-a267-85ab19ff4e31",
@@ -3111,8 +3111,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#ffb627",
             "team2Color": "#0dab76",
             "id": "8d7a90ec-1416-4080-9a16-eefd186a8ab4",
@@ -3123,8 +3123,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#697a21",
             "team2Color": "#ff1717",
             "id": "97864b6b-f441-4059-9fde-416b37a9b1b4",
@@ -3137,8 +3137,8 @@
     ],
     [
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#990000",
             "team2Color": "#f08700",
             "id": "cbc1c936-834e-4231-8464-2e1361e33b14",
@@ -3149,8 +3149,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#ef6f6c",
             "team2Color": "#53917e",
             "id": "0d6d56de-c08d-4b05-947f-2dfebacd190a",
@@ -3161,8 +3161,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#a0e7e5",
             "team2Color": "#e86215",
             "id": "2e56b6ff-c29c-4f63-aa7a-a1c1e96a7558",
@@ -3173,8 +3173,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#3e92cc",
             "team2Color": "#f2c57c",
             "id": "a7f507fe-6e32-4434-ab76-237d3df6709c",
@@ -3185,10 +3185,10 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "343dc963-c2d3-41b5-ad47-3123566b57ac",
             "season": 0,
             "day": 32,
@@ -3197,8 +3197,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "id": "e059637c-3790-4cec-bddc-8083e3a08b61",
@@ -3209,8 +3209,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#0dab76",
             "team2Color": "#ff1717",
             "id": "0bb7b101-8b87-49b9-95ce-34a36c8ed856",
@@ -3221,8 +3221,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ffb627",
             "team2Color": "#697a21",
             "id": "22312fc3-c060-4dc9-92ef-f30aa41f16d0",
@@ -3235,8 +3235,8 @@
     ],
     [
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#f08700",
             "team2Color": "#990000",
             "id": "ccdb894a-c834-4913-a210-180f70cf8aba",
@@ -3247,8 +3247,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#53917e",
             "team2Color": "#ef6f6c",
             "id": "22f0caa8-61dd-43ec-a88f-3c8bc6f5a8f6",
@@ -3259,8 +3259,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#e86215",
             "team2Color": "#a0e7e5",
             "id": "069aaca8-711b-413f-8794-d23fccddc790",
@@ -3271,8 +3271,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Milton Butchers",
             "team1Color": "#f2c57c",
             "team2Color": "#3e92cc",
             "id": "cb66f9d3-0c4b-49a5-9578-52d270a79828",
@@ -3283,9 +3283,9 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "id": "62765373-bc9a-46dc-b19a-b29f2b9b3827",
             "season": 0,
@@ -3295,8 +3295,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#9963ab",
             "team2Color": "#e7d7c1",
             "id": "78b5f7a6-df5d-4fd8-8951-5e435303c553",
@@ -3307,8 +3307,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "id": "7b54f723-8edd-42cb-9f60-83238c79c77e",
@@ -3319,8 +3319,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#697a21",
             "team2Color": "#ffb627",
             "id": "16dfac91-e98c-4bc3-9ff2-aba27ee4b850",
@@ -3333,8 +3333,8 @@
     ],
     [
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#990000",
             "team2Color": "#f08700",
             "id": "1a906693-2c25-4111-82d6-5eb3a873c36d",
@@ -3345,8 +3345,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#53917e",
             "team2Color": "#ef6f6c",
             "id": "a169988c-ea24-4f61-aca9-f06ff095e2d6",
@@ -3357,8 +3357,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#a0e7e5",
             "team2Color": "#e86215",
             "id": "067f4ca6-3e2f-4fb8-a8ec-73d808c795d8",
@@ -3369,8 +3369,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#3e92cc",
             "team2Color": "#f2c57c",
             "id": "76b85b07-7927-4136-9114-b557f26f6890",
@@ -3381,9 +3381,9 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "id": "9cb41cd4-5ebf-426c-8d25-1b3b6cf57264",
             "season": 0,
@@ -3393,8 +3393,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#9963ab",
             "team2Color": "#e7d7c1",
             "id": "bb0cb05f-0b36-441e-84a4-11772390790f",
@@ -3405,8 +3405,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#697a21",
             "team2Color": "#ff1717",
             "id": "b760e034-e1b7-4e9a-bf72-cea304794728",
@@ -3417,8 +3417,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#ffb627",
             "team2Color": "#0dab76",
             "id": "a7e5ab57-5da2-4962-9419-b54dae491aa5",
@@ -3431,8 +3431,8 @@
     ],
     [
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#f08700",
             "team2Color": "#990000",
             "id": "688308e2-c6b4-4018-a069-3e1e62626513",
@@ -3443,8 +3443,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#ef6f6c",
             "team2Color": "#53917e",
             "id": "2c5c1eac-08bd-42e9-b6d7-074da312771c",
@@ -3455,8 +3455,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#e86215",
             "team2Color": "#a0e7e5",
             "id": "fcd0c79d-6e1f-4206-94a1-779c28f4800f",
@@ -3467,8 +3467,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Milton Butchers",
             "team1Color": "#f2c57c",
             "team2Color": "#3e92cc",
             "id": "052a0cc3-393d-4615-865b-44afd68058e4",
@@ -3479,10 +3479,10 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "b898847c-dbb2-49a5-b231-03df920dca4d",
             "season": 0,
             "day": 35,
@@ -3491,8 +3491,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "id": "983b8b3d-4f4e-4ceb-938e-2e8fd3d9643f",
@@ -3503,8 +3503,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "id": "0ffb7a46-d16a-4529-9bfd-275cab0aa8ee",
@@ -3515,8 +3515,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#0dab76",
             "team2Color": "#ffb627",
             "id": "7990e1b3-ab94-453e-884e-d091af0c5116",
@@ -3529,8 +3529,8 @@
     ],
     [
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#ef6f6c",
             "team2Color": "#f08700",
             "id": "0e197666-3dc1-4d04-89b9-3fee5ce96bcc",
@@ -3541,8 +3541,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#53917e",
             "team2Color": "#990000",
             "id": "0b1c8c2c-94a8-4a96-a20c-6b818d49f2ab",
@@ -3553,8 +3553,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#a0e7e5",
             "team2Color": "#f2c57c",
             "id": "285f35b1-6553-4e1c-a324-41d37e211242",
@@ -3565,8 +3565,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Milton Butchers",
             "team1Color": "#e86215",
             "team2Color": "#3e92cc",
             "id": "a9415000-9d6b-425e-a8b8-e820076289a4",
@@ -3577,8 +3577,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Xenia Tools",
             "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc",
             "id": "7434b863-8031-4eff-8615-0b8999b94608",
@@ -3589,9 +3589,9 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Detroit Grape Chews",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Carlinville Thirdborn",
+            "team1Color": "#a0e7e8",
             "team2Color": "#9963ab",
             "id": "f67cc7d9-a72f-475c-91c4-af451331b244",
             "season": 0,
@@ -3601,8 +3601,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#697a21",
             "team2Color": "#ffb627",
             "id": "2263649f-efa3-4be5-a91e-f4be84e59e2e",
@@ -3613,8 +3613,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "id": "259d4385-9d5f-47d8-a494-07e0901d2bb2",
@@ -3627,8 +3627,8 @@
     ],
     [
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#f08700",
             "team2Color": "#ef6f6c",
             "id": "566c8709-f933-459b-ba34-91a11f0c5ab8",
@@ -3639,8 +3639,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#990000",
             "team2Color": "#53917e",
             "id": "a16596ab-a99f-4f85-9a20-5a338b493d82",
@@ -3651,8 +3651,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#f2c57c",
             "team2Color": "#a0e7e5",
             "id": "11553ce1-3908-421d-ac70-f4e174bfd740",
@@ -3663,8 +3663,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#3e92cc",
             "team2Color": "#e86215",
             "id": "88d40f4b-203e-4ec7-a880-4598fe3d8d5e",
@@ -3675,8 +3675,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#ff66cc",
             "team2Color": "#e7d7c1",
             "id": "3a4476bd-5fb0-42bf-962f-e160a1b642d0",
@@ -3687,10 +3687,10 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "4aaa13b7-6a19-435c-b01f-4f775cf80ce3",
             "season": 0,
             "day": 37,
@@ -3699,8 +3699,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ffb627",
             "team2Color": "#697a21",
             "id": "93e7c3a7-dcde-4ed2-87f3-dc1135ef75c1",
@@ -3711,8 +3711,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#0dab76",
             "team2Color": "#ff1717",
             "id": "117c3057-0c91-4fe5-99ff-53e36959dfcc",
@@ -3725,8 +3725,8 @@
     ],
     [
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#ef6f6c",
             "team2Color": "#53917e",
             "id": "986de343-e576-461e-8d5e-ecb960c14703",
@@ -3737,8 +3737,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#990000",
             "team2Color": "#f08700",
             "id": "a1edad2d-a930-4a0e-b3e5-1e2a57bb6c43",
@@ -3749,8 +3749,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#3e92cc",
             "team2Color": "#a0e7e5",
             "id": "f9e3e7a6-9140-4171-ad7b-b3a2cfe873cd",
@@ -3761,8 +3761,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#f2c57c",
             "team2Color": "#e86215",
             "id": "d449154d-242f-4141-a58b-34bbe83b92a5",
@@ -3773,8 +3773,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "id": "3632d631-0d8b-47a2-b738-30c33f429b28",
@@ -3785,9 +3785,9 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "id": "b6d65497-86ce-4372-ab65-3c96549c9a7d",
             "season": 0,
@@ -3797,8 +3797,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#0dab76",
             "team2Color": "#ff1717",
             "id": "de1d4b30-a44e-4670-b956-1ca5436acf6f",
@@ -3809,8 +3809,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ffb627",
             "team2Color": "#697a21",
             "id": "8aa7c9aa-77f6-4e46-8cc9-2242911c4b69",
@@ -3823,8 +3823,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#3e92cc",
             "team2Color": "#e86215",
             "id": "7e80acaa-96f1-466c-9b2a-fa7a8fdc6103",
@@ -3835,8 +3835,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#a0e7e5",
             "team2Color": "#f2c57c",
             "id": "90269755-9af6-47f7-96f3-aca8667dea25",
@@ -3847,8 +3847,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#ef6f6c",
             "team2Color": "#f08700",
             "id": "26b3364f-6d1f-4582-988f-5360b98c1e2e",
@@ -3859,8 +3859,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#990000",
             "team2Color": "#53917e",
             "id": "4b06c2ba-1327-484a-b92a-7eae27f93c7a",
@@ -3871,9 +3871,9 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "San Francisco Boat Shoes",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Mogul Geniuses",
+            "team1Color": "#a0e7e8",
             "team2Color": "#e7d7c1",
             "id": "6b8dd067-407a-4b10-87bd-3dcd6005bcf1",
             "season": 0,
@@ -3883,8 +3883,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#ff66cc",
             "team2Color": "#9963ab",
             "id": "f38821b0-66bb-4082-8ce2-147219a24311",
@@ -3895,8 +3895,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ffb627",
             "team2Color": "#697a21",
             "id": "2e2286bb-87ab-412b-9dba-6a3dbe324ce3",
@@ -3907,8 +3907,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#0dab76",
             "team2Color": "#ff1717",
             "id": "cdd8a239-caf2-4fb3-819a-bf7ca24dad0f",
@@ -3921,8 +3921,8 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Milton Butchers",
             "team1Color": "#e86215",
             "team2Color": "#3e92cc",
             "id": "6641d93c-1b2d-4370-a8f9-ca34e8844695",
@@ -3933,8 +3933,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#f2c57c",
             "team2Color": "#a0e7e5",
             "id": "831b765a-df37-44a4-9853-056917e916ce",
@@ -3945,8 +3945,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#f08700",
             "team2Color": "#ef6f6c",
             "id": "d15b260f-5007-4084-ba6f-b681c8f3051b",
@@ -3957,8 +3957,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#53917e",
             "team2Color": "#990000",
             "id": "9a284485-7863-4b5e-abe4-7680f410f9d1",
@@ -3969,10 +3969,10 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "53543762-6ae8-4e31-952c-ff214d13ed5f",
             "season": 0,
             "day": 40,
@@ -3981,8 +3981,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Xenia Tools",
             "team1Color": "#9963ab",
             "team2Color": "#ff66cc",
             "id": "4367f8cb-37a8-4934-8c29-0776652d24ef",
@@ -3993,8 +3993,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#697a21",
             "team2Color": "#ffb627",
             "id": "c659f7c7-fe67-4118-a4ab-c44232083018",
@@ -4005,8 +4005,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "id": "ba823dad-ba53-4f90-8529-177a2411aa74",
@@ -4019,8 +4019,8 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Milton Butchers",
             "team1Color": "#e86215",
             "team2Color": "#3e92cc",
             "id": "e3e4ff13-b145-4d5e-96ae-326a5daba6f9",
@@ -4031,8 +4031,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#f2c57c",
             "team2Color": "#a0e7e5",
             "id": "a6b30228-5d08-4615-a3cf-db2efca9467d",
@@ -4043,8 +4043,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#ef6f6c",
             "team2Color": "#f08700",
             "id": "6e6d8ce5-8cab-441d-9728-50227d3be22e",
@@ -4055,8 +4055,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#53917e",
             "team2Color": "#990000",
             "id": "6df35e69-e9b2-430e-a810-09cd7e8a1504",
@@ -4067,8 +4067,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#ff66cc",
             "team2Color": "#9963ab",
             "id": "2058b46e-c67d-476b-8d2b-d42eb41cbac4",
@@ -4079,9 +4079,9 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "San Francisco Boat Shoes",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Mogul Geniuses",
+            "team1Color": "#a0e7e8",
             "team2Color": "#e7d7c1",
             "id": "1479e035-5168-427a-85db-9012a453490e",
             "season": 0,
@@ -4091,8 +4091,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#697a21",
             "team2Color": "#0dab76",
             "id": "a2f45933-e629-4010-a136-68b0583de7b0",
@@ -4103,8 +4103,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#ff1717",
             "team2Color": "#ffb627",
             "id": "f093e95d-3ca4-4fd7-9345-5f7042bf4b1c",
@@ -4117,8 +4117,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#3e92cc",
             "team2Color": "#e86215",
             "id": "04a7640c-a314-4b12-8dcf-195fafc8d282",
@@ -4129,8 +4129,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#a0e7e5",
             "team2Color": "#f2c57c",
             "id": "1ef615c5-cb2f-46d0-9c38-eb895cffec78",
@@ -4141,8 +4141,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#f08700",
             "team2Color": "#ef6f6c",
             "id": "8b85da1b-aace-409b-b186-3f281236c43a",
@@ -4153,8 +4153,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#990000",
             "team2Color": "#53917e",
             "id": "50f4921c-7123-4093-be9c-29c25a4dedd6",
@@ -4165,8 +4165,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "Milwaukee Flamingos",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Xenia Tools",
             "team1Color": "#9963ab",
             "team2Color": "#ff66cc",
             "id": "b1f4b27c-b6d2-4aa7-8d77-22a3a28f6940",
@@ -4177,10 +4177,10 @@
             "patternName": "random"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#e7d7c1",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "3d55cbbb-7746-4560-999b-1e25b2fc3417",
             "season": 0,
             "day": 42,
@@ -4189,8 +4189,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#0dab76",
             "team2Color": "#697a21",
             "id": "fcc0ea76-ccea-41cd-940e-f317f0f13c37",
@@ -4201,8 +4201,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#ffb627",
             "team2Color": "#ff1717",
             "id": "00f1b2df-fd7f-46b7-93bf-dcc3793624b8",
@@ -4215,8 +4215,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#3e92cc",
             "team2Color": "#f2c57c",
             "id": "be6bb3cc-c9b5-435c-a84d-a3ce969629bd",
@@ -4227,8 +4227,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#a0e7e5",
             "team2Color": "#e86215",
             "id": "25efad44-223e-4b86-9057-c4f83140fb41",
@@ -4239,8 +4239,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#53917e",
             "team2Color": "#990000",
             "id": "e3a0e534-eb73-4505-9d60-2f27227d802e",
@@ -4251,8 +4251,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#ef6f6c",
             "team2Color": "#f08700",
             "id": "68b4b11a-e971-43df-88d2-79e635936e1b",
@@ -4263,9 +4263,9 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "id": "de42f8ab-7180-49bd-9387-72fd365f98b3",
             "season": 0,
@@ -4275,8 +4275,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#9963ab",
             "team2Color": "#e7d7c1",
             "id": "0a686d12-8abc-4f29-8466-84e75b1407d3",
@@ -4287,8 +4287,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#697a21",
             "team2Color": "#ffb627",
             "id": "d81b3eb8-11b8-4af4-850a-31407dd898f4",
@@ -4299,8 +4299,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#0dab76",
             "team2Color": "#ff1717",
             "id": "851032c1-fc5b-4669-860f-8c302c733783",
@@ -4313,8 +4313,8 @@
     ],
     [
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Milton Butchers",
             "team1Color": "#f2c57c",
             "team2Color": "#3e92cc",
             "id": "04313575-9044-4610-b162-ee7682c75c2d",
@@ -4325,8 +4325,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#e86215",
             "team2Color": "#a0e7e5",
             "id": "f76e5abf-3f0d-4ce1-9565-58b6d463c9ce",
@@ -4337,8 +4337,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#990000",
             "team2Color": "#53917e",
             "id": "29da53c7-f6d4-4dad-b72e-711f0371dc3e",
@@ -4349,8 +4349,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#f08700",
             "team2Color": "#ef6f6c",
             "id": "cb23b168-cea2-4536-889d-dc652926cab2",
@@ -4361,10 +4361,10 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "7bb806f2-a5f4-4b31-be1f-f8a08c39fc76",
             "season": 0,
             "day": 44,
@@ -4373,8 +4373,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "id": "f3affc3c-ccd3-4659-bd17-52a0a5d9f43c",
@@ -4385,8 +4385,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ffb627",
             "team2Color": "#697a21",
             "id": "4469155d-3a9a-4088-8aad-99029f46d79a",
@@ -4397,8 +4397,8 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "id": "baf20fb1-6821-48e7-ba6b-ab29765e7bcb",
@@ -4411,8 +4411,8 @@
     ],
     [
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#3e92cc",
             "team2Color": "#e86215",
             "id": "e74368aa-5c0c-4304-a5c5-b9b11af59616",
@@ -4423,8 +4423,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#a0e7e5",
             "team2Color": "#f2c57c",
             "id": "8dbfb385-f55b-4077-851f-abdfddadfff6",
@@ -4435,8 +4435,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#53917e",
             "team2Color": "#990000",
             "id": "90df8917-c39c-4be9-8bff-13003c55d88a",
@@ -4447,8 +4447,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#f08700",
             "team2Color": "#ef6f6c",
             "id": "ceec6268-a1c6-4c67-940a-1e53442e2b9b",
@@ -4459,8 +4459,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "id": "a65c015e-003d-4c4f-8a8a-c2502bfee324",
@@ -4471,10 +4471,10 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "e6fe3532-c44d-4287-b454-62fd3493c585",
             "season": 0,
             "day": 45,
@@ -4483,8 +4483,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ffb627",
             "team2Color": "#697a21",
             "id": "05c32d8d-3aad-4572-8b16-a78c9ffce190",
@@ -4495,8 +4495,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#ff1717",
             "team2Color": "#0dab76",
             "id": "13f0ff02-f90a-4e09-98ec-561e4d821815",
@@ -4509,8 +4509,8 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Milton Butchers",
             "team1Color": "#e86215",
             "team2Color": "#3e92cc",
             "id": "3da35b1d-0f8f-43f4-9744-c165a08a4502",
@@ -4521,8 +4521,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#f2c57c",
             "team2Color": "#a0e7e5",
             "id": "ae5f4df8-f334-4f0a-83cc-43da14641e99",
@@ -4533,8 +4533,8 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#990000",
             "team2Color": "#53917e",
             "id": "d2371640-2841-40c4-8137-19697151ac4d",
@@ -4545,8 +4545,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#ef6f6c",
             "team2Color": "#f08700",
             "id": "1d2bbe24-e249-4c65-bf46-4f6498cf0363",
@@ -4557,8 +4557,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#9963ab",
             "team2Color": "#e7d7c1",
             "id": "dcf5255a-1c82-4445-873f-a35b6833732a",
@@ -4569,9 +4569,9 @@
             "patternName": "fourrabbits"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "id": "97d88788-a4da-412f-ae08-c413f4ff3ad3",
             "season": 0,
@@ -4581,8 +4581,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#697a21",
             "team2Color": "#ffb627",
             "id": "9d757e3f-4b5f-4abd-b912-7b0685726cdc",
@@ -4593,8 +4593,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#0dab76",
             "team2Color": "#ff1717",
             "id": "a5139fdb-567a-4a7e-930a-65ceb091c6d8",
@@ -4607,8 +4607,8 @@
     ],
     [
         {
-            "team1Name": "Elko Astronauts",
-            "team2Name": "Seattle Sneakers",
+            "team1Name": "Gardnerville Moths",
+            "team2Name": "Reedsport Commuters",
             "team1Color": "#a0e7e5",
             "team2Color": "#e86215",
             "id": "f9953907-a2fc-400e-a1fa-3697977bd974",
@@ -4619,8 +4619,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Long Beach Flightless Birds",
-            "team2Name": "Baltimore Texas",
+            "team1Name": "Lely Closed Circuits",
+            "team2Name": "Milton Butchers",
             "team1Color": "#f2c57c",
             "team2Color": "#3e92cc",
             "id": "56b314f0-ca9a-42fc-9710-f0741617631a",
@@ -4631,8 +4631,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "Jersey OSHA Violations",
-            "team2Name": "San Diego Balloon Animals",
+            "team1Name": "Eastpoint Germophiles",
+            "team2Name": "Rye Red Rumps",
             "team1Color": "#53917e",
             "team2Color": "#f08700",
             "id": "65115ea5-91e5-482d-b388-41d41074ba44",
@@ -4643,8 +4643,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team2Name": "Tucson Butchers",
+            "team1Name": "Conway Umbrellas",
+            "team2Name": "Gold Bar Postdocs",
             "team1Color": "#ef6f6c",
             "team2Color": "#990000",
             "id": "726eed99-e2f7-463b-a208-246d19def609",
@@ -4655,8 +4655,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team2Name": "Detroit Grape Chews",
+            "team1Name": "Mogul Geniuses",
+            "team2Name": "Carlinville Thirdborn",
             "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "id": "97b5b4ed-866e-4ef2-993e-fadeb016d917",
@@ -4667,10 +4667,10 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Milwaukee Flamingos",
-            "team2Name": "Delaware Corporate Shells",
+            "team1Name": "Xenia Tools",
+            "team2Name": "Greenfield Train Robbers",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e5",
+            "team2Color": "#a0e7e8",
             "id": "d52dca5b-fedf-434f-9384-8b2fab1fd356",
             "season": 0,
             "day": 47,
@@ -4679,8 +4679,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Sacramento Boot Lickers",
-            "team2Name": "Orlando Business Majors",
+            "team1Name": "Northfield Troubles",
+            "team2Name": "Pleasant Prairie Frowny Faces",
             "team1Color": "#ffb627",
             "team2Color": "#0dab76",
             "id": "b15b9f98-c9d4-4857-b41f-e95764c56c96",
@@ -4691,8 +4691,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Atlanta Glitter Sharks",
-            "team2Name": "Alewife Arsonists",
+            "team1Name": "Nokomis Squids",
+            "team2Name": "Chatmoss Tailing Ponds",
             "team1Color": "#697a21",
             "team2Color": "#ff1717",
             "id": "0c655d02-14df-4c7d-b36f-f1ad25df50c1",
@@ -4705,8 +4705,8 @@
     ],
     [
         {
-            "team1Name": "Seattle Sneakers",
-            "team2Name": "Elko Astronauts",
+            "team1Name": "Reedsport Commuters",
+            "team2Name": "Gardnerville Moths",
             "team1Color": "#e86215",
             "team2Color": "#a0e7e5",
             "id": "6ceb9fed-6b6c-4a38-989d-074350835583",
@@ -4717,8 +4717,8 @@
             "patternName": "eightpi"
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team2Name": "Long Beach Flightless Birds",
+            "team1Name": "Milton Butchers",
+            "team2Name": "Lely Closed Circuits",
             "team1Color": "#3e92cc",
             "team2Color": "#f2c57c",
             "id": "abc4e893-c7b8-4fa7-b9db-2327769f3a6e",
@@ -4729,8 +4729,8 @@
             "patternName": "twospaceshipgenerators"
         },
         {
-            "team1Name": "San Diego Balloon Animals",
-            "team2Name": "Jersey OSHA Violations",
+            "team1Name": "Rye Red Rumps",
+            "team2Name": "Eastpoint Germophiles",
             "team1Color": "#f08700",
             "team2Color": "#53917e",
             "id": "7c1e02f5-ed1a-4b89-b81f-95e592b17b61",
@@ -4741,8 +4741,8 @@
             "patternName": "eightr"
         },
         {
-            "team1Name": "Tucson Butchers",
-            "team2Name": "Ft. Worth Piano Tuners",
+            "team1Name": "Gold Bar Postdocs",
+            "team2Name": "Conway Umbrellas",
             "team1Color": "#990000",
             "team2Color": "#ef6f6c",
             "id": "68d80e22-51ef-4ca5-803b-ef4f2aab5830",
@@ -4753,8 +4753,8 @@
             "patternName": "twoacorn"
         },
         {
-            "team1Name": "Detroit Grape Chews",
-            "team2Name": "San Francisco Boat Shoes",
+            "team1Name": "Carlinville Thirdborn",
+            "team2Name": "Mogul Geniuses",
             "team1Color": "#9963ab",
             "team2Color": "#e7d7c1",
             "id": "5db5e6de-74f9-4c4d-90ac-1552085b04b9",
@@ -4765,9 +4765,9 @@
             "patternName": "timebomb"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team2Name": "Milwaukee Flamingos",
-            "team1Color": "#a0e7e5",
+            "team1Name": "Greenfield Train Robbers",
+            "team2Name": "Xenia Tools",
+            "team1Color": "#a0e7e8",
             "team2Color": "#ff66cc",
             "id": "07da3148-3cd0-463b-bf96-66bcde057217",
             "season": 0,
@@ -4777,8 +4777,8 @@
             "patternName": "random"
         },
         {
-            "team1Name": "Orlando Business Majors",
-            "team2Name": "Sacramento Boot Lickers",
+            "team1Name": "Pleasant Prairie Frowny Faces",
+            "team2Name": "Northfield Troubles",
             "team1Color": "#0dab76",
             "team2Color": "#ffb627",
             "id": "cdf577c6-ce62-44e5-a130-c31faabb1679",
@@ -4789,8 +4789,8 @@
             "patternName": "twomultum"
         },
         {
-            "team1Name": "Alewife Arsonists",
-            "team2Name": "Atlanta Glitter Sharks",
+            "team1Name": "Chatmoss Tailing Ponds",
+            "team2Name": "Nokomis Squids",
             "team1Color": "#ff1717",
             "team2Color": "#697a21",
             "id": "679d4957-cd46-497e-8622-d57c250df10c",
