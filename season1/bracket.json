@@ -3,8 +3,8 @@
         [
             {
                 "league": "Cold League",
-                "team1Name": "Tucson Butchers",
-                "team2Name": "San Diego Balloon Animals",
+                "team1Name": "Maunawili Balloon Animals",
+                "team2Name": "Fortuna Foothills Salt Licks",
                 "patternName": "twomultum",
                 "description": "Game 1, Cold League Division Series 1",
                 "id": "7fb9ad18-f96e-4937-bf7b-188d38fd244e",
@@ -12,8 +12,8 @@
             },
             {
                 "league": "Cold League",
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Breckenridge Night Owls",
+                "team2Name": "Weedpatch Night Owls",
                 "patternName": "fourrabbits",
                 "description": "Game 1, Cold League Division Series 2",
                 "id": "6edca63e-199a-4923-910f-b27a5577ed76",
@@ -21,8 +21,8 @@
             },
             {
                 "league": "Hot League",
-                "team1Name": "Orlando Business Majors",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Wewoka Kites",
+                "team2Name": "Greater Carrollwood Dumpster Fires",
                 "patternName": "twoacorn",
                 "description": "Game 1, Hot League Division Series 1",
                 "id": "37272db9-1ab1-4a84-aaff-5800ac34736f",
@@ -30,8 +30,8 @@
             },
             {
                 "league": "Hot League",
-                "team1Name": "Milwaukee Flamingos",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Ionia Starched Collars",
+                "team2Name": "Napa Nuts",
                 "patternName": "eightr",
                 "description": "Game 1, Hot League Division Series 2",
                 "id": "d6e0fd4a-2354-4f8b-bc93-a9873e994420",
@@ -41,8 +41,8 @@
         [
             {
                 "league": "Cold League",
-                "team1Name": "Tucson Butchers",
-                "team2Name": "San Diego Balloon Animals",
+                "team1Name": "Maunawili Balloon Animals",
+                "team2Name": "Fortuna Foothills Salt Licks",
                 "patternName": "timebomb",
                 "description": "Game 2, Cold League Division Series 1",
                 "id": "9848bca7-9031-4c37-96dd-4abdf4022446",
@@ -50,8 +50,8 @@
             },
             {
                 "league": "Cold League",
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Breckenridge Night Owls",
+                "team2Name": "Weedpatch Night Owls",
                 "patternName": "eightpi",
                 "description": "Game 2, Cold League Division Series 2",
                 "id": "4e099d2e-0a2b-494f-a67e-718928cd55b1",
@@ -59,8 +59,8 @@
             },
             {
                 "league": "Hot League",
-                "team1Name": "Orlando Business Majors",
-                "team2Name": "Detroit Grape Chews",
+                "team1Name": "Wewoka Kites",
+                "team2Name": "Greater Carrollwood Dumpster Fires",
                 "patternName": "eightr",
                 "description": "Game 2, Hot League Division Series 1",
                 "id": "ee01c3e3-0c70-43ab-adac-dab4bf806a75",
@@ -68,8 +68,8 @@
             },
             {
                 "league": "Hot League",
-                "team1Name": "Milwaukee Flamingos",
-                "team2Name": "Sacramento Boot Lickers",
+                "team1Name": "Ionia Starched Collars",
+                "team2Name": "Napa Nuts",
                 "patternName": "twospaceshipgenerators",
                 "description": "Game 2, Hot League Division Series 2",
                 "id": "a6c20a69-b7f3-475e-b34c-2feb70065b74",
@@ -79,8 +79,8 @@
         [
             {
                 "league": "Cold League",
-                "team1Name": "San Diego Balloon Animals",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Fortuna Foothills Salt Licks",
+                "team2Name": "Maunawili Balloon Animals",
                 "patternName": "twospaceshipgenerators",
                 "description": "Game 3, Cold League Division Series 1",
                 "id": "5b691434-2b6f-4139-8f4e-220888a248d4",
@@ -88,8 +88,8 @@
             },
             {
                 "league": "Cold League",
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Weedpatch Night Owls",
+                "team2Name": "Breckenridge Night Owls",
                 "patternName": "timebomb",
                 "description": "Game 3, Cold League Division Series 2",
                 "id": "4ffd4fce-c5d2-4a8d-968a-633ffbe5395c",
@@ -97,8 +97,8 @@
             },
             {
                 "league": "Hot League",
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Orlando Business Majors",
+                "team1Name": "Greater Carrollwood Dumpster Fires",
+                "team2Name": "Wewoka Kites",
                 "patternName": "random",
                 "description": "Game 3, Hot League Division Series 1",
                 "id": "90627e48-fea8-4058-a21f-b913d5019025",
@@ -106,8 +106,8 @@
             },
             {
                 "league": "Hot League",
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Milwaukee Flamingos",
+                "team1Name": "Napa Nuts",
+                "team2Name": "Ionia Starched Collars",
                 "patternName": "eightpi",
                 "description": "Game 3, Hot League Division Series 2",
                 "id": "be89f031-8fa1-4e36-a1f4-28cd410bb6c5",
@@ -117,8 +117,8 @@
         [
             {
                 "league": "Cold League",
-                "team1Name": "San Diego Balloon Animals",
-                "team2Name": "Tucson Butchers",
+                "team1Name": "Fortuna Foothills Salt Licks",
+                "team2Name": "Maunawili Balloon Animals",
                 "patternName": "random",
                 "description": "Game 4, Cold League Division Series 1",
                 "id": "f51a5596-3fb1-416b-a63c-d1d0b3aa1655",
@@ -126,8 +126,8 @@
             },
             {
                 "league": "Cold League",
-                "team1Name": "Long Beach Flightless Birds",
-                "team2Name": "Jersey OSHA Violations",
+                "team1Name": "Weedpatch Night Owls",
+                "team2Name": "Breckenridge Night Owls",
                 "patternName": "timebomb",
                 "description": "Game 4, Cold League Division Series 2",
                 "id": "0c7f83d7-29ef-4360-9671-1223c730662c",
@@ -135,8 +135,8 @@
             },
             {
                 "league": "Hot League",
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Orlando Business Majors",
+                "team1Name": "Greater Carrollwood Dumpster Fires",
+                "team2Name": "Wewoka Kites",
                 "patternName": "eightr",
                 "description": "Game 4, Hot League Division Series 1",
                 "id": "cea9e7ad-66cb-4e5d-849f-c0c8883ba721",
@@ -144,8 +144,8 @@
             },
             {
                 "league": "Hot League",
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Milwaukee Flamingos",
+                "team1Name": "Napa Nuts",
+                "team2Name": "Ionia Starched Collars",
                 "patternName": "twospaceshipgenerators",
                 "description": "Game 4, Hot League Division Series 2",
                 "id": "fb672bab-69b0-4240-87d9-288201038ab3",
@@ -155,8 +155,8 @@
         [
             {
                 "league": "Cold League",
-                "team1Name": "Tucson Butchers",
-                "team2Name": "San Diego Balloon Animals",
+                "team1Name": "Maunawili Balloon Animals",
+                "team2Name": "Fortuna Foothills Salt Licks",
                 "patternName": "twomultum",
                 "description": "Game 5, Cold League Division Series 1",
                 "id": "989bbc76-8079-40e3-a9a9-ac5afab65926",
@@ -164,8 +164,8 @@
             },
             {
                 "league": "Cold League",
-                "team1Name": "Jersey OSHA Violations",
-                "team2Name": "Long Beach Flightless Birds",
+                "team1Name": "Breckenridge Night Owls",
+                "team2Name": "Weedpatch Night Owls",
                 "patternName": "fourrabbits",
                 "description": "Game 5, Cold League Division Series 2",
                 "id": "00b9deab-2619-403c-99ac-48b6e4725f4b",
@@ -173,8 +173,8 @@
             },
             {
                 "league": "Hot League",
-                "team1Name": "Detroit Grape Chews",
-                "team2Name": "Orlando Business Majors",
+                "team1Name": "Greater Carrollwood Dumpster Fires",
+                "team2Name": "Wewoka Kites",
                 "patternName": "eightr",
                 "description": "Game 5, Hot League Division Series 1",
                 "id": "00b9deab-2619-403c-99ac-48b6e4725f4b",
@@ -182,8 +182,8 @@
             },
             {
                 "league": "Hot League",
-                "team1Name": "Sacramento Boot Lickers",
-                "team2Name": "Milwaukee Flamingos",
+                "team1Name": "Napa Nuts",
+                "team2Name": "Ionia Starched Collars",
                 "patternName": "twospaceshipgenerators",
                 "description": "Game 5, Hot League Division Series 2",
                 "id": "7b6110e5-eaa9-4dc0-a307-143c2253e96c",
