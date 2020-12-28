@@ -38,24 +38,32 @@ for iseason in range(NSEASONS):
     def check_id(game):
         if 'id' not in game:
             raise Exception(f"Error: missing game id from game {game}")
+
     def check_name_color_match(game):
         """For a given game ensure the team name matches the team color"""
         t1 = game['team1Name']
         t1c = game['team1Color']
         if t1c != get_team_color(t1):
-            raise Exception(f"Error in game {game['id']} of day {game['day']}: team1 color was {t1c}, should have been {get_team_color(t1)}")
+            raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: team1 color was {t1c}, should have been {get_team_color(t1)}")
         t2 = game['team1Name']
         t2c = game['team1Color']
         if t2c != get_team_color(t2):
-            raise Exception(f"Error in game {game['id']} of day {game['day']}: team2 color was {t2c}, should have been {get_team_color(t2)}")
+            raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: team2 color was {t2c}, should have been {get_team_color(t2)}")
 
     def check_score(game):
         t1s = game['team1Score']
         t2s = game['team2Score']
         if t1s==t2s:
-            raise Exception(f"Error in game {game['id']} of day {game['day']}: game is tied! {team1Score}-{team2Score}")
+            raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: game is tied! {team1Score}-{team2Score}")
         if t1s < 0 or t2s < 0:
-            raise Exception(f"Error in game {game['id']} of day {game['day']}: negative score ({t1s})-({t2s})")
+            raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: negative score ({t1s})-({t2s})")
+        if t1s < 10 and t2s < 10:
+            raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: both teams had scores < 10")
+
+    def check_generations(game):
+        gens = game['generations']
+        if gens < 500:
+            raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: game is too short (< 500 generations)!")
 
     def check_league(game):
         league = game['league']
@@ -64,20 +72,20 @@ for iseason in range(NSEASONS):
         t1lea = get_team_league(t1)
         t2lea = get_team_league(t2)
         if (t1lea!=league) or (t2lea!=league):
-            raise Exception(f"Error in game {game['id']} of day {game['day']}: league information does not match: {t1}:{t1lea}, {t2}:{t2lea}")
+            raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: league information does not match: {t1}:{t1lea}, {t2}:{t2lea}")
 
     def check_id(game):
         if 'id' not in game.keys():
             print(game)
-            raise Exception(f"Error in game on day {game['day']}: no id found")
+            raise Exception(f"Error in game of season {game['season']} day {game['day']}: no id found")
 
     def check_pattern(game):
         if 'patternName' not in game.keys():
-            raise Exception(f"Error in game {game['id']} of day {game['day']}: game is missing a map!")
+            raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: game is missing a map!")
 
     def check_map(game):
         if 'map' not in game.keys():
-            raise Exception(f"Error in game {game['id']} of day {game['day']}: game is missing a map!")
+            raise Exception(f"Error in game {game['id']} of season {game['season']} day {game['day']}: game is missing a map!")
         mapp = game['map']
         # required keys that must be present
         req_keys = [
@@ -101,16 +109,16 @@ for iseason in range(NSEASONS):
 
         for rk in req_keys:
             if rk not in mapp:
-                raise Exception("Error in game {game['id']} of day {game['day']}: game map is missing key \"{rk}\"!")
+                raise Exception("Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!")
         #for urk in unreq_keys:
         #    if urk in mapp:
-        #        raise Exception("Error in game {game['id']} of day {game['day']}: game map should not have key \"{urk}\"!")
+        #        raise Exception("Error in game {game['id']} of season {game['season']} day {game['day']}: game map should not have key \"{urk}\"!")
 
     def check_wl(game):
         req_keys = ['team1WinLoss', 'team2WinLoss']
         for rk in req_keys:
             if rk not in game:
-                raise Exception("Error in game {game['id']} of day {game['day']}: game map is missing key \"{rk}\"!")
+                raise Exception("Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!")
 
         wlsum1 = game['team1WinLoss'][0] + game['team1WinLoss'][1]
         wlsum2 = game['team1WinLoss'][0] + game['team1WinLoss'][1]
@@ -197,6 +205,7 @@ for iseason in range(NSEASONS):
             check_id(game)
             check_name_color_match(game)
             check_score(game)
+            check_generations(game)
             check_league(game)
             check_id(game)
             check_map(game)
