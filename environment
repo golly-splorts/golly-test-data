@@ -1,0 +1,3 @@
+#!/bin/bash
+
+export GOLLY_TEST_DATA_HOME="$HOME/golly/golly-test-data"
