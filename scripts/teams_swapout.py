@@ -18,6 +18,7 @@ schedulefile = _make_path('schedule.json')
 bracketfile  = _make_path('bracket.json')
 seasonfile   = _make_path('season.json')
 postfile     = _make_path('postseason.json')
+seedfile     = _make_path('seed.json')
 
 with open(oldteamsfile, 'r') as f:
     oldteams = json.load(f)
@@ -141,3 +142,18 @@ for series in postseason:
 if write:
     with open(postfile, 'w') as f:
         json.dump(postseason, f, indent=4)
+
+
+print(seedfile)
+with open(seedfile, 'r') as f:
+    seed = json.load(f)
+
+for league in seed:
+    seeds = seed[league]
+    newseeds = []
+    for iT, team_name in enumerate(seeds):
+        newseeds.append(team_name_map[team_name])
+    seed[league] = newseeds
+
+with open(seedfile, 'w') as f:
+    json.dump(seed, f, indent=4)
