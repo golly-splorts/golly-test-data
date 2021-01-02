@@ -4,8 +4,6 @@ import json
 
 NSEASONS = 5
 for iseason in range(NSEASONS):
-    if iseason==3:
-        continue
     seasondir = "season%d"%(iseason)
 
     #####################

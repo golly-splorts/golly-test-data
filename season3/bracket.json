@@ -1,0 +1,405 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 3,
+                "team1Name": "Thornton Face Punchers",
+                "team2Name": "Westchester Meathammers",
+                "patternName": "timebomb",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "29639ad7-3c51-42e1-aef5-9d9e0c713231",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 3,
+                "team1Name": "Dyersburg Sun Cats",
+                "team2Name": "Kalamazoo Firefighters",
+                "patternName": "quadjustyna",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "1377efeb-3dbb-4a96-8214-9d239bd5aa95",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 3,
+                "team1Name": "Wright Delivery Drivers",
+                "team2Name": "Lima Locusts",
+                "patternName": "randompartition",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "f0174476-2d07-4783-a448-d15323f6a3f1",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 3,
+                "team1Name": "Emmitsburg Redactions",
+                "team2Name": "Rindge Kindergardeners",
+                "patternName": "twoacorn",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "0d1f0ec2-22b4-430f-8970-5ae580e19b9a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 3,
+                "team1Name": "Thornton Face Punchers",
+                "team2Name": "Westchester Meathammers",
+                "patternName": "fourrabbits",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "a01e4b2d-6df7-4391-ae89-b04468f650bb",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 3,
+                "team1Name": "Dyersburg Sun Cats",
+                "team2Name": "Kalamazoo Firefighters",
+                "patternName": "eightr",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "21c66910-a4cb-4440-ac2d-aff22a60d1d8",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 3,
+                "team1Name": "Wright Delivery Drivers",
+                "team2Name": "Lima Locusts",
+                "patternName": "quadjustyna",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "f23e1381-59e6-4b69-9157-52779c06d98a",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 3,
+                "team1Name": "Emmitsburg Redactions",
+                "team2Name": "Rindge Kindergardeners",
+                "patternName": "twoacorn",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "5ab35c3a-47f6-4a0f-88b9-6e53f8373928",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 3,
+                "team1Name": "Westchester Meathammers",
+                "team2Name": "Thornton Face Punchers",
+                "patternName": "eightpi",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "eadbe663-bc28-4e13-a643-016baa662486",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 3,
+                "team1Name": "Kalamazoo Firefighters",
+                "team2Name": "Dyersburg Sun Cats",
+                "patternName": "timebomb",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "8c2e9035-56ee-4abc-aa4a-22f0893faea3",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 3,
+                "team1Name": "Lima Locusts",
+                "team2Name": "Wright Delivery Drivers",
+                "patternName": "twoacorn",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "2c0b1d4a-c926-4494-acda-64cb6fc73720",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 3,
+                "team1Name": "Rindge Kindergardeners",
+                "team2Name": "Emmitsburg Redactions",
+                "patternName": "eightr",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "4b530f2e-ecc3-4ce2-a19a-cfcee58168f0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 3,
+                "team1Name": "Westchester Meathammers",
+                "team2Name": "Thornton Face Punchers",
+                "patternName": "twoacorn",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "295e7cce-1ff8-4dd6-9004-322d04046282",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 3,
+                "team1Name": "Kalamazoo Firefighters",
+                "team2Name": "Dyersburg Sun Cats",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "a1dcfc19-a28f-440e-a7ad-21f41e061cff",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 3,
+                "team1Name": "Lima Locusts",
+                "team2Name": "Wright Delivery Drivers",
+                "patternName": "random",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "e8d0ec99-c493-4f8c-ad77-90f9f8e4072e",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 3,
+                "team1Name": "Rindge Kindergardeners",
+                "team2Name": "Emmitsburg Redactions",
+                "patternName": "timebomb",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "17527c00-cf22-4c51-8936-3605af9d2f55",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 3,
+                "team1Name": "Thornton Face Punchers",
+                "team2Name": "Westchester Meathammers",
+                "patternName": "randompartition",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "cc9a47ba-582c-414a-850b-cab26f7e043c",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 3,
+                "team1Name": "Dyersburg Sun Cats",
+                "team2Name": "Kalamazoo Firefighters",
+                "patternName": "timebomb",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "73e3ebf0-677c-458d-a4ae-06a3214b827c",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 3,
+                "team1Name": "Wright Delivery Drivers",
+                "team2Name": "Lima Locusts",
+                "patternName": "spaceshipcrash",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "84101d2f-53bc-4b08-ab6d-60b63b865569",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 3,
+                "team1Name": "Emmitsburg Redactions",
+                "team2Name": "Rindge Kindergardeners",
+                "patternName": "eightpi",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "7ccd1d5f-32cd-45d3-8e6b-5babb4900773",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "quadjustyna",
+                "league": "Cold League",
+                "season": 3,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "1fd6d4a5-6d52-4bb1-a87a-281d6051183f",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "eightpi",
+                "league": "Hot League",
+                "season": 3,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "1ad8f224-416a-4c8a-af5c-8a678e75e608",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "eightpi",
+                "league": "Cold League",
+                "season": 3,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "e1e2c385-ee74-47a4-8c2c-fef52781be99",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "quadjustyna",
+                "league": "Hot League",
+                "season": 3,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "851dbdd6-b58c-4213-ad35-ee005c6cb957",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "eightpi",
+                "league": "Cold League",
+                "season": 3,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "56f0083e-edf7-4ed8-a120-244b1742ca0c",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "spaceshipcluster",
+                "league": "Hot League",
+                "season": 3,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "4ba6add7-19c1-4d01-beb1-a747abab5ee5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "fourrabbits",
+                "league": "Cold League",
+                "season": 3,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "32871da0-9f15-4a4c-9a97-7195abbea68e",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "random",
+                "league": "Hot League",
+                "season": 3,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "b9735931-7e49-4b79-809b-fa06c183e754",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "twomultum",
+                "league": "Cold League",
+                "season": 3,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "1e4d0c3f-4a6e-4674-b937-a141fc980b91",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "twoacorn",
+                "league": "Hot League",
+                "season": 3,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "2b67ce82-20a0-42d7-8b63-679eb7075b86",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "WS": [
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "randompartition",
+                "description": "Game 1, World Series",
+                "season": 3,
+                "id": "d9f81ea8-8abd-4730-bb05-095b1f8bd625",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "quadjustyna",
+                "description": "Game 2, World Series",
+                "season": 3,
+                "id": "d270e533-ec5a-4169-9652-5f5eb83aacc1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "spaceshipcluster",
+                "description": "Game 3, World Series",
+                "season": 3,
+                "id": "2de6469d-bf22-4778-ab39-b7cc55b697e3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "random",
+                "description": "Game 4, World Series",
+                "season": 3,
+                "id": "c3227538-205c-460c-85cb-c7b2b028f766",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "twoacorn",
+                "description": "Game 5, World Series",
+                "season": 3,
+                "id": "e525d5fd-a19f-40e2-97f5-b89f2e1e2034",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "fourrabbits",
+                "description": "Game 6, World Series",
+                "season": 3,
+                "id": "6245f143-9d11-4772-afdf-de95d76e29d7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "eightpi",
+                "description": "Game 7, World Series",
+                "season": 3,
+                "id": "42669b5c-260c-4250-84c1-f253377e66c6",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
