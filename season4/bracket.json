@@ -1,0 +1,405 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 4,
+                "team1Name": "Elizabethville Upstream Swimmers",
+                "team2Name": "Middleburg Party Snacks",
+                "patternName": "random",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "ccc5e4b1-5890-42d1-9fb0-5106a27eb0cf",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 4,
+                "team1Name": "Bothell Rainshowers",
+                "team2Name": "Cut Bank Brass",
+                "patternName": "fourrabbits",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "40e41260-4e1f-42b9-957c-2ac559500854",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 4,
+                "team1Name": "Moline Acres Cavesystems",
+                "team2Name": "Fremont Blue Chips",
+                "patternName": "spaceshipcluster",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "a5f74e28-4f40-41d0-a118-e03835ed5eef",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 4,
+                "team1Name": "Braddock Pogcollectors",
+                "team2Name": "Los Villareales Muffin Tops",
+                "patternName": "eightpi",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "4dde6e50-1b1e-4eb7-b201-da239a49c6a1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 4,
+                "team1Name": "Elizabethville Upstream Swimmers",
+                "team2Name": "Middleburg Party Snacks",
+                "patternName": "random",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "a1dd1b6d-271d-46f0-adcf-e9b10ec42956",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 4,
+                "team1Name": "Bothell Rainshowers",
+                "team2Name": "Cut Bank Brass",
+                "patternName": "twomultum",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "09873bca-d3bf-40da-bf07-49838b5106f5",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 4,
+                "team1Name": "Moline Acres Cavesystems",
+                "team2Name": "Fremont Blue Chips",
+                "patternName": "quadjustyna",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "e3538789-f481-48b8-bbfa-1b3656fcb6b6",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 4,
+                "team1Name": "Braddock Pogcollectors",
+                "team2Name": "Los Villareales Muffin Tops",
+                "patternName": "spaceshipcluster",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "ffa0f1b9-7d54-4d70-aaf3-9d87ea86b837",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 4,
+                "team1Name": "Middleburg Party Snacks",
+                "team2Name": "Elizabethville Upstream Swimmers",
+                "patternName": "random",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "39c52b72-3266-49d6-8072-859774157c21",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 4,
+                "team1Name": "Cut Bank Brass",
+                "team2Name": "Bothell Rainshowers",
+                "patternName": "quadjustyna",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "4a70fe0e-f0ac-41da-b63a-7e893ea2a1e4",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 4,
+                "team1Name": "Fremont Blue Chips",
+                "team2Name": "Moline Acres Cavesystems",
+                "patternName": "timebomb",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "5476a662-dba9-4459-9ded-0be3d43613f0",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 4,
+                "team1Name": "Los Villareales Muffin Tops",
+                "team2Name": "Braddock Pogcollectors",
+                "patternName": "eightr",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "4e179b91-fc2a-4f4c-ae5c-4bb07eebb5a0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 4,
+                "team1Name": "Middleburg Party Snacks",
+                "team2Name": "Elizabethville Upstream Swimmers",
+                "patternName": "spaceshipcrash",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "16747712-ff9c-424b-b790-564e49c7d1d7",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 4,
+                "team1Name": "Cut Bank Brass",
+                "team2Name": "Bothell Rainshowers",
+                "patternName": "twoacorn",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "865ad359-d00e-44f6-b821-c59ae18a6fd7",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 4,
+                "team1Name": "Fremont Blue Chips",
+                "team2Name": "Moline Acres Cavesystems",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "e5e4ed22-0309-448f-9eca-369a50f6fd13",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 4,
+                "team1Name": "Los Villareales Muffin Tops",
+                "team2Name": "Braddock Pogcollectors",
+                "patternName": "eightr",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "efe5191f-199f-46c5-babc-ae9a4c6be301",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 4,
+                "team1Name": "Elizabethville Upstream Swimmers",
+                "team2Name": "Middleburg Party Snacks",
+                "patternName": "twoacorn",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "befc3eef-b5ef-49f1-bf1a-f9e804c38317",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 4,
+                "team1Name": "Bothell Rainshowers",
+                "team2Name": "Cut Bank Brass",
+                "patternName": "eightr",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "4af0224c-16f3-4fdf-84f0-825d1ef6d5dc",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 4,
+                "team1Name": "Moline Acres Cavesystems",
+                "team2Name": "Fremont Blue Chips",
+                "patternName": "twomultum",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "65cc67c4-cecd-4d0e-a955-074c6cf36e99",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 4,
+                "team1Name": "Braddock Pogcollectors",
+                "team2Name": "Los Villareales Muffin Tops",
+                "patternName": "spaceshipcluster",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "dd1f2337-0b34-46ba-ac73-8e4a3a2198ca",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "spaceshipcrash",
+                "league": "Cold League",
+                "season": 4,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "2cb9ad83-9b68-4466-ac2d-79294b41edc2",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "fourrabbits",
+                "league": "Hot League",
+                "season": 4,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "b644202a-7a18-4f66-aa33-34c7d2ac55fc",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "randompartition",
+                "league": "Cold League",
+                "season": 4,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "53b8634f-eea7-465d-bb74-33ca542904f5",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "twoacorn",
+                "league": "Hot League",
+                "season": 4,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "cac977dd-9a2b-476a-beca-8984878880ce",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "eightr",
+                "league": "Cold League",
+                "season": 4,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "91423ff6-55d1-472b-8d1f-5e829bf098fa",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "fourrabbits",
+                "league": "Hot League",
+                "season": 4,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "2f03ff5f-65f1-49a4-96a6-c9ffec374518",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "quadjustyna",
+                "league": "Cold League",
+                "season": 4,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "e42d8456-e9eb-4c17-8835-95def9c08fd9",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "twoacorn",
+                "league": "Hot League",
+                "season": 4,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "84dd7e75-bf51-4dfb-8d1c-b45a13ce96db",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "twoacorn",
+                "league": "Cold League",
+                "season": 4,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "f9d67fdf-5f0e-47f6-b9cd-4c22830fb581",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "eightr",
+                "league": "Hot League",
+                "season": 4,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "3bb88627-1684-4254-b4b7-8729b3d5c2ae",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "WS": [
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "twomultum",
+                "description": "Game 1, World Series",
+                "season": 4,
+                "id": "9b697f8b-846a-4a39-a0d0-ce2940993499",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "spaceshipcluster",
+                "description": "Game 2, World Series",
+                "season": 4,
+                "id": "e321a01f-8f54-4095-9560-69736187eca1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "quadjustyna",
+                "description": "Game 3, World Series",
+                "season": 4,
+                "id": "0938598e-87f0-40ea-b3e0-af857ffb43ef",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "random",
+                "description": "Game 4, World Series",
+                "season": 4,
+                "id": "dca539ee-4d71-4276-af5b-c08d8933a7ed",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "fourrabbits",
+                "description": "Game 5, World Series",
+                "season": 4,
+                "id": "1f6bef53-82a2-454a-a947-3a6565543248",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "eightpi",
+                "description": "Game 6, World Series",
+                "season": 4,
+                "id": "d7ccb061-4bc6-49be-84a2-fbf40ba031b1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 7, World Series",
+                "season": 4,
+                "id": "ac4043c9-c7e5-4513-9f5b-50cdc72ea216",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
