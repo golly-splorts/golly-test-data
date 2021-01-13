@@ -22,7 +22,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -119,7 +119,7 @@
             "id": "c39a81ed-84ab-4397-baaf-db3dc45c6da0",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215"
         },
         {
@@ -242,7 +242,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Perry Oracles",
@@ -339,7 +339,7 @@
             "id": "940ac5b7-d241-498b-aca0-18b01eeefaf3",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#a0e7e5"
         },
         {
@@ -414,7 +414,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -511,7 +511,7 @@
             "id": "9927381a-6557-4917-b11f-f9074783b32b",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215"
         },
         {
@@ -610,7 +610,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -707,7 +707,7 @@
             "id": "f5e96598-2d00-46bd-a0b6-5d59d671001a",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -818,7 +818,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -915,7 +915,7 @@
             "id": "54aa6095-03bf-47ef-a4a7-94d7b93fe1d5",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -1026,7 +1026,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -1123,7 +1123,7 @@
             "id": "1ea61c32-7979-4d56-8293-d2a42b0af373",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -1186,7 +1186,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -1283,7 +1283,7 @@
             "id": "73d72237-8835-4239-bc4d-104bfed12741",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -1418,7 +1418,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#e86215",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -1515,7 +1515,7 @@
             "id": "a5c5f2f0-e495-4b77-bbbf-671a6a26f5ec",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#e86215"
         },
         {
@@ -1578,7 +1578,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -1675,7 +1675,7 @@
             "id": "b3f8aae5-03a6-4f84-a1ca-f652b9226fa4",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -1786,7 +1786,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f2c57c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -1883,7 +1883,7 @@
             "id": "1cf75504-da21-4b72-9165-863cfb15fcd5",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f2c57c"
         },
         {
@@ -1982,7 +1982,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -2079,7 +2079,7 @@
             "id": "c497b982-add2-4fd4-a05b-cba539178b14",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -2178,7 +2178,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#a0e7e5",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -2275,7 +2275,7 @@
             "id": "c3691a5d-c347-401a-a47b-9e2f83b57c17",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#a0e7e5"
         },
         {
@@ -2374,7 +2374,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -2471,7 +2471,7 @@
             "id": "b908b2fb-eea9-4f38-afbb-040882d9e412",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -2582,7 +2582,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#3e92cc",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -2679,7 +2679,7 @@
             "id": "450c0d6f-0b64-4cf0-9e53-f057970ac99d",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#3e92cc"
         },
         {
@@ -2777,7 +2777,7 @@
             "id": "c5af5500-3675-43be-ba3a-5ecda78e34ae",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c"
         },
         {
@@ -2876,7 +2876,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -2974,7 +2974,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -3071,7 +3071,7 @@
             "id": "4d00bd85-3efe-48e2-97e4-b0f6ff399950",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700"
         },
         {
@@ -3181,7 +3181,7 @@
             "id": "67983bad-7a02-4408-abee-cf8eedd881de",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c"
         },
         {
@@ -3280,7 +3280,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Perry Oracles",
@@ -3377,7 +3377,7 @@
             "id": "d6614d27-f040-4885-ab5a-65728f3ba845",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c"
         },
         {
@@ -3476,7 +3476,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Perry Oracles",
@@ -3573,7 +3573,7 @@
             "id": "b5674b8f-2abc-44a3-b1d5-e6e16351f03f",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#53917e"
         },
         {
@@ -3672,7 +3672,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#53917e",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -3769,7 +3769,7 @@
             "id": "2e739e4d-3b3e-456d-b046-0e440172ee46",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c"
         },
         {
@@ -3868,7 +3868,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -3954,7 +3954,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -4051,7 +4051,7 @@
             "id": "7520ce71-413b-4cfc-8d59-b6d5d1b396d4",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700"
         },
         {
@@ -4161,7 +4161,7 @@
             "id": "bacd911b-3ad5-4770-8495-a8e583db9504",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700"
         },
         {
@@ -4260,7 +4260,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Perry Oracles",
@@ -4357,7 +4357,7 @@
             "id": "26caacd1-c0f1-4c83-9004-5370aa3d1605",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#f08700"
         },
         {
@@ -4456,7 +4456,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#f08700",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -4542,7 +4542,7 @@
             "isPostseason": false,
             "league": "Cold League",
             "team1Color": "#ef6f6c",
-            "team2Color": "#990000"
+            "team2Color": "#BB0000"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -4639,7 +4639,7 @@
             "id": "cb9b8d5d-af6c-4800-b7ab-3921d6b07265",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#ef6f6c"
         },
         {
@@ -4725,7 +4725,7 @@
             "id": "90513351-6deb-47a8-8725-259e2ae44c5a",
             "isPostseason": false,
             "league": "Cold League",
-            "team1Color": "#990000",
+            "team1Color": "#BB0000",
             "team2Color": "#53917e"
         },
         {
