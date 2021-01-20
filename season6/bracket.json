@@ -1,0 +1,405 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 6,
+                "team1Name": "Brookside Village Rainbow Trout",
+                "team2Name": "Gray Chessboards",
+                "patternName": "spaceshipcrash",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "aa474d7f-bd20-4c07-ab1f-733862d0f649",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 6,
+                "team1Name": "Hapeville Meathammers",
+                "team2Name": "Greenville Snakes",
+                "patternName": "randompartition",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "a241aafb-9fa6-4bef-b748-6ccd89359806",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 6,
+                "team1Name": "Georgetown Dear Deer",
+                "team2Name": "Loris High Rollers",
+                "patternName": "eightr",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "db8387aa-0032-4326-8fad-0e624113fcd1",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 6,
+                "team1Name": "Monmouth Junction Chessboards",
+                "team2Name": "DeLeon Springs Fighting Asparagus",
+                "patternName": "eightpi",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "5662dac6-6d7c-472a-a75c-23f7066b34e9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 6,
+                "team1Name": "Brookside Village Rainbow Trout",
+                "team2Name": "Gray Chessboards",
+                "patternName": "randompartition",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "dec3a116-ee4c-4728-98f9-c56cff85c563",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 6,
+                "team1Name": "Hapeville Meathammers",
+                "team2Name": "Greenville Snakes",
+                "patternName": "spaceshipcluster",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "dfd04616-698e-41c0-803a-75b866ec56ce",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 6,
+                "team1Name": "Georgetown Dear Deer",
+                "team2Name": "Loris High Rollers",
+                "patternName": "quadjustyna",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "a7f04333-5ba3-4472-8227-7daec4df2c0a",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 6,
+                "team1Name": "Monmouth Junction Chessboards",
+                "team2Name": "DeLeon Springs Fighting Asparagus",
+                "patternName": "timebomb",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "c955b324-9983-454c-bf3c-b9d7a1dea831",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 6,
+                "team1Name": "Gray Chessboards",
+                "team2Name": "Brookside Village Rainbow Trout",
+                "patternName": "spaceshipcrash",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "277b1132-7bab-41dd-be77-e0f1cbf099d7",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 6,
+                "team1Name": "Greenville Snakes",
+                "team2Name": "Hapeville Meathammers",
+                "patternName": "eightpi",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "35f605d0-08bd-4460-963a-9d91e89f806d",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 6,
+                "team1Name": "Loris High Rollers",
+                "team2Name": "Georgetown Dear Deer",
+                "patternName": "randompartition",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "5cf2a886-0c64-41c6-bfc2-a6a04139037d",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 6,
+                "team1Name": "DeLeon Springs Fighting Asparagus",
+                "team2Name": "Monmouth Junction Chessboards",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "bc41dc4e-845c-4d1b-a7f6-484d4f29e909",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 6,
+                "team1Name": "Gray Chessboards",
+                "team2Name": "Brookside Village Rainbow Trout",
+                "patternName": "quadjustyna",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "eb31f1ef-d9ac-49de-8fdc-b06650ad6ddc",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 6,
+                "team1Name": "Greenville Snakes",
+                "team2Name": "Hapeville Meathammers",
+                "patternName": "randompartition",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "c3139f25-6216-4312-adc3-2e8c8587f182",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 6,
+                "team1Name": "Loris High Rollers",
+                "team2Name": "Georgetown Dear Deer",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "d11824a2-eb61-41d2-932c-7e7f68415d1b",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 6,
+                "team1Name": "DeLeon Springs Fighting Asparagus",
+                "team2Name": "Monmouth Junction Chessboards",
+                "patternName": "eightpi",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "5aaf5994-9efa-42a3-9efd-977c277ccc75",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 6,
+                "team1Name": "Brookside Village Rainbow Trout",
+                "team2Name": "Gray Chessboards",
+                "patternName": "fourrabbits",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "3e245a9f-8bb2-4a64-8642-f86887e579ea",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 6,
+                "team1Name": "Hapeville Meathammers",
+                "team2Name": "Greenville Snakes",
+                "patternName": "quadjustyna",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "048f01ff-2d79-45de-a1d3-7126fc083a58",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 6,
+                "team1Name": "Georgetown Dear Deer",
+                "team2Name": "Loris High Rollers",
+                "patternName": "randompartition",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "a2e78a0d-138c-4760-a56c-97e3276847ec",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 6,
+                "team1Name": "Monmouth Junction Chessboards",
+                "team2Name": "DeLeon Springs Fighting Asparagus",
+                "patternName": "eightpi",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "e3d7977b-5533-4dc1-9604-d88c8165fb65",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "random",
+                "league": "Cold League",
+                "season": 6,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "b4dd1a77-dca7-47a3-b47d-17f797180776",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "eightr",
+                "league": "Hot League",
+                "season": 6,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "8b9d5fc4-6225-4b89-9de6-57f03abfdbcd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "eightr",
+                "league": "Cold League",
+                "season": 6,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "43dfca6e-2f49-4656-ae8b-677879e4814d",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "twomultum",
+                "league": "Hot League",
+                "season": 6,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "fc229383-4e55-4439-b68a-11f2e9b90486",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "random",
+                "league": "Cold League",
+                "season": 6,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "677d23c7-583f-4a68-b3ed-fd1adc00ba83",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "eightr",
+                "league": "Hot League",
+                "season": 6,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "c3918077-d275-4a4f-9c9c-e1b4290a1a4f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "quadjustyna",
+                "league": "Cold League",
+                "season": 6,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "07b89efb-6f94-4160-9c4e-ad0ae9f05275",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "eightr",
+                "league": "Hot League",
+                "season": 6,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "66174b50-80d4-4e0a-816c-3cf3dbfbbead",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "twoacorn",
+                "league": "Cold League",
+                "season": 6,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "b6be328b-18b2-482b-82df-f1246bbfe0b1",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "spaceshipcrash",
+                "league": "Hot League",
+                "season": 6,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "0650a745-9f0a-4407-a569-0a90d5bf29a4",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "WS": [
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "quadjustyna",
+                "description": "Game 1, World Series",
+                "season": 6,
+                "id": "9608026e-8dec-4548-8bd5-829e2adac3a2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "randompartition",
+                "description": "Game 2, World Series",
+                "season": 6,
+                "id": "00482281-1a04-4c14-b50f-a773285617c7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "twomultum",
+                "description": "Game 3, World Series",
+                "season": 6,
+                "id": "dce10796-624b-4153-80fa-ae4e41e6ac23",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "spaceshipcluster",
+                "description": "Game 4, World Series",
+                "season": 6,
+                "id": "c1a1c35c-aa6e-4eaf-9c5c-10c141171afa",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 5, World Series",
+                "season": 6,
+                "id": "05603297-abd0-4f6d-a9b4-36759a497783",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "twoacorn",
+                "description": "Game 6, World Series",
+                "season": 6,
+                "id": "f7a5a0c4-6280-47ce-8d72-ee5659a5ecd8",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "spaceshipcrash",
+                "description": "Game 7, World Series",
+                "season": 6,
+                "id": "1d13ffb2-3fa6-48ab-b654-9ea76ac97b2c",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
