@@ -1,0 +1,405 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 7,
+                "team1Name": "Lincoln Geckos",
+                "team2Name": "DeWitt Ghosts",
+                "patternName": "spaceshipcluster",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "a146528f-38f9-44df-9a98-34c03a1af848",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 7,
+                "team1Name": "Koontz Lake Cliff Divers",
+                "team2Name": "Ackerman Fan Blades",
+                "patternName": "fourrabbits",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "009be51a-458a-471f-9ae0-4ceaa61dac0b",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 7,
+                "team1Name": "Beacon Anchors",
+                "team2Name": "Bal Harbour Bathtubs",
+                "patternName": "eightpi",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "ce604c11-ae55-4036-a1f8-756cc8ab9373",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 7,
+                "team1Name": "Mt. Hood Village Open Flames",
+                "team2Name": "Longtown Umbrellas",
+                "patternName": "timebomb",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "29a8bab0-149e-4072-b31d-2b568a08c494",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 7,
+                "team1Name": "Lincoln Geckos",
+                "team2Name": "DeWitt Ghosts",
+                "patternName": "eightpi",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "36c23a00-af61-4cb0-8862-4a10e0bc71ed",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 7,
+                "team1Name": "Koontz Lake Cliff Divers",
+                "team2Name": "Ackerman Fan Blades",
+                "patternName": "spaceshipcluster",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "c8102713-bac0-4142-bff6-45f70e7b7f04",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 7,
+                "team1Name": "Beacon Anchors",
+                "team2Name": "Bal Harbour Bathtubs",
+                "patternName": "quadjustyna",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "d5c7b285-1abb-4ce5-b926-40892519e6c1",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 7,
+                "team1Name": "Mt. Hood Village Open Flames",
+                "team2Name": "Longtown Umbrellas",
+                "patternName": "randompartition",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "03ef69d4-9182-4249-a768-b004db79935d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 7,
+                "team1Name": "DeWitt Ghosts",
+                "team2Name": "Lincoln Geckos",
+                "patternName": "spaceshipcluster",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "f6eac1ec-c210-49ca-8178-a65f53c391ad",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 7,
+                "team1Name": "Ackerman Fan Blades",
+                "team2Name": "Koontz Lake Cliff Divers",
+                "patternName": "quadjustyna",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "1f040135-1544-44cf-9a96-0e92f256a400",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 7,
+                "team1Name": "Bal Harbour Bathtubs",
+                "team2Name": "Beacon Anchors",
+                "patternName": "timebomb",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "c073171d-18a5-4730-aec0-3d7698e3c134",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 7,
+                "team1Name": "Longtown Umbrellas",
+                "team2Name": "Mt. Hood Village Open Flames",
+                "patternName": "spaceshipcrash",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "36f7df72-9f82-4d11-8d87-43bbde89c627",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 7,
+                "team1Name": "DeWitt Ghosts",
+                "team2Name": "Lincoln Geckos",
+                "patternName": "timebomb",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "c3c764af-74a8-4e1c-b807-cd0784e4109e",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 7,
+                "team1Name": "Ackerman Fan Blades",
+                "team2Name": "Koontz Lake Cliff Divers",
+                "patternName": "eightr",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "453a90b6-2a1a-4b4e-a003-8b162b1c6561",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 7,
+                "team1Name": "Bal Harbour Bathtubs",
+                "team2Name": "Beacon Anchors",
+                "patternName": "spaceshipcrash",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "a893cdc8-eccc-4b8f-9b3c-130d19f097bd",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 7,
+                "team1Name": "Longtown Umbrellas",
+                "team2Name": "Mt. Hood Village Open Flames",
+                "patternName": "twomultum",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "9bce18b0-ce09-4ba9-b525-71f024d1738f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 7,
+                "team1Name": "Lincoln Geckos",
+                "team2Name": "DeWitt Ghosts",
+                "patternName": "random",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "a791fa8d-75ec-4ab2-9e1f-d9cf72f72c8b",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 7,
+                "team1Name": "Koontz Lake Cliff Divers",
+                "team2Name": "Ackerman Fan Blades",
+                "patternName": "eightpi",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "1933094d-1739-4d94-9e03-5190fb214187",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 7,
+                "team1Name": "Beacon Anchors",
+                "team2Name": "Bal Harbour Bathtubs",
+                "patternName": "spaceshipcrash",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "3785b528-3e79-4450-a73f-90413d82f1be",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 7,
+                "team1Name": "Mt. Hood Village Open Flames",
+                "team2Name": "Longtown Umbrellas",
+                "patternName": "twoacorn",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "76b967c6-b228-47b7-b360-07c57dd39633",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "spaceshipcluster",
+                "league": "Cold League",
+                "season": 7,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "fa53b279-d5ea-4f17-82eb-418f8bff6293",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "eightr",
+                "league": "Hot League",
+                "season": 7,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "5d03cf44-eb35-4e67-b741-ccd82f354531",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "twoacorn",
+                "league": "Cold League",
+                "season": 7,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "63056893-dab6-4d9a-9f2c-433257ba5297",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "eightpi",
+                "league": "Hot League",
+                "season": 7,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "5eb15f34-751e-4fca-924c-5b519c16277d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "spaceshipcrash",
+                "league": "Cold League",
+                "season": 7,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "3fed7fbc-ebb7-49ab-9fc5-4f959a6d3229",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "random",
+                "league": "Hot League",
+                "season": 7,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "1efd4fdc-b63f-43ef-a784-822ca1b1f3b4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "twomultum",
+                "league": "Cold League",
+                "season": 7,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "a6ca3986-2c1d-441b-a2e6-038e43853cb8",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "timebomb",
+                "league": "Hot League",
+                "season": 7,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "26964c07-e37a-4e8d-a5ea-c9341c9a1924",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "spaceshipcluster",
+                "league": "Cold League",
+                "season": 7,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "2aedc4ff-e8a5-4373-bab5-b2a344643064",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "quadjustyna",
+                "league": "Hot League",
+                "season": 7,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "acd84199-2357-4e95-a4ad-9100f18beb55",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "WS": [
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "twomultum",
+                "description": "Game 1, World Series",
+                "season": 7,
+                "id": "5be2a708-4e1e-4f68-81fe-de8b8f2129e4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "spaceshipcrash",
+                "description": "Game 2, World Series",
+                "season": 7,
+                "id": "446f0a84-f9e0-46bc-9a93-d6e81058d7ee",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "quadjustyna",
+                "description": "Game 3, World Series",
+                "season": 7,
+                "id": "8c53cb12-5784-436d-a2b2-9a50d4e9c6a0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "spaceshipcluster",
+                "description": "Game 4, World Series",
+                "season": 7,
+                "id": "13936ad6-b5dd-41e5-8fda-a9e5924d2107",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "eightr",
+                "description": "Game 5, World Series",
+                "season": 7,
+                "id": "f99f5e63-4e3e-4832-8aee-6409f9c33780",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "randompartition",
+                "description": "Game 6, World Series",
+                "season": 7,
+                "id": "0668e629-1d58-469a-b46c-96730a2a8736",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "eightpi",
+                "description": "Game 7, World Series",
+                "season": 7,
+                "id": "8d9ec72d-fca8-4a67-85f3-3ce18e40e12a",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
