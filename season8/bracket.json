@@ -1,0 +1,405 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Frankfort Frankfurters",
+                "team2Name": "Hinton Bloviators",
+                "patternName": "twoacorn",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "63e8f0f3-6760-4b79-889d-4ea9c2825b25",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Fairview Furniture Assemblers",
+                "team2Name": "Libby Woodfingers",
+                "patternName": "randompartition",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "b6f13517-c310-4474-88a3-ea368710e1e0",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Junction City Cavesystems",
+                "team2Name": "Barataria Fighting Asparagus",
+                "patternName": "quadjustyna",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "4ea3761b-b664-435c-9843-4ee4241858bc",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Ft. Valley Black Bananas",
+                "team2Name": "Humboldt Hill Closed Doors",
+                "patternName": "spaceshipcrash",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "f2e87b56-769b-4849-93a6-6a9330bca64f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Frankfort Frankfurters",
+                "team2Name": "Hinton Bloviators",
+                "patternName": "timebomb",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "ad5096f5-50c4-4469-9153-87a854199d9a",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Fairview Furniture Assemblers",
+                "team2Name": "Libby Woodfingers",
+                "patternName": "eightpi",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "9f1f71d0-aab6-48a7-a89c-8c9d4ae6a9f3",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Junction City Cavesystems",
+                "team2Name": "Barataria Fighting Asparagus",
+                "patternName": "random",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "f02aa051-f0cb-439d-b217-597ab3b8770d",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Ft. Valley Black Bananas",
+                "team2Name": "Humboldt Hill Closed Doors",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "e9d325cf-f707-4284-bb50-2e8ad2ed9fa0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Hinton Bloviators",
+                "team2Name": "Frankfort Frankfurters",
+                "patternName": "quadjustyna",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "6fd5efec-ff99-40a0-8b20-b5e8c864e104",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Libby Woodfingers",
+                "team2Name": "Fairview Furniture Assemblers",
+                "patternName": "eightpi",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "72b84804-c5a1-47ff-926f-0009ef253879",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Barataria Fighting Asparagus",
+                "team2Name": "Junction City Cavesystems",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "1f04836d-4e94-4738-a969-b4845f7fd8c7",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Humboldt Hill Closed Doors",
+                "team2Name": "Ft. Valley Black Bananas",
+                "patternName": "eightr",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "3e75110f-c036-4ae3-a32a-bd5ace91f61a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Hinton Bloviators",
+                "team2Name": "Frankfort Frankfurters",
+                "patternName": "randompartition",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "15e51a68-2efb-4d94-b1f2-7a3eae7b7188",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Libby Woodfingers",
+                "team2Name": "Fairview Furniture Assemblers",
+                "patternName": "eightr",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "954651b3-bdcc-4b60-9079-e9e33d404061",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Barataria Fighting Asparagus",
+                "team2Name": "Junction City Cavesystems",
+                "patternName": "eightpi",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "8894e596-d50c-4c2b-bd7d-23fdf3ea9b91",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Humboldt Hill Closed Doors",
+                "team2Name": "Ft. Valley Black Bananas",
+                "patternName": "fourrabbits",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "4d420c54-16e4-4025-bf53-fd85f6d2046e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Frankfort Frankfurters",
+                "team2Name": "Hinton Bloviators",
+                "patternName": "eightr",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "8c1484f8-1ae1-466c-b4a4-6a9659ebcf04",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 8,
+                "team1Name": "Fairview Furniture Assemblers",
+                "team2Name": "Libby Woodfingers",
+                "patternName": "twomultum",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "3e33407d-ac5a-47d3-bdb6-22316ed3d216",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Junction City Cavesystems",
+                "team2Name": "Barataria Fighting Asparagus",
+                "patternName": "randompartition",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "f0267eb6-7287-4c9e-a7b9-ea5271beb78b",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 8,
+                "team1Name": "Ft. Valley Black Bananas",
+                "team2Name": "Humboldt Hill Closed Doors",
+                "patternName": "random",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "473a2f7f-e27f-48e7-b3bf-f27f413700a3",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "fourrabbits",
+                "league": "Cold League",
+                "season": 8,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "3b7d505a-5967-4199-b117-df226724594e",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "spaceshipcluster",
+                "league": "Hot League",
+                "season": 8,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "09a6054c-7720-43ae-b042-e137fb3d8fab",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "random",
+                "league": "Cold League",
+                "season": 8,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "bf067471-f520-450d-9f58-378e9a6da05d",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "twoacorn",
+                "league": "Hot League",
+                "season": 8,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "1cb6d996-ca8b-4ec2-98b0-02aeccf749a2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "spaceshipcrash",
+                "league": "Cold League",
+                "season": 8,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "553cb796-9845-4cc6-8252-5f8e3401ecc6",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "randompartition",
+                "league": "Hot League",
+                "season": 8,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "3f878aa0-270f-4bf9-a263-af794a8a606a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "quadjustyna",
+                "league": "Cold League",
+                "season": 8,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "467c80d9-5a7f-45c2-a09c-d6ac3eac6ce4",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "eightr",
+                "league": "Hot League",
+                "season": 8,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "79d42fdb-b63f-43c9-b701-636786b7a68a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "eightr",
+                "league": "Cold League",
+                "season": 8,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "061869fb-fadf-47c3-a80c-c30427cb697a",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "random",
+                "league": "Hot League",
+                "season": 8,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "680953e2-2d63-43c9-8ee0-c9a3359691d0",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "WS": [
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "random",
+                "description": "Game 1, World Series",
+                "season": 8,
+                "id": "3e66b171-c974-4ce4-9318-688e4b5543c8",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "randompartition",
+                "description": "Game 2, World Series",
+                "season": 8,
+                "id": "caa03713-e359-4e3e-b66a-239819d9ae98",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "eightpi",
+                "description": "Game 3, World Series",
+                "season": 8,
+                "id": "dc3ce4b8-72a6-45db-a4d9-db0042e08aa5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "fourrabbits",
+                "description": "Game 4, World Series",
+                "season": 8,
+                "id": "338c75fc-a703-424d-9b77-20a7dc9ce94d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "timebomb",
+                "description": "Game 5, World Series",
+                "season": 8,
+                "id": "690766c6-6087-401e-a4bd-989dc76d4326",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "quadjustyna",
+                "description": "Game 6, World Series",
+                "season": 8,
+                "id": "34a7fab7-e3e0-43c9-92bd-8f78e923ca52",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 7, World Series",
+                "season": 8,
+                "id": "598c6316-736f-477c-ac2c-346aaa320b3c",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

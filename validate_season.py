@@ -2,7 +2,7 @@ import os
 import json
 
 
-NSEASONS = 8
+NSEASONS = 9
 for iseason in range(NSEASONS):
     seasondir = "season%d"%(iseason)
 
