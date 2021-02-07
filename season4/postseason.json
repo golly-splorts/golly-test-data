@@ -1201,7 +1201,7 @@
                 "day": 58,
                 "season": 4,
                 "id": "9b697f8b-846a-4a39-a0d0-ce2940993499",
-                "description": "Game 1, World Series",
+                "description": "Game 1, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     6,
@@ -1247,7 +1247,7 @@
                 "day": 59,
                 "season": 4,
                 "id": "e321a01f-8f54-4095-9560-69736187eca1",
-                "description": "Game 2, World Series",
+                "description": "Game 2, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     6,
@@ -1293,7 +1293,7 @@
                 "day": 60,
                 "season": 4,
                 "id": "0938598e-87f0-40ea-b3e0-af857ffb43ef",
-                "description": "Game 3, World Series",
+                "description": "Game 3, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     7,
@@ -1339,7 +1339,7 @@
                 "day": 61,
                 "season": 4,
                 "id": "dca539ee-4d71-4276-af5b-c08d8933a7ed",
-                "description": "Game 4, World Series",
+                "description": "Game 4, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     7,
@@ -1385,7 +1385,7 @@
                 "day": 62,
                 "season": 4,
                 "id": "1f6bef53-82a2-454a-a947-3a6565543248",
-                "description": "Game 5, World Series",
+                "description": "Game 5, Hellmouth Cup",
                 "isPostseason": true,
                 "team1PostseasonWinLoss": [
                     7,

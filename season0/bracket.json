@@ -299,7 +299,7 @@
                 "team1Name": "Cold League",
                 "team2Name": "Hot League",
                 "patternName": "eightpi",
-                "description": "Game 1, World Series",
+                "description": "Game 1, Hellmouth Cup",
                 "id": "b76da7ac-f2d6-4bbc-b8a4-3d81f7d59afd",
                 "isPostseason": true
             }
@@ -309,7 +309,7 @@
                 "team1Name": "Cold League",
                 "team2Name": "Hot League",
                 "patternName": "eightpi",
-                "description": "Game 2, World Series",
+                "description": "Game 2, Hellmouth Cup",
                 "id": "d3a6d439-420f-49f6-b6a6-61612585afd8",
                 "isPostseason": true
             }
@@ -319,7 +319,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "twomultum",
-                "description": "Game 3, World Series",
+                "description": "Game 3, Hellmouth Cup",
                 "id": "4108080e-db20-48c1-938a-3205863f5694",
                 "isPostseason": true
             }
@@ -329,7 +329,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "fourrabbits",
-                "description": "Game 4, World Series",
+                "description": "Game 4, Hellmouth Cup",
                 "id": "8a05919a-ca2c-4ff0-9cb5-c76612c11895",
                 "isPostseason": true
             }
@@ -339,7 +339,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "fourrabbits",
-                "description": "Game 5, World Series",
+                "description": "Game 5, Hellmouth Cup",
                 "id": "941b71d2-eeb9-4795-b069-59923a3dcec6",
                 "isPostseason": true
             }
@@ -349,7 +349,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "fourrabbits",
-                "description": "Game 6, World Series",
+                "description": "Game 6, Hellmouth Cup",
                 "id": "5efb60bc-d70d-4fcc-ae4b-7ea854f634af",
                 "isPostseason": true
             }
@@ -359,7 +359,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "fourrabbits",
-                "description": "Game 7, World Series",
+                "description": "Game 7, Hellmouth Cup",
                 "id": "2f3dfabd-27d5-470c-8093-7f2a7d5fee64",
                 "isPostseason": true
             }
