@@ -329,7 +329,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "twomultum",
-                "description": "Game 1, World Series",
+                "description": "Game 1, Hellmouth Cup",
                 "season": 4,
                 "id": "9b697f8b-846a-4a39-a0d0-ce2940993499",
                 "isPostseason": true
@@ -340,7 +340,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "spaceshipcluster",
-                "description": "Game 2, World Series",
+                "description": "Game 2, Hellmouth Cup",
                 "season": 4,
                 "id": "e321a01f-8f54-4095-9560-69736187eca1",
                 "isPostseason": true
@@ -351,7 +351,7 @@
                 "team1Name": "Cold League",
                 "team2Name": "Hot League",
                 "patternName": "quadjustyna",
-                "description": "Game 3, World Series",
+                "description": "Game 3, Hellmouth Cup",
                 "season": 4,
                 "id": "0938598e-87f0-40ea-b3e0-af857ffb43ef",
                 "isPostseason": true
@@ -362,7 +362,7 @@
                 "team1Name": "Cold League",
                 "team2Name": "Hot League",
                 "patternName": "random",
-                "description": "Game 4, World Series",
+                "description": "Game 4, Hellmouth Cup",
                 "season": 4,
                 "id": "dca539ee-4d71-4276-af5b-c08d8933a7ed",
                 "isPostseason": true
@@ -373,7 +373,7 @@
                 "team1Name": "Cold League",
                 "team2Name": "Hot League",
                 "patternName": "fourrabbits",
-                "description": "Game 5, World Series",
+                "description": "Game 5, Hellmouth Cup",
                 "season": 4,
                 "id": "1f6bef53-82a2-454a-a947-3a6565543248",
                 "isPostseason": true
@@ -384,7 +384,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "eightpi",
-                "description": "Game 6, World Series",
+                "description": "Game 6, Hellmouth Cup",
                 "season": 4,
                 "id": "d7ccb061-4bc6-49be-84a2-fbf40ba031b1",
                 "isPostseason": true
@@ -395,7 +395,7 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "twospaceshipgenerators",
-                "description": "Game 7, World Series",
+                "description": "Game 7, Hellmouth Cup",
                 "season": 4,
                 "id": "ac4043c9-c7e5-4513-9f5b-50cdc72ea216",
                 "isPostseason": true
