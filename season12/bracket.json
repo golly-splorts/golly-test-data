@@ -1,0 +1,405 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 12,
+                "team1Name": "Bennington Gravity",
+                "team2Name": "Essex Junction Mighty Spanners",
+                "patternName": "randompartition",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "0f545397-77b2-4144-9fac-1d7cc168671a",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 12,
+                "team1Name": "Essex Anaesthesiologists",
+                "team2Name": "Hartford Glaciers",
+                "patternName": "eightpi",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "a93b2cb4-6ad7-4618-ab74-0d3fafb22123",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 12,
+                "team1Name": "Brattleboro Ferrofluids",
+                "team2Name": "Williston Responsible Citizens",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "3ad0677d-a930-467e-8ae4-b3390675a922",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 12,
+                "team1Name": "Rutland Scissors",
+                "team2Name": "Springfield Surgeons",
+                "patternName": "orchard",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "a154bf9a-12a4-4e6b-b7bd-42973daa3731",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 12,
+                "team1Name": "Bennington Gravity",
+                "team2Name": "Essex Junction Mighty Spanners",
+                "patternName": "randompartition",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "8d7cef3e-8db7-4d9c-bc70-441b42f837ff",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 12,
+                "team1Name": "Essex Anaesthesiologists",
+                "team2Name": "Hartford Glaciers",
+                "patternName": "spaceshipsegment",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "0b4fd0ae-f9dd-4f6a-99c6-0f14b13f3fce",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 12,
+                "team1Name": "Brattleboro Ferrofluids",
+                "team2Name": "Williston Responsible Citizens",
+                "patternName": "fourrabbits",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "b561da0c-9a2f-42b1-90fa-15d8dbd686e1",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 12,
+                "team1Name": "Rutland Scissors",
+                "team2Name": "Springfield Surgeons",
+                "patternName": "timebombredux",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "ed421332-9a1a-4781-9022-5eb7185ce73a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 12,
+                "team1Name": "Essex Junction Mighty Spanners",
+                "team2Name": "Bennington Gravity",
+                "patternName": "eightr",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "de3a83e1-2a8e-4c86-b8d9-3efe62ba3362",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 12,
+                "team1Name": "Hartford Glaciers",
+                "team2Name": "Essex Anaesthesiologists",
+                "patternName": "randomsegment",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "569fb3c6-1753-49f2-b368-4f41ea0aa7eb",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 12,
+                "team1Name": "Williston Responsible Citizens",
+                "team2Name": "Brattleboro Ferrofluids",
+                "patternName": "fourrabbits",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "3e270346-125b-4d34-83e2-c29b5b0bfeb5",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 12,
+                "team1Name": "Springfield Surgeons",
+                "team2Name": "Rutland Scissors",
+                "patternName": "switchengines",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "441a6f81-0778-4bd3-8039-2d828f7076fc",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 12,
+                "team1Name": "Essex Junction Mighty Spanners",
+                "team2Name": "Bennington Gravity",
+                "patternName": "eightpi",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "6b39d941-dfc7-4965-8916-a7dcb42303d0",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 12,
+                "team1Name": "Hartford Glaciers",
+                "team2Name": "Essex Anaesthesiologists",
+                "patternName": "timebombredux",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "29764dbe-a66f-4cf9-823b-b31697f462bb",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 12,
+                "team1Name": "Williston Responsible Citizens",
+                "team2Name": "Brattleboro Ferrofluids",
+                "patternName": "switchengines",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "352723d4-e130-4284-be79-45b8edfe9e9d",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 12,
+                "team1Name": "Springfield Surgeons",
+                "team2Name": "Rutland Scissors",
+                "patternName": "randompartition",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "e5d3c493-7f72-4604-aecb-bfdf7273951e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 12,
+                "team1Name": "Bennington Gravity",
+                "team2Name": "Essex Junction Mighty Spanners",
+                "patternName": "random",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "ddb07ed4-3a03-45c8-8fac-48da083e1c04",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 12,
+                "team1Name": "Essex Anaesthesiologists",
+                "team2Name": "Hartford Glaciers",
+                "patternName": "bigsegment",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "458d5baa-a175-4eec-acb4-509ccfc60d49",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 12,
+                "team1Name": "Brattleboro Ferrofluids",
+                "team2Name": "Williston Responsible Citizens",
+                "patternName": "randomsegment",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "4cb8ed7f-5613-46da-810a-d10079ca39ac",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 12,
+                "team1Name": "Rutland Scissors",
+                "team2Name": "Springfield Surgeons",
+                "patternName": "timebombredux",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "ad700aaf-3a31-467a-acd9-2d3d67290d86",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "eightr",
+                "league": "Cold League",
+                "season": 12,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "c470d9f2-8bc2-4fea-9da3-ed28bc266a79",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "twomultum",
+                "league": "Hot League",
+                "season": 12,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "2ae6a6a0-11db-46e1-96f1-289406e0c22a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "random",
+                "league": "Cold League",
+                "season": 12,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "c0e907a8-3f8f-49a4-a952-268b8886103a",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "fourrabbits",
+                "league": "Hot League",
+                "season": 12,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "3f3383bf-9793-42d5-84ca-83ec8e46f30d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "quadjustyna",
+                "league": "Cold League",
+                "season": 12,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "bb07787a-ac60-436f-aaa4-60cded077e29",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "bigsegment",
+                "league": "Hot League",
+                "season": 12,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "753ddfb6-8ea0-4062-bab8-cfd65efcd2bb",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "spaceshipcrash",
+                "league": "Cold League",
+                "season": 12,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "fb6bb010-6ad3-4f13-beb0-7994e9afe629",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "random",
+                "league": "Hot League",
+                "season": 12,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "ca7f6ced-380a-4dd6-b5c9-2fbfec6ceb03",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "random",
+                "league": "Cold League",
+                "season": 12,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "0c4dceb9-05c5-4ec0-ac57-e4da478e07db",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "twomultum",
+                "league": "Hot League",
+                "season": 12,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "5de899bd-e087-4bef-8f69-a7514ac35c56",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "WS": [
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "fourrabbits",
+                "description": "Game 1, Hellmouth Cup",
+                "season": 12,
+                "id": "2c9a9f4f-b955-4a2d-af98-fd7a8eab8fad",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "quadjustyna",
+                "description": "Game 2, Hellmouth Cup",
+                "season": 12,
+                "id": "2ff9200d-5993-45cb-a2e4-b3e92a3cbc09",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "randomsegment",
+                "description": "Game 3, Hellmouth Cup",
+                "season": 12,
+                "id": "da1c8942-1a49-4750-964f-f30ed01e83d9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "rabbitfarm",
+                "description": "Game 4, Hellmouth Cup",
+                "season": 12,
+                "id": "c0ee50c3-83bf-454e-b4f3-90f76f16b3e3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "randompartition",
+                "description": "Game 5, Hellmouth Cup",
+                "season": 12,
+                "id": "f57aaa18-aa7e-4de0-8d67-193cb585a6e1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "bigsegment",
+                "description": "Game 6, Hellmouth Cup",
+                "season": 12,
+                "id": "63e83a66-6bbe-4b1e-91c8-fea30a42cf30",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "twomultum",
+                "description": "Game 7, Hellmouth Cup",
+                "season": 12,
+                "id": "cf17996c-cac1-4942-be05-5315ad413954",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
