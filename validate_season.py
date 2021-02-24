@@ -13,7 +13,7 @@ ABBR_TO_NAME = {
 }
 
 
-for iseason in range(NSEASONS):
+for iseason in range(NSEASONS+1):
     seasondir = "season%d" % (iseason)
 
     #####################
