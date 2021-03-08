@@ -2,14 +2,14 @@ import os
 import json
 
 
-NSEASONS = 12
+NSEASONS = 14
 
-SERIES_GPD = {"LDS": 4, "LCS": 2, "WS": 1}
+SERIES_GPD = {"LDS": 4, "LCS": 2, "HCS": 1}
 
 ABBR_TO_NAME = {
     "LDS": "League Division Series",
     "LCS": "League Championship Series",
-    "WS": "Hellmouth Cup",
+    "HCS": "Hellmouth Cup",
 }
 
 
@@ -39,11 +39,13 @@ for iseason in range(NSEASONS+1):
         for team in teams:
             if team["teamName"] == teamName:
                 return team["teamColor"]
+        raise Exception(f"Error: could not find a color for team {teamName}")
 
     def get_team_league(teamName):
         for team in teams:
             if team["teamName"] == teamName:
                 return team["league"]
+        raise Exception(f"Error: could not find a league for team {teamName}")
 
     #####################
     # check games
@@ -376,10 +378,10 @@ for iseason in range(NSEASONS+1):
             f"Error: postseason LCS length is invalid: {lcslen} games, should be 5"
         )
 
-    wslen = len(bracket["WS"])
-    if wslen != 7:
+    hcslen = len(bracket["HCS"])
+    if hcslen != 7:
         raise Exception(
-            f"Error: postseason WS length is invalid: {wslen} games, should be 7"
+            f"Error: postseason HCS length is invalid: {hcslen} games, should be 7"
         )
 
     # bracket.json must have fewer teams than teams.json
@@ -425,7 +427,7 @@ for iseason in range(NSEASONS+1):
                 check_id(game)
                 check_name_color_match(game)
                 check_score(game)
-                if series != "WS":
+                if series != "HCS":
                     check_league(game)
                 check_map(game)
                 check_game_season(game, iseason)
@@ -457,9 +459,9 @@ for iseason in range(NSEASONS+1):
     if lcslen > 5 or lcslen < 3:
         raise Exception(f"Error: postseason LCS length is invalid: {lcslen} games")
 
-    wslen = len(postseason["WS"])
-    if wslen > 7 or wslen < 4:
-        raise Exception(f"Error: postseason WS length is invalid: {wslen} games")
+    hcslen = len(postseason["HCS"])
+    if hcslen > 7 or hcslen < 4:
+        raise Exception(f"Error: postseason HCS length is invalid: {hcslen} games")
 
     # postseason.json must have fewer teams than postseason.json
     if len(postseason_team_names) >= len(teams):
