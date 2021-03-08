@@ -1,0 +1,114 @@
+[
+    {
+        "teamAbbr": "TB",
+        "teamName": "Caldwell Rapscallions",
+        "teamColor": "#BB0000",
+        "league": "Cold League",
+        "division": "Water Division"
+    },
+    {
+        "teamAbbr": "SS",
+        "teamName": "Coeur d'Alene Flatulence",
+        "teamColor": "#e86215",
+        "league": "Cold League",
+        "division": "Fire Division"
+    },
+    {
+        "teamAbbr": "SFBS",
+        "teamName": "Jerome Equilibria",
+        "teamColor": "#e7d7c1",
+        "league": "Hot League",
+        "division": "Fire Division"
+    },
+    {
+        "teamAbbr": "SDBA",
+        "teamName": "Idaho Falls Seraphim",
+        "teamColor": "#f08700",
+        "league": "Cold League",
+        "division": "Water Division"
+    },
+    {
+        "teamAbbr": "SAC",
+        "teamName": "Boise Haymakers",
+        "teamColor": "#ffb627",
+        "league": "Hot League",
+        "division": "Water Division"
+    },
+    {
+        "teamAbbr": "ORL",
+        "teamName": "Eagle Octagons",
+        "teamColor": "#0dab76",
+        "league": "Hot League",
+        "division": "Water Division"
+    },
+    {
+        "teamAbbr": "MILF",
+        "teamName": "Meridian Lagrangians",
+        "teamColor": "#ff66cc",
+        "league": "Hot League",
+        "division": "Fire Division"
+    },
+    {
+        "teamAbbr": "LBFB",
+        "teamName": "Hailey Avoiders",
+        "teamColor": "#f2c57c",
+        "league": "Cold League",
+        "division": "Fire Division"
+    },
+    {
+        "teamAbbr": "OSHA",
+        "teamName": "Twin Falls Slashers",
+        "teamColor": "#53917e",
+        "league": "Cold League",
+        "division": "Water Division"
+    },
+    {
+        "teamAbbr": "FWPT",
+        "teamName": "Nampa Electrical Outlets",
+        "teamColor": "#ef6f6c",
+        "league": "Cold League",
+        "division": "Water Division"
+    },
+    {
+        "teamAbbr": "EA",
+        "teamName": "Sandpoint Sparkleflashes",
+        "teamColor": "#a0e7e5",
+        "league": "Cold League",
+        "division": "Fire Division"
+    },
+    {
+        "teamAbbr": "DET",
+        "teamName": "Burley Insurrectionists",
+        "teamColor": "#9963ab",
+        "league": "Hot League",
+        "division": "Fire Division"
+    },
+    {
+        "teamAbbr": "DECO",
+        "teamName": "Lewiston Loaves",
+        "teamColor": "#a0e7e8",
+        "league": "Hot League",
+        "division": "Fire Division"
+    },
+    {
+        "teamAbbr": "BTX",
+        "teamName": "Moscow Potholes",
+        "teamColor": "#3e92cc",
+        "league": "Cold League",
+        "division": "Fire Division"
+    },
+    {
+        "teamAbbr": "ATL",
+        "teamName": "Ammon Clojurists",
+        "teamColor": "#697a21",
+        "league": "Hot League",
+        "division": "Water Division"
+    },
+    {
+        "teamAbbr": "AA",
+        "teamName": "Pocatello Gaussians",
+        "teamColor": "#ff1717",
+        "league": "Hot League",
+        "division": "Water Division"
+    }
+]
