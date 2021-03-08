@@ -1,0 +1,405 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Sandpoint Sparkleflashes",
+                "team2Name": "Twin Falls Slashers",
+                "patternName": "timebombredux",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "1bb138aa-9f0c-4e82-b7ba-78dbcb7fb218",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Idaho Falls Seraphim",
+                "team2Name": "Nampa Electrical Outlets",
+                "patternName": "randompartition",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "1b7bd574-9511-4e6a-9907-7ccd2590588a",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Jerome Equilibria",
+                "team2Name": "Lewiston Loaves",
+                "patternName": "randomsegment",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "531d81ba-3c18-46b5-829b-9fc509c77881",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Pocatello Gaussians",
+                "team2Name": "Eagle Octagons",
+                "patternName": "crabs",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "958474ce-a046-4d24-bea7-1d298b0449b6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Sandpoint Sparkleflashes",
+                "team2Name": "Twin Falls Slashers",
+                "patternName": "spaceshipcrash",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "63e3d90a-fef3-439d-975d-41ccac30ae40",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Idaho Falls Seraphim",
+                "team2Name": "Nampa Electrical Outlets",
+                "patternName": "timebombredux",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "3a780ed9-2278-4ef9-85e2-6b768377ca77",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Jerome Equilibria",
+                "team2Name": "Lewiston Loaves",
+                "patternName": "bigsegment",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "cb9216d9-d07d-445b-8714-bac44ca97440",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Pocatello Gaussians",
+                "team2Name": "Eagle Octagons",
+                "patternName": "spaceshipsegment",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "401ce8a0-957a-4a71-b0c6-64644452044b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Twin Falls Slashers",
+                "team2Name": "Sandpoint Sparkleflashes",
+                "patternName": "crabs",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "8dc17d5a-0007-4205-8f92-0236a48c0ccf",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Nampa Electrical Outlets",
+                "team2Name": "Idaho Falls Seraphim",
+                "patternName": "randomsegment",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "0faf7c8d-19d5-4823-934d-286aa7cbc04d",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Lewiston Loaves",
+                "team2Name": "Jerome Equilibria",
+                "patternName": "eightr",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "c0070798-c9f3-40b8-9c82-10532907f7a7",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Eagle Octagons",
+                "team2Name": "Pocatello Gaussians",
+                "patternName": "bigsegment",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "e0b17155-f171-4172-b3fc-f538ddac14a7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Twin Falls Slashers",
+                "team2Name": "Sandpoint Sparkleflashes",
+                "patternName": "spiders",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "bb6ad237-d72d-4f4b-a35c-618ca592634e",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Nampa Electrical Outlets",
+                "team2Name": "Idaho Falls Seraphim",
+                "patternName": "randomsegment",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "47722f26-0586-43e1-890c-2eaf8f4e8708",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Lewiston Loaves",
+                "team2Name": "Jerome Equilibria",
+                "patternName": "twomultum",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "70b43968-e923-4365-a004-8d2b48f78b52",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Eagle Octagons",
+                "team2Name": "Pocatello Gaussians",
+                "patternName": "orchard",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "363ee911-7ca8-4351-bd6f-5d656274e679",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Sandpoint Sparkleflashes",
+                "team2Name": "Twin Falls Slashers",
+                "patternName": "spaceshipcrash",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "7c5618e7-5ce0-419f-bd7e-e72461bcea78",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Idaho Falls Seraphim",
+                "team2Name": "Nampa Electrical Outlets",
+                "patternName": "rabbitfarm",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "c1e16a35-f453-4518-833f-11af2d47541b",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Jerome Equilibria",
+                "team2Name": "Lewiston Loaves",
+                "patternName": "spaceshipsegment",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "65376548-0a70-4808-9154-3cd860ed004a",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Pocatello Gaussians",
+                "team2Name": "Eagle Octagons",
+                "patternName": "orchard",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "04383a80-a62a-450f-8bef-726e370d96ce",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "eightpi",
+                "league": "Cold League",
+                "season": 14,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "179977bd-04bb-4329-8bf0-c4d7ec952a1f",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "spaceshipcluster",
+                "league": "Hot League",
+                "season": 14,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "e23771a2-e786-43c8-8f34-3ee6ab71174c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "fourrabbits",
+                "league": "Cold League",
+                "season": 14,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "c4963279-a30a-4a96-bdf5-881ec65fbefc",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "randommetheuselas",
+                "league": "Hot League",
+                "season": 14,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "c95e93cb-9b9b-4064-9315-f8de429e67e0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "quadjustyna",
+                "league": "Cold League",
+                "season": 14,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "a772d8ae-18f3-4733-a8b8-7399893a62c2",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "twomultum",
+                "league": "Hot League",
+                "season": 14,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "8c60f336-9ac1-4593-b126-535e086d43e1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "crabs",
+                "league": "Cold League",
+                "season": 14,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "21b27c2d-1177-4da4-8688-5a7da886e12a",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "patternName": "randompartition",
+                "league": "Hot League",
+                "season": 14,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "e8bda7c7-52ca-4d33-bbb6-9c7a9ee99fb1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "randomsegment",
+                "league": "Cold League",
+                "season": 14,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "1b90aac8-dc29-49f0-a157-8e1ad65c5aa2",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "patternName": "spaceshipcluster",
+                "league": "Hot League",
+                "season": 14,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "9a4aded1-7a6b-4674-bb40-f4dd2af76ca4",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "HCS": [
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "randompartition",
+                "description": "Game 1, Hellmouth Cup",
+                "season": 14,
+                "id": "8e9cbf5a-a35c-4e84-9c78-06c9f670511d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "orchard",
+                "description": "Game 2, Hellmouth Cup",
+                "season": 14,
+                "id": "77af5c52-02f6-4939-bd2e-1b506e237d9d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "switchengines",
+                "description": "Game 3, Hellmouth Cup",
+                "season": 14,
+                "id": "3a6f9a9b-06e7-4784-87ab-12677fae55d3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "rabbitfarm",
+                "description": "Game 4, Hellmouth Cup",
+                "season": 14,
+                "id": "f76f256d-9a67-4961-b98d-417d7a2bdfd2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "patternName": "spaceshipcluster",
+                "description": "Game 5, Hellmouth Cup",
+                "season": 14,
+                "id": "c3311ffe-b997-40c2-a045-2dc59eb9cfb2",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "quadjustyna",
+                "description": "Game 6, Hellmouth Cup",
+                "season": 14,
+                "id": "7c0a7dba-fcb0-4ea5-8694-69efa7159af9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "patternName": "spaceshipcrash",
+                "description": "Game 7, Hellmouth Cup",
+                "season": 14,
+                "id": "49f67ae8-7bd1-4a05-91a5-a9c33a728a7d",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
