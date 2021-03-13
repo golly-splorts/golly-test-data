@@ -2,336 +2,368 @@
     "LDS": [
         [
             {
-                "league": "Cold League",
                 "team1Name": "Lindstrom Muffin Tops",
                 "team2Name": "Pittsboro Dumpster Fires",
-                "patternName": "twomultum",
+                "league": "Cold League",
+                "season": 2,
+                "id": "0e673931-07ee-4c8a-8796-2068303922f1",
+                "isPostseason": true,
                 "description": "Game 1, Cold League Division Series 1",
-                "id": "7fb9ad18-f96e-4937-bf7b-188d38fd244e",
-                "isPostseason": true
+                "patternName": "twomultum"
             },
             {
-                "league": "Cold League",
                 "team1Name": "New Hope Decay",
                 "team2Name": "Pine Level Lava Chuggers",
-                "patternName": "fourrabbits",
+                "league": "Cold League",
+                "season": 2,
+                "id": "984f1bc2-4be0-409b-867a-b77fb76a0c74",
+                "isPostseason": true,
                 "description": "Game 1, Cold League Division Series 2",
-                "id": "6edca63e-199a-4923-910f-b27a5577ed76",
-                "isPostseason": true
+                "patternName": "fourrabbits"
             },
             {
-                "league": "Hot League",
                 "team1Name": "Amberley Suncakes",
                 "team2Name": "Moorestown Bubbles",
-                "patternName": "twoacorn",
+                "league": "Hot League",
+                "season": 2,
+                "id": "28f6f607-016c-49b8-ab95-095db796fdde",
+                "isPostseason": true,
                 "description": "Game 1, Hot League Division Series 1",
-                "id": "37272db9-1ab1-4a84-aaff-5800ac34736f",
-                "isPostseason": true
+                "patternName": "twoacorn"
             },
             {
-                "league": "Hot League",
                 "team1Name": "Corinth Potholes",
                 "team2Name": "Scituate Accountants",
-                "patternName": "eightr",
+                "league": "Hot League",
+                "season": 2,
+                "id": "8e615e6e-ebc1-4a76-8589-d33f8a7cc3b1",
+                "isPostseason": true,
                 "description": "Game 1, Hot League Division Series 2",
-                "id": "d6e0fd4a-2354-4f8b-bc93-a9873e994420",
-                "isPostseason": true
+                "patternName": "eightr"
             }
         ],
         [
             {
-                "league": "Cold League",
                 "team1Name": "Lindstrom Muffin Tops",
                 "team2Name": "Pittsboro Dumpster Fires",
-                "patternName": "timebomb",
+                "league": "Cold League",
+                "season": 2,
+                "id": "1c79a23d-72bb-495c-97a9-aaed0e2c30bd",
+                "isPostseason": true,
                 "description": "Game 2, Cold League Division Series 1",
-                "id": "9848bca7-9031-4c37-96dd-4abdf4022446",
-                "isPostseason": true
+                "patternName": "timebomb"
             },
             {
-                "league": "Cold League",
                 "team1Name": "New Hope Decay",
                 "team2Name": "Pine Level Lava Chuggers",
-                "patternName": "eightpi",
+                "league": "Cold League",
+                "season": 2,
+                "id": "30194e11-4286-47a3-b2ad-48f2aa5781fc",
+                "isPostseason": true,
                 "description": "Game 2, Cold League Division Series 2",
-                "id": "4e099d2e-0a2b-494f-a67e-718928cd55b1",
-                "isPostseason": true
+                "patternName": "eightpi"
             },
             {
-                "league": "Hot League",
                 "team1Name": "Amberley Suncakes",
                 "team2Name": "Moorestown Bubbles",
-                "patternName": "eightr",
+                "league": "Hot League",
+                "season": 2,
+                "id": "a108a7a5-f19c-48f0-b7c8-35e2b1867937",
+                "isPostseason": true,
                 "description": "Game 2, Hot League Division Series 1",
-                "id": "ee01c3e3-0c70-43ab-adac-dab4bf806a75",
-                "isPostseason": true
+                "patternName": "eightr"
             },
             {
-                "league": "Hot League",
                 "team1Name": "Corinth Potholes",
                 "team2Name": "Scituate Accountants",
-                "patternName": "twospaceshipgenerators",
+                "league": "Hot League",
+                "season": 2,
+                "id": "48f3ddab-6cde-4518-a243-b9b469049cd6",
+                "isPostseason": true,
                 "description": "Game 2, Hot League Division Series 2",
-                "id": "a6c20a69-b7f3-475e-b34c-2feb70065b74",
-                "isPostseason": true
+                "patternName": "twospaceshipgenerators"
             }
         ],
         [
             {
-                "league": "Cold League",
                 "team1Name": "Pittsboro Dumpster Fires",
                 "team2Name": "Lindstrom Muffin Tops",
-                "patternName": "twospaceshipgenerators",
+                "league": "Cold League",
+                "season": 2,
+                "id": "ef7374c3-2c97-483d-a468-4d19dc806aa1",
+                "isPostseason": true,
                 "description": "Game 3, Cold League Division Series 1",
-                "id": "5b691434-2b6f-4139-8f4e-220888a248d4",
-                "isPostseason": true
+                "patternName": "twospaceshipgenerators"
             },
             {
-                "league": "Cold League",
                 "team1Name": "Pine Level Lava Chuggers",
                 "team2Name": "New Hope Decay",
-                "patternName": "timebomb",
+                "league": "Cold League",
+                "season": 2,
+                "id": "2254d95e-ded3-46a3-bbb5-d13fab9c6a07",
+                "isPostseason": true,
                 "description": "Game 3, Cold League Division Series 2",
-                "id": "4ffd4fce-c5d2-4a8d-968a-633ffbe5395c",
-                "isPostseason": true
+                "patternName": "timebomb"
             },
             {
-                "league": "Hot League",
                 "team1Name": "Moorestown Bubbles",
                 "team2Name": "Amberley Suncakes",
-                "patternName": "random",
+                "league": "Hot League",
+                "season": 2,
+                "id": "cb8d1e6c-3fcd-4129-aeb6-3941df8617e2",
+                "isPostseason": true,
                 "description": "Game 3, Hot League Division Series 1",
-                "id": "90627e48-fea8-4058-a21f-b913d5019025",
-                "isPostseason": true
+                "patternName": "random"
             },
             {
-                "league": "Hot League",
                 "team1Name": "Scituate Accountants",
                 "team2Name": "Corinth Potholes",
-                "patternName": "eightpi",
+                "league": "Hot League",
+                "season": 2,
+                "id": "6b5b4550-846a-41ec-bbbb-a85a65abc049",
+                "isPostseason": true,
                 "description": "Game 3, Hot League Division Series 2",
-                "id": "be89f031-8fa1-4e36-a1f4-28cd410bb6c5",
-                "isPostseason": true
+                "patternName": "eightpi"
             }
         ],
         [
             {
-                "league": "Cold League",
                 "team1Name": "Pittsboro Dumpster Fires",
                 "team2Name": "Lindstrom Muffin Tops",
-                "patternName": "random",
+                "league": "Cold League",
+                "season": 2,
+                "id": "72375ba6-c265-444b-92ac-ddb9251dd79c",
+                "isPostseason": true,
                 "description": "Game 4, Cold League Division Series 1",
-                "id": "f51a5596-3fb1-416b-a63c-d1d0b3aa1655",
-                "isPostseason": true
+                "patternName": "random"
             },
             {
-                "league": "Cold League",
                 "team1Name": "Pine Level Lava Chuggers",
                 "team2Name": "New Hope Decay",
-                "patternName": "timebomb",
+                "league": "Cold League",
+                "season": 2,
+                "id": "cb86c777-ced4-453b-9bdd-9a4f95bfb251",
+                "isPostseason": true,
                 "description": "Game 4, Cold League Division Series 2",
-                "id": "0c7f83d7-29ef-4360-9671-1223c730662c",
-                "isPostseason": true
+                "patternName": "timebomb"
             },
             {
-                "league": "Hot League",
                 "team1Name": "Moorestown Bubbles",
                 "team2Name": "Amberley Suncakes",
-                "patternName": "eightr",
+                "league": "Hot League",
+                "season": 2,
+                "id": "3806e2c0-f62c-4390-9595-02b1400b812d",
+                "isPostseason": true,
                 "description": "Game 4, Hot League Division Series 1",
-                "id": "cea9e7ad-66cb-4e5d-849f-c0c8883ba721",
-                "isPostseason": true
+                "patternName": "eightr"
             },
             {
-                "league": "Hot League",
                 "team1Name": "Scituate Accountants",
                 "team2Name": "Corinth Potholes",
-                "patternName": "twospaceshipgenerators",
+                "league": "Hot League",
+                "season": 2,
+                "id": "1ea7aac0-6820-40e5-883b-a059e9171a78",
+                "isPostseason": true,
                 "description": "Game 4, Hot League Division Series 2",
-                "id": "fb672bab-69b0-4240-87d9-288201038ab3",
-                "isPostseason": true
+                "patternName": "twospaceshipgenerators"
             }
         ],
         [
             {
-                "league": "Cold League",
                 "team1Name": "Lindstrom Muffin Tops",
                 "team2Name": "Pittsboro Dumpster Fires",
-                "patternName": "twomultum",
+                "league": "Cold League",
+                "season": 2,
+                "id": "9646d542-57be-42ec-aa5d-9296765b1b35",
+                "isPostseason": true,
                 "description": "Game 5, Cold League Division Series 1",
-                "id": "989bbc76-8079-40e3-a9a9-ac5afab65926",
-                "isPostseason": true
+                "patternName": "twomultum"
             },
             {
-                "league": "Cold League",
                 "team1Name": "New Hope Decay",
                 "team2Name": "Pine Level Lava Chuggers",
-                "patternName": "fourrabbits",
-                "description": "Game 5, Cold League Division Series 2",
+                "league": "Cold League",
+                "season": 2,
                 "id": "00b9deab-2619-403c-99ac-48b6e4725f4b",
-                "isPostseason": true
+                "isPostseason": true,
+                "description": "Game 5, Cold League Division Series 2",
+                "patternName": "fourrabbits"
             },
             {
-                "league": "Hot League",
                 "team1Name": "Moorestown Bubbles",
                 "team2Name": "Amberley Suncakes",
-                "patternName": "eightr",
+                "league": "Hot League",
+                "season": 2,
+                "id": "87e93510-1bfe-46d0-8538-35f3464daa27",
+                "isPostseason": true,
                 "description": "Game 5, Hot League Division Series 1",
-                "id": "00b9deab-2619-403c-99ac-48b6e4725f4b",
-                "isPostseason": true
+                "patternName": "eightr"
             },
             {
+                "team1Name": "Corinth Potholes",
+                "team2Name": "Scituate Accountants",
                 "league": "Hot League",
-                "team1Name": "Scituate Accountants",
-                "team2Name": "Corinth Potholes",
-                "patternName": "twospaceshipgenerators",
+                "season": 2,
+                "id": "14d632f0-9f74-4370-a2e3-20a77c8f8ed7",
+                "isPostseason": true,
                 "description": "Game 5, Hot League Division Series 2",
-                "id": "7b6110e5-eaa9-4dc0-a307-143c2253e96c",
-                "isPostseason": true
+                "patternName": "twoacorn"
             }
         ]
     ],
     "LCS": [
         [
             {
-                "team1Name": "Top Seed",
-                "team2Name": "Bottom Seed",
-                "patternName": "twomultum",
+                "team1Name": "Lindstrom Muffin Tops",
+                "team2Name": "New Hope Decay",
                 "league": "Cold League",
+                "season": 2,
+                "id": "4ce89926-01c7-4a15-84df-408583ca3879",
+                "isPostseason": true,
                 "description": "Game 1, Cold League Championship Series",
-                "id": "f5d0ab55-feb6-4b9a-a464-efa8fdc91523",
-                "isPostseason": true
+                "patternName": "twomultum"
             },
             {
-                "team1Name": "Top Seed",
-                "team2Name": "Bottom Seed",
-                "patternName": "twospaceshipgenerators",
+                "team1Name": "Scituate Accountants",
+                "team2Name": "Moorestown Bubbles",
                 "league": "Hot League",
+                "season": 2,
+                "id": "7f796b7e-628b-4e21-bf8b-0439aaafca49",
+                "isPostseason": true,
                 "description": "Game 1, Hot League Championship Series",
-                "id": "c202dca2-b303-477d-b1ec-f7e16f0ced6e",
-                "isPostseason": true
+                "patternName": "twospaceshipgenerators"
             }
         ],
         [
             {
-                "team1Name": "Top Seed",
-                "team2Name": "Bottom Seed",
-                "patternName": "timebomb",
+                "team1Name": "Lindstrom Muffin Tops",
+                "team2Name": "New Hope Decay",
                 "league": "Cold League",
+                "season": 2,
+                "id": "b0e97146-440d-40d9-9e2c-0550dd7f335c",
                 "description": "Game 2, Cold League Championship Series",
-                "id": "bae6bb91-5459-4d19-bed4-00b16c4c0674",
-                "isPostseason": true
+                "isPostseason": true,
+                "patternName": "timebomb"
             },
             {
-                "team1Name": "Top Seed",
-                "team2Name": "Bottom Seed",
-                "patternName": "twoacorn",
+                "team1Name": "Scituate Accountants",
+                "team2Name": "Moorestown Bubbles",
                 "league": "Hot League",
+                "season": 2,
+                "id": "78cef9dc-1de8-4d12-82fd-3218f92c7f2d",
+                "isPostseason": true,
                 "description": "Game 2, Hot League Championship Series",
-                "id": "ecea2632-44be-48b7-93f9-62498839a0f0",
-                "isPostseason": true
+                "patternName": "twoacorn"
             }
         ],
         [
             {
-                "team1Name": "Bottom Seed",
-                "team2Name": "Top Seed",
-                "patternName": "timebomb",
+                "team1Name": "New Hope Decay",
+                "team2Name": "Lindstrom Muffin Tops",
                 "league": "Cold League",
+                "season": 2,
+                "id": "f565e57c-b681-4ff5-8437-4c40c02df43c",
+                "isPostseason": true,
                 "description": "Game 3, Cold League Championship Series",
-                "id": "0a3cdb58-83cb-4377-b086-1c757a878b4a",
-                "isPostseason": true
+                "patternName": "timebomb"
             },
             {
-                "team1Name": "Bottom Seed",
-                "team2Name": "Top Seed",
-                "patternName": "twoacorn",
+                "team1Name": "Moorestown Bubbles",
+                "team2Name": "Scituate Accountants",
                 "league": "Hot League",
+                "season": 2,
+                "id": "e74d3b40-253d-4274-97d1-6a1f0905ce06",
+                "isPostseason": true,
                 "description": "Game 3, Hot League Championship Series",
-                "id": "e4977b49-da3f-456a-8cdc-95aab954d62c",
-                "isPostseason": true
+                "patternName": "twoacorn"
             }
         ],
         [
             {
-                "team1Name": "Bottom Seed",
-                "team2Name": "Top Seed",
-                "patternName": "eightr",
+                "team1Name": "New Hope Decay",
+                "team2Name": "Lindstrom Muffin Tops",
                 "league": "Cold League",
+                "season": 2,
+                "id": "f997ec32-6c33-4a9e-9a1d-c072e1edfa0c",
+                "isPostseason": true,
                 "description": "Game 4, Cold League Championship Series",
-                "id": "17d51aeb-c64f-4f31-ae18-eb65df67c532",
-                "isPostseason": true
+                "patternName": "eightr"
             },
             {
-                "team1Name": "Bottom Seed",
-                "team2Name": "Top Seed",
-                "patternName": "eightpi",
+                "team1Name": "Moorestown Bubbles",
+                "team2Name": "Scituate Accountants",
                 "league": "Hot League",
+                "season": 2,
+                "id": "438aad46-1c7d-4c7b-8181-7a5bab0e56f5",
+                "isPostseason": true,
                 "description": "Game 4, Hot League Championship Series",
-                "id": "14270e58-df1d-413d-ac3a-36954287d778",
-                "isPostseason": true
+                "patternName": "eightpi"
             }
         ],
         [
             {
+                "league": "Cold League",
                 "team1Name": "Bottom Seed",
                 "team2Name": "Top Seed",
-                "patternName": "eightr",
-                "league": "Cold League",
-                "description": "Game 5, Cold League Championship Series",
                 "id": "89102b44-b73d-5ab1-817d-1003b36312bf",
-                "isPostseason": true
+                "isPostseason": true,
+                "description": "Game 5, Cold League Championship Series",
+                "patternName": "eightr"
             },
             {
+                "league": "Hot League",
                 "team1Name": "Bottom Seed",
                 "team2Name": "Top Seed",
-                "patternName": "eightpi",
-                "league": "Hot League",
-                "description": "Game 5, Hot League Championship Series",
                 "id": "167200b4-3830-11e1-b51d-b2a1c907c301",
-                "isPostseason": true
+                "isPostseason": true,
+                "description": "Game 5, Hot League Championship Series",
+                "patternName": "eightpi"
             }
         ]
     ],
     "HCS": [
         [
             {
-                "team1Name": "Cold League",
-                "team2Name": "Hot League",
-                "patternName": "eightpi",
+                "team1Name": "New Hope Decay",
+                "team2Name": "Moorestown Bubbles",
+                "season": 2,
+                "id": "c57db663-2809-43a1-9867-bad241c9740c",
+                "isPostseason": true,
                 "description": "Game 1, Hellmouth Cup",
-                "id": "15f44a5f-f94e-47da-b1ce-1ab8b101ee22",
-                "isPostseason": true
+                "patternName": "eightpi"
             }
         ],
         [
             {
-                "team1Name": "Cold League",
-                "team2Name": "Hot League",
-                "patternName": "eightpi",
+                "team1Name": "New Hope Decay",
+                "team2Name": "Moorestown Bubbles",
+                "season": 2,
+                "id": "9a186fe1-d44d-4d7f-bd3b-8538db92f918",
+                "isPostseason": true,
                 "description": "Game 2, Hellmouth Cup",
-                "id": "b9a672da-641d-4e66-b8b1-dde6aa1aebc6",
-                "isPostseason": true
+                "patternName": "eightpi"
             }
         ],
         [
             {
-                "team1Name": "Hot League",
-                "team2Name": "Cold League",
-                "patternName": "twomultum",
+                "team1Name": "Moorestown Bubbles",
+                "team2Name": "New Hope Decay",
+                "season": 2,
+                "id": "80220f8c-b0d6-46b0-bdff-3e4a9978cb88",
+                "isPostseason": true,
                 "description": "Game 3, Hellmouth Cup",
-                "id": "69e3fb46-a00a-49d7-89f1-e7dd59d2d951",
-                "isPostseason": true
+                "patternName": "twomultum"
             }
         ],
         [
             {
-                "team1Name": "Hot League",
-                "team2Name": "Cold League",
-                "patternName": "fourrabbits",
+                "team1Name": "Moorestown Bubbles",
+                "team2Name": "New Hope Decay",
+                "season": 2,
+                "id": "362fce35-0127-4a80-87fc-644a98b60f10",
+                "isPostseason": true,
                 "description": "Game 4, Hellmouth Cup",
-                "id": "92a74c4b-e59c-4bf3-b99f-76e30d5718cc",
-                "isPostseason": true
+                "patternName": "fourrabbits"
             }
         ],
         [
@@ -339,8 +371,8 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "fourrabbits",
-                "description": "Game 5, Hellmouth Cup",
                 "id": "fae23041-c2b3-42b9-8f1a-9bcf85967850",
+                "description": "Game 5, Hellmouth Cup",
                 "isPostseason": true
             }
         ],
@@ -349,8 +381,8 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "fourrabbits",
-                "description": "Game 6, Hellmouth Cup",
                 "id": "2ed13ac2-5828-4b01-b5a4-f2e3e07aa47e",
+                "description": "Game 6, Hellmouth Cup",
                 "isPostseason": true
             }
         ],
@@ -359,8 +391,8 @@
                 "team1Name": "Hot League",
                 "team2Name": "Cold League",
                 "patternName": "fourrabbits",
-                "description": "Game 7, Hellmouth Cup",
                 "id": "34e47151-0a0a-4cd5-b5f7-f569126db3d4",
+                "description": "Game 7, Hellmouth Cup",
                 "isPostseason": true
             }
         ]
