@@ -13,7 +13,7 @@ ABBR_TO_NAME = {
 }
 
 
-for iseason in range(NSEASONS+1):
+for iseason in range(NSEASONS + 1):
     seasondir = "season%d" % (iseason)
 
     #####################
@@ -116,13 +116,13 @@ for iseason in range(NSEASONS+1):
     def check_pattern(game):
         if "patternName" not in game.keys():
             raise Exception(
-                f"Error in game {game['id']} of season {game['season']} day {game['day']}: game is missing a map!"
+                f"Error in game {game['id']} of season {game['season']} day {game['day']}: game is missing required key patternName"
             )
 
     def check_map(game):
         if "map" not in game.keys():
             raise Exception(
-                f"Error in game {game['id']} of season {game['season']} day {game['day']}: game is missing a map!"
+                f"Error in game {game['id']} of season {game['season']} day {game['day']}: game is missing required key patternName"
             )
         mapp = game["map"]
         # required keys that must be present
@@ -183,13 +183,13 @@ for iseason in range(NSEASONS+1):
                 f"Error: day {day[0]['day']} has length {len(day)} but should have length {len(teams)//2}"
             )
 
-    def check_bracket_day(day, series):
+    def check_bracket_day(day, series, iday):
         series_gpd = SERIES_GPD
         if series not in series_gpd:
             raise Exception(
                 f"Error: series name {series} not in {', '.join(series_gpd.keys())}"
             )
-        if len(day) != series_gpd[series]:
+        if iday <= 2 and len(day) != series_gpd[series]:
             raise Exception(
                 f"Error: bracket for series {series} has incorrect number of games ({len(day)}, should be {series_gpd[series]})"
             )
@@ -214,6 +214,7 @@ for iseason in range(NSEASONS+1):
         sched = json.load(f)
 
     sched_team_names = set()
+    sched_game_ids = set()
     for iday, day in enumerate(sched):
         check_season_day(day)
         games = day
@@ -229,6 +230,13 @@ for iseason in range(NSEASONS+1):
 
             sched_team_names.add(t1)
             sched_team_names.add(t2)
+
+            if game["id"] in sched_game_ids:
+                raise Exception(
+                    f"Error: game id {game['id']} is a duplicate in the schedule!"
+                )
+            else:
+                sched_game_ids.add(game["id"])
 
     # schedule.json and teams.json must have the same number of teams
     if len(sched_team_names) != len(teams):
@@ -266,6 +274,7 @@ for iseason in range(NSEASONS+1):
         season = json.load(f)
 
     season_team_names = set()
+    season_game_ids = set()
     for iday, day in enumerate(season):
         check_season_day(day)
         games = day
@@ -285,6 +294,13 @@ for iseason in range(NSEASONS+1):
 
             season_team_names.add(t1)
             season_team_names.add(t2)
+
+            if game['id'] in season_game_ids:
+                raise Exception(
+                    f"Error: game id {game['id']} is a duplicate in the season!"
+                )
+            else:
+                season_game_ids.add(game['id'])
 
     # season.json and teams.json must have the same number of teams
     if len(season_team_names) != len(teams):
@@ -306,6 +322,19 @@ for iseason in range(NSEASONS+1):
             raise Exception(
                 f"Error: team name {team['teamName']} not found in season.json"
             )
+
+    # season.json and schedule.json must have exactly the same game ids
+    diff3 = season_game_ids - sched_game_ids
+    diff4 = sched_game_ids - season_game_ids
+    if len(diff3)>0 or len(diff4)>0:
+        err = "Error: mismatch in game IDs between schedule and season:\n"
+        if len(diff3)>0:
+            for gameid in sorted(list(diff3)):
+                err += f" - {gameid}\n"
+        if len(diff4)>0:
+            for gameid in sorted(list(diff4)):
+                err += f" - {gameid}\n"
+        raise Exception(err)
 
     # -----------
     # seed
@@ -357,13 +386,20 @@ for iseason in range(NSEASONS+1):
         bracket = json.load(f)
 
     bracket_team_names = set()
+    bracket_game_ids = set()
     for series in bracket:
         miniseason = bracket[series]
         for iday, day in enumerate(miniseason):
-            check_bracket_day(day, series)
+            check_bracket_day(day, series, iday)
             for game in day:
                 bracket_team_names.add(game["team1Name"])
                 bracket_team_names.add(game["team2Name"])
+                if game['id'] in bracket_game_ids:
+                    raise Exception(
+                        f"Error: game id {game['id']} is a duplicate in the bracket!"
+                    )
+                else:
+                    bracket_game_ids.add(game['id'])
 
     # Verify series are the correct lengths
     ldslen = len(bracket["LDS"])
@@ -412,10 +448,11 @@ for iseason in range(NSEASONS+1):
     if not os.path.exists(postseasonfile):
         raise Exception(f"Error: missing file: {postseasonfile}")
 
-    postseason_team_names = set()
     with open(postseasonfile, "r") as f:
         postseason = json.load(f)
 
+    postseason_team_names = set()
+    postseason_game_ids = set()
     for series in postseason:
         miniseason = postseason[series]
         for iday, day in enumerate(miniseason):
@@ -434,6 +471,12 @@ for iseason in range(NSEASONS+1):
 
                 postseason_team_names.add(t1)
                 postseason_team_names.add(t2)
+                if game['id'] in postseason_game_ids:
+                    raise Exception(
+                        f"Error: game id {game['id']} is a duplicate in the postseason!"
+                    )
+                else:
+                    postseason_game_ids.add(game['id'])
 
     for abbr, series_name in ABBR_TO_NAME.items():
         miniseason = postseason[abbr]
@@ -476,6 +519,16 @@ for iseason in range(NSEASONS+1):
         err = "Error: mismatch in postseason.json and bracket.json team names:\n"
         err += f"bracket.json team names: {', '.join(bracket_team_names)}\n"
         err += f"postseason.json team names: {', '.join(postseason_team_names)}\n"
+        raise Exception(err)
+
+    # skip checking that team names are the same, bracket has team name placeholders
+
+    # postseason.json game ids must be a subset of bracket.json game ids
+    diff = postseason_game_ids - bracket_game_ids
+    if len(diff)>0:
+        err = "Error: mismatch in game IDs, game IDs found in postseason.json but not in bracket.json:\n"
+        for gameid in sorted(list(diff)):
+            err += f" - {gameid}\n"
         raise Exception(err)
 
 
