@@ -1,0 +1,479 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Dundalk Transfusions",
+                "team2Name": "Hillcrest Heights Fatalities",
+                "team1Abbr": "SS",
+                "team2Abbr": "TB",
+                "patternName": "spiders",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "2671ae75-cd72-4a80-a166-103e4b468308",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "St. Charles River Crossers",
+                "team2Name": "Jersey OSHA Violations",
+                "team1Abbr": "FWPT",
+                "team2Abbr": "OSHA",
+                "patternName": "fourrabbits",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "44fa0061-ff07-40ec-b710-5d49d3ad3f6a",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Colesville Expense Reports",
+                "team2Name": "Green Haven Sportscoats",
+                "team1Abbr": "DET",
+                "team2Abbr": "ORL",
+                "patternName": "eightr",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "23543773-d2bc-4b9f-9fe5-d726f150e1b9",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Bel Air Dolomites",
+                "team2Name": "Pikesville Featherbrains",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "BB",
+                "patternName": "randommetheuselas",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "1f3d15aa-5913-426a-a4eb-05d0bd5b3438",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Dundalk Transfusions",
+                "team2Name": "Hillcrest Heights Fatalities",
+                "team1Abbr": "SS",
+                "team2Abbr": "TB",
+                "patternName": "timebombredux",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "464b2d59-7882-4ba0-a8b0-d363e1b47539",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "St. Charles River Crossers",
+                "team2Name": "Jersey OSHA Violations",
+                "team1Abbr": "FWPT",
+                "team2Abbr": "OSHA",
+                "patternName": "quadjustyna",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "7eb34a28-df21-4230-b264-d350af9d533a",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Colesville Expense Reports",
+                "team2Name": "Green Haven Sportscoats",
+                "team1Abbr": "DET",
+                "team2Abbr": "ORL",
+                "patternName": "randommetheuselas",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "5c29b2ec-0f48-4fee-8447-19a761a32ade",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Bel Air Dolomites",
+                "team2Name": "Pikesville Featherbrains",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "BB",
+                "patternName": "switchengines",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "2e0454fb-4cf5-4fcd-86b6-8971a96b3086",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Hillcrest Heights Fatalities",
+                "team2Name": "Dundalk Transfusions",
+                "team1Abbr": "SS",
+                "team2Abbr": "TB",
+                "patternName": "spiders",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "e1b7128d-5107-4ba0-ac31-7e3ca151c44c",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Jersey OSHA Violations",
+                "team2Name": "St. Charles River Crossers",
+                "team1Abbr": "FWPT",
+                "team2Abbr": "OSHA",
+                "patternName": "eightpi",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "fccb9e3b-db99-4622-99fa-83b9cab654b4",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Green Haven Sportscoats",
+                "team2Name": "Colesville Expense Reports",
+                "team1Abbr": "DET",
+                "team2Abbr": "ORL",
+                "patternName": "spaceshipcrash",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "a51e3647-2bc5-49b1-8c85-11b71a9c2486",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Pikesville Featherbrains",
+                "team2Name": "Bel Air Dolomites",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "BB",
+                "patternName": "timebombredux",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "29d01990-832f-420b-b4c4-727ed140021f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Hillcrest Heights Fatalities",
+                "team2Name": "Dundalk Transfusions",
+                "team1Abbr": "SS",
+                "team2Abbr": "TB",
+                "patternName": "twomultum",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "d71b3af9-8d41-49d0-9578-83764e060e7c",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Jersey OSHA Violations",
+                "team2Name": "St. Charles River Crossers",
+                "team1Abbr": "FWPT",
+                "team2Abbr": "OSHA",
+                "patternName": "eightr",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "fda89842-dcb6-43e6-8b00-5619a4cd5fbe",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Green Haven Sportscoats",
+                "team2Name": "Colesville Expense Reports",
+                "team1Abbr": "DET",
+                "team2Abbr": "ORL",
+                "patternName": "randommetheuselas",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "95c02664-b3c1-47f0-a774-d57f7d8d672e",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Pikesville Featherbrains",
+                "team2Name": "Bel Air Dolomites",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "BB",
+                "patternName": "switchengines",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "cb900a1d-8b1f-4e51-8a99-d914ae36cb9c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "Dundalk Transfusions",
+                "team2Name": "Hillcrest Heights Fatalities",
+                "team1Abbr": "SS",
+                "team2Abbr": "TB",
+                "patternName": "bigsegment",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "b13c57a5-af37-44c4-8579-2fb1e8557d08",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 14,
+                "team1Name": "St. Charles River Crossers",
+                "team2Name": "Jersey OSHA Violations",
+                "team1Abbr": "FWPT",
+                "team2Abbr": "OSHA",
+                "patternName": "crabs",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "bca42ee9-f352-496e-8970-6ce2e1db1900",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Colesville Expense Reports",
+                "team2Name": "Green Haven Sportscoats",
+                "team1Abbr": "DET",
+                "team2Abbr": "ORL",
+                "patternName": "randomsegment",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "33b3b5de-a8f9-451a-9a4f-29b45207b416",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 14,
+                "team1Name": "Bel Air Dolomites",
+                "team2Name": "Pikesville Featherbrains",
+                "team1Abbr": "SFBS",
+                "team2Abbr": "BB",
+                "patternName": "twomultum",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "951095f0-9f80-41ec-8d51-fbe15e73ee99",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spiders",
+                "league": "Cold League",
+                "season": 14,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "fc0db339-0c63-4551-ac9e-559bad385244",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "quadjustyna",
+                "league": "Hot League",
+                "season": 14,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "7634de8a-8b8c-4ee3-8ec5-b2a367277862",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spiders",
+                "league": "Cold League",
+                "season": 14,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "f7e4682d-5529-4ccb-b9f8-43ccc039c8b1",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "eightpi",
+                "league": "Hot League",
+                "season": 14,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "aa1b67a4-530c-4c7e-b5ba-8c3a7c4689c4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spiders",
+                "league": "Cold League",
+                "season": 14,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "6b500cc8-246a-4c14-8a6c-d99db97bdfdd",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "orchard",
+                "league": "Hot League",
+                "season": 14,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "83a6708e-3f01-45b6-974c-f2d0ec429dd0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "eightr",
+                "league": "Cold League",
+                "season": 14,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "0d6587e3-925f-4636-9332-7db5c819c6b4",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "eightpi",
+                "league": "Hot League",
+                "season": 14,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "e6a9ad70-d179-4d0c-a268-8da17f301f85",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "twomultum",
+                "league": "Cold League",
+                "season": 14,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "f967617b-3473-4be8-b8bd-ce8738164689",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "bigsegment",
+                "league": "Hot League",
+                "season": 14,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "4c9cab41-6685-49ef-9988-95f4c70d2fb7",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "HCS": [
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "quadjustyna",
+                "description": "Game 1, Hellmouth Cup",
+                "season": 14,
+                "id": "36c58db1-676f-48cc-8b07-f00e452358b3",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "timebomb",
+                "description": "Game 2, Hellmouth Cup",
+                "season": 14,
+                "id": "68cd1ae5-0c62-4d44-80e5-6afe4a547c9a",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spiders",
+                "description": "Game 3, Hellmouth Cup",
+                "season": 14,
+                "id": "9c8134d6-39cc-4922-bd46-e85120b7165d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "eightpi",
+                "description": "Game 4, Hellmouth Cup",
+                "season": 14,
+                "id": "d0ffef87-5631-4720-98d1-b57139cf4950",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spaceshipsegment",
+                "description": "Game 5, Hellmouth Cup",
+                "season": 14,
+                "id": "8f87a3d9-e079-48b4-9825-edf97b6bd0bc",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "description": "Game 6, Hellmouth Cup",
+                "season": 14,
+                "id": "109870cd-6907-4b3e-8f2d-597b30d9e25d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "timebombredux",
+                "description": "Game 7, Hellmouth Cup",
+                "season": 14,
+                "id": "9fd0d4c5-8632-454d-8a81-54f2c7b981d8",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
