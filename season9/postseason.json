@@ -44,7 +44,9 @@
                 },
                 "team1Score": 17,
                 "team2Score": 357,
-                "generations": 5065
+                "generations": 5065,
+                "team1Abbr": "EA",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Columbus Wobblies",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 165,
                 "team2Score": 84,
-                "generations": 2150
+                "generations": 2150,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SS"
             },
             {
                 "team1Name": "Monterey Fuzzies",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 212,
                 "team2Score": 82,
-                "generations": 1651
+                "generations": 1651,
+                "team1Abbr": "ORL",
+                "team2Abbr": "ATL"
             },
             {
                 "team1Name": "Duncanville Uptight Citizens",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 108,
                 "team2Score": 143,
-                "generations": 2893
+                "generations": 2893,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 196,
                 "team2Score": 74,
-                "generations": 1964
+                "generations": 1964,
+                "team1Abbr": "EA",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Columbus Wobblies",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 166,
                 "team2Score": 110,
-                "generations": 1275
+                "generations": 1275,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SS"
             },
             {
                 "team1Name": "Monterey Fuzzies",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 25,
                 "team2Score": 251,
-                "generations": 3043
+                "generations": 3043,
+                "team1Abbr": "ORL",
+                "team2Abbr": "ATL"
             },
             {
                 "team1Name": "Duncanville Uptight Citizens",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 108,
                 "team2Score": 232,
-                "generations": 2424
+                "generations": 2424,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 90,
                 "team2Score": 237,
-                "generations": 1778
+                "generations": 1778,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Bonnie Dune Grassblades",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 146,
                 "team2Score": 98,
-                "generations": 4469
+                "generations": 4469,
+                "team1Abbr": "SS",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "La Mirada Surgeons",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 91,
                 "team2Score": 209,
-                "generations": 3019
+                "generations": 3019,
+                "team1Abbr": "ATL",
+                "team2Abbr": "ORL"
             },
             {
                 "team1Name": "Santa Rosa Cold Showers",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 28,
                 "team2Score": 151,
-                "generations": 1250
+                "generations": 1250,
+                "team1Abbr": "MILF",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 149,
                 "team2Score": 141,
-                "generations": 2319
+                "generations": 2319,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Bonnie Dune Grassblades",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 117,
                 "team2Score": 173,
-                "generations": 1512
+                "generations": 1512,
+                "team1Abbr": "SS",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "La Mirada Surgeons",
@@ -680,7 +708,9 @@
                 },
                 "team1Score": 78,
                 "team2Score": 104,
-                "generations": 1289
+                "generations": 1289,
+                "team1Abbr": "ATL",
+                "team2Abbr": "ORL"
             },
             {
                 "team1Name": "Santa Rosa Cold Showers",
@@ -725,7 +755,9 @@
                 },
                 "team1Score": 107,
                 "team2Score": 66,
-                "generations": 1013
+                "generations": 1013,
+                "team1Abbr": "MILF",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -772,7 +804,9 @@
                 },
                 "team1Score": 143,
                 "team2Score": 52,
-                "generations": 1141
+                "generations": 1141,
+                "team1Abbr": "EA",
+                "team2Abbr": "OSHA"
             }
         ]
     ],
@@ -821,7 +855,9 @@
                 },
                 "team1Score": 194,
                 "team2Score": 139,
-                "generations": 1778
+                "generations": 1778,
+                "team1Abbr": "EA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Monterey Fuzzies",
@@ -866,7 +902,9 @@
                 },
                 "team1Score": 35,
                 "team2Score": 117,
-                "generations": 1409
+                "generations": 1409,
+                "team1Abbr": "ORL",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -913,7 +951,9 @@
                 },
                 "team1Score": 268,
                 "team2Score": 45,
-                "generations": 1812
+                "generations": 1812,
+                "team1Abbr": "EA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Monterey Fuzzies",
@@ -958,7 +998,9 @@
                 },
                 "team1Score": 64,
                 "team2Score": 89,
-                "generations": 1416
+                "generations": 1416,
+                "team1Abbr": "ORL",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1005,7 +1047,9 @@
                 },
                 "team1Score": 81,
                 "team2Score": 67,
-                "generations": 1167
+                "generations": 1167,
+                "team1Abbr": "BTX",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Santa Rosa Cold Showers",
@@ -1050,7 +1094,9 @@
                 },
                 "team1Score": 236,
                 "team2Score": 107,
-                "generations": 1424
+                "generations": 1424,
+                "team1Abbr": "MILF",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -1097,7 +1143,9 @@
                 },
                 "team1Score": 183,
                 "team2Score": 61,
-                "generations": 2291
+                "generations": 2291,
+                "team1Abbr": "BTX",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1144,7 +1192,9 @@
                 },
                 "team1Score": 260,
                 "team2Score": 130,
-                "generations": 1900
+                "generations": 1900,
+                "team1Abbr": "EA",
+                "team2Abbr": "BTX"
             }
         ]
     ],
@@ -1192,7 +1242,9 @@
                 },
                 "team1Score": 178,
                 "team2Score": 89,
-                "generations": 1568
+                "generations": 1568,
+                "team1Abbr": "MILF",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1238,7 +1290,9 @@
                 },
                 "team1Score": 100,
                 "team2Score": 71,
-                "generations": 1018
+                "generations": 1018,
+                "team1Abbr": "MILF",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1284,7 +1338,9 @@
                 },
                 "team1Score": 127,
                 "team2Score": 4,
-                "generations": 1177
+                "generations": 1177,
+                "team1Abbr": "EA",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1330,7 +1386,9 @@
                 },
                 "team1Score": 148,
                 "team2Score": 87,
-                "generations": 2210
+                "generations": 2210,
+                "team1Abbr": "EA",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1376,7 +1434,9 @@
                 },
                 "team1Score": 194,
                 "team2Score": 138,
-                "generations": 1943
+                "generations": 1943,
+                "team1Abbr": "EA",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1422,7 +1482,9 @@
                 },
                 "team1Score": 4,
                 "team2Score": 181,
-                "generations": 1885
+                "generations": 1885,
+                "team1Abbr": "MILF",
+                "team2Abbr": "EA"
             }
         ]
     ]

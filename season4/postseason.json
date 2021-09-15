@@ -44,7 +44,9 @@
                 },
                 "team1Score": 59,
                 "team2Score": 262,
-                "generations": 1425
+                "generations": 1425,
+                "team1Abbr": "TB",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Bothell Rainshowers",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 89,
                 "team2Score": 274,
-                "generations": 2446
+                "generations": 2446,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Moline Acres Cavesystems",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 97,
                 "team2Score": 122,
-                "generations": 1138
+                "generations": 1138,
+                "team1Abbr": "SAC",
+                "team2Abbr": "AA"
             },
             {
                 "team1Name": "Braddock Pogcollectors",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 122,
                 "team2Score": 141,
-                "generations": 2852
+                "generations": 2852,
+                "team1Abbr": "MILF",
+                "team2Abbr": "DECO"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 175,
                 "team2Score": 173,
-                "generations": 3761
+                "generations": 3761,
+                "team1Abbr": "TB",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Bothell Rainshowers",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 172,
                 "team2Score": 140,
-                "generations": 2702
+                "generations": 2702,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Moline Acres Cavesystems",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 169,
                 "team2Score": 168,
-                "generations": 1830
+                "generations": 1830,
+                "team1Abbr": "SAC",
+                "team2Abbr": "AA"
             },
             {
                 "team1Name": "Braddock Pogcollectors",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 388,
                 "team2Score": 0,
-                "generations": 2870
+                "generations": 2870,
+                "team1Abbr": "MILF",
+                "team2Abbr": "DECO"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 168,
                 "team2Score": 172,
-                "generations": 1003
+                "generations": 1003,
+                "team1Abbr": "EA",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Cut Bank Brass",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 95,
                 "team2Score": 200,
-                "generations": 3627
+                "generations": 3627,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Fremont Blue Chips",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 170,
                 "team2Score": 144,
-                "generations": 1148
+                "generations": 1148,
+                "team1Abbr": "AA",
+                "team2Abbr": "SAC"
             },
             {
                 "team1Name": "Los Villareales Muffin Tops",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 127,
                 "team2Score": 131,
-                "generations": 2897
+                "generations": 2897,
+                "team1Abbr": "DECO",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 137,
                 "team2Score": 86,
-                "generations": 1758
+                "generations": 1758,
+                "team1Abbr": "EA",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Cut Bank Brass",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 170,
                 "team2Score": 113,
-                "generations": 1641
+                "generations": 1641,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Fremont Blue Chips",
@@ -680,7 +708,9 @@
                 },
                 "team1Score": 132,
                 "team2Score": 80,
-                "generations": 2097
+                "generations": 2097,
+                "team1Abbr": "AA",
+                "team2Abbr": "SAC"
             },
             {
                 "team1Name": "Los Villareales Muffin Tops",
@@ -725,7 +755,9 @@
                 },
                 "team1Score": 103,
                 "team2Score": 160,
-                "generations": 2499
+                "generations": 2499,
+                "team1Abbr": "DECO",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -772,7 +804,9 @@
                 },
                 "team1Score": 82,
                 "team2Score": 108,
-                "generations": 1611
+                "generations": 1611,
+                "team1Abbr": "TB",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Bothell Rainshowers",
@@ -817,7 +851,9 @@
                 },
                 "team1Score": 45,
                 "team2Score": 146,
-                "generations": 1753
+                "generations": 1753,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "LBFB"
             }
         ]
     ],
@@ -866,7 +902,9 @@
                 },
                 "team1Score": 94,
                 "team2Score": 97,
-                "generations": 2300
+                "generations": 2300,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Braddock Pogcollectors",
@@ -911,7 +949,9 @@
                 },
                 "team1Score": 223,
                 "team2Score": 37,
-                "generations": 1903
+                "generations": 1903,
+                "team1Abbr": "MILF",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -958,7 +998,9 @@
                 },
                 "team1Score": 314,
                 "team2Score": 45,
-                "generations": 2815
+                "generations": 2815,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Braddock Pogcollectors",
@@ -1003,7 +1045,9 @@
                 },
                 "team1Score": 119,
                 "team2Score": 120,
-                "generations": 1501
+                "generations": 1501,
+                "team1Abbr": "MILF",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -1050,7 +1094,9 @@
                 },
                 "team1Score": 270,
                 "team2Score": 48,
-                "generations": 2601
+                "generations": 2601,
+                "team1Abbr": "EA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Fremont Blue Chips",
@@ -1095,7 +1141,9 @@
                 },
                 "team1Score": 143,
                 "team2Score": 103,
-                "generations": 1098
+                "generations": 1098,
+                "team1Abbr": "AA",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1142,7 +1190,9 @@
                 },
                 "team1Score": 106,
                 "team2Score": 57,
-                "generations": 1125
+                "generations": 1125,
+                "team1Abbr": "EA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Fremont Blue Chips",
@@ -1187,7 +1237,9 @@
                 },
                 "team1Score": 80,
                 "team2Score": 61,
-                "generations": 1469
+                "generations": 1469,
+                "team1Abbr": "AA",
+                "team2Abbr": "MILF"
             }
         ]
     ],
@@ -1235,7 +1287,9 @@
                 },
                 "team1Score": 27,
                 "team2Score": 119,
-                "generations": 1071
+                "generations": 1071,
+                "team1Abbr": "AA",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1281,7 +1335,9 @@
                 },
                 "team1Score": 195,
                 "team2Score": 71,
-                "generations": 2067
+                "generations": 2067,
+                "team1Abbr": "AA",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1327,7 +1383,9 @@
                 },
                 "team1Score": 90,
                 "team2Score": 161,
-                "generations": 1623
+                "generations": 1623,
+                "team1Abbr": "EA",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -1373,7 +1431,9 @@
                 },
                 "team1Score": 10,
                 "team2Score": 240,
-                "generations": 5187
+                "generations": 5187,
+                "team1Abbr": "EA",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -1419,7 +1479,9 @@
                 },
                 "team1Score": 93,
                 "team2Score": 160,
-                "generations": 1451
+                "generations": 1451,
+                "team1Abbr": "EA",
+                "team2Abbr": "AA"
             }
         ]
     ]

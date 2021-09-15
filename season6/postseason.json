@@ -44,7 +44,9 @@
                 },
                 "team1Score": 71,
                 "team2Score": 189,
-                "generations": 2454
+                "generations": 2454,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Hapeville Meathammers",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 149,
                 "team2Score": 226,
-                "generations": 3183
+                "generations": 3183,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Georgetown Dear Deer",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 150,
                 "team2Score": 58,
-                "generations": 1450
+                "generations": 1450,
+                "team1Abbr": "MILF",
+                "team2Abbr": "AA"
             },
             {
                 "team1Name": "Monmouth Junction Chessboards",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 54,
                 "team2Score": 151,
-                "generations": 1197
+                "generations": 1197,
+                "team1Abbr": "ATL",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 236,
                 "team2Score": 129,
-                "generations": 1210
+                "generations": 1210,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Hapeville Meathammers",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 186,
                 "team2Score": 227,
-                "generations": 3738
+                "generations": 3738,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Georgetown Dear Deer",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 246,
                 "team2Score": 106,
-                "generations": 1899
+                "generations": 1899,
+                "team1Abbr": "MILF",
+                "team2Abbr": "AA"
             },
             {
                 "team1Name": "Monmouth Junction Chessboards",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 34,
                 "team2Score": 272,
-                "generations": 2859
+                "generations": 2859,
+                "team1Abbr": "ATL",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 183,
                 "team2Score": 11,
-                "generations": 1353
+                "generations": 1353,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Greenville Snakes",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 94,
                 "team2Score": 86,
-                "generations": 2580
+                "generations": 2580,
+                "team1Abbr": "BTX",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Loris High Rollers",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 170,
                 "team2Score": 218,
-                "generations": 3678
+                "generations": 3678,
+                "team1Abbr": "AA",
+                "team2Abbr": "MILF"
             },
             {
                 "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 41,
                 "team2Score": 172,
-                "generations": 1861
+                "generations": 1861,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ATL"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 85,
                 "team2Score": 233,
-                "generations": 2578
+                "generations": 2578,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 5,
                 "team2Score": 327,
-                "generations": 1811
+                "generations": 1811,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ATL"
             }
         ],
         [
@@ -682,7 +710,9 @@
                 },
                 "team1Score": 216,
                 "team2Score": 78,
-                "generations": 1617
+                "generations": 1617,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Monmouth Junction Chessboards",
@@ -727,7 +757,9 @@
                 },
                 "team1Score": 147,
                 "team2Score": 145,
-                "generations": 1931
+                "generations": 1931,
+                "team1Abbr": "ATL",
+                "team2Abbr": "SFBS"
             }
         ]
     ],
@@ -776,7 +808,9 @@
                 },
                 "team1Score": 287,
                 "team2Score": 106,
-                "generations": 2687
+                "generations": 2687,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Georgetown Dear Deer",
@@ -821,7 +855,9 @@
                 },
                 "team1Score": 131,
                 "team2Score": 26,
-                "generations": 1326
+                "generations": 1326,
+                "team1Abbr": "MILF",
+                "team2Abbr": "ATL"
             }
         ],
         [
@@ -868,7 +904,9 @@
                 },
                 "team1Score": 154,
                 "team2Score": 23,
-                "generations": 1068
+                "generations": 1068,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Georgetown Dear Deer",
@@ -913,7 +951,9 @@
                 },
                 "team1Score": 104,
                 "team2Score": 116,
-                "generations": 1755
+                "generations": 1755,
+                "team1Abbr": "MILF",
+                "team2Abbr": "ATL"
             }
         ],
         [
@@ -960,7 +1000,9 @@
                 },
                 "team1Score": 353,
                 "team2Score": 69,
-                "generations": 2404
+                "generations": 2404,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Monmouth Junction Chessboards",
@@ -1005,7 +1047,9 @@
                 },
                 "team1Score": 141,
                 "team2Score": 97,
-                "generations": 1846
+                "generations": 1846,
+                "team1Abbr": "ATL",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1052,7 +1096,9 @@
                 },
                 "team1Score": 130,
                 "team2Score": 116,
-                "generations": 1199
+                "generations": 1199,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Monmouth Junction Chessboards",
@@ -1097,7 +1143,9 @@
                 },
                 "team1Score": 47,
                 "team2Score": 231,
-                "generations": 1868
+                "generations": 1868,
+                "team1Abbr": "ATL",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1144,7 +1192,9 @@
                 },
                 "team1Score": 138,
                 "team2Score": 75,
-                "generations": 1317
+                "generations": 1317,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Georgetown Dear Deer",
@@ -1189,7 +1239,9 @@
                 },
                 "team1Score": 98,
                 "team2Score": 53,
-                "generations": 1742
+                "generations": 1742,
+                "team1Abbr": "MILF",
+                "team2Abbr": "ATL"
             }
         ]
     ],
@@ -1237,7 +1289,9 @@
                 },
                 "team1Score": 89,
                 "team2Score": 114,
-                "generations": 1429
+                "generations": 1429,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1283,7 +1337,9 @@
                 },
                 "team1Score": 144,
                 "team2Score": 211,
-                "generations": 2582
+                "generations": 2582,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1329,7 +1385,9 @@
                 },
                 "team1Score": 82,
                 "team2Score": 152,
-                "generations": 1438
+                "generations": 1438,
+                "team1Abbr": "MILF",
+                "team2Abbr": "SDBA"
             }
         ],
         [
@@ -1375,7 +1433,9 @@
                 },
                 "team1Score": 167,
                 "team2Score": 45,
-                "generations": 1223
+                "generations": 1223,
+                "team1Abbr": "MILF",
+                "team2Abbr": "SDBA"
             }
         ],
         [
@@ -1421,7 +1481,9 @@
                 },
                 "team1Score": 116,
                 "team2Score": 82,
-                "generations": 1706
+                "generations": 1706,
+                "team1Abbr": "MILF",
+                "team2Abbr": "SDBA"
             }
         ]
     ]

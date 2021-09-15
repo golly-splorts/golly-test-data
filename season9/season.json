@@ -34,7 +34,9 @@
             },
             "team1Score": 227,
             "team2Score": 63,
-            "generations": 1127
+            "generations": 1127,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -70,7 +72,9 @@
             },
             "team1Score": 48,
             "team2Score": 272,
-            "generations": 4770
+            "generations": 4770,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -106,7 +110,9 @@
             },
             "team1Score": 66,
             "team2Score": 209,
-            "generations": 1288
+            "generations": 1288,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -142,7 +148,9 @@
             },
             "team1Score": 116,
             "team2Score": 52,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -178,7 +186,9 @@
             },
             "team1Score": 222,
             "team2Score": 65,
-            "generations": 1065
+            "generations": 1065,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -214,7 +224,9 @@
             },
             "team1Score": 57,
             "team2Score": 127,
-            "generations": 2126
+            "generations": 2126,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -250,7 +262,9 @@
             },
             "team1Score": 139,
             "team2Score": 65,
-            "generations": 1241
+            "generations": 1241,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -286,7 +300,9 @@
             },
             "team1Score": 118,
             "team2Score": 258,
-            "generations": 3370
+            "generations": 3370,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -324,7 +340,9 @@
             },
             "team1Score": 189,
             "team2Score": 196,
-            "generations": 2276
+            "generations": 2276,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -360,7 +378,9 @@
             },
             "team1Score": 99,
             "team2Score": 21,
-            "generations": 3699
+            "generations": 3699,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -396,7 +416,9 @@
             },
             "team1Score": 102,
             "team2Score": 207,
-            "generations": 1439
+            "generations": 1439,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -432,7 +454,9 @@
             },
             "team1Score": 142,
             "team2Score": 234,
-            "generations": 1995
+            "generations": 1995,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -468,7 +492,9 @@
             },
             "team1Score": 74,
             "team2Score": 132,
-            "generations": 1976
+            "generations": 1976,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -504,7 +530,9 @@
             },
             "team1Score": 20,
             "team2Score": 173,
-            "generations": 1899
+            "generations": 1899,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -540,7 +568,9 @@
             },
             "team1Score": 107,
             "team2Score": 129,
-            "generations": 1772
+            "generations": 1772,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -576,7 +606,9 @@
             },
             "team1Score": 97,
             "team2Score": 184,
-            "generations": 1489
+            "generations": 1489,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -614,7 +646,9 @@
             },
             "team1Score": 236,
             "team2Score": 87,
-            "generations": 1720
+            "generations": 1720,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -650,7 +684,9 @@
             },
             "team1Score": 65,
             "team2Score": 149,
-            "generations": 1132
+            "generations": 1132,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -686,7 +722,9 @@
             },
             "team1Score": 99,
             "team2Score": 173,
-            "generations": 1846
+            "generations": 1846,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -722,7 +760,9 @@
             },
             "team1Score": 22,
             "team2Score": 199,
-            "generations": 1479
+            "generations": 1479,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -758,7 +798,9 @@
             },
             "team1Score": 99,
             "team2Score": 168,
-            "generations": 1332
+            "generations": 1332,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -794,7 +836,9 @@
             },
             "team1Score": 49,
             "team2Score": 100,
-            "generations": 1333
+            "generations": 1333,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -830,7 +874,9 @@
             },
             "team1Score": 280,
             "team2Score": 47,
-            "generations": 4280
+            "generations": 4280,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -866,7 +912,9 @@
             },
             "team1Score": 71,
             "team2Score": 93,
-            "generations": 1646
+            "generations": 1646,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -904,7 +952,9 @@
             },
             "team1Score": 142,
             "team2Score": 46,
-            "generations": 1986
+            "generations": 1986,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -940,7 +990,9 @@
             },
             "team1Score": 41,
             "team2Score": 65,
-            "generations": 1500
+            "generations": 1500,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -976,7 +1028,9 @@
             },
             "team1Score": 185,
             "team2Score": 175,
-            "generations": 2451
+            "generations": 2451,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -1012,7 +1066,9 @@
             },
             "team1Score": 186,
             "team2Score": 162,
-            "generations": 2095
+            "generations": 2095,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -1048,7 +1104,9 @@
             },
             "team1Score": 109,
             "team2Score": 16,
-            "generations": 1761
+            "generations": 1761,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -1084,7 +1142,9 @@
             },
             "team1Score": 58,
             "team2Score": 55,
-            "generations": 1306
+            "generations": 1306,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -1120,7 +1180,9 @@
             },
             "team1Score": 55,
             "team2Score": 39,
-            "generations": 1257
+            "generations": 1257,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -1156,7 +1218,9 @@
             },
             "team1Score": 210,
             "team2Score": 44,
-            "generations": 2101
+            "generations": 2101,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -1194,7 +1258,9 @@
             },
             "team1Score": 116,
             "team2Score": 150,
-            "generations": 1941
+            "generations": 1941,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -1230,7 +1296,9 @@
             },
             "team1Score": 188,
             "team2Score": 82,
-            "generations": 2633
+            "generations": 2633,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -1266,7 +1334,9 @@
             },
             "team1Score": 167,
             "team2Score": 63,
-            "generations": 1556
+            "generations": 1556,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -1302,7 +1372,9 @@
             },
             "team1Score": 176,
             "team2Score": 59,
-            "generations": 1876
+            "generations": 1876,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -1338,7 +1410,9 @@
             },
             "team1Score": 142,
             "team2Score": 14,
-            "generations": 3155
+            "generations": 3155,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -1374,7 +1448,9 @@
             },
             "team1Score": 263,
             "team2Score": 3,
-            "generations": 1354
+            "generations": 1354,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -1410,7 +1486,9 @@
             },
             "team1Score": 114,
             "team2Score": 173,
-            "generations": 2805
+            "generations": 2805,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -1446,7 +1524,9 @@
             },
             "team1Score": 79,
             "team2Score": 178,
-            "generations": 1481
+            "generations": 1481,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -1484,7 +1564,9 @@
             },
             "team1Score": 98,
             "team2Score": 165,
-            "generations": 3077
+            "generations": 3077,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -1520,7 +1602,9 @@
             },
             "team1Score": 224,
             "team2Score": 4,
-            "generations": 3173
+            "generations": 3173,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -1556,7 +1640,9 @@
             },
             "team1Score": 60,
             "team2Score": 220,
-            "generations": 1034
+            "generations": 1034,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -1592,7 +1678,9 @@
             },
             "team1Score": 79,
             "team2Score": 215,
-            "generations": 3546
+            "generations": 3546,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -1628,7 +1716,9 @@
             },
             "team1Score": 149,
             "team2Score": 141,
-            "generations": 1400
+            "generations": 1400,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -1664,7 +1754,9 @@
             },
             "team1Score": 51,
             "team2Score": 41,
-            "generations": 1323
+            "generations": 1323,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -1700,7 +1792,9 @@
             },
             "team1Score": 142,
             "team2Score": 193,
-            "generations": 3386
+            "generations": 3386,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -1736,7 +1830,9 @@
             },
             "team1Score": 257,
             "team2Score": 76,
-            "generations": 2619
+            "generations": 2619,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -1774,7 +1870,9 @@
             },
             "team1Score": 163,
             "team2Score": 45,
-            "generations": 1529
+            "generations": 1529,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -1810,7 +1908,9 @@
             },
             "team1Score": 24,
             "team2Score": 256,
-            "generations": 1942
+            "generations": 1942,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -1846,7 +1946,9 @@
             },
             "team1Score": 206,
             "team2Score": 16,
-            "generations": 2626
+            "generations": 2626,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -1882,7 +1984,9 @@
             },
             "team1Score": 182,
             "team2Score": 83,
-            "generations": 1074
+            "generations": 1074,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -1918,7 +2022,9 @@
             },
             "team1Score": 9,
             "team2Score": 216,
-            "generations": 2108
+            "generations": 2108,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -1954,7 +2060,9 @@
             },
             "team1Score": 309,
             "team2Score": 75,
-            "generations": 3313
+            "generations": 3313,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -1990,7 +2098,9 @@
             },
             "team1Score": 69,
             "team2Score": 138,
-            "generations": 1126
+            "generations": 1126,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -2026,7 +2136,9 @@
             },
             "team1Score": 20,
             "team2Score": 170,
-            "generations": 2276
+            "generations": 2276,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -2064,7 +2176,9 @@
             },
             "team1Score": 123,
             "team2Score": 221,
-            "generations": 1546
+            "generations": 1546,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -2100,7 +2214,9 @@
             },
             "team1Score": 221,
             "team2Score": 81,
-            "generations": 1972
+            "generations": 1972,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -2136,7 +2252,9 @@
             },
             "team1Score": 77,
             "team2Score": 185,
-            "generations": 1871
+            "generations": 1871,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -2172,7 +2290,9 @@
             },
             "team1Score": 108,
             "team2Score": 139,
-            "generations": 1252
+            "generations": 1252,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -2208,7 +2328,9 @@
             },
             "team1Score": 157,
             "team2Score": 70,
-            "generations": 1147
+            "generations": 1147,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -2244,7 +2366,9 @@
             },
             "team1Score": 151,
             "team2Score": 126,
-            "generations": 2533
+            "generations": 2533,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -2280,7 +2404,9 @@
             },
             "team1Score": 264,
             "team2Score": 42,
-            "generations": 2874
+            "generations": 2874,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -2316,7 +2442,9 @@
             },
             "team1Score": 91,
             "team2Score": 56,
-            "generations": 1199
+            "generations": 1199,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -2354,7 +2482,9 @@
             },
             "team1Score": 86,
             "team2Score": 207,
-            "generations": 1727
+            "generations": 1727,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -2390,7 +2520,9 @@
             },
             "team1Score": 80,
             "team2Score": 121,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -2426,7 +2558,9 @@
             },
             "team1Score": 104,
             "team2Score": 102,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -2462,7 +2596,9 @@
             },
             "team1Score": 189,
             "team2Score": 162,
-            "generations": 1091
+            "generations": 1091,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -2498,7 +2634,9 @@
             },
             "team1Score": 226,
             "team2Score": 56,
-            "generations": 1249
+            "generations": 1249,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -2534,7 +2672,9 @@
             },
             "team1Score": 159,
             "team2Score": 176,
-            "generations": 2093
+            "generations": 2093,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -2570,7 +2710,9 @@
             },
             "team1Score": 142,
             "team2Score": 164,
-            "generations": 4432
+            "generations": 4432,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -2606,7 +2748,9 @@
             },
             "team1Score": 130,
             "team2Score": 29,
-            "generations": 1028
+            "generations": 1028,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -2644,7 +2788,9 @@
             },
             "team1Score": 180,
             "team2Score": 38,
-            "generations": 2159
+            "generations": 2159,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -2680,7 +2826,9 @@
             },
             "team1Score": 107,
             "team2Score": 104,
-            "generations": 1007
+            "generations": 1007,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -2716,7 +2864,9 @@
             },
             "team1Score": 99,
             "team2Score": 177,
-            "generations": 1478
+            "generations": 1478,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -2752,7 +2902,9 @@
             },
             "team1Score": 133,
             "team2Score": 118,
-            "generations": 1527
+            "generations": 1527,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -2788,7 +2940,9 @@
             },
             "team1Score": 53,
             "team2Score": 158,
-            "generations": 1449
+            "generations": 1449,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -2824,7 +2978,9 @@
             },
             "team1Score": 21,
             "team2Score": 255,
-            "generations": 2223
+            "generations": 2223,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -2860,7 +3016,9 @@
             },
             "team1Score": 14,
             "team2Score": 272,
-            "generations": 2646
+            "generations": 2646,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -2896,7 +3054,9 @@
             },
             "team1Score": 295,
             "team2Score": 29,
-            "generations": 1826
+            "generations": 1826,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -2934,7 +3094,9 @@
             },
             "team1Score": 73,
             "team2Score": 61,
-            "generations": 1469
+            "generations": 1469,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -2970,7 +3132,9 @@
             },
             "team1Score": 135,
             "team2Score": 192,
-            "generations": 1545
+            "generations": 1545,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -3006,7 +3170,9 @@
             },
             "team1Score": 223,
             "team2Score": 17,
-            "generations": 1663
+            "generations": 1663,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -3042,7 +3208,9 @@
             },
             "team1Score": 189,
             "team2Score": 34,
-            "generations": 1492
+            "generations": 1492,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -3078,7 +3246,9 @@
             },
             "team1Score": 155,
             "team2Score": 139,
-            "generations": 2895
+            "generations": 2895,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -3114,7 +3284,9 @@
             },
             "team1Score": 171,
             "team2Score": 96,
-            "generations": 1951
+            "generations": 1951,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -3150,7 +3322,9 @@
             },
             "team1Score": 54,
             "team2Score": 238,
-            "generations": 3697
+            "generations": 3697,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -3186,7 +3360,9 @@
             },
             "team1Score": 145,
             "team2Score": 92,
-            "generations": 1429
+            "generations": 1429,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -3224,7 +3400,9 @@
             },
             "team1Score": 75,
             "team2Score": 87,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -3260,7 +3438,9 @@
             },
             "team1Score": 7,
             "team2Score": 107,
-            "generations": 1177
+            "generations": 1177,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -3296,7 +3476,9 @@
             },
             "team1Score": 95,
             "team2Score": 100,
-            "generations": 1037
+            "generations": 1037,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -3332,7 +3514,9 @@
             },
             "team1Score": 85,
             "team2Score": 98,
-            "generations": 1198
+            "generations": 1198,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -3368,7 +3552,9 @@
             },
             "team1Score": 92,
             "team2Score": 287,
-            "generations": 1020
+            "generations": 1020,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -3404,7 +3590,9 @@
             },
             "team1Score": 28,
             "team2Score": 256,
-            "generations": 2094
+            "generations": 2094,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -3440,7 +3628,9 @@
             },
             "team1Score": 75,
             "team2Score": 18,
-            "generations": 1069
+            "generations": 1069,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -3476,7 +3666,9 @@
             },
             "team1Score": 64,
             "team2Score": 145,
-            "generations": 2000
+            "generations": 2000,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -3514,7 +3706,9 @@
             },
             "team1Score": 237,
             "team2Score": 19,
-            "generations": 2725
+            "generations": 2725,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -3550,7 +3744,9 @@
             },
             "team1Score": 224,
             "team2Score": 162,
-            "generations": 3188
+            "generations": 3188,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -3586,7 +3782,9 @@
             },
             "team1Score": 54,
             "team2Score": 137,
-            "generations": 1916
+            "generations": 1916,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -3622,7 +3820,9 @@
             },
             "team1Score": 115,
             "team2Score": 253,
-            "generations": 5865
+            "generations": 5865,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -3658,7 +3858,9 @@
             },
             "team1Score": 99,
             "team2Score": 215,
-            "generations": 1991
+            "generations": 1991,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -3694,7 +3896,9 @@
             },
             "team1Score": 89,
             "team2Score": 80,
-            "generations": 1304
+            "generations": 1304,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -3730,7 +3934,9 @@
             },
             "team1Score": 86,
             "team2Score": 115,
-            "generations": 1463
+            "generations": 1463,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -3766,7 +3972,9 @@
             },
             "team1Score": 142,
             "team2Score": 70,
-            "generations": 1008
+            "generations": 1008,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -3804,7 +4012,9 @@
             },
             "team1Score": 181,
             "team2Score": 94,
-            "generations": 2799
+            "generations": 2799,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -3840,7 +4050,9 @@
             },
             "team1Score": 136,
             "team2Score": 180,
-            "generations": 4601
+            "generations": 4601,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -3876,7 +4088,9 @@
             },
             "team1Score": 100,
             "team2Score": 224,
-            "generations": 2087
+            "generations": 2087,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -3912,7 +4126,9 @@
             },
             "team1Score": 28,
             "team2Score": 239,
-            "generations": 3363
+            "generations": 3363,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -3948,7 +4164,9 @@
             },
             "team1Score": 29,
             "team2Score": 214,
-            "generations": 3074
+            "generations": 3074,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -3984,7 +4202,9 @@
             },
             "team1Score": 26,
             "team2Score": 121,
-            "generations": 1756
+            "generations": 1756,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -4020,7 +4240,9 @@
             },
             "team1Score": 180,
             "team2Score": 115,
-            "generations": 2218
+            "generations": 2218,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -4056,7 +4278,9 @@
             },
             "team1Score": 73,
             "team2Score": 175,
-            "generations": 3074
+            "generations": 3074,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -4094,7 +4318,9 @@
             },
             "team1Score": 101,
             "team2Score": 111,
-            "generations": 1351
+            "generations": 1351,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -4130,7 +4356,9 @@
             },
             "team1Score": 115,
             "team2Score": 135,
-            "generations": 1537
+            "generations": 1537,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -4166,7 +4394,9 @@
             },
             "team1Score": 133,
             "team2Score": 28,
-            "generations": 1501
+            "generations": 1501,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -4202,7 +4432,9 @@
             },
             "team1Score": 142,
             "team2Score": 118,
-            "generations": 1998
+            "generations": 1998,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -4238,7 +4470,9 @@
             },
             "team1Score": 14,
             "team2Score": 206,
-            "generations": 1339
+            "generations": 1339,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -4274,7 +4508,9 @@
             },
             "team1Score": 175,
             "team2Score": 15,
-            "generations": 1655
+            "generations": 1655,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -4310,7 +4546,9 @@
             },
             "team1Score": 163,
             "team2Score": 165,
-            "generations": 1259
+            "generations": 1259,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -4346,7 +4584,9 @@
             },
             "team1Score": 69,
             "team2Score": 191,
-            "generations": 1713
+            "generations": 1713,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -4384,7 +4624,9 @@
             },
             "team1Score": 139,
             "team2Score": 92,
-            "generations": 2945
+            "generations": 2945,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -4420,7 +4662,9 @@
             },
             "team1Score": 186,
             "team2Score": 80,
-            "generations": 1533
+            "generations": 1533,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -4456,7 +4700,9 @@
             },
             "team1Score": 26,
             "team2Score": 191,
-            "generations": 1575
+            "generations": 1575,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -4492,7 +4738,9 @@
             },
             "team1Score": 73,
             "team2Score": 101,
-            "generations": 1871
+            "generations": 1871,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -4528,7 +4776,9 @@
             },
             "team1Score": 60,
             "team2Score": 155,
-            "generations": 1542
+            "generations": 1542,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -4564,7 +4814,9 @@
             },
             "team1Score": 195,
             "team2Score": 59,
-            "generations": 1107
+            "generations": 1107,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -4600,7 +4852,9 @@
             },
             "team1Score": 181,
             "team2Score": 123,
-            "generations": 1587
+            "generations": 1587,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -4636,7 +4890,9 @@
             },
             "team1Score": 81,
             "team2Score": 176,
-            "generations": 1784
+            "generations": 1784,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -4674,7 +4930,9 @@
             },
             "team1Score": 69,
             "team2Score": 163,
-            "generations": 2045
+            "generations": 2045,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -4710,7 +4968,9 @@
             },
             "team1Score": 182,
             "team2Score": 40,
-            "generations": 1064
+            "generations": 1064,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -4746,7 +5006,9 @@
             },
             "team1Score": 132,
             "team2Score": 107,
-            "generations": 1156
+            "generations": 1156,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -4782,7 +5044,9 @@
             },
             "team1Score": 239,
             "team2Score": 90,
-            "generations": 2082
+            "generations": 2082,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -4818,7 +5082,9 @@
             },
             "team1Score": 190,
             "team2Score": 58,
-            "generations": 1497
+            "generations": 1497,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -4854,7 +5120,9 @@
             },
             "team1Score": 75,
             "team2Score": 91,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -4890,7 +5158,9 @@
             },
             "team1Score": 109,
             "team2Score": 59,
-            "generations": 1219
+            "generations": 1219,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -4926,7 +5196,9 @@
             },
             "team1Score": 283,
             "team2Score": 59,
-            "generations": 1230
+            "generations": 1230,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -4964,7 +5236,9 @@
             },
             "team1Score": 153,
             "team2Score": 10,
-            "generations": 1698
+            "generations": 1698,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -5000,7 +5274,9 @@
             },
             "team1Score": 102,
             "team2Score": 288,
-            "generations": 1553
+            "generations": 1553,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -5036,7 +5312,9 @@
             },
             "team1Score": 37,
             "team2Score": 167,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -5072,7 +5350,9 @@
             },
             "team1Score": 86,
             "team2Score": 125,
-            "generations": 2048
+            "generations": 2048,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -5108,7 +5388,9 @@
             },
             "team1Score": 148,
             "team2Score": 165,
-            "generations": 2395
+            "generations": 2395,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -5144,7 +5426,9 @@
             },
             "team1Score": 20,
             "team2Score": 208,
-            "generations": 1449
+            "generations": 1449,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -5180,7 +5464,9 @@
             },
             "team1Score": 112,
             "team2Score": 32,
-            "generations": 1410
+            "generations": 1410,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -5216,7 +5502,9 @@
             },
             "team1Score": 62,
             "team2Score": 300,
-            "generations": 3163
+            "generations": 3163,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5254,7 +5542,9 @@
             },
             "team1Score": 25,
             "team2Score": 123,
-            "generations": 1804
+            "generations": 1804,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -5290,7 +5580,9 @@
             },
             "team1Score": 147,
             "team2Score": 161,
-            "generations": 1280
+            "generations": 1280,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -5326,7 +5618,9 @@
             },
             "team1Score": 33,
             "team2Score": 218,
-            "generations": 3326
+            "generations": 3326,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -5362,7 +5656,9 @@
             },
             "team1Score": 100,
             "team2Score": 113,
-            "generations": 1376
+            "generations": 1376,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -5398,7 +5694,9 @@
             },
             "team1Score": 150,
             "team2Score": 120,
-            "generations": 2420
+            "generations": 2420,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -5434,7 +5732,9 @@
             },
             "team1Score": 56,
             "team2Score": 104,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -5470,7 +5770,9 @@
             },
             "team1Score": 206,
             "team2Score": 126,
-            "generations": 1607
+            "generations": 1607,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -5506,7 +5808,9 @@
             },
             "team1Score": 89,
             "team2Score": 72,
-            "generations": 1101
+            "generations": 1101,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -5544,7 +5848,9 @@
             },
             "team1Score": 197,
             "team2Score": 132,
-            "generations": 1594
+            "generations": 1594,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -5580,7 +5886,9 @@
             },
             "team1Score": 23,
             "team2Score": 205,
-            "generations": 2316
+            "generations": 2316,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -5616,7 +5924,9 @@
             },
             "team1Score": 77,
             "team2Score": 212,
-            "generations": 1502
+            "generations": 1502,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -5652,7 +5962,9 @@
             },
             "team1Score": 79,
             "team2Score": 202,
-            "generations": 1320
+            "generations": 1320,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -5688,7 +6000,9 @@
             },
             "team1Score": 139,
             "team2Score": 173,
-            "generations": 1589
+            "generations": 1589,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -5724,7 +6038,9 @@
             },
             "team1Score": 32,
             "team2Score": 123,
-            "generations": 1036
+            "generations": 1036,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -5760,7 +6076,9 @@
             },
             "team1Score": 161,
             "team2Score": 45,
-            "generations": 1245
+            "generations": 1245,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -5796,7 +6114,9 @@
             },
             "team1Score": 136,
             "team2Score": 225,
-            "generations": 2953
+            "generations": 2953,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5834,7 +6154,9 @@
             },
             "team1Score": 37,
             "team2Score": 217,
-            "generations": 1635
+            "generations": 1635,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -5870,7 +6192,9 @@
             },
             "team1Score": 177,
             "team2Score": 76,
-            "generations": 1378
+            "generations": 1378,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -5906,7 +6230,9 @@
             },
             "team1Score": 141,
             "team2Score": 85,
-            "generations": 4369
+            "generations": 4369,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -5942,7 +6268,9 @@
             },
             "team1Score": 31,
             "team2Score": 202,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -5978,7 +6306,9 @@
             },
             "team1Score": 215,
             "team2Score": 124,
-            "generations": 2054
+            "generations": 2054,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -6014,7 +6344,9 @@
             },
             "team1Score": 151,
             "team2Score": 158,
-            "generations": 1617
+            "generations": 1617,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -6050,7 +6382,9 @@
             },
             "team1Score": 70,
             "team2Score": 100,
-            "generations": 1312
+            "generations": 1312,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -6086,7 +6420,9 @@
             },
             "team1Score": 136,
             "team2Score": 164,
-            "generations": 2371
+            "generations": 2371,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -6124,7 +6460,9 @@
             },
             "team1Score": 30,
             "team2Score": 166,
-            "generations": 1498
+            "generations": 1498,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -6160,7 +6498,9 @@
             },
             "team1Score": 194,
             "team2Score": 168,
-            "generations": 2442
+            "generations": 2442,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -6196,7 +6536,9 @@
             },
             "team1Score": 198,
             "team2Score": 154,
-            "generations": 2886
+            "generations": 2886,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -6232,7 +6574,9 @@
             },
             "team1Score": 137,
             "team2Score": 160,
-            "generations": 1182
+            "generations": 1182,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -6268,7 +6612,9 @@
             },
             "team1Score": 214,
             "team2Score": 54,
-            "generations": 3676
+            "generations": 3676,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -6304,7 +6650,9 @@
             },
             "team1Score": 50,
             "team2Score": 112,
-            "generations": 1188
+            "generations": 1188,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -6340,7 +6688,9 @@
             },
             "team1Score": 36,
             "team2Score": 161,
-            "generations": 1416
+            "generations": 1416,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -6376,7 +6726,9 @@
             },
             "team1Score": 165,
             "team2Score": 132,
-            "generations": 2026
+            "generations": 2026,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -6414,7 +6766,9 @@
             },
             "team1Score": 113,
             "team2Score": 78,
-            "generations": 1480
+            "generations": 1480,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -6450,7 +6804,9 @@
             },
             "team1Score": 63,
             "team2Score": 112,
-            "generations": 1346
+            "generations": 1346,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -6486,7 +6842,9 @@
             },
             "team1Score": 93,
             "team2Score": 109,
-            "generations": 1025
+            "generations": 1025,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -6522,7 +6880,9 @@
             },
             "team1Score": 49,
             "team2Score": 313,
-            "generations": 1946
+            "generations": 1946,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -6558,7 +6918,9 @@
             },
             "team1Score": 229,
             "team2Score": 22,
-            "generations": 1840
+            "generations": 1840,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -6594,7 +6956,9 @@
             },
             "team1Score": 258,
             "team2Score": 47,
-            "generations": 4339
+            "generations": 4339,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -6630,7 +6994,9 @@
             },
             "team1Score": 29,
             "team2Score": 191,
-            "generations": 3096
+            "generations": 3096,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -6666,7 +7032,9 @@
             },
             "team1Score": 154,
             "team2Score": 150,
-            "generations": 1533
+            "generations": 1533,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -6704,7 +7072,9 @@
             },
             "team1Score": 148,
             "team2Score": 85,
-            "generations": 1701
+            "generations": 1701,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -6740,7 +7110,9 @@
             },
             "team1Score": 0,
             "team2Score": 533,
-            "generations": 1492
+            "generations": 1492,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -6776,7 +7148,9 @@
             },
             "team1Score": 24,
             "team2Score": 134,
-            "generations": 1663
+            "generations": 1663,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -6812,7 +7186,9 @@
             },
             "team1Score": 22,
             "team2Score": 117,
-            "generations": 1834
+            "generations": 1834,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -6848,7 +7224,9 @@
             },
             "team1Score": 136,
             "team2Score": 51,
-            "generations": 1248
+            "generations": 1248,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -6884,7 +7262,9 @@
             },
             "team1Score": 180,
             "team2Score": 115,
-            "generations": 2218
+            "generations": 2218,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -6920,7 +7300,9 @@
             },
             "team1Score": 47,
             "team2Score": 141,
-            "generations": 1841
+            "generations": 1841,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -6956,7 +7338,9 @@
             },
             "team1Score": 205,
             "team2Score": 100,
-            "generations": 2238
+            "generations": 2238,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -6994,7 +7378,9 @@
             },
             "team1Score": 175,
             "team2Score": 148,
-            "generations": 3016
+            "generations": 3016,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -7030,7 +7416,9 @@
             },
             "team1Score": 35,
             "team2Score": 289,
-            "generations": 2098
+            "generations": 2098,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -7066,7 +7454,9 @@
             },
             "team1Score": 43,
             "team2Score": 214,
-            "generations": 1468
+            "generations": 1468,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -7102,7 +7492,9 @@
             },
             "team1Score": 109,
             "team2Score": 59,
-            "generations": 1219
+            "generations": 1219,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -7138,7 +7530,9 @@
             },
             "team1Score": 130,
             "team2Score": 222,
-            "generations": 2310
+            "generations": 2310,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -7174,7 +7568,9 @@
             },
             "team1Score": 106,
             "team2Score": 107,
-            "generations": 1154
+            "generations": 1154,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -7210,7 +7606,9 @@
             },
             "team1Score": 130,
             "team2Score": 120,
-            "generations": 1594
+            "generations": 1594,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -7246,7 +7644,9 @@
             },
             "team1Score": 88,
             "team2Score": 221,
-            "generations": 1722
+            "generations": 1722,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -7284,7 +7684,9 @@
             },
             "team1Score": 106,
             "team2Score": 295,
-            "generations": 1239
+            "generations": 1239,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -7320,7 +7722,9 @@
             },
             "team1Score": 26,
             "team2Score": 94,
-            "generations": 1122
+            "generations": 1122,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -7356,7 +7760,9 @@
             },
             "team1Score": 95,
             "team2Score": 96,
-            "generations": 1385
+            "generations": 1385,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -7392,7 +7798,9 @@
             },
             "team1Score": 166,
             "team2Score": 144,
-            "generations": 1449
+            "generations": 1449,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -7428,7 +7836,9 @@
             },
             "team1Score": 66,
             "team2Score": 129,
-            "generations": 1246
+            "generations": 1246,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -7464,7 +7874,9 @@
             },
             "team1Score": 137,
             "team2Score": 74,
-            "generations": 1813
+            "generations": 1813,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -7500,7 +7912,9 @@
             },
             "team1Score": 119,
             "team2Score": 50,
-            "generations": 1107
+            "generations": 1107,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -7536,7 +7950,9 @@
             },
             "team1Score": 116,
             "team2Score": 185,
-            "generations": 1012
+            "generations": 1012,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -7574,7 +7990,9 @@
             },
             "team1Score": 118,
             "team2Score": 164,
-            "generations": 3048
+            "generations": 3048,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -7610,7 +8028,9 @@
             },
             "team1Score": 217,
             "team2Score": 119,
-            "generations": 1769
+            "generations": 1769,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -7646,7 +8066,9 @@
             },
             "team1Score": 95,
             "team2Score": 193,
-            "generations": 1974
+            "generations": 1974,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -7682,7 +8104,9 @@
             },
             "team1Score": 171,
             "team2Score": 113,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -7718,7 +8142,9 @@
             },
             "team1Score": 0,
             "team2Score": 655,
-            "generations": 2073
+            "generations": 2073,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -7754,7 +8180,9 @@
             },
             "team1Score": 85,
             "team2Score": 150,
-            "generations": 2219
+            "generations": 2219,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -7790,7 +8218,9 @@
             },
             "team1Score": 65,
             "team2Score": 178,
-            "generations": 1443
+            "generations": 1443,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -7826,7 +8256,9 @@
             },
             "team1Score": 131,
             "team2Score": 152,
-            "generations": 1464
+            "generations": 1464,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -7864,7 +8296,9 @@
             },
             "team1Score": 106,
             "team2Score": 121,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -7900,7 +8334,9 @@
             },
             "team1Score": 35,
             "team2Score": 189,
-            "generations": 1769
+            "generations": 1769,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -7936,7 +8372,9 @@
             },
             "team1Score": 129,
             "team2Score": 234,
-            "generations": 2968
+            "generations": 2968,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -7972,7 +8410,9 @@
             },
             "team1Score": 254,
             "team2Score": 26,
-            "generations": 1698
+            "generations": 1698,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -8008,7 +8448,9 @@
             },
             "team1Score": 189,
             "team2Score": 51,
-            "generations": 1477
+            "generations": 1477,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -8044,7 +8486,9 @@
             },
             "team1Score": 10,
             "team2Score": 178,
-            "generations": 2554
+            "generations": 2554,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -8080,7 +8524,9 @@
             },
             "team1Score": 21,
             "team2Score": 86,
-            "generations": 1166
+            "generations": 1166,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -8116,7 +8562,9 @@
             },
             "team1Score": 84,
             "team2Score": 237,
-            "generations": 2527
+            "generations": 2527,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -8154,7 +8602,9 @@
             },
             "team1Score": 4,
             "team2Score": 217,
-            "generations": 2065
+            "generations": 2065,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -8190,7 +8640,9 @@
             },
             "team1Score": 140,
             "team2Score": 212,
-            "generations": 1028
+            "generations": 1028,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -8226,7 +8678,9 @@
             },
             "team1Score": 49,
             "team2Score": 168,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -8262,7 +8716,9 @@
             },
             "team1Score": 45,
             "team2Score": 189,
-            "generations": 1793
+            "generations": 1793,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -8298,7 +8754,9 @@
             },
             "team1Score": 202,
             "team2Score": 28,
-            "generations": 1900
+            "generations": 1900,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -8334,7 +8792,9 @@
             },
             "team1Score": 122,
             "team2Score": 32,
-            "generations": 1610
+            "generations": 1610,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -8370,7 +8830,9 @@
             },
             "team1Score": 179,
             "team2Score": 52,
-            "generations": 1220
+            "generations": 1220,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -8406,7 +8868,9 @@
             },
             "team1Score": 141,
             "team2Score": 129,
-            "generations": 1107
+            "generations": 1107,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -8444,7 +8908,9 @@
             },
             "team1Score": 137,
             "team2Score": 181,
-            "generations": 1326
+            "generations": 1326,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -8480,7 +8946,9 @@
             },
             "team1Score": 130,
             "team2Score": 88,
-            "generations": 1457
+            "generations": 1457,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -8516,7 +8984,9 @@
             },
             "team1Score": 34,
             "team2Score": 110,
-            "generations": 3222
+            "generations": 3222,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -8552,7 +9022,9 @@
             },
             "team1Score": 171,
             "team2Score": 103,
-            "generations": 1805
+            "generations": 1805,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -8588,7 +9060,9 @@
             },
             "team1Score": 113,
             "team2Score": 83,
-            "generations": 1895
+            "generations": 1895,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -8624,7 +9098,9 @@
             },
             "team1Score": 166,
             "team2Score": 88,
-            "generations": 1239
+            "generations": 1239,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -8660,7 +9136,9 @@
             },
             "team1Score": 6,
             "team2Score": 139,
-            "generations": 1308
+            "generations": 1308,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -8696,7 +9174,9 @@
             },
             "team1Score": 151,
             "team2Score": 123,
-            "generations": 1429
+            "generations": 1429,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -8734,7 +9214,9 @@
             },
             "team1Score": 231,
             "team2Score": 49,
-            "generations": 1853
+            "generations": 1853,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -8770,7 +9252,9 @@
             },
             "team1Score": 135,
             "team2Score": 156,
-            "generations": 1074
+            "generations": 1074,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -8806,7 +9290,9 @@
             },
             "team1Score": 56,
             "team2Score": 92,
-            "generations": 1307
+            "generations": 1307,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -8842,7 +9328,9 @@
             },
             "team1Score": 10,
             "team2Score": 253,
-            "generations": 3094
+            "generations": 3094,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -8878,7 +9366,9 @@
             },
             "team1Score": 159,
             "team2Score": 95,
-            "generations": 2116
+            "generations": 2116,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -8914,7 +9404,9 @@
             },
             "team1Score": 77,
             "team2Score": 97,
-            "generations": 1941
+            "generations": 1941,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -8950,7 +9442,9 @@
             },
             "team1Score": 150,
             "team2Score": 179,
-            "generations": 3041
+            "generations": 3041,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -8986,7 +9480,9 @@
             },
             "team1Score": 220,
             "team2Score": 118,
-            "generations": 1821
+            "generations": 1821,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9024,7 +9520,9 @@
             },
             "team1Score": 200,
             "team2Score": 153,
-            "generations": 2917
+            "generations": 2917,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -9060,7 +9558,9 @@
             },
             "team1Score": 26,
             "team2Score": 188,
-            "generations": 2301
+            "generations": 2301,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -9096,7 +9596,9 @@
             },
             "team1Score": 156,
             "team2Score": 121,
-            "generations": 1396
+            "generations": 1396,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -9132,7 +9634,9 @@
             },
             "team1Score": 21,
             "team2Score": 198,
-            "generations": 1896
+            "generations": 1896,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -9168,7 +9672,9 @@
             },
             "team1Score": 173,
             "team2Score": 140,
-            "generations": 2377
+            "generations": 2377,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -9204,7 +9710,9 @@
             },
             "team1Score": 128,
             "team2Score": 132,
-            "generations": 2024
+            "generations": 2024,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -9240,7 +9748,9 @@
             },
             "team1Score": 139,
             "team2Score": 200,
-            "generations": 2014
+            "generations": 2014,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -9276,7 +9786,9 @@
             },
             "team1Score": 126,
             "team2Score": 284,
-            "generations": 2265
+            "generations": 2265,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -9314,7 +9826,9 @@
             },
             "team1Score": 146,
             "team2Score": 119,
-            "generations": 1724
+            "generations": 1724,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -9350,7 +9864,9 @@
             },
             "team1Score": 0,
             "team2Score": 414,
-            "generations": 3851
+            "generations": 3851,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -9386,7 +9902,9 @@
             },
             "team1Score": 129,
             "team2Score": 85,
-            "generations": 2751
+            "generations": 2751,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -9422,7 +9940,9 @@
             },
             "team1Score": 71,
             "team2Score": 133,
-            "generations": 1476
+            "generations": 1476,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -9458,7 +9978,9 @@
             },
             "team1Score": 137,
             "team2Score": 3,
-            "generations": 1161
+            "generations": 1161,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -9494,7 +10016,9 @@
             },
             "team1Score": 113,
             "team2Score": 239,
-            "generations": 2938
+            "generations": 2938,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -9530,7 +10054,9 @@
             },
             "team1Score": 100,
             "team2Score": 173,
-            "generations": 1749
+            "generations": 1749,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -9566,7 +10092,9 @@
             },
             "team1Score": 54,
             "team2Score": 235,
-            "generations": 1269
+            "generations": 1269,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -9604,7 +10132,9 @@
             },
             "team1Score": 106,
             "team2Score": 111,
-            "generations": 1700
+            "generations": 1700,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -9640,7 +10170,9 @@
             },
             "team1Score": 151,
             "team2Score": 152,
-            "generations": 1617
+            "generations": 1617,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -9676,7 +10208,9 @@
             },
             "team1Score": 102,
             "team2Score": 48,
-            "generations": 1934
+            "generations": 1934,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -9712,7 +10246,9 @@
             },
             "team1Score": 46,
             "team2Score": 151,
-            "generations": 3337
+            "generations": 3337,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -9748,7 +10284,9 @@
             },
             "team1Score": 165,
             "team2Score": 193,
-            "generations": 2087
+            "generations": 2087,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -9784,7 +10322,9 @@
             },
             "team1Score": 76,
             "team2Score": 151,
-            "generations": 1726
+            "generations": 1726,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -9820,7 +10360,9 @@
             },
             "team1Score": 171,
             "team2Score": 41,
-            "generations": 1168
+            "generations": 1168,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -9856,7 +10398,9 @@
             },
             "team1Score": 143,
             "team2Score": 133,
-            "generations": 1933
+            "generations": 1933,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9894,7 +10438,9 @@
             },
             "team1Score": 26,
             "team2Score": 137,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -9930,7 +10476,9 @@
             },
             "team1Score": 50,
             "team2Score": 173,
-            "generations": 2493
+            "generations": 2493,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -9966,7 +10514,9 @@
             },
             "team1Score": 83,
             "team2Score": 241,
-            "generations": 1930
+            "generations": 1930,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -10002,7 +10552,9 @@
             },
             "team1Score": 34,
             "team2Score": 116,
-            "generations": 1135
+            "generations": 1135,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -10038,7 +10590,9 @@
             },
             "team1Score": 87,
             "team2Score": 243,
-            "generations": 3401
+            "generations": 3401,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -10074,7 +10628,9 @@
             },
             "team1Score": 161,
             "team2Score": 72,
-            "generations": 2268
+            "generations": 2268,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -10110,7 +10666,9 @@
             },
             "team1Score": 110,
             "team2Score": 50,
-            "generations": 1409
+            "generations": 1409,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -10146,7 +10704,9 @@
             },
             "team1Score": 122,
             "team2Score": 219,
-            "generations": 2545
+            "generations": 2545,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -10184,7 +10744,9 @@
             },
             "team1Score": 98,
             "team2Score": 192,
-            "generations": 2561
+            "generations": 2561,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -10220,7 +10782,9 @@
             },
             "team1Score": 313,
             "team2Score": 62,
-            "generations": 2615
+            "generations": 2615,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -10256,7 +10820,9 @@
             },
             "team1Score": 99,
             "team2Score": 109,
-            "generations": 1841
+            "generations": 1841,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -10292,7 +10858,9 @@
             },
             "team1Score": 175,
             "team2Score": 101,
-            "generations": 3019
+            "generations": 3019,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -10328,7 +10896,9 @@
             },
             "team1Score": 152,
             "team2Score": 29,
-            "generations": 1140
+            "generations": 1140,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -10364,7 +10934,9 @@
             },
             "team1Score": 186,
             "team2Score": 66,
-            "generations": 1571
+            "generations": 1571,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -10400,7 +10972,9 @@
             },
             "team1Score": 195,
             "team2Score": 123,
-            "generations": 1939
+            "generations": 1939,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -10436,7 +11010,9 @@
             },
             "team1Score": 40,
             "team2Score": 234,
-            "generations": 3314
+            "generations": 3314,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -10474,7 +11050,9 @@
             },
             "team1Score": 188,
             "team2Score": 51,
-            "generations": 1489
+            "generations": 1489,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -10510,7 +11088,9 @@
             },
             "team1Score": 150,
             "team2Score": 54,
-            "generations": 1858
+            "generations": 1858,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -10546,7 +11126,9 @@
             },
             "team1Score": 83,
             "team2Score": 153,
-            "generations": 1559
+            "generations": 1559,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -10582,7 +11164,9 @@
             },
             "team1Score": 97,
             "team2Score": 155,
-            "generations": 1834
+            "generations": 1834,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -10618,7 +11202,9 @@
             },
             "team1Score": 88,
             "team2Score": 207,
-            "generations": 2767
+            "generations": 2767,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -10654,7 +11240,9 @@
             },
             "team1Score": 250,
             "team2Score": 24,
-            "generations": 3808
+            "generations": 3808,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -10690,7 +11278,9 @@
             },
             "team1Score": 132,
             "team2Score": 221,
-            "generations": 2643
+            "generations": 2643,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -10726,7 +11316,9 @@
             },
             "team1Score": 218,
             "team2Score": 64,
-            "generations": 1125
+            "generations": 1125,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -10764,7 +11356,9 @@
             },
             "team1Score": 187,
             "team2Score": 31,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Harlem Cliff Divers",
@@ -10800,7 +11394,9 @@
             },
             "team1Score": 121,
             "team2Score": 81,
-            "generations": 2250
+            "generations": 2250,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -10836,7 +11432,9 @@
             },
             "team1Score": 32,
             "team2Score": 162,
-            "generations": 1774
+            "generations": 1774,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -10872,7 +11470,9 @@
             },
             "team1Score": 137,
             "team2Score": 130,
-            "generations": 1511
+            "generations": 1511,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -10908,7 +11508,9 @@
             },
             "team1Score": 95,
             "team2Score": 178,
-            "generations": 2253
+            "generations": 2253,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -10944,7 +11546,9 @@
             },
             "team1Score": 138,
             "team2Score": 132,
-            "generations": 1752
+            "generations": 1752,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -10980,7 +11584,9 @@
             },
             "team1Score": 116,
             "team2Score": 259,
-            "generations": 2531
+            "generations": 2531,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -11016,7 +11622,9 @@
             },
             "team1Score": 204,
             "team2Score": 42,
-            "generations": 1863
+            "generations": 1863,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11054,7 +11662,9 @@
             },
             "team1Score": 0,
             "team2Score": 334,
-            "generations": 1053
+            "generations": 1053,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -11090,7 +11700,9 @@
             },
             "team1Score": 71,
             "team2Score": 69,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -11126,7 +11738,9 @@
             },
             "team1Score": 138,
             "team2Score": 47,
-            "generations": 1876
+            "generations": 1876,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -11162,7 +11776,9 @@
             },
             "team1Score": 145,
             "team2Score": 219,
-            "generations": 2670
+            "generations": 2670,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -11198,7 +11814,9 @@
             },
             "team1Score": 32,
             "team2Score": 74,
-            "generations": 1182
+            "generations": 1182,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -11234,7 +11852,9 @@
             },
             "team1Score": 172,
             "team2Score": 70,
-            "generations": 1551
+            "generations": 1551,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -11270,7 +11890,9 @@
             },
             "team1Score": 155,
             "team2Score": 133,
-            "generations": 1974
+            "generations": 1974,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -11306,7 +11928,9 @@
             },
             "team1Score": 115,
             "team2Score": 144,
-            "generations": 1538
+            "generations": 1538,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -11344,7 +11968,9 @@
             },
             "team1Score": 61,
             "team2Score": 64,
-            "generations": 1305
+            "generations": 1305,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -11380,7 +12006,9 @@
             },
             "team1Score": 131,
             "team2Score": 42,
-            "generations": 1711
+            "generations": 1711,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -11416,7 +12044,9 @@
             },
             "team1Score": 144,
             "team2Score": 117,
-            "generations": 1173
+            "generations": 1173,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -11452,7 +12082,9 @@
             },
             "team1Score": 159,
             "team2Score": 56,
-            "generations": 1794
+            "generations": 1794,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -11488,7 +12120,9 @@
             },
             "team1Score": 38,
             "team2Score": 178,
-            "generations": 2955
+            "generations": 2955,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -11524,7 +12158,9 @@
             },
             "team1Score": 105,
             "team2Score": 128,
-            "generations": 2667
+            "generations": 2667,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -11560,7 +12196,9 @@
             },
             "team1Score": 244,
             "team2Score": 103,
-            "generations": 4133
+            "generations": 4133,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -11596,7 +12234,9 @@
             },
             "team1Score": 40,
             "team2Score": 303,
-            "generations": 3550
+            "generations": 3550,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -11634,7 +12274,9 @@
             },
             "team1Score": 25,
             "team2Score": 167,
-            "generations": 1795
+            "generations": 1795,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -11670,7 +12312,9 @@
             },
             "team1Score": 212,
             "team2Score": 144,
-            "generations": 2005
+            "generations": 2005,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -11706,7 +12350,9 @@
             },
             "team1Score": 170,
             "team2Score": 216,
-            "generations": 1559
+            "generations": 1559,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -11742,7 +12388,9 @@
             },
             "team1Score": 4,
             "team2Score": 74,
-            "generations": 1037
+            "generations": 1037,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -11778,7 +12426,9 @@
             },
             "team1Score": 83,
             "team2Score": 144,
-            "generations": 1288
+            "generations": 1288,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -11814,7 +12464,9 @@
             },
             "team1Score": 44,
             "team2Score": 329,
-            "generations": 4030
+            "generations": 4030,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -11850,7 +12502,9 @@
             },
             "team1Score": 101,
             "team2Score": 84,
-            "generations": 1090
+            "generations": 1090,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -11886,7 +12540,9 @@
             },
             "team1Score": 89,
             "team2Score": 82,
-            "generations": 2366
+            "generations": 2366,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11924,7 +12580,9 @@
             },
             "team1Score": 141,
             "team2Score": 218,
-            "generations": 1267
+            "generations": 1267,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -11960,7 +12618,9 @@
             },
             "team1Score": 136,
             "team2Score": 230,
-            "generations": 1456
+            "generations": 1456,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -11996,7 +12656,9 @@
             },
             "team1Score": 135,
             "team2Score": 4,
-            "generations": 1577
+            "generations": 1577,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -12032,7 +12694,9 @@
             },
             "team1Score": 114,
             "team2Score": 128,
-            "generations": 1353
+            "generations": 1353,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -12068,7 +12732,9 @@
             },
             "team1Score": 138,
             "team2Score": 53,
-            "generations": 2077
+            "generations": 2077,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -12104,7 +12770,9 @@
             },
             "team1Score": 116,
             "team2Score": 88,
-            "generations": 999
+            "generations": 999,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -12140,7 +12808,9 @@
             },
             "team1Score": 204,
             "team2Score": 92,
-            "generations": 2163
+            "generations": 2163,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -12176,7 +12846,9 @@
             },
             "team1Score": 17,
             "team2Score": 120,
-            "generations": 1214
+            "generations": 1214,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -12214,7 +12886,9 @@
             },
             "team1Score": 174,
             "team2Score": 130,
-            "generations": 2360
+            "generations": 2360,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -12250,7 +12924,9 @@
             },
             "team1Score": 42,
             "team2Score": 175,
-            "generations": 1139
+            "generations": 1139,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -12286,7 +12962,9 @@
             },
             "team1Score": 162,
             "team2Score": 108,
-            "generations": 1858
+            "generations": 1858,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -12322,7 +13000,9 @@
             },
             "team1Score": 16,
             "team2Score": 182,
-            "generations": 1615
+            "generations": 1615,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -12358,7 +13038,9 @@
             },
             "team1Score": 42,
             "team2Score": 81,
-            "generations": 1155
+            "generations": 1155,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -12394,7 +13076,9 @@
             },
             "team1Score": 277,
             "team2Score": 54,
-            "generations": 1829
+            "generations": 1829,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -12430,7 +13114,9 @@
             },
             "team1Score": 34,
             "team2Score": 165,
-            "generations": 1470
+            "generations": 1470,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -12466,7 +13152,9 @@
             },
             "team1Score": 176,
             "team2Score": 145,
-            "generations": 1622
+            "generations": 1622,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -12504,7 +13192,9 @@
             },
             "team1Score": 7,
             "team2Score": 208,
-            "generations": 2614
+            "generations": 2614,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -12540,7 +13230,9 @@
             },
             "team1Score": 75,
             "team2Score": 83,
-            "generations": 1350
+            "generations": 1350,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -12576,7 +13268,9 @@
             },
             "team1Score": 185,
             "team2Score": 11,
-            "generations": 1240
+            "generations": 1240,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -12612,7 +13306,9 @@
             },
             "team1Score": 166,
             "team2Score": 90,
-            "generations": 1595
+            "generations": 1595,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -12648,7 +13344,9 @@
             },
             "team1Score": 26,
             "team2Score": 184,
-            "generations": 1410
+            "generations": 1410,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -12684,7 +13382,9 @@
             },
             "team1Score": 189,
             "team2Score": 4,
-            "generations": 1792
+            "generations": 1792,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -12720,7 +13420,9 @@
             },
             "team1Score": 133,
             "team2Score": 168,
-            "generations": 1220
+            "generations": 1220,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -12756,7 +13458,9 @@
             },
             "team1Score": 142,
             "team2Score": 90,
-            "generations": 2188
+            "generations": 2188,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -12794,7 +13498,9 @@
             },
             "team1Score": 192,
             "team2Score": 49,
-            "generations": 1554
+            "generations": 1554,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -12830,7 +13536,9 @@
             },
             "team1Score": 115,
             "team2Score": 57,
-            "generations": 1531
+            "generations": 1531,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -12866,7 +13574,9 @@
             },
             "team1Score": 212,
             "team2Score": 38,
-            "generations": 1138
+            "generations": 1138,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -12902,7 +13612,9 @@
             },
             "team1Score": 74,
             "team2Score": 193,
-            "generations": 3202
+            "generations": 3202,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -12938,7 +13650,9 @@
             },
             "team1Score": 29,
             "team2Score": 134,
-            "generations": 1445
+            "generations": 1445,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -12974,7 +13688,9 @@
             },
             "team1Score": 84,
             "team2Score": 63,
-            "generations": 1273
+            "generations": 1273,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -13010,7 +13726,9 @@
             },
             "team1Score": 148,
             "team2Score": 208,
-            "generations": 2030
+            "generations": 2030,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -13046,7 +13764,9 @@
             },
             "team1Score": 102,
             "team2Score": 174,
-            "generations": 3369
+            "generations": 3369,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13084,7 +13804,9 @@
             },
             "team1Score": 46,
             "team2Score": 117,
-            "generations": 1378
+            "generations": 1378,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Bonnie Dune Grassblades",
@@ -13120,7 +13842,9 @@
             },
             "team1Score": 107,
             "team2Score": 61,
-            "generations": 1219
+            "generations": 1219,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -13156,7 +13880,9 @@
             },
             "team1Score": 88,
             "team2Score": 44,
-            "generations": 1250
+            "generations": 1250,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -13192,7 +13918,9 @@
             },
             "team1Score": 145,
             "team2Score": 50,
-            "generations": 1626
+            "generations": 1626,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -13228,7 +13956,9 @@
             },
             "team1Score": 151,
             "team2Score": 84,
-            "generations": 2438
+            "generations": 2438,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -13264,7 +13994,9 @@
             },
             "team1Score": 172,
             "team2Score": 149,
-            "generations": 1443
+            "generations": 1443,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -13300,7 +14032,9 @@
             },
             "team1Score": 102,
             "team2Score": 202,
-            "generations": 4215
+            "generations": 4215,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -13336,7 +14070,9 @@
             },
             "team1Score": 75,
             "team2Score": 254,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -13374,7 +14110,9 @@
             },
             "team1Score": 95,
             "team2Score": 104,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Morrisville Cosmonauts",
@@ -13410,7 +14148,9 @@
             },
             "team1Score": 5,
             "team2Score": 221,
-            "generations": 4030
+            "generations": 4030,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -13446,7 +14186,9 @@
             },
             "team1Score": 110,
             "team2Score": 77,
-            "generations": 999
+            "generations": 999,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Rural Hall Oblivion",
@@ -13482,7 +14224,9 @@
             },
             "team1Score": 16,
             "team2Score": 279,
-            "generations": 1834
+            "generations": 1834,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -13518,7 +14262,9 @@
             },
             "team1Score": 154,
             "team2Score": 171,
-            "generations": 3764
+            "generations": 3764,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -13554,7 +14300,9 @@
             },
             "team1Score": 93,
             "team2Score": 162,
-            "generations": 2747
+            "generations": 2747,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Monterey Fuzzies",
@@ -13590,7 +14338,9 @@
             },
             "team1Score": 153,
             "team2Score": 9,
-            "generations": 1522
+            "generations": 1522,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -13626,7 +14376,9 @@
             },
             "team1Score": 170,
             "team2Score": 140,
-            "generations": 1666
+            "generations": 1666,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -13664,7 +14416,9 @@
             },
             "team1Score": 98,
             "team2Score": 149,
-            "generations": 2060
+            "generations": 2060,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -13700,7 +14454,9 @@
             },
             "team1Score": 132,
             "team2Score": 39,
-            "generations": 1376
+            "generations": 1376,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -13736,7 +14492,9 @@
             },
             "team1Score": 60,
             "team2Score": 128,
-            "generations": 1715
+            "generations": 1715,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Greenlawn Homeowners Association",
@@ -13772,7 +14530,9 @@
             },
             "team1Score": 185,
             "team2Score": 110,
-            "generations": 2872
+            "generations": 2872,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "East Haven Backdoors",
@@ -13808,7 +14568,9 @@
             },
             "team1Score": 180,
             "team2Score": 97,
-            "generations": 1904
+            "generations": 1904,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Santa Rosa Cold Showers",
@@ -13844,7 +14606,9 @@
             },
             "team1Score": 229,
             "team2Score": 14,
-            "generations": 2115
+            "generations": 2115,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -13880,7 +14644,9 @@
             },
             "team1Score": 76,
             "team2Score": 202,
-            "generations": 2354
+            "generations": 2354,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Rib Mountain Meatcleavers",
@@ -13916,7 +14682,9 @@
             },
             "team1Score": 68,
             "team2Score": 95,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -13954,7 +14722,9 @@
             },
             "team1Score": 237,
             "team2Score": 120,
-            "generations": 1044
+            "generations": 1044,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Columbus Wobblies",
@@ -13990,7 +14760,9 @@
             },
             "team1Score": 102,
             "team2Score": 80,
-            "generations": 1214
+            "generations": 1214,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "El Dorado Rainbow Trout",
@@ -14026,7 +14798,9 @@
             },
             "team1Score": 173,
             "team2Score": 139,
-            "generations": 1642
+            "generations": 1642,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Benson Cookie Eaters",
@@ -14062,7 +14836,9 @@
             },
             "team1Score": 234,
             "team2Score": 48,
-            "generations": 3745
+            "generations": 3745,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "La Mirada Surgeons",
@@ -14098,7 +14874,9 @@
             },
             "team1Score": 103,
             "team2Score": 130,
-            "generations": 1211
+            "generations": 1211,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Duncanville Uptight Citizens",
@@ -14134,7 +14912,9 @@
             },
             "team1Score": 289,
             "team2Score": 81,
-            "generations": 2266
+            "generations": 2266,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Boulder Flying Scots",
@@ -14170,7 +14950,9 @@
             },
             "team1Score": 61,
             "team2Score": 80,
-            "generations": 1469
+            "generations": 1469,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Sarasota Springs Spacemonkeys",
@@ -14206,7 +14988,9 @@
             },
             "team1Score": 117,
             "team2Score": 65,
-            "generations": 2781
+            "generations": 2781,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         }
     ]
 ]

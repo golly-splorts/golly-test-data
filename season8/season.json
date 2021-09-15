@@ -34,7 +34,9 @@
             },
             "team1Score": 238,
             "team2Score": 145,
-            "generations": 1263
+            "generations": 1263,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -70,7 +72,9 @@
             },
             "team1Score": 169,
             "team2Score": 33,
-            "generations": 1840
+            "generations": 1840,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -106,7 +110,9 @@
             },
             "team1Score": 82,
             "team2Score": 105,
-            "generations": 1256
+            "generations": 1256,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -142,7 +148,9 @@
             },
             "team1Score": 215,
             "team2Score": 26,
-            "generations": 1117
+            "generations": 1117,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -178,7 +186,9 @@
             },
             "team1Score": 231,
             "team2Score": 32,
-            "generations": 2598
+            "generations": 2598,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -214,7 +224,9 @@
             },
             "team1Score": 91,
             "team2Score": 36,
-            "generations": 1120
+            "generations": 1120,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -250,7 +262,9 @@
             },
             "team1Score": 253,
             "team2Score": 42,
-            "generations": 2223
+            "generations": 2223,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -286,7 +300,9 @@
             },
             "team1Score": 142,
             "team2Score": 194,
-            "generations": 4235
+            "generations": 4235,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -324,7 +340,9 @@
             },
             "team1Score": 82,
             "team2Score": 168,
-            "generations": 1344
+            "generations": 1344,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -360,7 +378,9 @@
             },
             "team1Score": 97,
             "team2Score": 51,
-            "generations": 1192
+            "generations": 1192,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -396,7 +416,9 @@
             },
             "team1Score": 167,
             "team2Score": 158,
-            "generations": 1175
+            "generations": 1175,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -432,7 +454,9 @@
             },
             "team1Score": 76,
             "team2Score": 46,
-            "generations": 999
+            "generations": 999,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -468,7 +492,9 @@
             },
             "team1Score": 198,
             "team2Score": 48,
-            "generations": 2330
+            "generations": 2330,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -504,7 +530,9 @@
             },
             "team1Score": 51,
             "team2Score": 100,
-            "generations": 1734
+            "generations": 1734,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -540,7 +568,9 @@
             },
             "team1Score": 79,
             "team2Score": 23,
-            "generations": 1249
+            "generations": 1249,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -576,7 +606,9 @@
             },
             "team1Score": 65,
             "team2Score": 80,
-            "generations": 1095
+            "generations": 1095,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -614,7 +646,9 @@
             },
             "team1Score": 186,
             "team2Score": 56,
-            "generations": 1120
+            "generations": 1120,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -650,7 +684,9 @@
             },
             "team1Score": 194,
             "team2Score": 54,
-            "generations": 2569
+            "generations": 2569,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -686,7 +722,9 @@
             },
             "team1Score": 209,
             "team2Score": 98,
-            "generations": 2290
+            "generations": 2290,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -722,7 +760,9 @@
             },
             "team1Score": 209,
             "team2Score": 63,
-            "generations": 2262
+            "generations": 2262,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -758,7 +798,9 @@
             },
             "team1Score": 89,
             "team2Score": 163,
-            "generations": 2561
+            "generations": 2561,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -794,7 +836,9 @@
             },
             "team1Score": 69,
             "team2Score": 105,
-            "generations": 1091
+            "generations": 1091,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -830,7 +874,9 @@
             },
             "team1Score": 156,
             "team2Score": 62,
-            "generations": 2297
+            "generations": 2297,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -866,7 +912,9 @@
             },
             "team1Score": 42,
             "team2Score": 163,
-            "generations": 1611
+            "generations": 1611,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -904,7 +952,9 @@
             },
             "team1Score": 120,
             "team2Score": 130,
-            "generations": 2536
+            "generations": 2536,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -940,7 +990,9 @@
             },
             "team1Score": 127,
             "team2Score": 142,
-            "generations": 1691
+            "generations": 1691,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -976,7 +1028,9 @@
             },
             "team1Score": 136,
             "team2Score": 9,
-            "generations": 1172
+            "generations": 1172,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -1012,7 +1066,9 @@
             },
             "team1Score": 137,
             "team2Score": 109,
-            "generations": 1573
+            "generations": 1573,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -1048,7 +1104,9 @@
             },
             "team1Score": 175,
             "team2Score": 105,
-            "generations": 3886
+            "generations": 3886,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -1084,7 +1142,9 @@
             },
             "team1Score": 168,
             "team2Score": 85,
-            "generations": 3421
+            "generations": 3421,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -1120,7 +1180,9 @@
             },
             "team1Score": 158,
             "team2Score": 217,
-            "generations": 3816
+            "generations": 3816,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -1156,7 +1218,9 @@
             },
             "team1Score": 269,
             "team2Score": 37,
-            "generations": 1377
+            "generations": 1377,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -1194,7 +1258,9 @@
             },
             "team1Score": 56,
             "team2Score": 150,
-            "generations": 2123
+            "generations": 2123,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -1230,7 +1296,9 @@
             },
             "team1Score": 133,
             "team2Score": 148,
-            "generations": 2028
+            "generations": 2028,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -1266,7 +1334,9 @@
             },
             "team1Score": 87,
             "team2Score": 134,
-            "generations": 1620
+            "generations": 1620,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -1302,7 +1372,9 @@
             },
             "team1Score": 267,
             "team2Score": 98,
-            "generations": 1681
+            "generations": 1681,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -1338,7 +1410,9 @@
             },
             "team1Score": 174,
             "team2Score": 74,
-            "generations": 1506
+            "generations": 1506,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -1374,7 +1448,9 @@
             },
             "team1Score": 155,
             "team2Score": 57,
-            "generations": 1495
+            "generations": 1495,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -1410,7 +1486,9 @@
             },
             "team1Score": 95,
             "team2Score": 68,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -1446,7 +1524,9 @@
             },
             "team1Score": 148,
             "team2Score": 130,
-            "generations": 1057
+            "generations": 1057,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -1484,7 +1564,9 @@
             },
             "team1Score": 81,
             "team2Score": 215,
-            "generations": 4375
+            "generations": 4375,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -1520,7 +1602,9 @@
             },
             "team1Score": 200,
             "team2Score": 90,
-            "generations": 3563
+            "generations": 3563,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -1556,7 +1640,9 @@
             },
             "team1Score": 22,
             "team2Score": 194,
-            "generations": 3768
+            "generations": 3768,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -1592,7 +1678,9 @@
             },
             "team1Score": 279,
             "team2Score": 29,
-            "generations": 2959
+            "generations": 2959,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -1628,7 +1716,9 @@
             },
             "team1Score": 122,
             "team2Score": 37,
-            "generations": 1014
+            "generations": 1014,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -1664,7 +1754,9 @@
             },
             "team1Score": 40,
             "team2Score": 182,
-            "generations": 1867
+            "generations": 1867,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -1700,7 +1792,9 @@
             },
             "team1Score": 165,
             "team2Score": 148,
-            "generations": 1420
+            "generations": 1420,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -1736,7 +1830,9 @@
             },
             "team1Score": 190,
             "team2Score": 38,
-            "generations": 1605
+            "generations": 1605,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -1774,7 +1870,9 @@
             },
             "team1Score": 141,
             "team2Score": 121,
-            "generations": 1247
+            "generations": 1247,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -1810,7 +1908,9 @@
             },
             "team1Score": 35,
             "team2Score": 162,
-            "generations": 1945
+            "generations": 1945,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -1846,7 +1946,9 @@
             },
             "team1Score": 108,
             "team2Score": 155,
-            "generations": 1399
+            "generations": 1399,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -1882,7 +1984,9 @@
             },
             "team1Score": 122,
             "team2Score": 96,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -1918,7 +2022,9 @@
             },
             "team1Score": 124,
             "team2Score": 60,
-            "generations": 1310
+            "generations": 1310,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -1954,7 +2060,9 @@
             },
             "team1Score": 35,
             "team2Score": 75,
-            "generations": 1267
+            "generations": 1267,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -1990,7 +2098,9 @@
             },
             "team1Score": 198,
             "team2Score": 135,
-            "generations": 1032
+            "generations": 1032,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -2026,7 +2136,9 @@
             },
             "team1Score": 407,
             "team2Score": 0,
-            "generations": 1645
+            "generations": 1645,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -2064,7 +2176,9 @@
             },
             "team1Score": 68,
             "team2Score": 258,
-            "generations": 1927
+            "generations": 1927,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -2100,7 +2214,9 @@
             },
             "team1Score": 59,
             "team2Score": 109,
-            "generations": 1463
+            "generations": 1463,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -2136,7 +2252,9 @@
             },
             "team1Score": 180,
             "team2Score": 100,
-            "generations": 3023
+            "generations": 3023,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -2172,7 +2290,9 @@
             },
             "team1Score": 149,
             "team2Score": 138,
-            "generations": 1220
+            "generations": 1220,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -2208,7 +2328,9 @@
             },
             "team1Score": 215,
             "team2Score": 0,
-            "generations": 1018
+            "generations": 1018,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -2244,7 +2366,9 @@
             },
             "team1Score": 47,
             "team2Score": 230,
-            "generations": 1448
+            "generations": 1448,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -2280,7 +2404,9 @@
             },
             "team1Score": 65,
             "team2Score": 125,
-            "generations": 1051
+            "generations": 1051,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -2316,7 +2442,9 @@
             },
             "team1Score": 28,
             "team2Score": 258,
-            "generations": 2094
+            "generations": 2094,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -2354,7 +2482,9 @@
             },
             "team1Score": 65,
             "team2Score": 25,
-            "generations": 1132
+            "generations": 1132,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -2390,7 +2520,9 @@
             },
             "team1Score": 139,
             "team2Score": 263,
-            "generations": 2247
+            "generations": 2247,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -2426,7 +2558,9 @@
             },
             "team1Score": 121,
             "team2Score": 55,
-            "generations": 1025
+            "generations": 1025,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -2462,7 +2596,9 @@
             },
             "team1Score": 104,
             "team2Score": 107,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -2498,7 +2634,9 @@
             },
             "team1Score": 115,
             "team2Score": 129,
-            "generations": 1779
+            "generations": 1779,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -2534,7 +2672,9 @@
             },
             "team1Score": 35,
             "team2Score": 112,
-            "generations": 1216
+            "generations": 1216,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -2570,7 +2710,9 @@
             },
             "team1Score": 186,
             "team2Score": 76,
-            "generations": 3202
+            "generations": 3202,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -2606,7 +2748,9 @@
             },
             "team1Score": 147,
             "team2Score": 65,
-            "generations": 1790
+            "generations": 1790,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -2644,7 +2788,9 @@
             },
             "team1Score": 96,
             "team2Score": 151,
-            "generations": 1197
+            "generations": 1197,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -2680,7 +2826,9 @@
             },
             "team1Score": 104,
             "team2Score": 41,
-            "generations": 1157
+            "generations": 1157,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -2716,7 +2864,9 @@
             },
             "team1Score": 328,
             "team2Score": 49,
-            "generations": 3499
+            "generations": 3499,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -2752,7 +2902,9 @@
             },
             "team1Score": 38,
             "team2Score": 226,
-            "generations": 1732
+            "generations": 1732,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -2788,7 +2940,9 @@
             },
             "team1Score": 239,
             "team2Score": 135,
-            "generations": 4222
+            "generations": 4222,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -2824,7 +2978,9 @@
             },
             "team1Score": 134,
             "team2Score": 82,
-            "generations": 1815
+            "generations": 1815,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -2860,7 +3016,9 @@
             },
             "team1Score": 93,
             "team2Score": 152,
-            "generations": 1700
+            "generations": 1700,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -2896,7 +3054,9 @@
             },
             "team1Score": 65,
             "team2Score": 189,
-            "generations": 3303
+            "generations": 3303,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -2934,7 +3094,9 @@
             },
             "team1Score": 105,
             "team2Score": 65,
-            "generations": 1104
+            "generations": 1104,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -2970,7 +3132,9 @@
             },
             "team1Score": 116,
             "team2Score": 38,
-            "generations": 1376
+            "generations": 1376,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -3006,7 +3170,9 @@
             },
             "team1Score": 166,
             "team2Score": 61,
-            "generations": 1759
+            "generations": 1759,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -3042,7 +3208,9 @@
             },
             "team1Score": 23,
             "team2Score": 122,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -3078,7 +3246,9 @@
             },
             "team1Score": 180,
             "team2Score": 33,
-            "generations": 1351
+            "generations": 1351,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -3114,7 +3284,9 @@
             },
             "team1Score": 133,
             "team2Score": 193,
-            "generations": 2003
+            "generations": 2003,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -3150,7 +3322,9 @@
             },
             "team1Score": 178,
             "team2Score": 156,
-            "generations": 1777
+            "generations": 1777,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -3186,7 +3360,9 @@
             },
             "team1Score": 56,
             "team2Score": 177,
-            "generations": 2211
+            "generations": 2211,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -3224,7 +3400,9 @@
             },
             "team1Score": 172,
             "team2Score": 124,
-            "generations": 2018
+            "generations": 2018,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -3260,7 +3438,9 @@
             },
             "team1Score": 118,
             "team2Score": 98,
-            "generations": 1201
+            "generations": 1201,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -3296,7 +3476,9 @@
             },
             "team1Score": 250,
             "team2Score": 16,
-            "generations": 1750
+            "generations": 1750,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -3332,7 +3514,9 @@
             },
             "team1Score": 151,
             "team2Score": 97,
-            "generations": 1463
+            "generations": 1463,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -3368,7 +3552,9 @@
             },
             "team1Score": 189,
             "team2Score": 135,
-            "generations": 2075
+            "generations": 2075,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -3404,7 +3590,9 @@
             },
             "team1Score": 20,
             "team2Score": 95,
-            "generations": 1114
+            "generations": 1114,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -3440,7 +3628,9 @@
             },
             "team1Score": 328,
             "team2Score": 19,
-            "generations": 4795
+            "generations": 4795,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -3476,7 +3666,9 @@
             },
             "team1Score": 194,
             "team2Score": 146,
-            "generations": 1121
+            "generations": 1121,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -3514,7 +3706,9 @@
             },
             "team1Score": 217,
             "team2Score": 92,
-            "generations": 3032
+            "generations": 3032,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -3550,7 +3744,9 @@
             },
             "team1Score": 48,
             "team2Score": 75,
-            "generations": 1525
+            "generations": 1525,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -3586,7 +3782,9 @@
             },
             "team1Score": 210,
             "team2Score": 123,
-            "generations": 1768
+            "generations": 1768,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -3622,7 +3820,9 @@
             },
             "team1Score": 70,
             "team2Score": 116,
-            "generations": 1170
+            "generations": 1170,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -3658,7 +3858,9 @@
             },
             "team1Score": 96,
             "team2Score": 95,
-            "generations": 1280
+            "generations": 1280,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -3694,7 +3896,9 @@
             },
             "team1Score": 81,
             "team2Score": 171,
-            "generations": 2561
+            "generations": 2561,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -3730,7 +3934,9 @@
             },
             "team1Score": 135,
             "team2Score": 209,
-            "generations": 1707
+            "generations": 1707,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -3766,7 +3972,9 @@
             },
             "team1Score": 238,
             "team2Score": 92,
-            "generations": 2724
+            "generations": 2724,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -3804,7 +4012,9 @@
             },
             "team1Score": 85,
             "team2Score": 249,
-            "generations": 1695
+            "generations": 1695,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -3840,7 +4050,9 @@
             },
             "team1Score": 206,
             "team2Score": 55,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -3876,7 +4088,9 @@
             },
             "team1Score": 34,
             "team2Score": 157,
-            "generations": 1517
+            "generations": 1517,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -3912,7 +4126,9 @@
             },
             "team1Score": 26,
             "team2Score": 192,
-            "generations": 2193
+            "generations": 2193,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -3948,7 +4164,9 @@
             },
             "team1Score": 25,
             "team2Score": 164,
-            "generations": 2124
+            "generations": 2124,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -3984,7 +4202,9 @@
             },
             "team1Score": 391,
             "team2Score": 6,
-            "generations": 1715
+            "generations": 1715,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -4020,7 +4240,9 @@
             },
             "team1Score": 74,
             "team2Score": 226,
-            "generations": 1359
+            "generations": 1359,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -4056,7 +4278,9 @@
             },
             "team1Score": 283,
             "team2Score": 37,
-            "generations": 3222
+            "generations": 3222,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -4094,7 +4318,9 @@
             },
             "team1Score": 160,
             "team2Score": 57,
-            "generations": 1697
+            "generations": 1697,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -4130,7 +4356,9 @@
             },
             "team1Score": 78,
             "team2Score": 146,
-            "generations": 2364
+            "generations": 2364,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -4166,7 +4394,9 @@
             },
             "team1Score": 30,
             "team2Score": 274,
-            "generations": 1864
+            "generations": 1864,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -4202,7 +4432,9 @@
             },
             "team1Score": 97,
             "team2Score": 160,
-            "generations": 1626
+            "generations": 1626,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -4238,7 +4470,9 @@
             },
             "team1Score": 30,
             "team2Score": 134,
-            "generations": 1902
+            "generations": 1902,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -4274,7 +4508,9 @@
             },
             "team1Score": 251,
             "team2Score": 114,
-            "generations": 2209
+            "generations": 2209,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -4310,7 +4546,9 @@
             },
             "team1Score": 67,
             "team2Score": 253,
-            "generations": 1380
+            "generations": 1380,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -4346,7 +4584,9 @@
             },
             "team1Score": 49,
             "team2Score": 97,
-            "generations": 1620
+            "generations": 1620,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -4384,7 +4624,9 @@
             },
             "team1Score": 229,
             "team2Score": 12,
-            "generations": 2528
+            "generations": 2528,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -4420,7 +4662,9 @@
             },
             "team1Score": 131,
             "team2Score": 143,
-            "generations": 1587
+            "generations": 1587,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -4456,7 +4700,9 @@
             },
             "team1Score": 88,
             "team2Score": 125,
-            "generations": 2612
+            "generations": 2612,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -4492,7 +4738,9 @@
             },
             "team1Score": 15,
             "team2Score": 229,
-            "generations": 4065
+            "generations": 4065,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -4528,7 +4776,9 @@
             },
             "team1Score": 94,
             "team2Score": 219,
-            "generations": 2100
+            "generations": 2100,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -4564,7 +4814,9 @@
             },
             "team1Score": 63,
             "team2Score": 226,
-            "generations": 3810
+            "generations": 3810,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -4600,7 +4852,9 @@
             },
             "team1Score": 103,
             "team2Score": 98,
-            "generations": 1372
+            "generations": 1372,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -4636,7 +4890,9 @@
             },
             "team1Score": 152,
             "team2Score": 47,
-            "generations": 2762
+            "generations": 2762,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -4674,7 +4930,9 @@
             },
             "team1Score": 76,
             "team2Score": 138,
-            "generations": 3431
+            "generations": 3431,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -4710,7 +4968,9 @@
             },
             "team1Score": 152,
             "team2Score": 118,
-            "generations": 1527
+            "generations": 1527,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -4746,7 +5006,9 @@
             },
             "team1Score": 36,
             "team2Score": 149,
-            "generations": 1488
+            "generations": 1488,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -4782,7 +5044,9 @@
             },
             "team1Score": 200,
             "team2Score": 105,
-            "generations": 1864
+            "generations": 1864,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -4818,7 +5082,9 @@
             },
             "team1Score": 143,
             "team2Score": 112,
-            "generations": 4449
+            "generations": 4449,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -4854,7 +5120,9 @@
             },
             "team1Score": 58,
             "team2Score": 195,
-            "generations": 1727
+            "generations": 1727,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -4890,7 +5158,9 @@
             },
             "team1Score": 166,
             "team2Score": 89,
-            "generations": 1243
+            "generations": 1243,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -4926,7 +5196,9 @@
             },
             "team1Score": 112,
             "team2Score": 116,
-            "generations": 1752
+            "generations": 1752,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -4964,7 +5236,9 @@
             },
             "team1Score": 162,
             "team2Score": 167,
-            "generations": 1873
+            "generations": 1873,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -5000,7 +5274,9 @@
             },
             "team1Score": 154,
             "team2Score": 54,
-            "generations": 1858
+            "generations": 1858,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -5036,7 +5312,9 @@
             },
             "team1Score": 154,
             "team2Score": 21,
-            "generations": 1036
+            "generations": 1036,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -5072,7 +5350,9 @@
             },
             "team1Score": 62,
             "team2Score": 76,
-            "generations": 1719
+            "generations": 1719,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -5108,7 +5388,9 @@
             },
             "team1Score": 146,
             "team2Score": 197,
-            "generations": 4307
+            "generations": 4307,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -5144,7 +5426,9 @@
             },
             "team1Score": 12,
             "team2Score": 147,
-            "generations": 1479
+            "generations": 1479,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -5180,7 +5464,9 @@
             },
             "team1Score": 84,
             "team2Score": 151,
-            "generations": 1787
+            "generations": 1787,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -5216,7 +5502,9 @@
             },
             "team1Score": 176,
             "team2Score": 49,
-            "generations": 1280
+            "generations": 1280,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -5254,7 +5542,9 @@
             },
             "team1Score": 55,
             "team2Score": 317,
-            "generations": 2222
+            "generations": 2222,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -5290,7 +5580,9 @@
             },
             "team1Score": 230,
             "team2Score": 41,
-            "generations": 1732
+            "generations": 1732,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -5326,7 +5618,9 @@
             },
             "team1Score": 42,
             "team2Score": 82,
-            "generations": 1159
+            "generations": 1159,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -5362,7 +5656,9 @@
             },
             "team1Score": 271,
             "team2Score": 67,
-            "generations": 2182
+            "generations": 2182,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -5398,7 +5694,9 @@
             },
             "team1Score": 181,
             "team2Score": 96,
-            "generations": 2337
+            "generations": 2337,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -5434,7 +5732,9 @@
             },
             "team1Score": 88,
             "team2Score": 62,
-            "generations": 1360
+            "generations": 1360,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -5470,7 +5770,9 @@
             },
             "team1Score": 109,
             "team2Score": 111,
-            "generations": 1678
+            "generations": 1678,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -5506,7 +5808,9 @@
             },
             "team1Score": 12,
             "team2Score": 155,
-            "generations": 1982
+            "generations": 1982,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -5544,7 +5848,9 @@
             },
             "team1Score": 85,
             "team2Score": 70,
-            "generations": 1114
+            "generations": 1114,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -5580,7 +5886,9 @@
             },
             "team1Score": 87,
             "team2Score": 115,
-            "generations": 1503
+            "generations": 1503,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -5616,7 +5924,9 @@
             },
             "team1Score": 60,
             "team2Score": 203,
-            "generations": 1677
+            "generations": 1677,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -5652,7 +5962,9 @@
             },
             "team1Score": 207,
             "team2Score": 24,
-            "generations": 4041
+            "generations": 4041,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -5688,7 +6000,9 @@
             },
             "team1Score": 27,
             "team2Score": 97,
-            "generations": 1041
+            "generations": 1041,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -5724,7 +6038,9 @@
             },
             "team1Score": 30,
             "team2Score": 161,
-            "generations": 1204
+            "generations": 1204,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -5760,7 +6076,9 @@
             },
             "team1Score": 113,
             "team2Score": 216,
-            "generations": 1762
+            "generations": 1762,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -5796,7 +6114,9 @@
             },
             "team1Score": 235,
             "team2Score": 154,
-            "generations": 1628
+            "generations": 1628,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5834,7 +6154,9 @@
             },
             "team1Score": 183,
             "team2Score": 85,
-            "generations": 1427
+            "generations": 1427,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -5870,7 +6192,9 @@
             },
             "team1Score": 101,
             "team2Score": 187,
-            "generations": 1755
+            "generations": 1755,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -5906,7 +6230,9 @@
             },
             "team1Score": 135,
             "team2Score": 94,
-            "generations": 1506
+            "generations": 1506,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -5942,7 +6268,9 @@
             },
             "team1Score": 36,
             "team2Score": 145,
-            "generations": 2358
+            "generations": 2358,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -5978,7 +6306,9 @@
             },
             "team1Score": 127,
             "team2Score": 81,
-            "generations": 2048
+            "generations": 2048,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -6014,7 +6344,9 @@
             },
             "team1Score": 168,
             "team2Score": 57,
-            "generations": 1294
+            "generations": 1294,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -6050,7 +6382,9 @@
             },
             "team1Score": 43,
             "team2Score": 157,
-            "generations": 2128
+            "generations": 2128,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -6086,7 +6420,9 @@
             },
             "team1Score": 212,
             "team2Score": 106,
-            "generations": 3150
+            "generations": 3150,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -6124,7 +6460,9 @@
             },
             "team1Score": 42,
             "team2Score": 218,
-            "generations": 2077
+            "generations": 2077,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -6160,7 +6498,9 @@
             },
             "team1Score": 158,
             "team2Score": 60,
-            "generations": 1914
+            "generations": 1914,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -6196,7 +6536,9 @@
             },
             "team1Score": 223,
             "team2Score": 8,
-            "generations": 2271
+            "generations": 2271,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -6232,7 +6574,9 @@
             },
             "team1Score": 155,
             "team2Score": 154,
-            "generations": 1254
+            "generations": 1254,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -6268,7 +6612,9 @@
             },
             "team1Score": 236,
             "team2Score": 62,
-            "generations": 1783
+            "generations": 1783,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -6304,7 +6650,9 @@
             },
             "team1Score": 169,
             "team2Score": 60,
-            "generations": 2148
+            "generations": 2148,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -6340,7 +6688,9 @@
             },
             "team1Score": 62,
             "team2Score": 141,
-            "generations": 1033
+            "generations": 1033,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -6376,7 +6726,9 @@
             },
             "team1Score": 70,
             "team2Score": 95,
-            "generations": 1094
+            "generations": 1094,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -6414,7 +6766,9 @@
             },
             "team1Score": 188,
             "team2Score": 195,
-            "generations": 1437
+            "generations": 1437,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -6450,7 +6804,9 @@
             },
             "team1Score": 144,
             "team2Score": 27,
-            "generations": 1871
+            "generations": 1871,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -6486,7 +6842,9 @@
             },
             "team1Score": 59,
             "team2Score": 129,
-            "generations": 1133
+            "generations": 1133,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -6522,7 +6880,9 @@
             },
             "team1Score": 117,
             "team2Score": 199,
-            "generations": 2096
+            "generations": 2096,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -6558,7 +6918,9 @@
             },
             "team1Score": 147,
             "team2Score": 75,
-            "generations": 1562
+            "generations": 1562,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -6594,7 +6956,9 @@
             },
             "team1Score": 237,
             "team2Score": 55,
-            "generations": 1991
+            "generations": 1991,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -6630,7 +6994,9 @@
             },
             "team1Score": 172,
             "team2Score": 127,
-            "generations": 1451
+            "generations": 1451,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -6666,7 +7032,9 @@
             },
             "team1Score": 82,
             "team2Score": 264,
-            "generations": 5287
+            "generations": 5287,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -6704,7 +7072,9 @@
             },
             "team1Score": 264,
             "team2Score": 54,
-            "generations": 1656
+            "generations": 1656,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -6740,7 +7110,9 @@
             },
             "team1Score": 154,
             "team2Score": 102,
-            "generations": 1343
+            "generations": 1343,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -6776,7 +7148,9 @@
             },
             "team1Score": 70,
             "team2Score": 203,
-            "generations": 3693
+            "generations": 3693,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -6812,7 +7186,9 @@
             },
             "team1Score": 76,
             "team2Score": 55,
-            "generations": 1517
+            "generations": 1517,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -6848,7 +7224,9 @@
             },
             "team1Score": 250,
             "team2Score": 53,
-            "generations": 2144
+            "generations": 2144,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -6884,7 +7262,9 @@
             },
             "team1Score": 43,
             "team2Score": 223,
-            "generations": 1890
+            "generations": 1890,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -6920,7 +7300,9 @@
             },
             "team1Score": 61,
             "team2Score": 136,
-            "generations": 1651
+            "generations": 1651,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -6956,7 +7338,9 @@
             },
             "team1Score": 109,
             "team2Score": 162,
-            "generations": 2081
+            "generations": 2081,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -6994,7 +7378,9 @@
             },
             "team1Score": 103,
             "team2Score": 135,
-            "generations": 2221
+            "generations": 2221,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -7030,7 +7416,9 @@
             },
             "team1Score": 143,
             "team2Score": 46,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -7066,7 +7454,9 @@
             },
             "team1Score": 54,
             "team2Score": 176,
-            "generations": 1103
+            "generations": 1103,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -7102,7 +7492,9 @@
             },
             "team1Score": 183,
             "team2Score": 58,
-            "generations": 2169
+            "generations": 2169,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -7138,7 +7530,9 @@
             },
             "team1Score": 64,
             "team2Score": 268,
-            "generations": 2455
+            "generations": 2455,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -7174,7 +7568,9 @@
             },
             "team1Score": 77,
             "team2Score": 117,
-            "generations": 1704
+            "generations": 1704,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -7210,7 +7606,9 @@
             },
             "team1Score": 352,
             "team2Score": 3,
-            "generations": 2844
+            "generations": 2844,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -7246,7 +7644,9 @@
             },
             "team1Score": 102,
             "team2Score": 33,
-            "generations": 1180
+            "generations": 1180,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -7284,7 +7684,9 @@
             },
             "team1Score": 23,
             "team2Score": 102,
-            "generations": 1041
+            "generations": 1041,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -7320,7 +7722,9 @@
             },
             "team1Score": 122,
             "team2Score": 210,
-            "generations": 1169
+            "generations": 1169,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -7356,7 +7760,9 @@
             },
             "team1Score": 142,
             "team2Score": 139,
-            "generations": 3183
+            "generations": 3183,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -7392,7 +7798,9 @@
             },
             "team1Score": 184,
             "team2Score": 112,
-            "generations": 1362
+            "generations": 1362,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -7428,7 +7836,9 @@
             },
             "team1Score": 259,
             "team2Score": 6,
-            "generations": 1059
+            "generations": 1059,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -7464,7 +7874,9 @@
             },
             "team1Score": 63,
             "team2Score": 100,
-            "generations": 1032
+            "generations": 1032,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -7500,7 +7912,9 @@
             },
             "team1Score": 235,
             "team2Score": 85,
-            "generations": 1915
+            "generations": 1915,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -7536,7 +7950,9 @@
             },
             "team1Score": 180,
             "team2Score": 167,
-            "generations": 2591
+            "generations": 2591,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -7574,7 +7990,9 @@
             },
             "team1Score": 89,
             "team2Score": 125,
-            "generations": 3400
+            "generations": 3400,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -7610,7 +8028,9 @@
             },
             "team1Score": 60,
             "team2Score": 272,
-            "generations": 1548
+            "generations": 1548,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -7646,7 +8066,9 @@
             },
             "team1Score": 30,
             "team2Score": 178,
-            "generations": 1442
+            "generations": 1442,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -7682,7 +8104,9 @@
             },
             "team1Score": 284,
             "team2Score": 88,
-            "generations": 2199
+            "generations": 2199,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -7718,7 +8142,9 @@
             },
             "team1Score": 136,
             "team2Score": 112,
-            "generations": 1117
+            "generations": 1117,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -7754,7 +8180,9 @@
             },
             "team1Score": 124,
             "team2Score": 117,
-            "generations": 1750
+            "generations": 1750,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -7790,7 +8218,9 @@
             },
             "team1Score": 19,
             "team2Score": 125,
-            "generations": 1025
+            "generations": 1025,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -7826,7 +8256,9 @@
             },
             "team1Score": 102,
             "team2Score": 137,
-            "generations": 1744
+            "generations": 1744,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -7864,7 +8296,9 @@
             },
             "team1Score": 61,
             "team2Score": 180,
-            "generations": 1380
+            "generations": 1380,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -7900,7 +8334,9 @@
             },
             "team1Score": 176,
             "team2Score": 246,
-            "generations": 1193
+            "generations": 1193,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -7936,7 +8372,9 @@
             },
             "team1Score": 147,
             "team2Score": 122,
-            "generations": 1372
+            "generations": 1372,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -7972,7 +8410,9 @@
             },
             "team1Score": 190,
             "team2Score": 15,
-            "generations": 1366
+            "generations": 1366,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -8008,7 +8448,9 @@
             },
             "team1Score": 194,
             "team2Score": 154,
-            "generations": 3220
+            "generations": 3220,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -8044,7 +8486,9 @@
             },
             "team1Score": 35,
             "team2Score": 239,
-            "generations": 1934
+            "generations": 1934,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -8080,7 +8524,9 @@
             },
             "team1Score": 166,
             "team2Score": 103,
-            "generations": 1805
+            "generations": 1805,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -8116,7 +8562,9 @@
             },
             "team1Score": 83,
             "team2Score": 90,
-            "generations": 1020
+            "generations": 1020,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -8154,7 +8602,9 @@
             },
             "team1Score": 83,
             "team2Score": 137,
-            "generations": 1823
+            "generations": 1823,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -8190,7 +8640,9 @@
             },
             "team1Score": 96,
             "team2Score": 81,
-            "generations": 1489
+            "generations": 1489,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -8226,7 +8678,9 @@
             },
             "team1Score": 196,
             "team2Score": 186,
-            "generations": 1060
+            "generations": 1060,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -8262,7 +8716,9 @@
             },
             "team1Score": 69,
             "team2Score": 30,
-            "generations": 1138
+            "generations": 1138,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -8298,7 +8754,9 @@
             },
             "team1Score": 243,
             "team2Score": 31,
-            "generations": 1893
+            "generations": 1893,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -8334,7 +8792,9 @@
             },
             "team1Score": 124,
             "team2Score": 215,
-            "generations": 2345
+            "generations": 2345,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -8370,7 +8830,9 @@
             },
             "team1Score": 213,
             "team2Score": 120,
-            "generations": 2616
+            "generations": 2616,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -8406,7 +8868,9 @@
             },
             "team1Score": 99,
             "team2Score": 75,
-            "generations": 2042
+            "generations": 2042,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -8444,7 +8908,9 @@
             },
             "team1Score": 62,
             "team2Score": 109,
-            "generations": 1902
+            "generations": 1902,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -8480,7 +8946,9 @@
             },
             "team1Score": 116,
             "team2Score": 242,
-            "generations": 1532
+            "generations": 1532,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -8516,7 +8984,9 @@
             },
             "team1Score": 277,
             "team2Score": 12,
-            "generations": 1926
+            "generations": 1926,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -8552,7 +9022,9 @@
             },
             "team1Score": 104,
             "team2Score": 140,
-            "generations": 1825
+            "generations": 1825,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -8588,7 +9060,9 @@
             },
             "team1Score": 145,
             "team2Score": 128,
-            "generations": 1414
+            "generations": 1414,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -8624,7 +9098,9 @@
             },
             "team1Score": 264,
             "team2Score": 47,
-            "generations": 1771
+            "generations": 1771,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -8660,7 +9136,9 @@
             },
             "team1Score": 235,
             "team2Score": 28,
-            "generations": 4234
+            "generations": 4234,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -8696,7 +9174,9 @@
             },
             "team1Score": 134,
             "team2Score": 411,
-            "generations": 1626
+            "generations": 1626,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -8734,7 +9214,9 @@
             },
             "team1Score": 49,
             "team2Score": 199,
-            "generations": 1566
+            "generations": 1566,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -8770,7 +9252,9 @@
             },
             "team1Score": 54,
             "team2Score": 148,
-            "generations": 2282
+            "generations": 2282,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -8806,7 +9290,9 @@
             },
             "team1Score": 158,
             "team2Score": 133,
-            "generations": 2688
+            "generations": 2688,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -8842,7 +9328,9 @@
             },
             "team1Score": 107,
             "team2Score": 39,
-            "generations": 1729
+            "generations": 1729,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -8878,7 +9366,9 @@
             },
             "team1Score": 27,
             "team2Score": 153,
-            "generations": 1520
+            "generations": 1520,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -8914,7 +9404,9 @@
             },
             "team1Score": 89,
             "team2Score": 121,
-            "generations": 2048
+            "generations": 2048,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -8950,7 +9442,9 @@
             },
             "team1Score": 60,
             "team2Score": 147,
-            "generations": 2169
+            "generations": 2169,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -8986,7 +9480,9 @@
             },
             "team1Score": 43,
             "team2Score": 210,
-            "generations": 2616
+            "generations": 2616,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -9024,7 +9520,9 @@
             },
             "team1Score": 190,
             "team2Score": 16,
-            "generations": 4598
+            "generations": 4598,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -9060,7 +9558,9 @@
             },
             "team1Score": 211,
             "team2Score": 95,
-            "generations": 1099
+            "generations": 1099,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -9096,7 +9596,9 @@
             },
             "team1Score": 102,
             "team2Score": 54,
-            "generations": 1448
+            "generations": 1448,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -9132,7 +9634,9 @@
             },
             "team1Score": 87,
             "team2Score": 129,
-            "generations": 1913
+            "generations": 1913,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -9168,7 +9672,9 @@
             },
             "team1Score": 91,
             "team2Score": 124,
-            "generations": 1457
+            "generations": 1457,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -9204,7 +9710,9 @@
             },
             "team1Score": 184,
             "team2Score": 58,
-            "generations": 2557
+            "generations": 2557,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -9240,7 +9748,9 @@
             },
             "team1Score": 234,
             "team2Score": 101,
-            "generations": 3355
+            "generations": 3355,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -9276,7 +9786,9 @@
             },
             "team1Score": 74,
             "team2Score": 190,
-            "generations": 2087
+            "generations": 2087,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9314,7 +9826,9 @@
             },
             "team1Score": 65,
             "team2Score": 63,
-            "generations": 1184
+            "generations": 1184,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -9350,7 +9864,9 @@
             },
             "team1Score": 343,
             "team2Score": 8,
-            "generations": 4224
+            "generations": 4224,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -9386,7 +9902,9 @@
             },
             "team1Score": 163,
             "team2Score": 168,
-            "generations": 2748
+            "generations": 2748,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -9422,7 +9940,9 @@
             },
             "team1Score": 36,
             "team2Score": 150,
-            "generations": 1495
+            "generations": 1495,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -9458,7 +9978,9 @@
             },
             "team1Score": 71,
             "team2Score": 149,
-            "generations": 1244
+            "generations": 1244,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -9494,7 +10016,9 @@
             },
             "team1Score": 4,
             "team2Score": 104,
-            "generations": 1166
+            "generations": 1166,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -9530,7 +10054,9 @@
             },
             "team1Score": 176,
             "team2Score": 192,
-            "generations": 3103
+            "generations": 3103,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -9566,7 +10092,9 @@
             },
             "team1Score": 113,
             "team2Score": 4,
-            "generations": 1188
+            "generations": 1188,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -9604,7 +10132,9 @@
             },
             "team1Score": 37,
             "team2Score": 216,
-            "generations": 1391
+            "generations": 1391,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -9640,7 +10170,9 @@
             },
             "team1Score": 87,
             "team2Score": 122,
-            "generations": 2492
+            "generations": 2492,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -9676,7 +10208,9 @@
             },
             "team1Score": 214,
             "team2Score": 137,
-            "generations": 1538
+            "generations": 1538,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -9712,7 +10246,9 @@
             },
             "team1Score": 141,
             "team2Score": 99,
-            "generations": 1100
+            "generations": 1100,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -9748,7 +10284,9 @@
             },
             "team1Score": 30,
             "team2Score": 133,
-            "generations": 1462
+            "generations": 1462,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -9784,7 +10322,9 @@
             },
             "team1Score": 157,
             "team2Score": 259,
-            "generations": 3030
+            "generations": 3030,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -9820,7 +10360,9 @@
             },
             "team1Score": 64,
             "team2Score": 124,
-            "generations": 1131
+            "generations": 1131,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -9856,7 +10398,9 @@
             },
             "team1Score": 47,
             "team2Score": 161,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9894,7 +10438,9 @@
             },
             "team1Score": 112,
             "team2Score": 135,
-            "generations": 1278
+            "generations": 1278,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -9930,7 +10476,9 @@
             },
             "team1Score": 212,
             "team2Score": 89,
-            "generations": 1481
+            "generations": 1481,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -9966,7 +10514,9 @@
             },
             "team1Score": 121,
             "team2Score": 112,
-            "generations": 1620
+            "generations": 1620,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -10002,7 +10552,9 @@
             },
             "team1Score": 43,
             "team2Score": 134,
-            "generations": 1177
+            "generations": 1177,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -10038,7 +10590,9 @@
             },
             "team1Score": 149,
             "team2Score": 22,
-            "generations": 1464
+            "generations": 1464,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -10074,7 +10628,9 @@
             },
             "team1Score": 197,
             "team2Score": 78,
-            "generations": 1605
+            "generations": 1605,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -10110,7 +10666,9 @@
             },
             "team1Score": 140,
             "team2Score": 139,
-            "generations": 1858
+            "generations": 1858,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -10146,7 +10704,9 @@
             },
             "team1Score": 45,
             "team2Score": 293,
-            "generations": 2219
+            "generations": 2219,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -10184,7 +10744,9 @@
             },
             "team1Score": 94,
             "team2Score": 170,
-            "generations": 2013
+            "generations": 2013,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -10220,7 +10782,9 @@
             },
             "team1Score": 134,
             "team2Score": 167,
-            "generations": 1922
+            "generations": 1922,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -10256,7 +10820,9 @@
             },
             "team1Score": 178,
             "team2Score": 75,
-            "generations": 3015
+            "generations": 3015,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -10292,7 +10858,9 @@
             },
             "team1Score": 145,
             "team2Score": 59,
-            "generations": 1236
+            "generations": 1236,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -10328,7 +10896,9 @@
             },
             "team1Score": 167,
             "team2Score": 109,
-            "generations": 2398
+            "generations": 2398,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -10364,7 +10934,9 @@
             },
             "team1Score": 256,
             "team2Score": 63,
-            "generations": 1517
+            "generations": 1517,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -10400,7 +10972,9 @@
             },
             "team1Score": 147,
             "team2Score": 175,
-            "generations": 1451
+            "generations": 1451,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -10436,7 +11010,9 @@
             },
             "team1Score": 190,
             "team2Score": 58,
-            "generations": 1255
+            "generations": 1255,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -10474,7 +11050,9 @@
             },
             "team1Score": 237,
             "team2Score": 67,
-            "generations": 3094
+            "generations": 3094,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -10510,7 +11088,9 @@
             },
             "team1Score": 31,
             "team2Score": 134,
-            "generations": 2643
+            "generations": 2643,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -10546,7 +11126,9 @@
             },
             "team1Score": 152,
             "team2Score": 246,
-            "generations": 1785
+            "generations": 1785,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -10582,7 +11164,9 @@
             },
             "team1Score": 28,
             "team2Score": 256,
-            "generations": 2094
+            "generations": 2094,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -10618,7 +11202,9 @@
             },
             "team1Score": 52,
             "team2Score": 277,
-            "generations": 2301
+            "generations": 2301,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -10654,7 +11240,9 @@
             },
             "team1Score": 117,
             "team2Score": 118,
-            "generations": 2105
+            "generations": 2105,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -10690,7 +11278,9 @@
             },
             "team1Score": 222,
             "team2Score": 44,
-            "generations": 2037
+            "generations": 2037,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -10726,7 +11316,9 @@
             },
             "team1Score": 124,
             "team2Score": 147,
-            "generations": 2498
+            "generations": 2498,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -10764,7 +11356,9 @@
             },
             "team1Score": 7,
             "team2Score": 118,
-            "generations": 1865
+            "generations": 1865,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -10800,7 +11394,9 @@
             },
             "team1Score": 90,
             "team2Score": 155,
-            "generations": 1512
+            "generations": 1512,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -10836,7 +11432,9 @@
             },
             "team1Score": 273,
             "team2Score": 46,
-            "generations": 1908
+            "generations": 1908,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -10872,7 +11470,9 @@
             },
             "team1Score": 154,
             "team2Score": 107,
-            "generations": 3079
+            "generations": 3079,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -10908,7 +11508,9 @@
             },
             "team1Score": 91,
             "team2Score": 189,
-            "generations": 2890
+            "generations": 2890,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -10944,7 +11546,9 @@
             },
             "team1Score": 123,
             "team2Score": 152,
-            "generations": 2622
+            "generations": 2622,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -10980,7 +11584,9 @@
             },
             "team1Score": 78,
             "team2Score": 99,
-            "generations": 1076
+            "generations": 1076,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -11016,7 +11622,9 @@
             },
             "team1Score": 71,
             "team2Score": 153,
-            "generations": 1858
+            "generations": 1858,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -11054,7 +11662,9 @@
             },
             "team1Score": 221,
             "team2Score": 96,
-            "generations": 2487
+            "generations": 2487,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -11090,7 +11700,9 @@
             },
             "team1Score": 256,
             "team2Score": 113,
-            "generations": 1643
+            "generations": 1643,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -11126,7 +11738,9 @@
             },
             "team1Score": 148,
             "team2Score": 91,
-            "generations": 2831
+            "generations": 2831,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -11162,7 +11776,9 @@
             },
             "team1Score": 146,
             "team2Score": 109,
-            "generations": 1440
+            "generations": 1440,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -11198,7 +11814,9 @@
             },
             "team1Score": 93,
             "team2Score": 82,
-            "generations": 1821
+            "generations": 1821,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -11234,7 +11852,9 @@
             },
             "team1Score": 59,
             "team2Score": 274,
-            "generations": 7074
+            "generations": 7074,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -11270,7 +11890,9 @@
             },
             "team1Score": 78,
             "team2Score": 141,
-            "generations": 2458
+            "generations": 2458,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -11306,7 +11928,9 @@
             },
             "team1Score": 41,
             "team2Score": 78,
-            "generations": 1076
+            "generations": 1076,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -11344,7 +11968,9 @@
             },
             "team1Score": 162,
             "team2Score": 132,
-            "generations": 1195
+            "generations": 1195,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -11380,7 +12006,9 @@
             },
             "team1Score": 48,
             "team2Score": 83,
-            "generations": 1286
+            "generations": 1286,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -11416,7 +12044,9 @@
             },
             "team1Score": 166,
             "team2Score": 71,
-            "generations": 2730
+            "generations": 2730,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -11452,7 +12082,9 @@
             },
             "team1Score": 103,
             "team2Score": 107,
-            "generations": 1260
+            "generations": 1260,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -11488,7 +12120,9 @@
             },
             "team1Score": 126,
             "team2Score": 231,
-            "generations": 1239
+            "generations": 1239,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -11524,7 +12158,9 @@
             },
             "team1Score": 202,
             "team2Score": 7,
-            "generations": 1979
+            "generations": 1979,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -11560,7 +12196,9 @@
             },
             "team1Score": 102,
             "team2Score": 55,
-            "generations": 1454
+            "generations": 1454,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -11596,7 +12234,9 @@
             },
             "team1Score": 119,
             "team2Score": 166,
-            "generations": 2304
+            "generations": 2304,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11634,7 +12274,9 @@
             },
             "team1Score": 314,
             "team2Score": 30,
-            "generations": 4504
+            "generations": 4504,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -11670,7 +12312,9 @@
             },
             "team1Score": 68,
             "team2Score": 89,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -11706,7 +12350,9 @@
             },
             "team1Score": 175,
             "team2Score": 47,
-            "generations": 1139
+            "generations": 1139,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -11742,7 +12388,9 @@
             },
             "team1Score": 289,
             "team2Score": 77,
-            "generations": 3342
+            "generations": 3342,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -11778,7 +12426,9 @@
             },
             "team1Score": 148,
             "team2Score": 29,
-            "generations": 1209
+            "generations": 1209,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -11814,7 +12464,9 @@
             },
             "team1Score": 130,
             "team2Score": 159,
-            "generations": 2345
+            "generations": 2345,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -11850,7 +12502,9 @@
             },
             "team1Score": 7,
             "team2Score": 170,
-            "generations": 1862
+            "generations": 1862,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -11886,7 +12540,9 @@
             },
             "team1Score": 33,
             "team2Score": 82,
-            "generations": 1405
+            "generations": 1405,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11924,7 +12580,9 @@
             },
             "team1Score": 37,
             "team2Score": 207,
-            "generations": 2625
+            "generations": 2625,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -11960,7 +12618,9 @@
             },
             "team1Score": 176,
             "team2Score": 47,
-            "generations": 1873
+            "generations": 1873,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -11996,7 +12656,9 @@
             },
             "team1Score": 269,
             "team2Score": 92,
-            "generations": 2985
+            "generations": 2985,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -12032,7 +12694,9 @@
             },
             "team1Score": 326,
             "team2Score": 14,
-            "generations": 2022
+            "generations": 2022,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -12068,7 +12732,9 @@
             },
             "team1Score": 196,
             "team2Score": 106,
-            "generations": 1365
+            "generations": 1365,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -12104,7 +12770,9 @@
             },
             "team1Score": 83,
             "team2Score": 29,
-            "generations": 1161
+            "generations": 1161,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -12140,7 +12808,9 @@
             },
             "team1Score": 185,
             "team2Score": 144,
-            "generations": 4762
+            "generations": 4762,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -12176,7 +12846,9 @@
             },
             "team1Score": 26,
             "team2Score": 170,
-            "generations": 1442
+            "generations": 1442,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -12214,7 +12886,9 @@
             },
             "team1Score": 212,
             "team2Score": 26,
-            "generations": 1258
+            "generations": 1258,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Campion Know-Nothings",
@@ -12250,7 +12924,9 @@
             },
             "team1Score": 147,
             "team2Score": 153,
-            "generations": 1454
+            "generations": 1454,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -12286,7 +12962,9 @@
             },
             "team1Score": 39,
             "team2Score": 131,
-            "generations": 1146
+            "generations": 1146,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -12322,7 +13000,9 @@
             },
             "team1Score": 89,
             "team2Score": 254,
-            "generations": 2774
+            "generations": 2774,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -12358,7 +13038,9 @@
             },
             "team1Score": 231,
             "team2Score": 42,
-            "generations": 2735
+            "generations": 2735,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -12394,7 +13076,9 @@
             },
             "team1Score": 41,
             "team2Score": 87,
-            "generations": 1573
+            "generations": 1573,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -12430,7 +13114,9 @@
             },
             "team1Score": 212,
             "team2Score": 191,
-            "generations": 1193
+            "generations": 1193,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -12466,7 +13152,9 @@
             },
             "team1Score": 128,
             "team2Score": 14,
-            "generations": 1210
+            "generations": 1210,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -12504,7 +13192,9 @@
             },
             "team1Score": 92,
             "team2Score": 102,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -12540,7 +13230,9 @@
             },
             "team1Score": 525,
             "team2Score": 4,
-            "generations": 2579
+            "generations": 2579,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -12576,7 +13268,9 @@
             },
             "team1Score": 82,
             "team2Score": 200,
-            "generations": 4001
+            "generations": 4001,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -12612,7 +13306,9 @@
             },
             "team1Score": 182,
             "team2Score": 32,
-            "generations": 1854
+            "generations": 1854,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -12648,7 +13344,9 @@
             },
             "team1Score": 69,
             "team2Score": 140,
-            "generations": 1348
+            "generations": 1348,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -12684,7 +13382,9 @@
             },
             "team1Score": 183,
             "team2Score": 165,
-            "generations": 1583
+            "generations": 1583,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -12720,7 +13420,9 @@
             },
             "team1Score": 86,
             "team2Score": 109,
-            "generations": 1011
+            "generations": 1011,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -12756,7 +13458,9 @@
             },
             "team1Score": 170,
             "team2Score": 50,
-            "generations": 1513
+            "generations": 1513,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -12794,7 +13498,9 @@
             },
             "team1Score": 7,
             "team2Score": 119,
-            "generations": 1197
+            "generations": 1197,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -12830,7 +13536,9 @@
             },
             "team1Score": 157,
             "team2Score": 67,
-            "generations": 2156
+            "generations": 2156,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -12866,7 +13574,9 @@
             },
             "team1Score": 94,
             "team2Score": 136,
-            "generations": 1712
+            "generations": 1712,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -12902,7 +13612,9 @@
             },
             "team1Score": 112,
             "team2Score": 208,
-            "generations": 3150
+            "generations": 3150,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -12938,7 +13650,9 @@
             },
             "team1Score": 236,
             "team2Score": 57,
-            "generations": 1371
+            "generations": 1371,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -12974,7 +13688,9 @@
             },
             "team1Score": 265,
             "team2Score": 73,
-            "generations": 2473
+            "generations": 2473,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -13010,7 +13726,9 @@
             },
             "team1Score": 273,
             "team2Score": 6,
-            "generations": 2690
+            "generations": 2690,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -13046,7 +13764,9 @@
             },
             "team1Score": 205,
             "team2Score": 96,
-            "generations": 1585
+            "generations": 1585,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13084,7 +13804,9 @@
             },
             "team1Score": 38,
             "team2Score": 63,
-            "generations": 1270
+            "generations": 1270,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -13120,7 +13842,9 @@
             },
             "team1Score": 73,
             "team2Score": 203,
-            "generations": 2240
+            "generations": 2240,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -13156,7 +13880,9 @@
             },
             "team1Score": 46,
             "team2Score": 139,
-            "generations": 1263
+            "generations": 1263,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -13192,7 +13918,9 @@
             },
             "team1Score": 254,
             "team2Score": 64,
-            "generations": 1467
+            "generations": 1467,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -13228,7 +13956,9 @@
             },
             "team1Score": 104,
             "team2Score": 132,
-            "generations": 3021
+            "generations": 3021,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -13264,7 +13994,9 @@
             },
             "team1Score": 69,
             "team2Score": 176,
-            "generations": 1348
+            "generations": 1348,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -13300,7 +14032,9 @@
             },
             "team1Score": 229,
             "team2Score": 108,
-            "generations": 2432
+            "generations": 2432,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -13336,7 +14070,9 @@
             },
             "team1Score": 91,
             "team2Score": 64,
-            "generations": 1021
+            "generations": 1021,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -13374,7 +14110,9 @@
             },
             "team1Score": 335,
             "team2Score": 85,
-            "generations": 1094
+            "generations": 1094,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -13410,7 +14148,9 @@
             },
             "team1Score": 100,
             "team2Score": 70,
-            "generations": 1103
+            "generations": 1103,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Frankfort Frankfurters",
@@ -13446,7 +14186,9 @@
             },
             "team1Score": 120,
             "team2Score": 128,
-            "generations": 1617
+            "generations": 1617,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Hinton Bloviators",
@@ -13482,7 +14224,9 @@
             },
             "team1Score": 142,
             "team2Score": 87,
-            "generations": 1738
+            "generations": 1738,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -13518,7 +14262,9 @@
             },
             "team1Score": 76,
             "team2Score": 134,
-            "generations": 2818
+            "generations": 2818,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Humboldt Hill Closed Doors",
@@ -13554,7 +14300,9 @@
             },
             "team1Score": 159,
             "team2Score": 147,
-            "generations": 4107
+            "generations": 4107,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ft. Valley Black Bananas",
@@ -13590,7 +14338,9 @@
             },
             "team1Score": 77,
             "team2Score": 289,
-            "generations": 2261
+            "generations": 2261,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -13626,7 +14376,9 @@
             },
             "team1Score": 148,
             "team2Score": 83,
-            "generations": 1362
+            "generations": 1362,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -13664,7 +14416,9 @@
             },
             "team1Score": 177,
             "team2Score": 164,
-            "generations": 3241
+            "generations": 3241,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Mansura Expense Reports",
@@ -13700,7 +14454,9 @@
             },
             "team1Score": 163,
             "team2Score": 141,
-            "generations": 1331
+            "generations": 1331,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Libby Woodfingers",
@@ -13736,7 +14492,9 @@
             },
             "team1Score": 254,
             "team2Score": 71,
-            "generations": 3129
+            "generations": 3129,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -13772,7 +14530,9 @@
             },
             "team1Score": 148,
             "team2Score": 206,
-            "generations": 1764
+            "generations": 1764,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -13808,7 +14568,9 @@
             },
             "team1Score": 83,
             "team2Score": 126,
-            "generations": 1676
+            "generations": 1676,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Junction City Cavesystems",
@@ -13844,7 +14606,9 @@
             },
             "team1Score": 172,
             "team2Score": 164,
-            "generations": 1329
+            "generations": 1329,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Rolesville Burgerstompers",
@@ -13880,7 +14644,9 @@
             },
             "team1Score": 99,
             "team2Score": 162,
-            "generations": 1877
+            "generations": 1877,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -13916,7 +14682,9 @@
             },
             "team1Score": 46,
             "team2Score": 96,
-            "generations": 1231
+            "generations": 1231,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13954,7 +14722,9 @@
             },
             "team1Score": 177,
             "team2Score": 189,
-            "generations": 1722
+            "generations": 1722,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Glen Avon Bumblebees",
@@ -13990,7 +14760,9 @@
             },
             "team1Score": 79,
             "team2Score": 261,
-            "generations": 1755
+            "generations": 1755,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Norton Fighting Parsley",
@@ -14026,7 +14798,9 @@
             },
             "team1Score": 137,
             "team2Score": 99,
-            "generations": 2823
+            "generations": 2823,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Fairview Furniture Assemblers",
@@ -14062,7 +14836,9 @@
             },
             "team1Score": 287,
             "team2Score": 38,
-            "generations": 2702
+            "generations": 2702,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Lewiston Cyclotrons",
@@ -14098,7 +14874,9 @@
             },
             "team1Score": 57,
             "team2Score": 168,
-            "generations": 1889
+            "generations": 1889,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Barataria Fighting Asparagus",
@@ -14134,7 +14912,9 @@
             },
             "team1Score": 58,
             "team2Score": 55,
-            "generations": 1306
+            "generations": 1306,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Ault Field Meathammers",
@@ -14170,7 +14950,9 @@
             },
             "team1Score": 42,
             "team2Score": 126,
-            "generations": 1273
+            "generations": 1273,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Lemont Frowny Faces",
@@ -14206,7 +14988,9 @@
             },
             "team1Score": 74,
             "team2Score": 60,
-            "generations": 1004
+            "generations": 1004,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         }
     ]
 ]

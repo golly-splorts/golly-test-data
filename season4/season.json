@@ -34,7 +34,9 @@
             },
             "team1Score": 15,
             "team2Score": 129,
-            "generations": 1087
+            "generations": 1087,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -70,7 +72,9 @@
             },
             "team1Score": 108,
             "team2Score": 67,
-            "generations": 1471
+            "generations": 1471,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -106,7 +110,9 @@
             },
             "team1Score": 189,
             "team2Score": 8,
-            "generations": 1877
+            "generations": 1877,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -142,7 +148,9 @@
             },
             "team1Score": 124,
             "team2Score": 147,
-            "generations": 2640
+            "generations": 2640,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Perry Oracles",
@@ -178,7 +186,9 @@
             },
             "team1Score": 160,
             "team2Score": 9,
-            "generations": 1317
+            "generations": 1317,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -214,7 +224,9 @@
             },
             "team1Score": 104,
             "team2Score": 239,
-            "generations": 2418
+            "generations": 2418,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -250,7 +262,9 @@
             },
             "team1Score": 198,
             "team2Score": 153,
-            "generations": 2522
+            "generations": 2522,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -286,7 +300,9 @@
             },
             "team1Score": 264,
             "team2Score": 41,
-            "generations": 2364
+            "generations": 2364,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -324,7 +340,9 @@
             },
             "team1Score": 185,
             "team2Score": 81,
-            "generations": 2220
+            "generations": 2220,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -360,7 +378,9 @@
             },
             "team1Score": 45,
             "team2Score": 172,
-            "generations": 2514
+            "generations": 2514,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -396,7 +416,9 @@
             },
             "team1Score": 114,
             "team2Score": 122,
-            "generations": 1126
+            "generations": 1126,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -432,7 +454,9 @@
             },
             "team1Score": 214,
             "team2Score": 48,
-            "generations": 2026
+            "generations": 2026,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -468,7 +492,9 @@
             },
             "team1Score": 97,
             "team2Score": 81,
-            "generations": 1717
+            "generations": 1717,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -504,7 +530,9 @@
             },
             "team1Score": 333,
             "team2Score": 30,
-            "generations": 1240
+            "generations": 1240,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -540,7 +568,9 @@
             },
             "team1Score": 192,
             "team2Score": 115,
-            "generations": 3297
+            "generations": 3297,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -576,7 +606,9 @@
             },
             "team1Score": 68,
             "team2Score": 202,
-            "generations": 2558
+            "generations": 2558,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -614,7 +646,9 @@
             },
             "team1Score": 193,
             "team2Score": 83,
-            "generations": 3877
+            "generations": 3877,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -650,7 +684,9 @@
             },
             "team1Score": 103,
             "team2Score": 128,
-            "generations": 1422
+            "generations": 1422,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -686,7 +722,9 @@
             },
             "team1Score": 140,
             "team2Score": 139,
-            "generations": 1997
+            "generations": 1997,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -722,7 +760,9 @@
             },
             "team1Score": 58,
             "team2Score": 147,
-            "generations": 1352
+            "generations": 1352,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Perry Oracles",
@@ -758,7 +798,9 @@
             },
             "team1Score": 14,
             "team2Score": 309,
-            "generations": 1077
+            "generations": 1077,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -794,7 +836,9 @@
             },
             "team1Score": 192,
             "team2Score": 58,
-            "generations": 1834
+            "generations": 1834,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -830,7 +874,9 @@
             },
             "team1Score": 127,
             "team2Score": 134,
-            "generations": 1078
+            "generations": 1078,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -866,7 +912,9 @@
             },
             "team1Score": 238,
             "team2Score": 118,
-            "generations": 3921
+            "generations": 3921,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -904,7 +952,9 @@
             },
             "team1Score": 87,
             "team2Score": 268,
-            "generations": 1493
+            "generations": 1493,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -940,7 +990,9 @@
             },
             "team1Score": 172,
             "team2Score": 35,
-            "generations": 2106
+            "generations": 2106,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -976,7 +1028,9 @@
             },
             "team1Score": 157,
             "team2Score": 83,
-            "generations": 2563
+            "generations": 2563,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -1012,7 +1066,9 @@
             },
             "team1Score": 73,
             "team2Score": 134,
-            "generations": 1535
+            "generations": 1535,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -1048,7 +1104,9 @@
             },
             "team1Score": 154,
             "team2Score": 71,
-            "generations": 1273
+            "generations": 1273,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -1084,7 +1142,9 @@
             },
             "team1Score": 184,
             "team2Score": 20,
-            "generations": 1398
+            "generations": 1398,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -1120,7 +1180,9 @@
             },
             "team1Score": 161,
             "team2Score": 110,
-            "generations": 2751
+            "generations": 2751,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -1156,7 +1218,9 @@
             },
             "team1Score": 54,
             "team2Score": 109,
-            "generations": 1666
+            "generations": 1666,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -1194,7 +1258,9 @@
             },
             "team1Score": 89,
             "team2Score": 255,
-            "generations": 2567
+            "generations": 2567,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -1230,7 +1296,9 @@
             },
             "team1Score": 89,
             "team2Score": 104,
-            "generations": 2606
+            "generations": 2606,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -1266,7 +1334,9 @@
             },
             "team1Score": 199,
             "team2Score": 78,
-            "generations": 2104
+            "generations": 2104,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -1302,7 +1372,9 @@
             },
             "team1Score": 96,
             "team2Score": 101,
-            "generations": 1060
+            "generations": 1060,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -1338,7 +1410,9 @@
             },
             "team1Score": 180,
             "team2Score": 36,
-            "generations": 1211
+            "generations": 1211,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Perry Oracles",
@@ -1374,7 +1448,9 @@
             },
             "team1Score": 70,
             "team2Score": 58,
-            "generations": 1224
+            "generations": 1224,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -1410,7 +1486,9 @@
             },
             "team1Score": 139,
             "team2Score": 177,
-            "generations": 2379
+            "generations": 2379,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -1446,7 +1524,9 @@
             },
             "team1Score": 101,
             "team2Score": 39,
-            "generations": 1174
+            "generations": 1174,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -1484,7 +1564,9 @@
             },
             "team1Score": 32,
             "team2Score": 181,
-            "generations": 1523
+            "generations": 1523,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -1520,7 +1602,9 @@
             },
             "team1Score": 194,
             "team2Score": 167,
-            "generations": 1463
+            "generations": 1463,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -1556,7 +1640,9 @@
             },
             "team1Score": 171,
             "team2Score": 0,
-            "generations": 1401
+            "generations": 1401,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -1592,7 +1678,9 @@
             },
             "team1Score": 141,
             "team2Score": 86,
-            "generations": 1321
+            "generations": 1321,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -1628,7 +1716,9 @@
             },
             "team1Score": 124,
             "team2Score": 93,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -1664,7 +1754,9 @@
             },
             "team1Score": 41,
             "team2Score": 83,
-            "generations": 1099
+            "generations": 1099,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -1700,7 +1792,9 @@
             },
             "team1Score": 207,
             "team2Score": 83,
-            "generations": 1484
+            "generations": 1484,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -1736,7 +1830,9 @@
             },
             "team1Score": 260,
             "team2Score": 33,
-            "generations": 4610
+            "generations": 4610,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -1774,7 +1870,9 @@
             },
             "team1Score": 271,
             "team2Score": 44,
-            "generations": 2974
+            "generations": 2974,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -1810,7 +1908,9 @@
             },
             "team1Score": 86,
             "team2Score": 89,
-            "generations": 1105
+            "generations": 1105,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -1846,7 +1946,9 @@
             },
             "team1Score": 106,
             "team2Score": 70,
-            "generations": 1367
+            "generations": 1367,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -1882,7 +1984,9 @@
             },
             "team1Score": 94,
             "team2Score": 147,
-            "generations": 1296
+            "generations": 1296,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -1918,7 +2022,9 @@
             },
             "team1Score": 124,
             "team2Score": 55,
-            "generations": 1466
+            "generations": 1466,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -1954,7 +2060,9 @@
             },
             "team1Score": 124,
             "team2Score": 208,
-            "generations": 4120
+            "generations": 4120,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -1990,7 +2098,9 @@
             },
             "team1Score": 154,
             "team2Score": 83,
-            "generations": 2028
+            "generations": 2028,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Perry Oracles",
@@ -2026,7 +2136,9 @@
             },
             "team1Score": 60,
             "team2Score": 104,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -2064,7 +2176,9 @@
             },
             "team1Score": 119,
             "team2Score": 150,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -2100,7 +2214,9 @@
             },
             "team1Score": 166,
             "team2Score": 52,
-            "generations": 3919
+            "generations": 3919,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -2136,7 +2252,9 @@
             },
             "team1Score": 167,
             "team2Score": 111,
-            "generations": 1561
+            "generations": 1561,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -2172,7 +2290,9 @@
             },
             "team1Score": 214,
             "team2Score": 59,
-            "generations": 1106
+            "generations": 1106,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -2208,7 +2328,9 @@
             },
             "team1Score": 191,
             "team2Score": 45,
-            "generations": 1063
+            "generations": 1063,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -2244,7 +2366,9 @@
             },
             "team1Score": 52,
             "team2Score": 69,
-            "generations": 1189
+            "generations": 1189,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -2280,7 +2404,9 @@
             },
             "team1Score": 7,
             "team2Score": 78,
-            "generations": 1067
+            "generations": 1067,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -2316,7 +2442,9 @@
             },
             "team1Score": 33,
             "team2Score": 158,
-            "generations": 1204
+            "generations": 1204,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -2354,7 +2482,9 @@
             },
             "team1Score": 18,
             "team2Score": 332,
-            "generations": 1560
+            "generations": 1560,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -2390,7 +2520,9 @@
             },
             "team1Score": 131,
             "team2Score": 80,
-            "generations": 1131
+            "generations": 1131,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -2426,7 +2558,9 @@
             },
             "team1Score": 41,
             "team2Score": 232,
-            "generations": 3240
+            "generations": 3240,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -2462,7 +2596,9 @@
             },
             "team1Score": 125,
             "team2Score": 109,
-            "generations": 2340
+            "generations": 2340,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -2498,7 +2634,9 @@
             },
             "team1Score": 132,
             "team2Score": 222,
-            "generations": 2485
+            "generations": 2485,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Perry Oracles",
@@ -2534,7 +2672,9 @@
             },
             "team1Score": 121,
             "team2Score": 206,
-            "generations": 4056
+            "generations": 4056,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -2570,7 +2710,9 @@
             },
             "team1Score": 23,
             "team2Score": 258,
-            "generations": 2621
+            "generations": 2621,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -2606,7 +2748,9 @@
             },
             "team1Score": 144,
             "team2Score": 81,
-            "generations": 1850
+            "generations": 1850,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -2644,7 +2788,9 @@
             },
             "team1Score": 200,
             "team2Score": 126,
-            "generations": 1902
+            "generations": 1902,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -2680,7 +2826,9 @@
             },
             "team1Score": 301,
             "team2Score": 44,
-            "generations": 4268
+            "generations": 4268,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -2716,7 +2864,9 @@
             },
             "team1Score": 174,
             "team2Score": 27,
-            "generations": 1488
+            "generations": 1488,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -2752,7 +2902,9 @@
             },
             "team1Score": 172,
             "team2Score": 23,
-            "generations": 1209
+            "generations": 1209,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -2788,7 +2940,9 @@
             },
             "team1Score": 118,
             "team2Score": 86,
-            "generations": 1284
+            "generations": 1284,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -2824,7 +2978,9 @@
             },
             "team1Score": 127,
             "team2Score": 55,
-            "generations": 1963
+            "generations": 1963,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -2860,7 +3016,9 @@
             },
             "team1Score": 59,
             "team2Score": 276,
-            "generations": 3561
+            "generations": 3561,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -2896,7 +3054,9 @@
             },
             "team1Score": 14,
             "team2Score": 231,
-            "generations": 2452
+            "generations": 2452,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -2934,7 +3094,9 @@
             },
             "team1Score": 55,
             "team2Score": 107,
-            "generations": 1456
+            "generations": 1456,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -2970,7 +3132,9 @@
             },
             "team1Score": 138,
             "team2Score": 61,
-            "generations": 1234
+            "generations": 1234,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -3006,7 +3170,9 @@
             },
             "team1Score": 12,
             "team2Score": 363,
-            "generations": 3155
+            "generations": 3155,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -3042,7 +3208,9 @@
             },
             "team1Score": 89,
             "team2Score": 229,
-            "generations": 3759
+            "generations": 3759,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -3078,7 +3246,9 @@
             },
             "team1Score": 247,
             "team2Score": 65,
-            "generations": 1932
+            "generations": 1932,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -3114,7 +3284,9 @@
             },
             "team1Score": 8,
             "team2Score": 183,
-            "generations": 1985
+            "generations": 1985,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -3150,7 +3322,9 @@
             },
             "team1Score": 177,
             "team2Score": 117,
-            "generations": 2515
+            "generations": 2515,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Perry Oracles",
@@ -3186,7 +3360,9 @@
             },
             "team1Score": 54,
             "team2Score": 148,
-            "generations": 1858
+            "generations": 1858,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -3224,7 +3400,9 @@
             },
             "team1Score": 20,
             "team2Score": 109,
-            "generations": 1712
+            "generations": 1712,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -3260,7 +3438,9 @@
             },
             "team1Score": 6,
             "team2Score": 168,
-            "generations": 1673
+            "generations": 1673,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -3296,7 +3476,9 @@
             },
             "team1Score": 244,
             "team2Score": 32,
-            "generations": 3612
+            "generations": 3612,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -3332,7 +3514,9 @@
             },
             "team1Score": 8,
             "team2Score": 111,
-            "generations": 1393
+            "generations": 1393,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -3368,7 +3552,9 @@
             },
             "team1Score": 136,
             "team2Score": 189,
-            "generations": 1228
+            "generations": 1228,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -3404,7 +3590,9 @@
             },
             "team1Score": 94,
             "team2Score": 143,
-            "generations": 2586
+            "generations": 2586,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -3440,7 +3628,9 @@
             },
             "team1Score": 202,
             "team2Score": 133,
-            "generations": 2104
+            "generations": 2104,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -3476,7 +3666,9 @@
             },
             "team1Score": 176,
             "team2Score": 95,
-            "generations": 1383
+            "generations": 1383,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -3514,7 +3706,9 @@
             },
             "team1Score": 61,
             "team2Score": 136,
-            "generations": 1142
+            "generations": 1142,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -3550,7 +3744,9 @@
             },
             "team1Score": 150,
             "team2Score": 110,
-            "generations": 1057
+            "generations": 1057,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -3586,7 +3782,9 @@
             },
             "team1Score": 169,
             "team2Score": 166,
-            "generations": 1979
+            "generations": 1979,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -3622,7 +3820,9 @@
             },
             "team1Score": 111,
             "team2Score": 70,
-            "generations": 1131
+            "generations": 1131,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -3658,7 +3858,9 @@
             },
             "team1Score": 60,
             "team2Score": 130,
-            "generations": 1330
+            "generations": 1330,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Perry Oracles",
@@ -3694,7 +3896,9 @@
             },
             "team1Score": 116,
             "team2Score": 113,
-            "generations": 1087
+            "generations": 1087,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -3730,7 +3934,9 @@
             },
             "team1Score": 114,
             "team2Score": 196,
-            "generations": 1747
+            "generations": 1747,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -3766,7 +3972,9 @@
             },
             "team1Score": 43,
             "team2Score": 75,
-            "generations": 1008
+            "generations": 1008,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -3804,7 +4012,9 @@
             },
             "team1Score": 76,
             "team2Score": 209,
-            "generations": 2098
+            "generations": 2098,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -3840,7 +4050,9 @@
             },
             "team1Score": 55,
             "team2Score": 81,
-            "generations": 1021
+            "generations": 1021,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -3876,7 +4088,9 @@
             },
             "team1Score": 69,
             "team2Score": 163,
-            "generations": 1734
+            "generations": 1734,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -3912,7 +4126,9 @@
             },
             "team1Score": 49,
             "team2Score": 95,
-            "generations": 1710
+            "generations": 1710,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -3948,7 +4164,9 @@
             },
             "team1Score": 37,
             "team2Score": 145,
-            "generations": 2333
+            "generations": 2333,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -3984,7 +4202,9 @@
             },
             "team1Score": 159,
             "team2Score": 110,
-            "generations": 1423
+            "generations": 1423,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -4020,7 +4240,9 @@
             },
             "team1Score": 74,
             "team2Score": 114,
-            "generations": 1769
+            "generations": 1769,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -4056,7 +4278,9 @@
             },
             "team1Score": 68,
             "team2Score": 210,
-            "generations": 1171
+            "generations": 1171,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -4094,7 +4318,9 @@
             },
             "team1Score": 71,
             "team2Score": 152,
-            "generations": 1800
+            "generations": 1800,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -4130,7 +4356,9 @@
             },
             "team1Score": 92,
             "team2Score": 81,
-            "generations": 1116
+            "generations": 1116,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -4166,7 +4394,9 @@
             },
             "team1Score": 154,
             "team2Score": 92,
-            "generations": 1231
+            "generations": 1231,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -4202,7 +4432,9 @@
             },
             "team1Score": 203,
             "team2Score": 15,
-            "generations": 2893
+            "generations": 2893,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -4238,7 +4470,9 @@
             },
             "team1Score": 96,
             "team2Score": 161,
-            "generations": 2561
+            "generations": 2561,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -4274,7 +4508,9 @@
             },
             "team1Score": 121,
             "team2Score": 73,
-            "generations": 1127
+            "generations": 1127,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Perry Oracles",
@@ -4310,7 +4546,9 @@
             },
             "team1Score": 142,
             "team2Score": 218,
-            "generations": 2063
+            "generations": 2063,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -4346,7 +4584,9 @@
             },
             "team1Score": 111,
             "team2Score": 94,
-            "generations": 1015
+            "generations": 1015,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -4384,7 +4624,9 @@
             },
             "team1Score": 118,
             "team2Score": 262,
-            "generations": 2627
+            "generations": 2627,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -4420,7 +4662,9 @@
             },
             "team1Score": 116,
             "team2Score": 167,
-            "generations": 3555
+            "generations": 3555,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -4456,7 +4700,9 @@
             },
             "team1Score": 166,
             "team2Score": 88,
-            "generations": 2014
+            "generations": 2014,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -4492,7 +4738,9 @@
             },
             "team1Score": 223,
             "team2Score": 47,
-            "generations": 2004
+            "generations": 2004,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -4528,7 +4776,9 @@
             },
             "team1Score": 103,
             "team2Score": 206,
-            "generations": 2203
+            "generations": 2203,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -4564,7 +4814,9 @@
             },
             "team1Score": 203,
             "team2Score": 102,
-            "generations": 1500
+            "generations": 1500,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -4600,7 +4852,9 @@
             },
             "team1Score": 95,
             "team2Score": 133,
-            "generations": 1568
+            "generations": 1568,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -4636,7 +4890,9 @@
             },
             "team1Score": 137,
             "team2Score": 160,
-            "generations": 2207
+            "generations": 2207,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -4674,7 +4930,9 @@
             },
             "team1Score": 180,
             "team2Score": 78,
-            "generations": 1638
+            "generations": 1638,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -4710,7 +4968,9 @@
             },
             "team1Score": 166,
             "team2Score": 123,
-            "generations": 1717
+            "generations": 1717,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -4746,7 +5006,9 @@
             },
             "team1Score": 88,
             "team2Score": 12,
-            "generations": 1121
+            "generations": 1121,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -4782,7 +5044,9 @@
             },
             "team1Score": 86,
             "team2Score": 173,
-            "generations": 1119
+            "generations": 1119,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -4818,7 +5082,9 @@
             },
             "team1Score": 64,
             "team2Score": 243,
-            "generations": 4680
+            "generations": 4680,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Perry Oracles",
@@ -4854,7 +5120,9 @@
             },
             "team1Score": 148,
             "team2Score": 151,
-            "generations": 3947
+            "generations": 3947,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -4890,7 +5158,9 @@
             },
             "team1Score": 131,
             "team2Score": 117,
-            "generations": 2629
+            "generations": 2629,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -4926,7 +5196,9 @@
             },
             "team1Score": 135,
             "team2Score": 54,
-            "generations": 1509
+            "generations": 1509,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -4964,7 +5236,9 @@
             },
             "team1Score": 99,
             "team2Score": 126,
-            "generations": 1617
+            "generations": 1617,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -5000,7 +5274,9 @@
             },
             "team1Score": 97,
             "team2Score": 183,
-            "generations": 2456
+            "generations": 2456,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -5036,7 +5312,9 @@
             },
             "team1Score": 140,
             "team2Score": 91,
-            "generations": 5006
+            "generations": 5006,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -5072,7 +5350,9 @@
             },
             "team1Score": 193,
             "team2Score": 117,
-            "generations": 1987
+            "generations": 1987,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -5108,7 +5388,9 @@
             },
             "team1Score": 113,
             "team2Score": 188,
-            "generations": 2865
+            "generations": 2865,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -5144,7 +5426,9 @@
             },
             "team1Score": 225,
             "team2Score": 8,
-            "generations": 2753
+            "generations": 2753,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -5180,7 +5464,9 @@
             },
             "team1Score": 70,
             "team2Score": 139,
-            "generations": 1694
+            "generations": 1694,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -5216,7 +5502,9 @@
             },
             "team1Score": 92,
             "team2Score": 125,
-            "generations": 1211
+            "generations": 1211,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -5254,7 +5542,9 @@
             },
             "team1Score": 91,
             "team2Score": 100,
-            "generations": 1244
+            "generations": 1244,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -5290,7 +5580,9 @@
             },
             "team1Score": 232,
             "team2Score": 163,
-            "generations": 2062
+            "generations": 2062,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -5326,7 +5618,9 @@
             },
             "team1Score": 39,
             "team2Score": 200,
-            "generations": 1601
+            "generations": 1601,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -5362,7 +5656,9 @@
             },
             "team1Score": 87,
             "team2Score": 162,
-            "generations": 1489
+            "generations": 1489,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -5398,7 +5694,9 @@
             },
             "team1Score": 134,
             "team2Score": 82,
-            "generations": 1246
+            "generations": 1246,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -5434,7 +5732,9 @@
             },
             "team1Score": 273,
             "team2Score": 111,
-            "generations": 1762
+            "generations": 1762,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Perry Oracles",
@@ -5470,7 +5770,9 @@
             },
             "team1Score": 307,
             "team2Score": 20,
-            "generations": 3580
+            "generations": 3580,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -5506,7 +5808,9 @@
             },
             "team1Score": 172,
             "team2Score": 58,
-            "generations": 1611
+            "generations": 1611,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -5544,7 +5848,9 @@
             },
             "team1Score": 307,
             "team2Score": 71,
-            "generations": 2088
+            "generations": 2088,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -5580,7 +5886,9 @@
             },
             "team1Score": 141,
             "team2Score": 76,
-            "generations": 2135
+            "generations": 2135,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -5616,7 +5924,9 @@
             },
             "team1Score": 84,
             "team2Score": 93,
-            "generations": 1230
+            "generations": 1230,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -5652,7 +5962,9 @@
             },
             "team1Score": 174,
             "team2Score": 79,
-            "generations": 2138
+            "generations": 2138,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -5688,7 +6000,9 @@
             },
             "team1Score": 190,
             "team2Score": 132,
-            "generations": 2720
+            "generations": 2720,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -5724,7 +6038,9 @@
             },
             "team1Score": 42,
             "team2Score": 174,
-            "generations": 2539
+            "generations": 2539,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -5760,7 +6076,9 @@
             },
             "team1Score": 116,
             "team2Score": 68,
-            "generations": 1015
+            "generations": 1015,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -5796,7 +6114,9 @@
             },
             "team1Score": 124,
             "team2Score": 114,
-            "generations": 2367
+            "generations": 2367,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5834,7 +6154,9 @@
             },
             "team1Score": 138,
             "team2Score": 168,
-            "generations": 1636
+            "generations": 1636,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -5870,7 +6192,9 @@
             },
             "team1Score": 32,
             "team2Score": 153,
-            "generations": 1425
+            "generations": 1425,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -5906,7 +6230,9 @@
             },
             "team1Score": 211,
             "team2Score": 142,
-            "generations": 1925
+            "generations": 1925,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -5942,7 +6268,9 @@
             },
             "team1Score": 198,
             "team2Score": 94,
-            "generations": 3803
+            "generations": 3803,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Perry Oracles",
@@ -5978,7 +6306,9 @@
             },
             "team1Score": 150,
             "team2Score": 278,
-            "generations": 3151
+            "generations": 3151,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -6014,7 +6344,9 @@
             },
             "team1Score": 101,
             "team2Score": 197,
-            "generations": 1029
+            "generations": 1029,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -6050,7 +6382,9 @@
             },
             "team1Score": 50,
             "team2Score": 14,
-            "generations": 1043
+            "generations": 1043,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -6086,7 +6420,9 @@
             },
             "team1Score": 214,
             "team2Score": 177,
-            "generations": 2576
+            "generations": 2576,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -6124,7 +6460,9 @@
             },
             "team1Score": 68,
             "team2Score": 268,
-            "generations": 1647
+            "generations": 1647,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -6160,7 +6498,9 @@
             },
             "team1Score": 131,
             "team2Score": 57,
-            "generations": 1139
+            "generations": 1139,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -6196,7 +6536,9 @@
             },
             "team1Score": 39,
             "team2Score": 23,
-            "generations": 1034
+            "generations": 1034,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -6232,7 +6574,9 @@
             },
             "team1Score": 121,
             "team2Score": 88,
-            "generations": 1620
+            "generations": 1620,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -6268,7 +6612,9 @@
             },
             "team1Score": 85,
             "team2Score": 221,
-            "generations": 1443
+            "generations": 1443,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -6304,7 +6650,9 @@
             },
             "team1Score": 167,
             "team2Score": 37,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -6340,7 +6688,9 @@
             },
             "team1Score": 64,
             "team2Score": 56,
-            "generations": 1403
+            "generations": 1403,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -6376,7 +6726,9 @@
             },
             "team1Score": 181,
             "team2Score": 87,
-            "generations": 1707
+            "generations": 1707,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -6414,7 +6766,9 @@
             },
             "team1Score": 130,
             "team2Score": 226,
-            "generations": 4711
+            "generations": 4711,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -6450,7 +6804,9 @@
             },
             "team1Score": 74,
             "team2Score": 129,
-            "generations": 1144
+            "generations": 1144,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -6486,7 +6842,9 @@
             },
             "team1Score": 114,
             "team2Score": 101,
-            "generations": 1485
+            "generations": 1485,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -6522,7 +6880,9 @@
             },
             "team1Score": 203,
             "team2Score": 88,
-            "generations": 2191
+            "generations": 2191,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -6558,7 +6918,9 @@
             },
             "team1Score": 124,
             "team2Score": 58,
-            "generations": 1623
+            "generations": 1623,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -6594,7 +6956,9 @@
             },
             "team1Score": 98,
             "team2Score": 63,
-            "generations": 1004
+            "generations": 1004,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Perry Oracles",
@@ -6630,7 +6994,9 @@
             },
             "team1Score": 152,
             "team2Score": 139,
-            "generations": 1503
+            "generations": 1503,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -6666,7 +7032,9 @@
             },
             "team1Score": 54,
             "team2Score": 148,
-            "generations": 1858
+            "generations": 1858,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -6704,7 +7072,9 @@
             },
             "team1Score": 6,
             "team2Score": 208,
-            "generations": 1472
+            "generations": 1472,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -6740,7 +7110,9 @@
             },
             "team1Score": 59,
             "team2Score": 173,
-            "generations": 1762
+            "generations": 1762,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -6776,7 +7148,9 @@
             },
             "team1Score": 161,
             "team2Score": 163,
-            "generations": 2242
+            "generations": 2242,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -6812,7 +7186,9 @@
             },
             "team1Score": 147,
             "team2Score": 107,
-            "generations": 2081
+            "generations": 2081,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -6848,7 +7224,9 @@
             },
             "team1Score": 171,
             "team2Score": 160,
-            "generations": 3241
+            "generations": 3241,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -6884,7 +7262,9 @@
             },
             "team1Score": 85,
             "team2Score": 101,
-            "generations": 1371
+            "generations": 1371,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -6920,7 +7300,9 @@
             },
             "team1Score": 139,
             "team2Score": 89,
-            "generations": 1210
+            "generations": 1210,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -6956,7 +7338,9 @@
             },
             "team1Score": 247,
             "team2Score": 22,
-            "generations": 1985
+            "generations": 1985,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -6994,7 +7378,9 @@
             },
             "team1Score": 299,
             "team2Score": 32,
-            "generations": 3890
+            "generations": 3890,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -7030,7 +7416,9 @@
             },
             "team1Score": 112,
             "team2Score": 139,
-            "generations": 2691
+            "generations": 2691,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -7066,7 +7454,9 @@
             },
             "team1Score": 140,
             "team2Score": 114,
-            "generations": 4402
+            "generations": 4402,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -7102,7 +7492,9 @@
             },
             "team1Score": 53,
             "team2Score": 149,
-            "generations": 1249
+            "generations": 1249,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -7138,7 +7530,9 @@
             },
             "team1Score": 110,
             "team2Score": 74,
-            "generations": 1224
+            "generations": 1224,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Perry Oracles",
@@ -7174,7 +7568,9 @@
             },
             "team1Score": 131,
             "team2Score": 182,
-            "generations": 1656
+            "generations": 1656,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -7210,7 +7606,9 @@
             },
             "team1Score": 94,
             "team2Score": 42,
-            "generations": 1278
+            "generations": 1278,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -7246,7 +7644,9 @@
             },
             "team1Score": 186,
             "team2Score": 169,
-            "generations": 3788
+            "generations": 3788,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -7284,7 +7684,9 @@
             },
             "team1Score": 159,
             "team2Score": 96,
-            "generations": 1778
+            "generations": 1778,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -7320,7 +7722,9 @@
             },
             "team1Score": 130,
             "team2Score": 20,
-            "generations": 1049
+            "generations": 1049,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -7356,7 +7760,9 @@
             },
             "team1Score": 214,
             "team2Score": 5,
-            "generations": 1091
+            "generations": 1091,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -7392,7 +7798,9 @@
             },
             "team1Score": 112,
             "team2Score": 55,
-            "generations": 1937
+            "generations": 1937,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -7428,7 +7836,9 @@
             },
             "team1Score": 230,
             "team2Score": 13,
-            "generations": 5196
+            "generations": 5196,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -7464,7 +7874,9 @@
             },
             "team1Score": 49,
             "team2Score": 143,
-            "generations": 1508
+            "generations": 1508,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -7500,7 +7912,9 @@
             },
             "team1Score": 217,
             "team2Score": 23,
-            "generations": 2452
+            "generations": 2452,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -7536,7 +7950,9 @@
             },
             "team1Score": 14,
             "team2Score": 74,
-            "generations": 1004
+            "generations": 1004,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -7574,7 +7990,9 @@
             },
             "team1Score": 208,
             "team2Score": 50,
-            "generations": 3162
+            "generations": 3162,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -7610,7 +8028,9 @@
             },
             "team1Score": 189,
             "team2Score": 58,
-            "generations": 2146
+            "generations": 2146,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -7646,7 +8066,9 @@
             },
             "team1Score": 111,
             "team2Score": 130,
-            "generations": 2857
+            "generations": 2857,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -7682,7 +8104,9 @@
             },
             "team1Score": 40,
             "team2Score": 143,
-            "generations": 1155
+            "generations": 1155,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -7718,7 +8142,9 @@
             },
             "team1Score": 286,
             "team2Score": 35,
-            "generations": 1172
+            "generations": 1172,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -7754,7 +8180,9 @@
             },
             "team1Score": 204,
             "team2Score": 46,
-            "generations": 2057
+            "generations": 2057,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -7790,7 +8218,9 @@
             },
             "team1Score": 171,
             "team2Score": 55,
-            "generations": 1731
+            "generations": 1731,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Perry Oracles",
@@ -7826,7 +8256,9 @@
             },
             "team1Score": 103,
             "team2Score": 106,
-            "generations": 1705
+            "generations": 1705,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -7864,7 +8296,9 @@
             },
             "team1Score": 142,
             "team2Score": 193,
-            "generations": 1433
+            "generations": 1433,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -7900,7 +8334,9 @@
             },
             "team1Score": 209,
             "team2Score": 55,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -7936,7 +8372,9 @@
             },
             "team1Score": 157,
             "team2Score": 25,
-            "generations": 1349
+            "generations": 1349,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -7972,7 +8410,9 @@
             },
             "team1Score": 43,
             "team2Score": 84,
-            "generations": 1078
+            "generations": 1078,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -8008,7 +8448,9 @@
             },
             "team1Score": 48,
             "team2Score": 97,
-            "generations": 1091
+            "generations": 1091,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -8044,7 +8486,9 @@
             },
             "team1Score": 111,
             "team2Score": 103,
-            "generations": 1349
+            "generations": 1349,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -8080,7 +8524,9 @@
             },
             "team1Score": 166,
             "team2Score": 157,
-            "generations": 1120
+            "generations": 1120,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -8116,7 +8562,9 @@
             },
             "team1Score": 18,
             "team2Score": 166,
-            "generations": 1746
+            "generations": 1746,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -8154,7 +8602,9 @@
             },
             "team1Score": 117,
             "team2Score": 196,
-            "generations": 1538
+            "generations": 1538,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -8190,7 +8640,9 @@
             },
             "team1Score": 41,
             "team2Score": 185,
-            "generations": 1570
+            "generations": 1570,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -8226,7 +8678,9 @@
             },
             "team1Score": 147,
             "team2Score": 43,
-            "generations": 1852
+            "generations": 1852,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -8262,7 +8716,9 @@
             },
             "team1Score": 49,
             "team2Score": 13,
-            "generations": 1076
+            "generations": 1076,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -8298,7 +8754,9 @@
             },
             "team1Score": 103,
             "team2Score": 122,
-            "generations": 1655
+            "generations": 1655,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Perry Oracles",
@@ -8334,7 +8792,9 @@
             },
             "team1Score": 75,
             "team2Score": 98,
-            "generations": 1982
+            "generations": 1982,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -8370,7 +8830,9 @@
             },
             "team1Score": 77,
             "team2Score": 142,
-            "generations": 1533
+            "generations": 1533,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -8406,7 +8868,9 @@
             },
             "team1Score": 129,
             "team2Score": 50,
-            "generations": 1280
+            "generations": 1280,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -8444,7 +8908,9 @@
             },
             "team1Score": 111,
             "team2Score": 64,
-            "generations": 1046
+            "generations": 1046,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -8480,7 +8946,9 @@
             },
             "team1Score": 214,
             "team2Score": 34,
-            "generations": 1546
+            "generations": 1546,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -8516,7 +8984,9 @@
             },
             "team1Score": 59,
             "team2Score": 94,
-            "generations": 1058
+            "generations": 1058,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -8552,7 +9022,9 @@
             },
             "team1Score": 180,
             "team2Score": 18,
-            "generations": 1199
+            "generations": 1199,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -8588,7 +9060,9 @@
             },
             "team1Score": 82,
             "team2Score": 108,
-            "generations": 1611
+            "generations": 1611,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -8624,7 +9098,9 @@
             },
             "team1Score": 90,
             "team2Score": 99,
-            "generations": 1745
+            "generations": 1745,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -8660,7 +9136,9 @@
             },
             "team1Score": 9,
             "team2Score": 154,
-            "generations": 1376
+            "generations": 1376,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -8696,7 +9174,9 @@
             },
             "team1Score": 105,
             "team2Score": 62,
-            "generations": 1717
+            "generations": 1717,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -8734,7 +9214,9 @@
             },
             "team1Score": 86,
             "team2Score": 143,
-            "generations": 2331
+            "generations": 2331,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -8770,7 +9252,9 @@
             },
             "team1Score": 196,
             "team2Score": 145,
-            "generations": 1933
+            "generations": 1933,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -8806,7 +9290,9 @@
             },
             "team1Score": 101,
             "team2Score": 150,
-            "generations": 1320
+            "generations": 1320,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -8842,7 +9328,9 @@
             },
             "team1Score": 48,
             "team2Score": 72,
-            "generations": 1320
+            "generations": 1320,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -8878,7 +9366,9 @@
             },
             "team1Score": 92,
             "team2Score": 195,
-            "generations": 1870
+            "generations": 1870,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Perry Oracles",
@@ -8914,7 +9404,9 @@
             },
             "team1Score": 164,
             "team2Score": 122,
-            "generations": 2158
+            "generations": 2158,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -8950,7 +9442,9 @@
             },
             "team1Score": 178,
             "team2Score": 143,
-            "generations": 2103
+            "generations": 2103,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -8986,7 +9480,9 @@
             },
             "team1Score": 79,
             "team2Score": 251,
-            "generations": 2596
+            "generations": 2596,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -9024,7 +9520,9 @@
             },
             "team1Score": 62,
             "team2Score": 203,
-            "generations": 2179
+            "generations": 2179,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -9060,7 +9558,9 @@
             },
             "team1Score": 72,
             "team2Score": 54,
-            "generations": 1022
+            "generations": 1022,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -9096,7 +9596,9 @@
             },
             "team1Score": 26,
             "team2Score": 65,
-            "generations": 1020
+            "generations": 1020,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -9132,7 +9634,9 @@
             },
             "team1Score": 96,
             "team2Score": 178,
-            "generations": 3425
+            "generations": 3425,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -9168,7 +9672,9 @@
             },
             "team1Score": 77,
             "team2Score": 80,
-            "generations": 1146
+            "generations": 1146,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -9204,7 +9710,9 @@
             },
             "team1Score": 66,
             "team2Score": 192,
-            "generations": 2122
+            "generations": 2122,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -9240,7 +9748,9 @@
             },
             "team1Score": 91,
             "team2Score": 93,
-            "generations": 1382
+            "generations": 1382,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -9276,7 +9786,9 @@
             },
             "team1Score": 41,
             "team2Score": 238,
-            "generations": 1764
+            "generations": 1764,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9314,7 +9826,9 @@
             },
             "team1Score": 204,
             "team2Score": 60,
-            "generations": 1080
+            "generations": 1080,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -9350,7 +9864,9 @@
             },
             "team1Score": 120,
             "team2Score": 167,
-            "generations": 3159
+            "generations": 3159,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -9386,7 +9902,9 @@
             },
             "team1Score": 164,
             "team2Score": 129,
-            "generations": 1449
+            "generations": 1449,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -9422,7 +9940,9 @@
             },
             "team1Score": 215,
             "team2Score": 100,
-            "generations": 2432
+            "generations": 2432,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -9458,7 +9978,9 @@
             },
             "team1Score": 121,
             "team2Score": 139,
-            "generations": 1886
+            "generations": 1886,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -9494,7 +10016,9 @@
             },
             "team1Score": 63,
             "team2Score": 9,
-            "generations": 1010
+            "generations": 1010,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -9530,7 +10054,9 @@
             },
             "team1Score": 156,
             "team2Score": 125,
-            "generations": 2902
+            "generations": 2902,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -9566,7 +10092,9 @@
             },
             "team1Score": 8,
             "team2Score": 227,
-            "generations": 2271
+            "generations": 2271,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9604,7 +10132,9 @@
             },
             "team1Score": 87,
             "team2Score": 163,
-            "generations": 1366
+            "generations": 1366,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -9640,7 +10170,9 @@
             },
             "team1Score": 197,
             "team2Score": 138,
-            "generations": 1722
+            "generations": 1722,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -9676,7 +10208,9 @@
             },
             "team1Score": 91,
             "team2Score": 163,
-            "generations": 3363
+            "generations": 3363,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -9712,7 +10246,9 @@
             },
             "team1Score": 181,
             "team2Score": 73,
-            "generations": 2584
+            "generations": 2584,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Perry Oracles",
@@ -9748,7 +10284,9 @@
             },
             "team1Score": 30,
             "team2Score": 116,
-            "generations": 1134
+            "generations": 1134,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -9784,7 +10322,9 @@
             },
             "team1Score": 139,
             "team2Score": 10,
-            "generations": 1327
+            "generations": 1327,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -9820,7 +10360,9 @@
             },
             "team1Score": 99,
             "team2Score": 124,
-            "generations": 1457
+            "generations": 1457,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -9856,7 +10398,9 @@
             },
             "team1Score": 86,
             "team2Score": 88,
-            "generations": 1048
+            "generations": 1048,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -9894,7 +10438,9 @@
             },
             "team1Score": 136,
             "team2Score": 68,
-            "generations": 2134
+            "generations": 2134,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -9930,7 +10476,9 @@
             },
             "team1Score": 58,
             "team2Score": 59,
-            "generations": 2067
+            "generations": 2067,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -9966,7 +10514,9 @@
             },
             "team1Score": 74,
             "team2Score": 187,
-            "generations": 1915
+            "generations": 1915,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -10002,7 +10552,9 @@
             },
             "team1Score": 85,
             "team2Score": 172,
-            "generations": 1532
+            "generations": 1532,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -10038,7 +10590,9 @@
             },
             "team1Score": 90,
             "team2Score": 75,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -10074,7 +10628,9 @@
             },
             "team1Score": 113,
             "team2Score": 23,
-            "generations": 1045
+            "generations": 1045,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -10110,7 +10666,9 @@
             },
             "team1Score": 192,
             "team2Score": 47,
-            "generations": 1187
+            "generations": 1187,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -10146,7 +10704,9 @@
             },
             "team1Score": 166,
             "team2Score": 93,
-            "generations": 1934
+            "generations": 1934,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -10184,7 +10744,9 @@
             },
             "team1Score": 124,
             "team2Score": 101,
-            "generations": 1612
+            "generations": 1612,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -10220,7 +10782,9 @@
             },
             "team1Score": 76,
             "team2Score": 88,
-            "generations": 2083
+            "generations": 2083,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -10256,7 +10820,9 @@
             },
             "team1Score": 84,
             "team2Score": 59,
-            "generations": 2001
+            "generations": 2001,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -10292,7 +10858,9 @@
             },
             "team1Score": 66,
             "team2Score": 56,
-            "generations": 1224
+            "generations": 1224,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Perry Oracles",
@@ -10328,7 +10896,9 @@
             },
             "team1Score": 34,
             "team2Score": 117,
-            "generations": 1459
+            "generations": 1459,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -10364,7 +10934,9 @@
             },
             "team1Score": 108,
             "team2Score": 77,
-            "generations": 1177
+            "generations": 1177,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -10400,7 +10972,9 @@
             },
             "team1Score": 103,
             "team2Score": 82,
-            "generations": 1520
+            "generations": 1520,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -10436,7 +11010,9 @@
             },
             "team1Score": 144,
             "team2Score": 152,
-            "generations": 3185
+            "generations": 3185,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -10474,7 +11050,9 @@
             },
             "team1Score": 130,
             "team2Score": 88,
-            "generations": 1538
+            "generations": 1538,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -10510,7 +11088,9 @@
             },
             "team1Score": 313,
             "team2Score": 29,
-            "generations": 1923
+            "generations": 1923,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -10546,7 +11126,9 @@
             },
             "team1Score": 316,
             "team2Score": 120,
-            "generations": 2080
+            "generations": 2080,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -10582,7 +11164,9 @@
             },
             "team1Score": 149,
             "team2Score": 159,
-            "generations": 1741
+            "generations": 1741,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -10618,7 +11202,9 @@
             },
             "team1Score": 33,
             "team2Score": 191,
-            "generations": 1432
+            "generations": 1432,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Perry Oracles",
@@ -10654,7 +11240,9 @@
             },
             "team1Score": 73,
             "team2Score": 100,
-            "generations": 1035
+            "generations": 1035,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -10690,7 +11278,9 @@
             },
             "team1Score": 162,
             "team2Score": 177,
-            "generations": 2346
+            "generations": 2346,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -10726,7 +11316,9 @@
             },
             "team1Score": 201,
             "team2Score": 40,
-            "generations": 1717
+            "generations": 1717,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -10764,7 +11356,9 @@
             },
             "team1Score": 111,
             "team2Score": 51,
-            "generations": 1322
+            "generations": 1322,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -10800,7 +11394,9 @@
             },
             "team1Score": 124,
             "team2Score": 153,
-            "generations": 2136
+            "generations": 2136,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -10836,7 +11432,9 @@
             },
             "team1Score": 230,
             "team2Score": 37,
-            "generations": 2025
+            "generations": 2025,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -10872,7 +11470,9 @@
             },
             "team1Score": 62,
             "team2Score": 122,
-            "generations": 1826
+            "generations": 1826,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -10908,7 +11508,9 @@
             },
             "team1Score": 33,
             "team2Score": 179,
-            "generations": 1335
+            "generations": 1335,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -10944,7 +11546,9 @@
             },
             "team1Score": 113,
             "team2Score": 246,
-            "generations": 3327
+            "generations": 3327,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -10980,7 +11584,9 @@
             },
             "team1Score": 113,
             "team2Score": 164,
-            "generations": 2302
+            "generations": 2302,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -11016,7 +11622,9 @@
             },
             "team1Score": 133,
             "team2Score": 136,
-            "generations": 4100
+            "generations": 4100,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -11054,7 +11662,9 @@
             },
             "team1Score": 47,
             "team2Score": 240,
-            "generations": 1275
+            "generations": 1275,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -11090,7 +11700,9 @@
             },
             "team1Score": 35,
             "team2Score": 136,
-            "generations": 1496
+            "generations": 1496,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -11126,7 +11738,9 @@
             },
             "team1Score": 192,
             "team2Score": 84,
-            "generations": 1928
+            "generations": 1928,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -11162,7 +11776,9 @@
             },
             "team1Score": 165,
             "team2Score": 35,
-            "generations": 2096
+            "generations": 2096,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -11198,7 +11814,9 @@
             },
             "team1Score": 74,
             "team2Score": 199,
-            "generations": 1573
+            "generations": 1573,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -11234,7 +11852,9 @@
             },
             "team1Score": 69,
             "team2Score": 65,
-            "generations": 1184
+            "generations": 1184,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -11270,7 +11890,9 @@
             },
             "team1Score": 231,
             "team2Score": 45,
-            "generations": 2106
+            "generations": 2106,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -11306,7 +11928,9 @@
             },
             "team1Score": 104,
             "team2Score": 214,
-            "generations": 1093
+            "generations": 1093,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -11344,7 +11968,9 @@
             },
             "team1Score": 128,
             "team2Score": 87,
-            "generations": 2029
+            "generations": 2029,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -11380,7 +12006,9 @@
             },
             "team1Score": 12,
             "team2Score": 230,
-            "generations": 4721
+            "generations": 4721,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -11416,7 +12044,9 @@
             },
             "team1Score": 25,
             "team2Score": 147,
-            "generations": 1197
+            "generations": 1197,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -11452,7 +12082,9 @@
             },
             "team1Score": 120,
             "team2Score": 134,
-            "generations": 1824
+            "generations": 1824,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -11488,7 +12120,9 @@
             },
             "team1Score": 64,
             "team2Score": 121,
-            "generations": 2693
+            "generations": 2693,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Perry Oracles",
@@ -11524,7 +12158,9 @@
             },
             "team1Score": 97,
             "team2Score": 62,
-            "generations": 1335
+            "generations": 1335,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -11560,7 +12196,9 @@
             },
             "team1Score": 102,
             "team2Score": 233,
-            "generations": 1692
+            "generations": 1692,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -11596,7 +12234,9 @@
             },
             "team1Score": 60,
             "team2Score": 151,
-            "generations": 1499
+            "generations": 1499,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11634,7 +12274,9 @@
             },
             "team1Score": 243,
             "team2Score": 56,
-            "generations": 1774
+            "generations": 1774,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Cut Bank Brass",
@@ -11670,7 +12312,9 @@
             },
             "team1Score": 104,
             "team2Score": 88,
-            "generations": 2119
+            "generations": 2119,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -11706,7 +12350,9 @@
             },
             "team1Score": 277,
             "team2Score": 79,
-            "generations": 5024
+            "generations": 5024,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -11742,7 +12388,9 @@
             },
             "team1Score": 43,
             "team2Score": 131,
-            "generations": 1142
+            "generations": 1142,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -11778,7 +12426,9 @@
             },
             "team1Score": 178,
             "team2Score": 146,
-            "generations": 1670
+            "generations": 1670,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -11814,7 +12464,9 @@
             },
             "team1Score": 234,
             "team2Score": 30,
-            "generations": 2813
+            "generations": 2813,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -11850,7 +12502,9 @@
             },
             "team1Score": 28,
             "team2Score": 226,
-            "generations": 1832
+            "generations": 1832,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -11886,7 +12540,9 @@
             },
             "team1Score": 61,
             "team2Score": 71,
-            "generations": 1035
+            "generations": 1035,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -11924,7 +12580,9 @@
             },
             "team1Score": 115,
             "team2Score": 124,
-            "generations": 1529
+            "generations": 1529,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -11960,7 +12618,9 @@
             },
             "team1Score": 159,
             "team2Score": 185,
-            "generations": 1418
+            "generations": 1418,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -11996,7 +12656,9 @@
             },
             "team1Score": 172,
             "team2Score": 43,
-            "generations": 1041
+            "generations": 1041,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -12032,7 +12694,9 @@
             },
             "team1Score": 170,
             "team2Score": 175,
-            "generations": 1251
+            "generations": 1251,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -12068,7 +12732,9 @@
             },
             "team1Score": 89,
             "team2Score": 99,
-            "generations": 1383
+            "generations": 1383,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Perry Oracles",
@@ -12104,7 +12770,9 @@
             },
             "team1Score": 76,
             "team2Score": 150,
-            "generations": 1391
+            "generations": 1391,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -12140,7 +12808,9 @@
             },
             "team1Score": 104,
             "team2Score": 54,
-            "generations": 1816
+            "generations": 1816,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -12176,7 +12846,9 @@
             },
             "team1Score": 121,
             "team2Score": 140,
-            "generations": 2832
+            "generations": 2832,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -12214,7 +12886,9 @@
             },
             "team1Score": 221,
             "team2Score": 106,
-            "generations": 3178
+            "generations": 3178,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -12250,7 +12924,9 @@
             },
             "team1Score": 102,
             "team2Score": 61,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -12286,7 +12962,9 @@
             },
             "team1Score": 106,
             "team2Score": 72,
-            "generations": 1827
+            "generations": 1827,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -12322,7 +13000,9 @@
             },
             "team1Score": 290,
             "team2Score": 39,
-            "generations": 2237
+            "generations": 2237,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -12358,7 +13038,9 @@
             },
             "team1Score": 226,
             "team2Score": 108,
-            "generations": 3154
+            "generations": 3154,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -12394,7 +13076,9 @@
             },
             "team1Score": 181,
             "team2Score": 158,
-            "generations": 2230
+            "generations": 2230,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -12430,7 +13114,9 @@
             },
             "team1Score": 128,
             "team2Score": 26,
-            "generations": 1135
+            "generations": 1135,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -12466,7 +13152,9 @@
             },
             "team1Score": 31,
             "team2Score": 246,
-            "generations": 3045
+            "generations": 3045,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -12504,7 +13192,9 @@
             },
             "team1Score": 118,
             "team2Score": 23,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Middleburg Party Snacks",
@@ -12540,7 +13230,9 @@
             },
             "team1Score": 328,
             "team2Score": 36,
-            "generations": 3583
+            "generations": 3583,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -12576,7 +13268,9 @@
             },
             "team1Score": 64,
             "team2Score": 139,
-            "generations": 1586
+            "generations": 1586,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -12612,7 +13306,9 @@
             },
             "team1Score": 103,
             "team2Score": 150,
-            "generations": 1820
+            "generations": 1820,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Perry Oracles",
@@ -12648,7 +13344,9 @@
             },
             "team1Score": 118,
             "team2Score": 104,
-            "generations": 1156
+            "generations": 1156,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -12684,7 +13382,9 @@
             },
             "team1Score": 91,
             "team2Score": 133,
-            "generations": 2067
+            "generations": 2067,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -12720,7 +13420,9 @@
             },
             "team1Score": 118,
             "team2Score": 133,
-            "generations": 1013
+            "generations": 1013,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -12756,7 +13458,9 @@
             },
             "team1Score": 305,
             "team2Score": 110,
-            "generations": 4498
+            "generations": 4498,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -12794,7 +13498,9 @@
             },
             "team1Score": 44,
             "team2Score": 180,
-            "generations": 1238
+            "generations": 1238,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -12830,7 +13536,9 @@
             },
             "team1Score": 113,
             "team2Score": 170,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -12866,7 +13574,9 @@
             },
             "team1Score": 64,
             "team2Score": 282,
-            "generations": 4406
+            "generations": 4406,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -12902,7 +13612,9 @@
             },
             "team1Score": 130,
             "team2Score": 148,
-            "generations": 4498
+            "generations": 4498,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -12938,7 +13650,9 @@
             },
             "team1Score": 153,
             "team2Score": 208,
-            "generations": 1375
+            "generations": 1375,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -12974,7 +13688,9 @@
             },
             "team1Score": 35,
             "team2Score": 208,
-            "generations": 1058
+            "generations": 1058,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -13010,7 +13726,9 @@
             },
             "team1Score": 280,
             "team2Score": 42,
-            "generations": 4216
+            "generations": 4216,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -13046,7 +13764,9 @@
             },
             "team1Score": 137,
             "team2Score": 37,
-            "generations": 1352
+            "generations": 1352,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -13084,7 +13804,9 @@
             },
             "team1Score": 60,
             "team2Score": 92,
-            "generations": 1809
+            "generations": 1809,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -13120,7 +13842,9 @@
             },
             "team1Score": 132,
             "team2Score": 87,
-            "generations": 1469
+            "generations": 1469,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -13156,7 +13880,9 @@
             },
             "team1Score": 160,
             "team2Score": 104,
-            "generations": 1134
+            "generations": 1134,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -13192,7 +13918,9 @@
             },
             "team1Score": 45,
             "team2Score": 360,
-            "generations": 2861
+            "generations": 2861,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -13228,7 +13956,9 @@
             },
             "team1Score": 65,
             "team2Score": 79,
-            "generations": 1087
+            "generations": 1087,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Perry Oracles",
@@ -13264,7 +13994,9 @@
             },
             "team1Score": 43,
             "team2Score": 106,
-            "generations": 1489
+            "generations": 1489,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -13300,7 +14032,9 @@
             },
             "team1Score": 95,
             "team2Score": 130,
-            "generations": 2065
+            "generations": 2065,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -13336,7 +14070,9 @@
             },
             "team1Score": 55,
             "team2Score": 214,
-            "generations": 1378
+            "generations": 1378,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -13374,7 +14110,9 @@
             },
             "team1Score": 156,
             "team2Score": 151,
-            "generations": 2173
+            "generations": 2173,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Dana Point Sunsets",
@@ -13410,7 +14148,9 @@
             },
             "team1Score": 283,
             "team2Score": 168,
-            "generations": 3030
+            "generations": 3030,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -13446,7 +14186,9 @@
             },
             "team1Score": 58,
             "team2Score": 84,
-            "generations": 1109
+            "generations": 1109,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Bothell Rainshowers",
@@ -13482,7 +14224,9 @@
             },
             "team1Score": 149,
             "team2Score": 64,
-            "generations": 1722
+            "generations": 1722,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Spring Hope Sparkleflashes",
@@ -13518,7 +14262,9 @@
             },
             "team1Score": 168,
             "team2Score": 155,
-            "generations": 1164
+            "generations": 1164,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -13554,7 +14300,9 @@
             },
             "team1Score": 115,
             "team2Score": 192,
-            "generations": 1840
+            "generations": 1840,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -13590,7 +14338,9 @@
             },
             "team1Score": 54,
             "team2Score": 136,
-            "generations": 1897
+            "generations": 1897,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Forest Lake Surgeons",
@@ -13626,7 +14376,9 @@
             },
             "team1Score": 57,
             "team2Score": 77,
-            "generations": 1380
+            "generations": 1380,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -13664,7 +14416,9 @@
             },
             "team1Score": 152,
             "team2Score": 169,
-            "generations": 3408
+            "generations": 3408,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Shenandoah Homeowners Association",
@@ -13700,7 +14454,9 @@
             },
             "team1Score": 163,
             "team2Score": 104,
-            "generations": 1394
+            "generations": 1394,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -13736,7 +14492,9 @@
             },
             "team1Score": 327,
             "team2Score": 12,
-            "generations": 2141
+            "generations": 2141,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -13772,7 +14530,9 @@
             },
             "team1Score": 229,
             "team2Score": 76,
-            "generations": 2542
+            "generations": 2542,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Perry Oracles",
@@ -13808,7 +14568,9 @@
             },
             "team1Score": 102,
             "team2Score": 126,
-            "generations": 1665
+            "generations": 1665,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Los Villareales Muffin Tops",
@@ -13844,7 +14606,9 @@
             },
             "team1Score": 65,
             "team2Score": 124,
-            "generations": 1165
+            "generations": 1165,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Moline Acres Cavesystems",
@@ -13880,7 +14644,9 @@
             },
             "team1Score": 55,
             "team2Score": 78,
-            "generations": 1187
+            "generations": 1187,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -13916,7 +14682,9 @@
             },
             "team1Score": 118,
             "team2Score": 213,
-            "generations": 2646
+            "generations": 2646,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -13954,7 +14722,9 @@
             },
             "team1Score": 255,
             "team2Score": 107,
-            "generations": 2840
+            "generations": 2840,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Elizabethville Upstream Swimmers",
@@ -13990,7 +14760,9 @@
             },
             "team1Score": 149,
             "team2Score": 66,
-            "generations": 1141
+            "generations": 1141,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Gibbstown Donors",
@@ -14026,7 +14798,9 @@
             },
             "team1Score": 136,
             "team2Score": 193,
-            "generations": 2830
+            "generations": 2830,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Sibley Light Fixtures",
@@ -14062,7 +14836,9 @@
             },
             "team1Score": 239,
             "team2Score": 131,
-            "generations": 3312
+            "generations": 3312,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Fremont Blue Chips",
@@ -14098,7 +14874,9 @@
             },
             "team1Score": 50,
             "team2Score": 133,
-            "generations": 1360
+            "generations": 1360,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Braddock Pogcollectors",
@@ -14134,7 +14912,9 @@
             },
             "team1Score": 53,
             "team2Score": 203,
-            "generations": 1757
+            "generations": 1757,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Newcastle Souvenier Keychains",
@@ -14170,7 +14950,9 @@
             },
             "team1Score": 192,
             "team2Score": 47,
-            "generations": 2730
+            "generations": 2730,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Perry Oracles",
@@ -14206,7 +14988,9 @@
             },
             "team1Score": 243,
             "team2Score": 29,
-            "generations": 1934
+            "generations": 1934,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         }
     ]
 ]

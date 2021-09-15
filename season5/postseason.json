@@ -44,7 +44,9 @@
                 },
                 "team1Score": 169,
                 "team2Score": 133,
-                "generations": 2702
+                "generations": 2702,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Beaver Lost Causes",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 67,
                 "team2Score": 65,
-                "generations": 1184
+                "generations": 1184,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Friendship Village Snakes",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 99,
                 "team2Score": 271,
-                "generations": 1854
+                "generations": 1854,
+                "team1Abbr": "DET",
+                "team2Abbr": "AA"
             },
             {
                 "team1Name": "Watsonville Cliff Divers",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 200,
                 "team2Score": 50,
-                "generations": 1780
+                "generations": 1780,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 158,
                 "team2Score": 100,
-                "generations": 1401
+                "generations": 1401,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Beaver Lost Causes",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 79,
                 "team2Score": 83,
-                "generations": 1825
+                "generations": 1825,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Friendship Village Snakes",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 213,
                 "team2Score": 125,
-                "generations": 2839
+                "generations": 2839,
+                "team1Abbr": "DET",
+                "team2Abbr": "AA"
             },
             {
                 "team1Name": "Watsonville Cliff Divers",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 44,
                 "team2Score": 122,
-                "generations": 1489
+                "generations": 1489,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 101,
                 "team2Score": 170,
-                "generations": 3206
+                "generations": 3206,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Rossville Examiners",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 139,
                 "team2Score": 141,
-                "generations": 1862
+                "generations": 1862,
+                "team1Abbr": "EA",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Garrison Flamethrowers",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 118,
                 "team2Score": 113,
-                "generations": 1230
+                "generations": 1230,
+                "team1Abbr": "AA",
+                "team2Abbr": "DET"
             },
             {
                 "team1Name": "North Weeki Wachee Capitalists",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 147,
                 "team2Score": 230,
-                "generations": 3589
+                "generations": 3589,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 106,
                 "team2Score": 61,
-                "generations": 1641
+                "generations": 1641,
+                "team1Abbr": "EA",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Garrison Flamethrowers",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 156,
                 "team2Score": 10,
-                "generations": 1515
+                "generations": 1515,
+                "team1Abbr": "AA",
+                "team2Abbr": "DET"
             },
             {
                 "team1Name": "North Weeki Wachee Capitalists",
@@ -680,7 +708,9 @@
                 },
                 "team1Score": 163,
                 "team2Score": 204,
-                "generations": 2109
+                "generations": 2109,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -727,7 +757,9 @@
                 },
                 "team1Score": 192,
                 "team2Score": 109,
-                "generations": 1191
+                "generations": 1191,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "EA"
             }
         ]
     ],
@@ -776,7 +808,9 @@
                 },
                 "team1Score": 191,
                 "team2Score": 167,
-                "generations": 1450
+                "generations": 1450,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Watsonville Cliff Divers",
@@ -821,7 +855,9 @@
                 },
                 "team1Score": 169,
                 "team2Score": 53,
-                "generations": 1516
+                "generations": 1516,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -868,7 +904,9 @@
                 },
                 "team1Score": 41,
                 "team2Score": 24,
-                "generations": 1059
+                "generations": 1059,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Watsonville Cliff Divers",
@@ -913,7 +951,9 @@
                 },
                 "team1Score": 49,
                 "team2Score": 162,
-                "generations": 1188
+                "generations": 1188,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -960,7 +1000,9 @@
                 },
                 "team1Score": 68,
                 "team2Score": 100,
-                "generations": 1077
+                "generations": 1077,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Garrison Flamethrowers",
@@ -1005,7 +1047,9 @@
                 },
                 "team1Score": 150,
                 "team2Score": 202,
-                "generations": 1556
+                "generations": 1556,
+                "team1Abbr": "AA",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1052,7 +1096,9 @@
                 },
                 "team1Score": 180,
                 "team2Score": 10,
-                "generations": 1594
+                "generations": 1594,
+                "team1Abbr": "AA",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1099,7 +1145,9 @@
                 },
                 "team1Score": 153,
                 "team2Score": 141,
-                "generations": 4746
+                "generations": 4746,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "AA"
             }
         ]
     ],
@@ -1147,7 +1195,9 @@
                 },
                 "team1Score": 164,
                 "team2Score": 43,
-                "generations": 1161
+                "generations": 1161,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "SDBA"
             }
         ],
         [
@@ -1193,7 +1243,9 @@
                 },
                 "team1Score": 216,
                 "team2Score": 0,
-                "generations": 1024
+                "generations": 1024,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "SDBA"
             }
         ],
         [
@@ -1239,7 +1291,9 @@
                 },
                 "team1Score": 241,
                 "team2Score": 50,
-                "generations": 3563
+                "generations": 3563,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1285,7 +1339,9 @@
                 },
                 "team1Score": 95,
                 "team2Score": 179,
-                "generations": 2050
+                "generations": 2050,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1331,7 +1387,9 @@
                 },
                 "team1Score": 83,
                 "team2Score": 103,
-                "generations": 1418
+                "generations": 1418,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "SFBS"
             }
         ]
     ]

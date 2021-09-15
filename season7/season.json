@@ -34,7 +34,9 @@
             },
             "team1Score": 254,
             "team2Score": 54,
-            "generations": 2087
+            "generations": 2087,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -70,7 +72,9 @@
             },
             "team1Score": 119,
             "team2Score": 94,
-            "generations": 2216
+            "generations": 2216,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -106,7 +110,9 @@
             },
             "team1Score": 89,
             "team2Score": 144,
-            "generations": 3690
+            "generations": 3690,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -142,7 +148,9 @@
             },
             "team1Score": 168,
             "team2Score": 90,
-            "generations": 1523
+            "generations": 1523,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -178,7 +186,9 @@
             },
             "team1Score": 43,
             "team2Score": 217,
-            "generations": 1732
+            "generations": 1732,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -214,7 +224,9 @@
             },
             "team1Score": 106,
             "team2Score": 219,
-            "generations": 1830
+            "generations": 1830,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Loomis Postals",
@@ -250,7 +262,9 @@
             },
             "team1Score": 197,
             "team2Score": 127,
-            "generations": 3525
+            "generations": 3525,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -286,7 +300,9 @@
             },
             "team1Score": 222,
             "team2Score": 95,
-            "generations": 1806
+            "generations": 1806,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -324,7 +340,9 @@
             },
             "team1Score": 139,
             "team2Score": 194,
-            "generations": 2087
+            "generations": 2087,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -360,7 +378,9 @@
             },
             "team1Score": 158,
             "team2Score": 120,
-            "generations": 3244
+            "generations": 3244,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -396,7 +416,9 @@
             },
             "team1Score": 37,
             "team2Score": 157,
-            "generations": 1488
+            "generations": 1488,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Eminence Tears",
@@ -432,7 +454,9 @@
             },
             "team1Score": 71,
             "team2Score": 92,
-            "generations": 1530
+            "generations": 1530,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -468,7 +492,9 @@
             },
             "team1Score": 125,
             "team2Score": 246,
-            "generations": 1753
+            "generations": 1753,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -504,7 +530,9 @@
             },
             "team1Score": 157,
             "team2Score": 126,
-            "generations": 1175
+            "generations": 1175,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -540,7 +568,9 @@
             },
             "team1Score": 177,
             "team2Score": 167,
-            "generations": 2111
+            "generations": 2111,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -576,7 +606,9 @@
             },
             "team1Score": 165,
             "team2Score": 26,
-            "generations": 2274
+            "generations": 2274,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -614,7 +646,9 @@
             },
             "team1Score": 133,
             "team2Score": 80,
-            "generations": 1910
+            "generations": 1910,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -650,7 +684,9 @@
             },
             "team1Score": 143,
             "team2Score": 266,
-            "generations": 3238
+            "generations": 3238,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -686,7 +722,9 @@
             },
             "team1Score": 45,
             "team2Score": 229,
-            "generations": 1957
+            "generations": 1957,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -722,7 +760,9 @@
             },
             "team1Score": 104,
             "team2Score": 74,
-            "generations": 1103
+            "generations": 1103,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -758,7 +798,9 @@
             },
             "team1Score": 184,
             "team2Score": 159,
-            "generations": 2860
+            "generations": 2860,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -794,7 +836,9 @@
             },
             "team1Score": 146,
             "team2Score": 91,
-            "generations": 1716
+            "generations": 1716,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Loomis Postals",
@@ -830,7 +874,9 @@
             },
             "team1Score": 101,
             "team2Score": 172,
-            "generations": 1528
+            "generations": 1528,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -866,7 +912,9 @@
             },
             "team1Score": 154,
             "team2Score": 64,
-            "generations": 1754
+            "generations": 1754,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -904,7 +952,9 @@
             },
             "team1Score": 186,
             "team2Score": 105,
-            "generations": 1391
+            "generations": 1391,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Eminence Tears",
@@ -940,7 +990,9 @@
             },
             "team1Score": 49,
             "team2Score": 104,
-            "generations": 1514
+            "generations": 1514,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -976,7 +1028,9 @@
             },
             "team1Score": 239,
             "team2Score": 142,
-            "generations": 2785
+            "generations": 2785,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -1012,7 +1066,9 @@
             },
             "team1Score": 141,
             "team2Score": 187,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -1048,7 +1104,9 @@
             },
             "team1Score": 186,
             "team2Score": 86,
-            "generations": 1116
+            "generations": 1116,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -1084,7 +1142,9 @@
             },
             "team1Score": 165,
             "team2Score": 163,
-            "generations": 3634
+            "generations": 3634,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -1120,7 +1180,9 @@
             },
             "team1Score": 50,
             "team2Score": 289,
-            "generations": 2791
+            "generations": 2791,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -1156,7 +1218,9 @@
             },
             "team1Score": 35,
             "team2Score": 83,
-            "generations": 1084
+            "generations": 1084,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -1194,7 +1258,9 @@
             },
             "team1Score": 107,
             "team2Score": 268,
-            "generations": 1463
+            "generations": 1463,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -1230,7 +1296,9 @@
             },
             "team1Score": 191,
             "team2Score": 52,
-            "generations": 1575
+            "generations": 1575,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -1266,7 +1334,9 @@
             },
             "team1Score": 78,
             "team2Score": 142,
-            "generations": 1682
+            "generations": 1682,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -1302,7 +1372,9 @@
             },
             "team1Score": 114,
             "team2Score": 126,
-            "generations": 1042
+            "generations": 1042,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -1338,7 +1410,9 @@
             },
             "team1Score": 204,
             "team2Score": 125,
-            "generations": 1477
+            "generations": 1477,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -1374,7 +1448,9 @@
             },
             "team1Score": 237,
             "team2Score": 21,
-            "generations": 2815
+            "generations": 2815,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -1410,7 +1486,9 @@
             },
             "team1Score": 149,
             "team2Score": 120,
-            "generations": 1985
+            "generations": 1985,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Loomis Postals",
@@ -1446,7 +1524,9 @@
             },
             "team1Score": 72,
             "team2Score": 136,
-            "generations": 1008
+            "generations": 1008,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -1484,7 +1564,9 @@
             },
             "team1Score": 59,
             "team2Score": 113,
-            "generations": 1236
+            "generations": 1236,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -1520,7 +1602,9 @@
             },
             "team1Score": 93,
             "team2Score": 118,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Eminence Tears",
@@ -1556,7 +1640,9 @@
             },
             "team1Score": 44,
             "team2Score": 136,
-            "generations": 1452
+            "generations": 1452,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -1592,7 +1678,9 @@
             },
             "team1Score": 63,
             "team2Score": 171,
-            "generations": 2156
+            "generations": 2156,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -1628,7 +1716,9 @@
             },
             "team1Score": 121,
             "team2Score": 51,
-            "generations": 1112
+            "generations": 1112,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -1664,7 +1754,9 @@
             },
             "team1Score": 42,
             "team2Score": 246,
-            "generations": 4425
+            "generations": 4425,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -1700,7 +1792,9 @@
             },
             "team1Score": 246,
             "team2Score": 84,
-            "generations": 1353
+            "generations": 1353,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -1736,7 +1830,9 @@
             },
             "team1Score": 108,
             "team2Score": 62,
-            "generations": 1522
+            "generations": 1522,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -1774,7 +1870,9 @@
             },
             "team1Score": 177,
             "team2Score": 65,
-            "generations": 1754
+            "generations": 1754,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -1810,7 +1908,9 @@
             },
             "team1Score": 151,
             "team2Score": 229,
-            "generations": 2414
+            "generations": 2414,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -1846,7 +1946,9 @@
             },
             "team1Score": 139,
             "team2Score": 135,
-            "generations": 1603
+            "generations": 1603,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -1882,7 +1984,9 @@
             },
             "team1Score": 81,
             "team2Score": 25,
-            "generations": 1304
+            "generations": 1304,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Loomis Postals",
@@ -1918,7 +2022,9 @@
             },
             "team1Score": 24,
             "team2Score": 224,
-            "generations": 1702
+            "generations": 1702,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -1954,7 +2060,9 @@
             },
             "team1Score": 170,
             "team2Score": 183,
-            "generations": 1371
+            "generations": 1371,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -1990,7 +2098,9 @@
             },
             "team1Score": 187,
             "team2Score": 34,
-            "generations": 1471
+            "generations": 1471,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -2026,7 +2136,9 @@
             },
             "team1Score": 164,
             "team2Score": 94,
-            "generations": 3259
+            "generations": 3259,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -2064,7 +2176,9 @@
             },
             "team1Score": 171,
             "team2Score": 90,
-            "generations": 1920
+            "generations": 1920,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -2100,7 +2214,9 @@
             },
             "team1Score": 265,
             "team2Score": 0,
-            "generations": 1484
+            "generations": 1484,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Eminence Tears",
@@ -2136,7 +2252,9 @@
             },
             "team1Score": 156,
             "team2Score": 3,
-            "generations": 1002
+            "generations": 1002,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -2172,7 +2290,9 @@
             },
             "team1Score": 80,
             "team2Score": 62,
-            "generations": 1256
+            "generations": 1256,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -2208,7 +2328,9 @@
             },
             "team1Score": 96,
             "team2Score": 128,
-            "generations": 1122
+            "generations": 1122,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -2244,7 +2366,9 @@
             },
             "team1Score": 231,
             "team2Score": 123,
-            "generations": 2519
+            "generations": 2519,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -2280,7 +2404,9 @@
             },
             "team1Score": 285,
             "team2Score": 82,
-            "generations": 2632
+            "generations": 2632,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -2316,7 +2442,9 @@
             },
             "team1Score": 181,
             "team2Score": 33,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -2354,7 +2482,9 @@
             },
             "team1Score": 102,
             "team2Score": 34,
-            "generations": 1073
+            "generations": 1073,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -2390,7 +2520,9 @@
             },
             "team1Score": 210,
             "team2Score": 85,
-            "generations": 2666
+            "generations": 2666,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -2426,7 +2558,9 @@
             },
             "team1Score": 106,
             "team2Score": 75,
-            "generations": 1000
+            "generations": 1000,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -2462,7 +2596,9 @@
             },
             "team1Score": 66,
             "team2Score": 56,
-            "generations": 1224
+            "generations": 1224,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -2498,7 +2634,9 @@
             },
             "team1Score": 234,
             "team2Score": 135,
-            "generations": 2393
+            "generations": 2393,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -2534,7 +2672,9 @@
             },
             "team1Score": 143,
             "team2Score": 18,
-            "generations": 2239
+            "generations": 2239,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -2570,7 +2710,9 @@
             },
             "team1Score": 136,
             "team2Score": 52,
-            "generations": 2140
+            "generations": 2140,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Loomis Postals",
@@ -2606,7 +2748,9 @@
             },
             "team1Score": 135,
             "team2Score": 179,
-            "generations": 4617
+            "generations": 4617,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -2644,7 +2788,9 @@
             },
             "team1Score": 45,
             "team2Score": 79,
-            "generations": 1141
+            "generations": 1141,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -2680,7 +2826,9 @@
             },
             "team1Score": 84,
             "team2Score": 67,
-            "generations": 1251
+            "generations": 1251,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -2716,7 +2864,9 @@
             },
             "team1Score": 127,
             "team2Score": 3,
-            "generations": 1515
+            "generations": 1515,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Eminence Tears",
@@ -2752,7 +2902,9 @@
             },
             "team1Score": 44,
             "team2Score": 240,
-            "generations": 2565
+            "generations": 2565,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -2788,7 +2940,9 @@
             },
             "team1Score": 57,
             "team2Score": 207,
-            "generations": 2065
+            "generations": 2065,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -2824,7 +2978,9 @@
             },
             "team1Score": 239,
             "team2Score": 32,
-            "generations": 2103
+            "generations": 2103,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -2860,7 +3016,9 @@
             },
             "team1Score": 170,
             "team2Score": 89,
-            "generations": 2378
+            "generations": 2378,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -2896,7 +3054,9 @@
             },
             "team1Score": 85,
             "team2Score": 36,
-            "generations": 1270
+            "generations": 1270,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -2934,7 +3094,9 @@
             },
             "team1Score": 162,
             "team2Score": 134,
-            "generations": 1561
+            "generations": 1561,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -2970,7 +3132,9 @@
             },
             "team1Score": 11,
             "team2Score": 58,
-            "generations": 1267
+            "generations": 1267,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -3006,7 +3170,9 @@
             },
             "team1Score": 107,
             "team2Score": 19,
-            "generations": 1407
+            "generations": 1407,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -3042,7 +3208,9 @@
             },
             "team1Score": 26,
             "team2Score": 194,
-            "generations": 2202
+            "generations": 2202,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -3078,7 +3246,9 @@
             },
             "team1Score": 182,
             "team2Score": 130,
-            "generations": 2478
+            "generations": 2478,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -3114,7 +3284,9 @@
             },
             "team1Score": 73,
             "team2Score": 96,
-            "generations": 1110
+            "generations": 1110,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -3150,7 +3322,9 @@
             },
             "team1Score": 242,
             "team2Score": 170,
-            "generations": 2359
+            "generations": 2359,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Loomis Postals",
@@ -3186,7 +3360,9 @@
             },
             "team1Score": 7,
             "team2Score": 252,
-            "generations": 4711
+            "generations": 4711,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -3224,7 +3400,9 @@
             },
             "team1Score": 10,
             "team2Score": 133,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -3260,7 +3438,9 @@
             },
             "team1Score": 162,
             "team2Score": 91,
-            "generations": 2875
+            "generations": 2875,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Eminence Tears",
@@ -3296,7 +3476,9 @@
             },
             "team1Score": 158,
             "team2Score": 139,
-            "generations": 3189
+            "generations": 3189,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -3332,7 +3514,9 @@
             },
             "team1Score": 64,
             "team2Score": 87,
-            "generations": 1322
+            "generations": 1322,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -3368,7 +3552,9 @@
             },
             "team1Score": 75,
             "team2Score": 194,
-            "generations": 1133
+            "generations": 1133,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -3404,7 +3590,9 @@
             },
             "team1Score": 105,
             "team2Score": 201,
-            "generations": 2481
+            "generations": 2481,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -3440,7 +3628,9 @@
             },
             "team1Score": 309,
             "team2Score": 60,
-            "generations": 1392
+            "generations": 1392,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -3476,7 +3666,9 @@
             },
             "team1Score": 95,
             "team2Score": 289,
-            "generations": 3024
+            "generations": 3024,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -3514,7 +3706,9 @@
             },
             "team1Score": 238,
             "team2Score": 19,
-            "generations": 2348
+            "generations": 2348,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -3550,7 +3744,9 @@
             },
             "team1Score": 143,
             "team2Score": 21,
-            "generations": 2154
+            "generations": 2154,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -3586,7 +3782,9 @@
             },
             "team1Score": 169,
             "team2Score": 76,
-            "generations": 1882
+            "generations": 1882,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -3622,7 +3820,9 @@
             },
             "team1Score": 35,
             "team2Score": 206,
-            "generations": 1112
+            "generations": 1112,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Loomis Postals",
@@ -3658,7 +3858,9 @@
             },
             "team1Score": 51,
             "team2Score": 174,
-            "generations": 2539
+            "generations": 2539,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -3694,7 +3896,9 @@
             },
             "team1Score": 93,
             "team2Score": 237,
-            "generations": 1695
+            "generations": 1695,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -3730,7 +3934,9 @@
             },
             "team1Score": 110,
             "team2Score": 51,
-            "generations": 1231
+            "generations": 1231,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -3766,7 +3972,9 @@
             },
             "team1Score": 193,
             "team2Score": 103,
-            "generations": 1537
+            "generations": 1537,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -3804,7 +4012,9 @@
             },
             "team1Score": 67,
             "team2Score": 120,
-            "generations": 1686
+            "generations": 1686,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -3840,7 +4050,9 @@
             },
             "team1Score": 75,
             "team2Score": 275,
-            "generations": 2910
+            "generations": 2910,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -3876,7 +4088,9 @@
             },
             "team1Score": 154,
             "team2Score": 239,
-            "generations": 1981
+            "generations": 1981,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -3912,7 +4126,9 @@
             },
             "team1Score": 119,
             "team2Score": 232,
-            "generations": 1767
+            "generations": 1767,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -3948,7 +4164,9 @@
             },
             "team1Score": 254,
             "team2Score": 159,
-            "generations": 1907
+            "generations": 1907,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -3984,7 +4202,9 @@
             },
             "team1Score": 139,
             "team2Score": 136,
-            "generations": 2051
+            "generations": 2051,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -4020,7 +4240,9 @@
             },
             "team1Score": 86,
             "team2Score": 187,
-            "generations": 2513
+            "generations": 2513,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -4056,7 +4278,9 @@
             },
             "team1Score": 69,
             "team2Score": 48,
-            "generations": 1046
+            "generations": 1046,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -4094,7 +4318,9 @@
             },
             "team1Score": 175,
             "team2Score": 185,
-            "generations": 1210
+            "generations": 1210,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -4130,7 +4356,9 @@
             },
             "team1Score": 119,
             "team2Score": 164,
-            "generations": 1779
+            "generations": 1779,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -4166,7 +4394,9 @@
             },
             "team1Score": 149,
             "team2Score": 121,
-            "generations": 3628
+            "generations": 3628,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -4202,7 +4432,9 @@
             },
             "team1Score": 171,
             "team2Score": 160,
-            "generations": 3241
+            "generations": 3241,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Loomis Postals",
@@ -4238,7 +4470,9 @@
             },
             "team1Score": 135,
             "team2Score": 92,
-            "generations": 1401
+            "generations": 1401,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -4274,7 +4508,9 @@
             },
             "team1Score": 189,
             "team2Score": 18,
-            "generations": 1592
+            "generations": 1592,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -4310,7 +4546,9 @@
             },
             "team1Score": 214,
             "team2Score": 27,
-            "generations": 1833
+            "generations": 1833,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -4346,7 +4584,9 @@
             },
             "team1Score": 130,
             "team2Score": 249,
-            "generations": 1165
+            "generations": 1165,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -4384,7 +4624,9 @@
             },
             "team1Score": 161,
             "team2Score": 139,
-            "generations": 3105
+            "generations": 3105,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -4420,7 +4662,9 @@
             },
             "team1Score": 115,
             "team2Score": 35,
-            "generations": 1394
+            "generations": 1394,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Eminence Tears",
@@ -4456,7 +4700,9 @@
             },
             "team1Score": 104,
             "team2Score": 90,
-            "generations": 2239
+            "generations": 2239,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -4492,7 +4738,9 @@
             },
             "team1Score": 0,
             "team2Score": 430,
-            "generations": 3213
+            "generations": 3213,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -4528,7 +4776,9 @@
             },
             "team1Score": 82,
             "team2Score": 120,
-            "generations": 1345
+            "generations": 1345,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -4564,7 +4814,9 @@
             },
             "team1Score": 81,
             "team2Score": 121,
-            "generations": 1967
+            "generations": 1967,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -4600,7 +4852,9 @@
             },
             "team1Score": 306,
             "team2Score": 13,
-            "generations": 2437
+            "generations": 2437,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -4636,7 +4890,9 @@
             },
             "team1Score": 98,
             "team2Score": 135,
-            "generations": 1840
+            "generations": 1840,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -4674,7 +4930,9 @@
             },
             "team1Score": 58,
             "team2Score": 153,
-            "generations": 1156
+            "generations": 1156,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -4710,7 +4968,9 @@
             },
             "team1Score": 134,
             "team2Score": 120,
-            "generations": 2152
+            "generations": 2152,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -4746,7 +5006,9 @@
             },
             "team1Score": 45,
             "team2Score": 76,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -4782,7 +5044,9 @@
             },
             "team1Score": 152,
             "team2Score": 112,
-            "generations": 1879
+            "generations": 1879,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -4818,7 +5082,9 @@
             },
             "team1Score": 221,
             "team2Score": 102,
-            "generations": 2380
+            "generations": 2380,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -4854,7 +5120,9 @@
             },
             "team1Score": 139,
             "team2Score": 113,
-            "generations": 3402
+            "generations": 3402,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Loomis Postals",
@@ -4890,7 +5158,9 @@
             },
             "team1Score": 270,
             "team2Score": 138,
-            "generations": 1407
+            "generations": 1407,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -4926,7 +5196,9 @@
             },
             "team1Score": 133,
             "team2Score": 73,
-            "generations": 1427
+            "generations": 1427,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -4964,7 +5236,9 @@
             },
             "team1Score": 104,
             "team2Score": 55,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -5000,7 +5274,9 @@
             },
             "team1Score": 27,
             "team2Score": 189,
-            "generations": 1441
+            "generations": 1441,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -5036,7 +5312,9 @@
             },
             "team1Score": 146,
             "team2Score": 70,
-            "generations": 2419
+            "generations": 2419,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Eminence Tears",
@@ -5072,7 +5350,9 @@
             },
             "team1Score": 191,
             "team2Score": 97,
-            "generations": 2244
+            "generations": 2244,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -5108,7 +5388,9 @@
             },
             "team1Score": 123,
             "team2Score": 121,
-            "generations": 1890
+            "generations": 1890,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -5144,7 +5426,9 @@
             },
             "team1Score": 74,
             "team2Score": 217,
-            "generations": 1768
+            "generations": 1768,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -5180,7 +5464,9 @@
             },
             "team1Score": 46,
             "team2Score": 189,
-            "generations": 2051
+            "generations": 2051,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -5216,7 +5502,9 @@
             },
             "team1Score": 14,
             "team2Score": 270,
-            "generations": 2667
+            "generations": 2667,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -5254,7 +5542,9 @@
             },
             "team1Score": 76,
             "team2Score": 170,
-            "generations": 1835
+            "generations": 1835,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -5290,7 +5580,9 @@
             },
             "team1Score": 23,
             "team2Score": 151,
-            "generations": 2820
+            "generations": 2820,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -5326,7 +5618,9 @@
             },
             "team1Score": 242,
             "team2Score": 55,
-            "generations": 2378
+            "generations": 2378,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -5362,7 +5656,9 @@
             },
             "team1Score": 151,
             "team2Score": 52,
-            "generations": 1012
+            "generations": 1012,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -5398,7 +5694,9 @@
             },
             "team1Score": 80,
             "team2Score": 202,
-            "generations": 1560
+            "generations": 1560,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Loomis Postals",
@@ -5434,7 +5732,9 @@
             },
             "team1Score": 135,
             "team2Score": 87,
-            "generations": 1620
+            "generations": 1620,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -5470,7 +5770,9 @@
             },
             "team1Score": 76,
             "team2Score": 126,
-            "generations": 1048
+            "generations": 1048,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -5506,7 +5808,9 @@
             },
             "team1Score": 245,
             "team2Score": 128,
-            "generations": 1446
+            "generations": 1446,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -5544,7 +5848,9 @@
             },
             "team1Score": 127,
             "team2Score": 201,
-            "generations": 1482
+            "generations": 1482,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Eminence Tears",
@@ -5580,7 +5886,9 @@
             },
             "team1Score": 170,
             "team2Score": 121,
-            "generations": 2879
+            "generations": 2879,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -5616,7 +5924,9 @@
             },
             "team1Score": 157,
             "team2Score": 219,
-            "generations": 1872
+            "generations": 1872,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -5652,7 +5962,9 @@
             },
             "team1Score": 115,
             "team2Score": 54,
-            "generations": 1346
+            "generations": 1346,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -5688,7 +6000,9 @@
             },
             "team1Score": 176,
             "team2Score": 106,
-            "generations": 1100
+            "generations": 1100,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -5724,7 +6038,9 @@
             },
             "team1Score": 192,
             "team2Score": 34,
-            "generations": 3056
+            "generations": 3056,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -5760,7 +6076,9 @@
             },
             "team1Score": 111,
             "team2Score": 177,
-            "generations": 2379
+            "generations": 2379,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -5796,7 +6114,9 @@
             },
             "team1Score": 149,
             "team2Score": 128,
-            "generations": 1850
+            "generations": 1850,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5834,7 +6154,9 @@
             },
             "team1Score": 78,
             "team2Score": 179,
-            "generations": 3027
+            "generations": 3027,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -5870,7 +6192,9 @@
             },
             "team1Score": 124,
             "team2Score": 137,
-            "generations": 2219
+            "generations": 2219,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -5906,7 +6230,9 @@
             },
             "team1Score": 103,
             "team2Score": 214,
-            "generations": 1919
+            "generations": 1919,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -5942,7 +6268,9 @@
             },
             "team1Score": 128,
             "team2Score": 24,
-            "generations": 1191
+            "generations": 1191,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -5978,7 +6306,9 @@
             },
             "team1Score": 249,
             "team2Score": 111,
-            "generations": 4422
+            "generations": 4422,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -6014,7 +6344,9 @@
             },
             "team1Score": 74,
             "team2Score": 157,
-            "generations": 2621
+            "generations": 2621,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Loomis Postals",
@@ -6050,7 +6382,9 @@
             },
             "team1Score": 196,
             "team2Score": 151,
-            "generations": 1750
+            "generations": 1750,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -6086,7 +6420,9 @@
             },
             "team1Score": 150,
             "team2Score": 19,
-            "generations": 1234
+            "generations": 1234,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -6124,7 +6460,9 @@
             },
             "team1Score": 107,
             "team2Score": 64,
-            "generations": 1158
+            "generations": 1158,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Eminence Tears",
@@ -6160,7 +6498,9 @@
             },
             "team1Score": 122,
             "team2Score": 121,
-            "generations": 2947
+            "generations": 2947,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -6196,7 +6536,9 @@
             },
             "team1Score": 126,
             "team2Score": 260,
-            "generations": 2469
+            "generations": 2469,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -6232,7 +6574,9 @@
             },
             "team1Score": 116,
             "team2Score": 161,
-            "generations": 1920
+            "generations": 1920,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -6268,7 +6612,9 @@
             },
             "team1Score": 182,
             "team2Score": 52,
-            "generations": 1462
+            "generations": 1462,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -6304,7 +6650,9 @@
             },
             "team1Score": 5,
             "team2Score": 176,
-            "generations": 1027
+            "generations": 1027,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -6340,7 +6688,9 @@
             },
             "team1Score": 184,
             "team2Score": 73,
-            "generations": 1103
+            "generations": 1103,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -6376,7 +6726,9 @@
             },
             "team1Score": 134,
             "team2Score": 35,
-            "generations": 1574
+            "generations": 1574,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -6414,7 +6766,9 @@
             },
             "team1Score": 26,
             "team2Score": 135,
-            "generations": 1273
+            "generations": 1273,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -6450,7 +6804,9 @@
             },
             "team1Score": 194,
             "team2Score": 18,
-            "generations": 2704
+            "generations": 2704,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -6486,7 +6842,9 @@
             },
             "team1Score": 179,
             "team2Score": 55,
-            "generations": 1976
+            "generations": 1976,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -6522,7 +6880,9 @@
             },
             "team1Score": 112,
             "team2Score": 80,
-            "generations": 1993
+            "generations": 1993,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Loomis Postals",
@@ -6558,7 +6918,9 @@
             },
             "team1Score": 162,
             "team2Score": 44,
-            "generations": 1980
+            "generations": 1980,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -6594,7 +6956,9 @@
             },
             "team1Score": 287,
             "team2Score": 77,
-            "generations": 1950
+            "generations": 1950,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -6630,7 +6994,9 @@
             },
             "team1Score": 111,
             "team2Score": 177,
-            "generations": 2379
+            "generations": 2379,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -6666,7 +7032,9 @@
             },
             "team1Score": 143,
             "team2Score": 113,
-            "generations": 1642
+            "generations": 1642,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -6704,7 +7072,9 @@
             },
             "team1Score": 230,
             "team2Score": 78,
-            "generations": 1727
+            "generations": 1727,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -6740,7 +7110,9 @@
             },
             "team1Score": 131,
             "team2Score": 192,
-            "generations": 2404
+            "generations": 2404,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -6776,7 +7148,9 @@
             },
             "team1Score": 123,
             "team2Score": 73,
-            "generations": 1211
+            "generations": 1211,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Eminence Tears",
@@ -6812,7 +7186,9 @@
             },
             "team1Score": 172,
             "team2Score": 95,
-            "generations": 2301
+            "generations": 2301,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -6848,7 +7224,9 @@
             },
             "team1Score": 160,
             "team2Score": 103,
-            "generations": 1805
+            "generations": 1805,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -6884,7 +7262,9 @@
             },
             "team1Score": 50,
             "team2Score": 337,
-            "generations": 3044
+            "generations": 3044,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -6920,7 +7300,9 @@
             },
             "team1Score": 112,
             "team2Score": 74,
-            "generations": 1625
+            "generations": 1625,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -6956,7 +7338,9 @@
             },
             "team1Score": 91,
             "team2Score": 41,
-            "generations": 1061
+            "generations": 1061,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -6994,7 +7378,9 @@
             },
             "team1Score": 105,
             "team2Score": 146,
-            "generations": 1722
+            "generations": 1722,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -7030,7 +7416,9 @@
             },
             "team1Score": 57,
             "team2Score": 236,
-            "generations": 2610
+            "generations": 2610,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -7066,7 +7454,9 @@
             },
             "team1Score": 85,
             "team2Score": 245,
-            "generations": 2130
+            "generations": 2130,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -7102,7 +7492,9 @@
             },
             "team1Score": 163,
             "team2Score": 78,
-            "generations": 2206
+            "generations": 2206,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -7138,7 +7530,9 @@
             },
             "team1Score": 151,
             "team2Score": 130,
-            "generations": 4025
+            "generations": 4025,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -7174,7 +7568,9 @@
             },
             "team1Score": 30,
             "team2Score": 207,
-            "generations": 1769
+            "generations": 1769,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -7210,7 +7606,9 @@
             },
             "team1Score": 71,
             "team2Score": 114,
-            "generations": 1233
+            "generations": 1233,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Loomis Postals",
@@ -7246,7 +7644,9 @@
             },
             "team1Score": 82,
             "team2Score": 228,
-            "generations": 1695
+            "generations": 1695,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -7284,7 +7684,9 @@
             },
             "team1Score": 124,
             "team2Score": 243,
-            "generations": 1845
+            "generations": 1845,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -7320,7 +7722,9 @@
             },
             "team1Score": 252,
             "team2Score": 82,
-            "generations": 1340
+            "generations": 1340,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Eminence Tears",
@@ -7356,7 +7760,9 @@
             },
             "team1Score": 127,
             "team2Score": 119,
-            "generations": 1431
+            "generations": 1431,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -7392,7 +7798,9 @@
             },
             "team1Score": 26,
             "team2Score": 317,
-            "generations": 2484
+            "generations": 2484,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -7428,7 +7836,9 @@
             },
             "team1Score": 66,
             "team2Score": 78,
-            "generations": 2178
+            "generations": 2178,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -7464,7 +7874,9 @@
             },
             "team1Score": 70,
             "team2Score": 125,
-            "generations": 1760
+            "generations": 1760,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -7500,7 +7912,9 @@
             },
             "team1Score": 73,
             "team2Score": 144,
-            "generations": 1679
+            "generations": 1679,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -7536,7 +7950,9 @@
             },
             "team1Score": 94,
             "team2Score": 149,
-            "generations": 1364
+            "generations": 1364,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -7574,7 +7990,9 @@
             },
             "team1Score": 7,
             "team2Score": 68,
-            "generations": 1039
+            "generations": 1039,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -7610,7 +8028,9 @@
             },
             "team1Score": 81,
             "team2Score": 84,
-            "generations": 1982
+            "generations": 1982,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -7646,7 +8066,9 @@
             },
             "team1Score": 94,
             "team2Score": 124,
-            "generations": 1408
+            "generations": 1408,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -7682,7 +8104,9 @@
             },
             "team1Score": 113,
             "team2Score": 114,
-            "generations": 1509
+            "generations": 1509,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -7718,7 +8142,9 @@
             },
             "team1Score": 156,
             "team2Score": 60,
-            "generations": 1766
+            "generations": 1766,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -7754,7 +8180,9 @@
             },
             "team1Score": 88,
             "team2Score": 112,
-            "generations": 2247
+            "generations": 2247,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Loomis Postals",
@@ -7790,7 +8218,9 @@
             },
             "team1Score": 135,
             "team2Score": 207,
-            "generations": 1190
+            "generations": 1190,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -7826,7 +8256,9 @@
             },
             "team1Score": 18,
             "team2Score": 310,
-            "generations": 3580
+            "generations": 3580,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -7864,7 +8296,9 @@
             },
             "team1Score": 126,
             "team2Score": 115,
-            "generations": 1570
+            "generations": 1570,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -7900,7 +8334,9 @@
             },
             "team1Score": 109,
             "team2Score": 133,
-            "generations": 1537
+            "generations": 1537,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -7936,7 +8372,9 @@
             },
             "team1Score": 183,
             "team2Score": 56,
-            "generations": 2083
+            "generations": 2083,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -7972,7 +8410,9 @@
             },
             "team1Score": 179,
             "team2Score": 75,
-            "generations": 2688
+            "generations": 2688,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -8008,7 +8448,9 @@
             },
             "team1Score": 103,
             "team2Score": 232,
-            "generations": 1996
+            "generations": 1996,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -8044,7 +8486,9 @@
             },
             "team1Score": 77,
             "team2Score": 255,
-            "generations": 1517
+            "generations": 1517,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -8080,7 +8524,9 @@
             },
             "team1Score": 234,
             "team2Score": 52,
-            "generations": 2642
+            "generations": 2642,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -8116,7 +8562,9 @@
             },
             "team1Score": 155,
             "team2Score": 169,
-            "generations": 1463
+            "generations": 1463,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -8154,7 +8602,9 @@
             },
             "team1Score": 141,
             "team2Score": 103,
-            "generations": 1534
+            "generations": 1534,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -8190,7 +8640,9 @@
             },
             "team1Score": 155,
             "team2Score": 73,
-            "generations": 999
+            "generations": 999,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Eminence Tears",
@@ -8226,7 +8678,9 @@
             },
             "team1Score": 130,
             "team2Score": 225,
-            "generations": 2136
+            "generations": 2136,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -8262,7 +8716,9 @@
             },
             "team1Score": 78,
             "team2Score": 110,
-            "generations": 1017
+            "generations": 1017,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Loomis Postals",
@@ -8298,7 +8754,9 @@
             },
             "team1Score": 136,
             "team2Score": 58,
-            "generations": 2937
+            "generations": 2937,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -8334,7 +8792,9 @@
             },
             "team1Score": 126,
             "team2Score": 26,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -8370,7 +8830,9 @@
             },
             "team1Score": 235,
             "team2Score": 17,
-            "generations": 1042
+            "generations": 1042,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -8406,7 +8868,9 @@
             },
             "team1Score": 115,
             "team2Score": 190,
-            "generations": 1099
+            "generations": 1099,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -8444,7 +8908,9 @@
             },
             "team1Score": 6,
             "team2Score": 143,
-            "generations": 2546
+            "generations": 2546,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -8480,7 +8946,9 @@
             },
             "team1Score": 49,
             "team2Score": 222,
-            "generations": 1910
+            "generations": 1910,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -8516,7 +8984,9 @@
             },
             "team1Score": 60,
             "team2Score": 145,
-            "generations": 1901
+            "generations": 1901,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -8552,7 +9022,9 @@
             },
             "team1Score": 31,
             "team2Score": 142,
-            "generations": 1506
+            "generations": 1506,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -8588,7 +9060,9 @@
             },
             "team1Score": 121,
             "team2Score": 21,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -8624,7 +9098,9 @@
             },
             "team1Score": 20,
             "team2Score": 271,
-            "generations": 3078
+            "generations": 3078,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -8660,7 +9136,9 @@
             },
             "team1Score": 122,
             "team2Score": 145,
-            "generations": 1936
+            "generations": 1936,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -8696,7 +9174,9 @@
             },
             "team1Score": 509,
             "team2Score": 0,
-            "generations": 1778
+            "generations": 1778,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -8734,7 +9214,9 @@
             },
             "team1Score": 224,
             "team2Score": 103,
-            "generations": 1791
+            "generations": 1791,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -8770,7 +9252,9 @@
             },
             "team1Score": 14,
             "team2Score": 181,
-            "generations": 1375
+            "generations": 1375,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -8806,7 +9290,9 @@
             },
             "team1Score": 147,
             "team2Score": 97,
-            "generations": 1638
+            "generations": 1638,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Eminence Tears",
@@ -8842,7 +9328,9 @@
             },
             "team1Score": 6,
             "team2Score": 229,
-            "generations": 1149
+            "generations": 1149,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -8878,7 +9366,9 @@
             },
             "team1Score": 80,
             "team2Score": 97,
-            "generations": 1091
+            "generations": 1091,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -8914,7 +9404,9 @@
             },
             "team1Score": 38,
             "team2Score": 264,
-            "generations": 1977
+            "generations": 1977,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -8950,7 +9442,9 @@
             },
             "team1Score": 108,
             "team2Score": 118,
-            "generations": 1043
+            "generations": 1043,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -8986,7 +9480,9 @@
             },
             "team1Score": 80,
             "team2Score": 134,
-            "generations": 1340
+            "generations": 1340,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9024,7 +9520,9 @@
             },
             "team1Score": 71,
             "team2Score": 227,
-            "generations": 2376
+            "generations": 2376,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -9060,7 +9558,9 @@
             },
             "team1Score": 207,
             "team2Score": 80,
-            "generations": 1234
+            "generations": 1234,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -9096,7 +9596,9 @@
             },
             "team1Score": 49,
             "team2Score": 112,
-            "generations": 1198
+            "generations": 1198,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -9132,7 +9634,9 @@
             },
             "team1Score": 92,
             "team2Score": 46,
-            "generations": 1026
+            "generations": 1026,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -9168,7 +9672,9 @@
             },
             "team1Score": 246,
             "team2Score": 42,
-            "generations": 3314
+            "generations": 3314,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Loomis Postals",
@@ -9204,7 +9710,9 @@
             },
             "team1Score": 50,
             "team2Score": 133,
-            "generations": 1011
+            "generations": 1011,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -9240,7 +9748,9 @@
             },
             "team1Score": 89,
             "team2Score": 125,
-            "generations": 1670
+            "generations": 1670,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -9276,7 +9786,9 @@
             },
             "team1Score": 185,
             "team2Score": 87,
-            "generations": 2552
+            "generations": 2552,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -9314,7 +9826,9 @@
             },
             "team1Score": 22,
             "team2Score": 258,
-            "generations": 1822
+            "generations": 1822,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -9350,7 +9864,9 @@
             },
             "team1Score": 119,
             "team2Score": 136,
-            "generations": 2103
+            "generations": 2103,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -9386,7 +9902,9 @@
             },
             "team1Score": 154,
             "team2Score": 43,
-            "generations": 2318
+            "generations": 2318,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -9422,7 +9940,9 @@
             },
             "team1Score": 134,
             "team2Score": 59,
-            "generations": 1425
+            "generations": 1425,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -9458,7 +9978,9 @@
             },
             "team1Score": 100,
             "team2Score": 207,
-            "generations": 1616
+            "generations": 1616,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Loomis Postals",
@@ -9494,7 +10016,9 @@
             },
             "team1Score": 245,
             "team2Score": 140,
-            "generations": 2718
+            "generations": 2718,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -9530,7 +10054,9 @@
             },
             "team1Score": 115,
             "team2Score": 189,
-            "generations": 3486
+            "generations": 3486,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -9566,7 +10092,9 @@
             },
             "team1Score": 60,
             "team2Score": 104,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -9604,7 +10132,9 @@
             },
             "team1Score": 138,
             "team2Score": 137,
-            "generations": 2805
+            "generations": 2805,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -9640,7 +10170,9 @@
             },
             "team1Score": 114,
             "team2Score": 96,
-            "generations": 2047
+            "generations": 2047,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -9676,7 +10208,9 @@
             },
             "team1Score": 57,
             "team2Score": 104,
-            "generations": 1480
+            "generations": 1480,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Eminence Tears",
@@ -9712,7 +10246,9 @@
             },
             "team1Score": 139,
             "team2Score": 159,
-            "generations": 2838
+            "generations": 2838,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -9748,7 +10284,9 @@
             },
             "team1Score": 240,
             "team2Score": 65,
-            "generations": 1298
+            "generations": 1298,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -9784,7 +10322,9 @@
             },
             "team1Score": 104,
             "team2Score": 106,
-            "generations": 1317
+            "generations": 1317,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -9820,7 +10360,9 @@
             },
             "team1Score": 124,
             "team2Score": 106,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -9856,7 +10398,9 @@
             },
             "team1Score": 27,
             "team2Score": 157,
-            "generations": 1203
+            "generations": 1203,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9894,7 +10438,9 @@
             },
             "team1Score": 106,
             "team2Score": 103,
-            "generations": 1211
+            "generations": 1211,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -9930,7 +10476,9 @@
             },
             "team1Score": 138,
             "team2Score": 75,
-            "generations": 1317
+            "generations": 1317,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -9966,7 +10514,9 @@
             },
             "team1Score": 76,
             "team2Score": 13,
-            "generations": 1075
+            "generations": 1075,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -10002,7 +10552,9 @@
             },
             "team1Score": 96,
             "team2Score": 261,
-            "generations": 2876
+            "generations": 2876,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -10038,7 +10590,9 @@
             },
             "team1Score": 245,
             "team2Score": 102,
-            "generations": 3873
+            "generations": 3873,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -10074,7 +10628,9 @@
             },
             "team1Score": 230,
             "team2Score": 69,
-            "generations": 2476
+            "generations": 2476,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -10110,7 +10666,9 @@
             },
             "team1Score": 112,
             "team2Score": 258,
-            "generations": 1524
+            "generations": 1524,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -10146,7 +10704,9 @@
             },
             "team1Score": 144,
             "team2Score": 117,
-            "generations": 1834
+            "generations": 1834,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -10184,7 +10744,9 @@
             },
             "team1Score": 39,
             "team2Score": 166,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -10220,7 +10782,9 @@
             },
             "team1Score": 157,
             "team2Score": 64,
-            "generations": 3127
+            "generations": 3127,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -10256,7 +10820,9 @@
             },
             "team1Score": 238,
             "team2Score": 111,
-            "generations": 2468
+            "generations": 2468,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Eminence Tears",
@@ -10292,7 +10858,9 @@
             },
             "team1Score": 105,
             "team2Score": 115,
-            "generations": 1209
+            "generations": 1209,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -10328,7 +10896,9 @@
             },
             "team1Score": 80,
             "team2Score": 92,
-            "generations": 1338
+            "generations": 1338,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Loomis Postals",
@@ -10364,7 +10934,9 @@
             },
             "team1Score": 73,
             "team2Score": 292,
-            "generations": 1551
+            "generations": 1551,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -10400,7 +10972,9 @@
             },
             "team1Score": 0,
             "team2Score": 505,
-            "generations": 2750
+            "generations": 2750,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -10436,7 +11010,9 @@
             },
             "team1Score": 277,
             "team2Score": 11,
-            "generations": 3274
+            "generations": 3274,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -10474,7 +11050,9 @@
             },
             "team1Score": 183,
             "team2Score": 160,
-            "generations": 1199
+            "generations": 1199,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -10510,7 +11088,9 @@
             },
             "team1Score": 213,
             "team2Score": 112,
-            "generations": 1857
+            "generations": 1857,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -10546,7 +11126,9 @@
             },
             "team1Score": 167,
             "team2Score": 66,
-            "generations": 1539
+            "generations": 1539,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -10582,7 +11164,9 @@
             },
             "team1Score": 128,
             "team2Score": 10,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -10618,7 +11202,9 @@
             },
             "team1Score": 33,
             "team2Score": 235,
-            "generations": 3890
+            "generations": 3890,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -10654,7 +11240,9 @@
             },
             "team1Score": 162,
             "team2Score": 110,
-            "generations": 1115
+            "generations": 1115,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -10690,7 +11278,9 @@
             },
             "team1Score": 55,
             "team2Score": 147,
-            "generations": 1577
+            "generations": 1577,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -10726,7 +11316,9 @@
             },
             "team1Score": 124,
             "team2Score": 187,
-            "generations": 1863
+            "generations": 1863,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -10764,7 +11356,9 @@
             },
             "team1Score": 96,
             "team2Score": 209,
-            "generations": 2002
+            "generations": 2002,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -10800,7 +11394,9 @@
             },
             "team1Score": 161,
             "team2Score": 135,
-            "generations": 1241
+            "generations": 1241,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -10836,7 +11432,9 @@
             },
             "team1Score": 90,
             "team2Score": 73,
-            "generations": 1241
+            "generations": 1241,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Eminence Tears",
@@ -10872,7 +11470,9 @@
             },
             "team1Score": 150,
             "team2Score": 93,
-            "generations": 1619
+            "generations": 1619,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -10908,7 +11508,9 @@
             },
             "team1Score": 204,
             "team2Score": 7,
-            "generations": 3021
+            "generations": 3021,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Loomis Postals",
@@ -10944,7 +11546,9 @@
             },
             "team1Score": 133,
             "team2Score": 125,
-            "generations": 1870
+            "generations": 1870,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -10980,7 +11584,9 @@
             },
             "team1Score": 80,
             "team2Score": 130,
-            "generations": 1593
+            "generations": 1593,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -11016,7 +11622,9 @@
             },
             "team1Score": 228,
             "team2Score": 107,
-            "generations": 1606
+            "generations": 1606,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -11054,7 +11662,9 @@
             },
             "team1Score": 147,
             "team2Score": 33,
-            "generations": 1271
+            "generations": 1271,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -11090,7 +11700,9 @@
             },
             "team1Score": 58,
             "team2Score": 227,
-            "generations": 1631
+            "generations": 1631,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -11126,7 +11738,9 @@
             },
             "team1Score": 137,
             "team2Score": 98,
-            "generations": 2796
+            "generations": 2796,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -11162,7 +11776,9 @@
             },
             "team1Score": 182,
             "team2Score": 77,
-            "generations": 2196
+            "generations": 2196,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -11198,7 +11814,9 @@
             },
             "team1Score": 113,
             "team2Score": 205,
-            "generations": 1668
+            "generations": 1668,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -11234,7 +11852,9 @@
             },
             "team1Score": 124,
             "team2Score": 154,
-            "generations": 2547
+            "generations": 2547,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -11270,7 +11890,9 @@
             },
             "team1Score": 38,
             "team2Score": 127,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -11306,7 +11928,9 @@
             },
             "team1Score": 128,
             "team2Score": 230,
-            "generations": 1634
+            "generations": 1634,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -11344,7 +11968,9 @@
             },
             "team1Score": 138,
             "team2Score": 57,
-            "generations": 1353
+            "generations": 1353,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -11380,7 +12006,9 @@
             },
             "team1Score": 137,
             "team2Score": 185,
-            "generations": 1395
+            "generations": 1395,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -11416,7 +12044,9 @@
             },
             "team1Score": 6,
             "team2Score": 145,
-            "generations": 1462
+            "generations": 1462,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Eminence Tears",
@@ -11452,7 +12082,9 @@
             },
             "team1Score": 116,
             "team2Score": 172,
-            "generations": 1966
+            "generations": 1966,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Loomis Postals",
@@ -11488,7 +12120,9 @@
             },
             "team1Score": 191,
             "team2Score": 182,
-            "generations": 2488
+            "generations": 2488,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -11524,7 +12158,9 @@
             },
             "team1Score": 209,
             "team2Score": 37,
-            "generations": 2621
+            "generations": 2621,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -11560,7 +12196,9 @@
             },
             "team1Score": 193,
             "team2Score": 150,
-            "generations": 1976
+            "generations": 1976,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -11596,7 +12234,9 @@
             },
             "team1Score": 7,
             "team2Score": 235,
-            "generations": 1764
+            "generations": 1764,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11634,7 +12274,9 @@
             },
             "team1Score": 121,
             "team2Score": 84,
-            "generations": 1095
+            "generations": 1095,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -11670,7 +12312,9 @@
             },
             "team1Score": 116,
             "team2Score": 186,
-            "generations": 2824
+            "generations": 2824,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Eminence Tears",
@@ -11706,7 +12350,9 @@
             },
             "team1Score": 125,
             "team2Score": 103,
-            "generations": 1241
+            "generations": 1241,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -11742,7 +12388,9 @@
             },
             "team1Score": 65,
             "team2Score": 114,
-            "generations": 1262
+            "generations": 1262,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -11778,7 +12426,9 @@
             },
             "team1Score": 154,
             "team2Score": 91,
-            "generations": 1548
+            "generations": 1548,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -11814,7 +12464,9 @@
             },
             "team1Score": 143,
             "team2Score": 135,
-            "generations": 1196
+            "generations": 1196,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -11850,7 +12502,9 @@
             },
             "team1Score": 81,
             "team2Score": 151,
-            "generations": 1372
+            "generations": 1372,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -11886,7 +12540,9 @@
             },
             "team1Score": 266,
             "team2Score": 24,
-            "generations": 2227
+            "generations": 2227,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -11924,7 +12580,9 @@
             },
             "team1Score": 178,
             "team2Score": 95,
-            "generations": 1808
+            "generations": 1808,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -11960,7 +12618,9 @@
             },
             "team1Score": 27,
             "team2Score": 337,
-            "generations": 3238
+            "generations": 3238,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -11996,7 +12656,9 @@
             },
             "team1Score": 57,
             "team2Score": 93,
-            "generations": 1145
+            "generations": 1145,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -12032,7 +12694,9 @@
             },
             "team1Score": 63,
             "team2Score": 206,
-            "generations": 3322
+            "generations": 3322,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Loomis Postals",
@@ -12068,7 +12732,9 @@
             },
             "team1Score": 162,
             "team2Score": 129,
-            "generations": 3169
+            "generations": 3169,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -12104,7 +12770,9 @@
             },
             "team1Score": 205,
             "team2Score": 44,
-            "generations": 3159
+            "generations": 3159,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -12140,7 +12808,9 @@
             },
             "team1Score": 131,
             "team2Score": 109,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -12176,7 +12846,9 @@
             },
             "team1Score": 139,
             "team2Score": 209,
-            "generations": 3076
+            "generations": 3076,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -12214,7 +12886,9 @@
             },
             "team1Score": 95,
             "team2Score": 83,
-            "generations": 1635
+            "generations": 1635,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -12250,7 +12924,9 @@
             },
             "team1Score": 103,
             "team2Score": 132,
-            "generations": 2210
+            "generations": 2210,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -12286,7 +12962,9 @@
             },
             "team1Score": 158,
             "team2Score": 55,
-            "generations": 1504
+            "generations": 1504,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -12322,7 +13000,9 @@
             },
             "team1Score": 90,
             "team2Score": 130,
-            "generations": 1457
+            "generations": 1457,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -12358,7 +13038,9 @@
             },
             "team1Score": 95,
             "team2Score": 315,
-            "generations": 1516
+            "generations": 1516,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Loomis Postals",
@@ -12394,7 +13076,9 @@
             },
             "team1Score": 156,
             "team2Score": 168,
-            "generations": 1614
+            "generations": 1614,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -12430,7 +13114,9 @@
             },
             "team1Score": 4,
             "team2Score": 156,
-            "generations": 2107
+            "generations": 2107,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -12466,7 +13152,9 @@
             },
             "team1Score": 15,
             "team2Score": 71,
-            "generations": 1380
+            "generations": 1380,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -12504,7 +13192,9 @@
             },
             "team1Score": 88,
             "team2Score": 194,
-            "generations": 1337
+            "generations": 1337,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -12540,7 +13230,9 @@
             },
             "team1Score": 78,
             "team2Score": 151,
-            "generations": 2373
+            "generations": 2373,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -12576,7 +13268,9 @@
             },
             "team1Score": 66,
             "team2Score": 68,
-            "generations": 1040
+            "generations": 1040,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Eminence Tears",
@@ -12612,7 +13306,9 @@
             },
             "team1Score": 49,
             "team2Score": 278,
-            "generations": 1817
+            "generations": 1817,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -12648,7 +13344,9 @@
             },
             "team1Score": 103,
             "team2Score": 226,
-            "generations": 1247
+            "generations": 1247,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -12684,7 +13382,9 @@
             },
             "team1Score": 114,
             "team2Score": 89,
-            "generations": 1007
+            "generations": 1007,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -12720,7 +13420,9 @@
             },
             "team1Score": 131,
             "team2Score": 16,
-            "generations": 1216
+            "generations": 1216,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -12756,7 +13458,9 @@
             },
             "team1Score": 166,
             "team2Score": 72,
-            "generations": 1248
+            "generations": 1248,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -12794,7 +13498,9 @@
             },
             "team1Score": 186,
             "team2Score": 159,
-            "generations": 3443
+            "generations": 3443,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Lincoln Geckos",
@@ -12830,7 +13536,9 @@
             },
             "team1Score": 99,
             "team2Score": 85,
-            "generations": 1368
+            "generations": 1368,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Eminence Tears",
@@ -12866,7 +13574,9 @@
             },
             "team1Score": 16,
             "team2Score": 314,
-            "generations": 2693
+            "generations": 2693,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -12902,7 +13612,9 @@
             },
             "team1Score": 180,
             "team2Score": 25,
-            "generations": 1550
+            "generations": 1550,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -12938,7 +13650,9 @@
             },
             "team1Score": 83,
             "team2Score": 45,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -12974,7 +13688,9 @@
             },
             "team1Score": 178,
             "team2Score": 29,
-            "generations": 1308
+            "generations": 1308,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -13010,7 +13726,9 @@
             },
             "team1Score": 145,
             "team2Score": 74,
-            "generations": 1472
+            "generations": 1472,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -13046,7 +13764,9 @@
             },
             "team1Score": 30,
             "team2Score": 164,
-            "generations": 1781
+            "generations": 1781,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13084,7 +13804,9 @@
             },
             "team1Score": 200,
             "team2Score": 10,
-            "generations": 3850
+            "generations": 3850,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -13120,7 +13842,9 @@
             },
             "team1Score": 162,
             "team2Score": 113,
-            "generations": 1345
+            "generations": 1345,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -13156,7 +13880,9 @@
             },
             "team1Score": 204,
             "team2Score": 52,
-            "generations": 1773
+            "generations": 1773,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -13192,7 +13918,9 @@
             },
             "team1Score": 61,
             "team2Score": 80,
-            "generations": 1469
+            "generations": 1469,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -13228,7 +13956,9 @@
             },
             "team1Score": 198,
             "team2Score": 19,
-            "generations": 1045
+            "generations": 1045,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Loomis Postals",
@@ -13264,7 +13994,9 @@
             },
             "team1Score": 62,
             "team2Score": 120,
-            "generations": 1318
+            "generations": 1318,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -13300,7 +14032,9 @@
             },
             "team1Score": 70,
             "team2Score": 61,
-            "generations": 1537
+            "generations": 1537,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -13336,7 +14070,9 @@
             },
             "team1Score": 12,
             "team2Score": 279,
-            "generations": 5073
+            "generations": 5073,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -13374,7 +14110,9 @@
             },
             "team1Score": 72,
             "team2Score": 44,
-            "generations": 1513
+            "generations": 1513,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -13410,7 +14148,9 @@
             },
             "team1Score": 52,
             "team2Score": 110,
-            "generations": 1143
+            "generations": 1143,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Koontz Lake Cliff Divers",
@@ -13446,7 +14186,9 @@
             },
             "team1Score": 86,
             "team2Score": 169,
-            "generations": 2021
+            "generations": 2021,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "DeWitt Ghosts",
@@ -13482,7 +14224,9 @@
             },
             "team1Score": 111,
             "team2Score": 70,
-            "generations": 1287
+            "generations": 1287,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Loomis Postals",
@@ -13518,7 +14262,9 @@
             },
             "team1Score": 184,
             "team2Score": 26,
-            "generations": 1410
+            "generations": 1410,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -13554,7 +14300,9 @@
             },
             "team1Score": 168,
             "team2Score": 165,
-            "generations": 3886
+            "generations": 3886,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -13590,7 +14338,9 @@
             },
             "team1Score": 216,
             "team2Score": 117,
-            "generations": 1587
+            "generations": 1587,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "McGehee Black Bananas",
@@ -13626,7 +14376,9 @@
             },
             "team1Score": 159,
             "team2Score": 13,
-            "generations": 1057
+            "generations": 1057,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -13664,7 +14416,9 @@
             },
             "team1Score": 133,
             "team2Score": 111,
-            "generations": 1358
+            "generations": 1358,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -13700,7 +14454,9 @@
             },
             "team1Score": 168,
             "team2Score": 75,
-            "generations": 1366
+            "generations": 1366,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Eminence Tears",
@@ -13736,7 +14492,9 @@
             },
             "team1Score": 212,
             "team2Score": 9,
-            "generations": 1363
+            "generations": 1363,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Baxter Stairwells",
@@ -13772,7 +14530,9 @@
             },
             "team1Score": 81,
             "team2Score": 84,
-            "generations": 1982
+            "generations": 1982,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -13808,7 +14568,9 @@
             },
             "team1Score": 147,
             "team2Score": 34,
-            "generations": 2408
+            "generations": 2408,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Beacon Anchors",
@@ -13844,7 +14606,9 @@
             },
             "team1Score": 316,
             "team2Score": 55,
-            "generations": 2958
+            "generations": 2958,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Lyndeborough Butchers",
@@ -13880,7 +14644,9 @@
             },
             "team1Score": 53,
             "team2Score": 131,
-            "generations": 1110
+            "generations": 1110,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -13916,7 +14682,9 @@
             },
             "team1Score": 205,
             "team2Score": 21,
-            "generations": 3208
+            "generations": 3208,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13954,7 +14722,9 @@
             },
             "team1Score": 162,
             "team2Score": 55,
-            "generations": 2284
+            "generations": 2284,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Everman Chainsaws",
@@ -13990,7 +14760,9 @@
             },
             "team1Score": 46,
             "team2Score": 176,
-            "generations": 2484
+            "generations": 2484,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Ackerman Fan Blades",
@@ -14026,7 +14798,9 @@
             },
             "team1Score": 156,
             "team2Score": 133,
-            "generations": 1561
+            "generations": 1561,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Eyota Desk Jockeys",
@@ -14062,7 +14836,9 @@
             },
             "team1Score": 62,
             "team2Score": 125,
-            "generations": 1098
+            "generations": 1098,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Mt. Hood Village Open Flames",
@@ -14098,7 +14874,9 @@
             },
             "team1Score": 267,
             "team2Score": 52,
-            "generations": 2242
+            "generations": 2242,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Bal Harbour Bathtubs",
@@ -14134,7 +14912,9 @@
             },
             "team1Score": 96,
             "team2Score": 176,
-            "generations": 2484
+            "generations": 2484,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Banning Trail Mix",
@@ -14170,7 +14950,9 @@
             },
             "team1Score": 124,
             "team2Score": 84,
-            "generations": 1408
+            "generations": 1408,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Longtown Umbrellas",
@@ -14206,7 +14988,9 @@
             },
             "team1Score": 286,
             "team2Score": 55,
-            "generations": 1821
+            "generations": 1821,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         }
     ]
 ]

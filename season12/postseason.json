@@ -44,7 +44,9 @@
                 },
                 "team1Score": 168,
                 "team2Score": 228,
-                "generations": 1335
+                "generations": 1335,
+                "team1Abbr": "EA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Essex Anaesthesiologists",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 45,
                 "team2Score": 92,
-                "generations": 2376
+                "generations": 2376,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Brattleboro Ferrofluids",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 107,
                 "team2Score": 49,
-                "generations": 1343
+                "generations": 1343,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SFBS"
             },
             {
                 "team1Name": "Rutland Scissors",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 188,
                 "team2Score": 181,
-                "generations": 1151
+                "generations": 1151,
+                "team1Abbr": "DET",
+                "team2Abbr": "DECO"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 175,
                 "team2Score": 160,
-                "generations": 3656
+                "generations": 3656,
+                "team1Abbr": "EA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Essex Anaesthesiologists",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 107,
                 "team2Score": 151,
-                "generations": 1482
+                "generations": 1482,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Brattleboro Ferrofluids",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 94,
                 "team2Score": 145,
-                "generations": 1225
+                "generations": 1225,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SFBS"
             },
             {
                 "team1Name": "Rutland Scissors",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 59,
                 "team2Score": 123,
-                "generations": 1295
+                "generations": 1295,
+                "team1Abbr": "DET",
+                "team2Abbr": "DECO"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 71,
                 "team2Score": 255,
-                "generations": 1195
+                "generations": 1195,
+                "team1Abbr": "BTX",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Hartford Glaciers",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 124,
                 "team2Score": 264,
-                "generations": 1237
+                "generations": 1237,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Williston Responsible Citizens",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 81,
                 "team2Score": 270,
-                "generations": 3466
+                "generations": 3466,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ORL"
             },
             {
                 "team1Name": "Springfield Surgeons",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 157,
                 "team2Score": 144,
-                "generations": 1287
+                "generations": 1287,
+                "team1Abbr": "DECO",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 141,
                 "team2Score": 88,
-                "generations": 1544
+                "generations": 1544,
+                "team1Abbr": "BTX",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Hartford Glaciers",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 81,
                 "team2Score": 198,
-                "generations": 2511
+                "generations": 2511,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Williston Responsible Citizens",
@@ -680,7 +708,9 @@
                 },
                 "team1Score": 157,
                 "team2Score": 140,
-                "generations": 3719
+                "generations": 3719,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ORL"
             },
             {
                 "team1Name": "Springfield Surgeons",
@@ -725,7 +755,9 @@
                 },
                 "team1Score": 169,
                 "team2Score": 135,
-                "generations": 2727
+                "generations": 2727,
+                "team1Abbr": "DECO",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -772,7 +804,9 @@
                 },
                 "team1Score": 182,
                 "team2Score": 154,
-                "generations": 1313
+                "generations": 1313,
+                "team1Abbr": "EA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Essex Anaesthesiologists",
@@ -817,7 +851,9 @@
                 },
                 "team1Score": 210,
                 "team2Score": 113,
-                "generations": 1252
+                "generations": 1252,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Brattleboro Ferrofluids",
@@ -862,7 +898,9 @@
                 },
                 "team1Score": 242,
                 "team2Score": 146,
-                "generations": 1237
+                "generations": 1237,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SFBS"
             }
         ]
     ],
@@ -911,7 +949,9 @@
                 },
                 "team1Score": 49,
                 "team2Score": 184,
-                "generations": 1637
+                "generations": 1637,
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Brattleboro Ferrofluids",
@@ -956,7 +996,9 @@
                 },
                 "team1Score": 28,
                 "team2Score": 250,
-                "generations": 1165
+                "generations": 1165,
+                "team1Abbr": "ORL",
+                "team2Abbr": "DECO"
             }
         ],
         [
@@ -1003,7 +1045,9 @@
                 },
                 "team1Score": 77,
                 "team2Score": 301,
-                "generations": 2859
+                "generations": 2859,
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Brattleboro Ferrofluids",
@@ -1048,7 +1092,9 @@
                 },
                 "team1Score": 205,
                 "team2Score": 119,
-                "generations": 5806
+                "generations": 5806,
+                "team1Abbr": "ORL",
+                "team2Abbr": "DECO"
             }
         ],
         [
@@ -1095,7 +1141,9 @@
                 },
                 "team1Score": 179,
                 "team2Score": 247,
-                "generations": 2260
+                "generations": 2260,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Springfield Surgeons",
@@ -1140,7 +1188,9 @@
                 },
                 "team1Score": 79,
                 "team2Score": 273,
-                "generations": 1442
+                "generations": 1442,
+                "team1Abbr": "DECO",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -1187,7 +1237,9 @@
                 },
                 "team1Score": 200,
                 "team2Score": 54,
-                "generations": 1092
+                "generations": 1092,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Springfield Surgeons",
@@ -1232,7 +1284,9 @@
                 },
                 "team1Score": 142,
                 "team2Score": 272,
-                "generations": 2886
+                "generations": 2886,
+                "team1Abbr": "DECO",
+                "team2Abbr": "ORL"
             }
         ]
     ],
@@ -1280,7 +1334,9 @@
                 },
                 "team1Score": 168,
                 "team2Score": 139,
-                "generations": 2209
+                "generations": 2209,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -1326,7 +1382,9 @@
                 },
                 "team1Score": 132,
                 "team2Score": 153,
-                "generations": 1441
+                "generations": 1441,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -1372,7 +1430,9 @@
                 },
                 "team1Score": 230,
                 "team2Score": 86,
-                "generations": 1228
+                "generations": 1228,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SDBA"
             }
         ],
         [
@@ -1418,7 +1478,9 @@
                 },
                 "team1Score": 129,
                 "team2Score": 187,
-                "generations": 3293
+                "generations": 3293,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SDBA"
             }
         ],
         [
@@ -1464,7 +1526,9 @@
                 },
                 "team1Score": 143,
                 "team2Score": 204,
-                "generations": 2777
+                "generations": 2777,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SDBA"
             }
         ],
         [
@@ -1510,7 +1574,9 @@
                 },
                 "team1Score": 121,
                 "team2Score": 145,
-                "generations": 1249
+                "generations": 1249,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -1556,7 +1622,9 @@
                 },
                 "team1Score": 111,
                 "team2Score": 83,
-                "generations": 1367
+                "generations": 1367,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "ORL"
             }
         ]
     ]

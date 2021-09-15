@@ -44,7 +44,9 @@
                 },
                 "team1Score": 135,
                 "team2Score": 71,
-                "generations": 1237
+                "generations": 1237,
+                "team1Abbr": "BTX",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Dyersburg Sun Cats",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 160,
                 "team2Score": 124,
-                "generations": 2298
+                "generations": 2298,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Wright Delivery Drivers",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 197,
                 "team2Score": 85,
-                "generations": 3504
+                "generations": 3504,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "SAC"
             },
             {
                 "team1Name": "Emmitsburg Redactions",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 109,
                 "team2Score": 64,
-                "generations": 1641
+                "generations": 1641,
+                "team1Abbr": "MILF",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 134,
                 "team2Score": 224,
-                "generations": 2347
+                "generations": 2347,
+                "team1Abbr": "BTX",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Dyersburg Sun Cats",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 101,
                 "team2Score": 138,
-                "generations": 1113
+                "generations": 1113,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Wright Delivery Drivers",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 191,
                 "team2Score": 137,
-                "generations": 2463
+                "generations": 2463,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "SAC"
             },
             {
                 "team1Name": "Emmitsburg Redactions",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 93,
                 "team2Score": 118,
-                "generations": 1357
+                "generations": 1357,
+                "team1Abbr": "MILF",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 55,
                 "team2Score": 109,
-                "generations": 1298
+                "generations": 1298,
+                "team1Abbr": "TB",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Kalamazoo Firefighters",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 191,
                 "team2Score": 111,
-                "generations": 1561
+                "generations": 1561,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Lima Locusts",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 82,
                 "team2Score": 132,
-                "generations": 1103
+                "generations": 1103,
+                "team1Abbr": "SAC",
+                "team2Abbr": "SFBS"
             },
             {
                 "team1Name": "Rindge Kindergardeners",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 106,
                 "team2Score": 72,
-                "generations": 1259
+                "generations": 1259,
+                "team1Abbr": "ORL",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 144,
                 "team2Score": 75,
-                "generations": 1317
+                "generations": 1317,
+                "team1Abbr": "TB",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Kalamazoo Firefighters",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 3,
                 "team2Score": 201,
-                "generations": 1607
+                "generations": 1607,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Rindge Kindergardeners",
@@ -680,7 +708,9 @@
                 },
                 "team1Score": 197,
                 "team2Score": 48,
-                "generations": 1704
+                "generations": 1704,
+                "team1Abbr": "ORL",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -727,7 +757,9 @@
                 },
                 "team1Score": 199,
                 "team2Score": 91,
-                "generations": 1254
+                "generations": 1254,
+                "team1Abbr": "BTX",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Dyersburg Sun Cats",
@@ -772,7 +804,9 @@
                 },
                 "team1Score": 79,
                 "team2Score": 330,
-                "generations": 3760
+                "generations": 3760,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SDBA"
             }
         ]
     ],
@@ -821,7 +855,9 @@
                 },
                 "team1Score": 80,
                 "team2Score": 157,
-                "generations": 1717
+                "generations": 1717,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Wright Delivery Drivers",
@@ -866,7 +902,9 @@
                 },
                 "team1Score": 131,
                 "team2Score": 129,
-                "generations": 1061
+                "generations": 1061,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -913,7 +951,9 @@
                 },
                 "team1Score": 129,
                 "team2Score": 103,
-                "generations": 2188
+                "generations": 2188,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Wright Delivery Drivers",
@@ -958,7 +998,9 @@
                 },
                 "team1Score": 98,
                 "team2Score": 210,
-                "generations": 6517
+                "generations": 6517,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -1005,7 +1047,9 @@
                 },
                 "team1Score": 103,
                 "team2Score": 115,
-                "generations": 1336
+                "generations": 1336,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Rindge Kindergardeners",
@@ -1050,7 +1094,9 @@
                 },
                 "team1Score": 150,
                 "team2Score": 134,
-                "generations": 1061
+                "generations": 1061,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1097,7 +1143,9 @@
                 },
                 "team1Score": 164,
                 "team2Score": 134,
-                "generations": 3704
+                "generations": 3704,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Rindge Kindergardeners",
@@ -1142,7 +1190,9 @@
                 },
                 "team1Score": 380,
                 "team2Score": 72,
-                "generations": 1634
+                "generations": 1634,
+                "team1Abbr": "ORL",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1189,7 +1239,9 @@
                 },
                 "team1Score": 242,
                 "team2Score": 17,
-                "generations": 1343
+                "generations": 1343,
+                "team1Abbr": "BTX",
+                "team2Abbr": "SDBA"
             }
         ]
     ],
@@ -1237,7 +1289,9 @@
                 },
                 "team1Score": 136,
                 "team2Score": 185,
-                "generations": 1159
+                "generations": 1159,
+                "team1Abbr": "BTX",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -1283,7 +1337,9 @@
                 },
                 "team1Score": 281,
                 "team2Score": 14,
-                "generations": 5434
+                "generations": 5434,
+                "team1Abbr": "BTX",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -1329,7 +1385,9 @@
                 },
                 "team1Score": 199,
                 "team2Score": 18,
-                "generations": 2135
+                "generations": 2135,
+                "team1Abbr": "ORL",
+                "team2Abbr": "BTX"
             }
         ],
         [
@@ -1375,7 +1433,9 @@
                 },
                 "team1Score": 155,
                 "team2Score": 189,
-                "generations": 1589
+                "generations": 1589,
+                "team1Abbr": "ORL",
+                "team2Abbr": "BTX"
             }
         ],
         [
@@ -1421,7 +1481,9 @@
                 },
                 "team1Score": 44,
                 "team2Score": 231,
-                "generations": 3314
+                "generations": 3314,
+                "team1Abbr": "ORL",
+                "team2Abbr": "BTX"
             }
         ],
         [
@@ -1467,7 +1529,9 @@
                 },
                 "team1Score": 68,
                 "team2Score": 251,
-                "generations": 3591
+                "generations": 3591,
+                "team1Abbr": "BTX",
+                "team2Abbr": "ORL"
             }
         ],
         [
@@ -1513,7 +1577,9 @@
                 },
                 "team1Score": 82,
                 "team2Score": 139,
-                "generations": 2244
+                "generations": 2244,
+                "team1Abbr": "BTX",
+                "team2Abbr": "ORL"
             }
         ]
     ]

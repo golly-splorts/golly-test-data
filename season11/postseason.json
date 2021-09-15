@@ -44,7 +44,9 @@
                 },
                 "team1Score": 222,
                 "team2Score": 36,
-                "generations": 2199
+                "generations": 2199,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Middlebury Quatrains",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 146,
                 "team2Score": 240,
-                "generations": 1721
+                "generations": 1721,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Williston Responsible Citizens",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 127,
                 "team2Score": 267,
-                "generations": 1764
+                "generations": 1764,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "DECO"
             },
             {
                 "team1Name": "St. Albans Skeptics",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 211,
                 "team2Score": 69,
-                "generations": 2062
+                "generations": 2062,
+                "team1Abbr": "MILF",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 283,
                 "team2Score": 14,
-                "generations": 3231
+                "generations": 3231,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Middlebury Quatrains",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 117,
                 "team2Score": 198,
-                "generations": 1517
+                "generations": 1517,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Williston Responsible Citizens",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 74,
                 "team2Score": 60,
-                "generations": 1040
+                "generations": 1040,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "DECO"
             },
             {
                 "team1Name": "St. Albans Skeptics",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 156,
                 "team2Score": 87,
-                "generations": 2122
+                "generations": 2122,
+                "team1Abbr": "MILF",
+                "team2Abbr": "AA"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 37,
                 "team2Score": 127,
-                "generations": 1743
+                "generations": 1743,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Essex Junction Mighty Spanners",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 136,
                 "team2Score": 89,
-                "generations": 1491
+                "generations": 1491,
+                "team1Abbr": "BTX",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Springfield Surgeons",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 191,
                 "team2Score": 183,
-                "generations": 3288
+                "generations": 3288,
+                "team1Abbr": "DECO",
+                "team2Abbr": "SFBS"
             },
             {
                 "team1Name": "Burlington Pyromancers",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 45,
                 "team2Score": 221,
-                "generations": 1067
+                "generations": 1067,
+                "team1Abbr": "AA",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 42,
                 "team2Score": 71,
-                "generations": 1310
+                "generations": 1310,
+                "team1Abbr": "DECO",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -637,7 +663,9 @@
                 },
                 "team1Score": 154,
                 "team2Score": 54,
-                "generations": 1858
+                "generations": 1858,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "DECO"
             }
         ]
     ],
@@ -686,7 +714,9 @@
                 },
                 "team1Score": 51,
                 "team2Score": 123,
-                "generations": 1202
+                "generations": 1202,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Williston Responsible Citizens",
@@ -731,7 +761,9 @@
                 },
                 "team1Score": 159,
                 "team2Score": 229,
-                "generations": 1032
+                "generations": 1032,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -778,7 +810,9 @@
                 },
                 "team1Score": 118,
                 "team2Score": 146,
-                "generations": 1373
+                "generations": 1373,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "BTX"
             },
             {
                 "team1Name": "Williston Responsible Citizens",
@@ -823,7 +857,9 @@
                 },
                 "team1Score": 0,
                 "team2Score": 434,
-                "generations": 1476
+                "generations": 1476,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -870,7 +906,9 @@
                 },
                 "team1Score": 140,
                 "team2Score": 210,
-                "generations": 1386
+                "generations": 1386,
+                "team1Abbr": "BTX",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "St. Albans Skeptics",
@@ -915,7 +953,9 @@
                 },
                 "team1Score": 105,
                 "team2Score": 118,
-                "generations": 1232
+                "generations": 1232,
+                "team1Abbr": "MILF",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -962,7 +1002,9 @@
                 },
                 "team1Score": 133,
                 "team2Score": 169,
-                "generations": 3713
+                "generations": 3713,
+                "team1Abbr": "BTX",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "St. Albans Skeptics",
@@ -1007,7 +1049,9 @@
                 },
                 "team1Score": 129,
                 "team2Score": 91,
-                "generations": 1012
+                "generations": 1012,
+                "team1Abbr": "MILF",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1054,7 +1098,9 @@
                 },
                 "team1Score": 112,
                 "team2Score": 23,
-                "generations": 1887
+                "generations": 1887,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "BTX"
             }
         ]
     ],
@@ -1102,7 +1148,9 @@
                 },
                 "team1Score": 120,
                 "team2Score": 153,
-                "generations": 3206
+                "generations": 3206,
+                "team1Abbr": "MILF",
+                "team2Abbr": "LBFB"
             }
         ],
         [
@@ -1148,7 +1196,9 @@
                 },
                 "team1Score": 187,
                 "team2Score": 123,
-                "generations": 1822
+                "generations": 1822,
+                "team1Abbr": "MILF",
+                "team2Abbr": "LBFB"
             }
         ],
         [
@@ -1194,7 +1244,9 @@
                 },
                 "team1Score": 131,
                 "team2Score": 175,
-                "generations": 2576
+                "generations": 2576,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1240,7 +1292,9 @@
                 },
                 "team1Score": 198,
                 "team2Score": 171,
-                "generations": 2956
+                "generations": 2956,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1286,7 +1340,9 @@
                 },
                 "team1Score": 90,
                 "team2Score": 86,
-                "generations": 1140
+                "generations": 1140,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -1332,7 +1388,9 @@
                 },
                 "team1Score": 109,
                 "team2Score": 118,
-                "generations": 1491
+                "generations": 1491,
+                "team1Abbr": "MILF",
+                "team2Abbr": "LBFB"
             }
         ]
     ]

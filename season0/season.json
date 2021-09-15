@@ -34,7 +34,9 @@
             },
             "team1Score": 137,
             "team2Score": 113,
-            "generations": 1995
+            "generations": 1995,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -70,7 +72,9 @@
             },
             "team1Score": 227,
             "team2Score": 18,
-            "generations": 1496
+            "generations": 1496,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -106,7 +110,9 @@
             },
             "team1Score": 57,
             "team2Score": 101,
-            "generations": 2429
+            "generations": 2429,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -142,7 +148,9 @@
             },
             "team1Score": 104,
             "team2Score": 82,
-            "generations": 1008
+            "generations": 1008,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -178,7 +186,9 @@
             },
             "team1Score": 282,
             "team2Score": 6,
-            "generations": 2773
+            "generations": 2773,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Xenia Tools",
@@ -214,7 +224,9 @@
             },
             "team1Score": 248,
             "team2Score": 91,
-            "generations": 3800
+            "generations": 3800,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -250,7 +262,9 @@
             },
             "team1Score": 201,
             "team2Score": 46,
-            "generations": 2561
+            "generations": 2561,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -286,7 +300,9 @@
             },
             "team1Score": 194,
             "team2Score": 38,
-            "generations": 1529
+            "generations": 1529,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -324,7 +340,9 @@
             },
             "team1Score": 121,
             "team2Score": 84,
-            "generations": 1401
+            "generations": 1401,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Eastpoint Germophiles",
@@ -360,7 +378,9 @@
             },
             "team1Score": 118,
             "team2Score": 94,
-            "generations": 1181
+            "generations": 1181,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -396,7 +416,9 @@
             },
             "team1Score": 94,
             "team2Score": 34,
-            "generations": 1133
+            "generations": 1133,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -432,7 +454,9 @@
             },
             "team1Score": 145,
             "team2Score": 144,
-            "generations": 2699
+            "generations": 2699,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -468,7 +492,9 @@
             },
             "team1Score": 502,
             "team2Score": 0,
-            "generations": 2049
+            "generations": 2049,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -504,7 +530,9 @@
             },
             "team1Score": 214,
             "team2Score": 19,
-            "generations": 1693
+            "generations": 1693,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -540,7 +568,9 @@
             },
             "team1Score": 61,
             "team2Score": 99,
-            "generations": 1642
+            "generations": 1642,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -576,7 +606,9 @@
             },
             "team1Score": 185,
             "team2Score": 25,
-            "generations": 1435
+            "generations": 1435,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -614,7 +646,9 @@
             },
             "team1Score": 273,
             "team2Score": 78,
-            "generations": 1245
+            "generations": 1245,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -650,7 +684,9 @@
             },
             "team1Score": 30,
             "team2Score": 216,
-            "generations": 1343
+            "generations": 1343,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -686,7 +722,9 @@
             },
             "team1Score": 95,
             "team2Score": 115,
-            "generations": 2048
+            "generations": 2048,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -722,7 +760,9 @@
             },
             "team1Score": 124,
             "team2Score": 40,
-            "generations": 1700
+            "generations": 1700,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -758,7 +798,9 @@
             },
             "team1Score": 159,
             "team2Score": 201,
-            "generations": 2711
+            "generations": 2711,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Xenia Tools",
@@ -794,7 +836,9 @@
             },
             "team1Score": 168,
             "team2Score": 131,
-            "generations": 1568
+            "generations": 1568,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -830,7 +874,9 @@
             },
             "team1Score": 201,
             "team2Score": 37,
-            "generations": 2148
+            "generations": 2148,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -866,7 +912,9 @@
             },
             "team1Score": 180,
             "team2Score": 13,
-            "generations": 1894
+            "generations": 1894,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -904,7 +952,9 @@
             },
             "team1Score": 358,
             "team2Score": 44,
-            "generations": 1442
+            "generations": 1442,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Milton Butchers",
@@ -940,7 +990,9 @@
             },
             "team1Score": 110,
             "team2Score": 152,
-            "generations": 1710
+            "generations": 1710,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -976,7 +1028,9 @@
             },
             "team1Score": 347,
             "team2Score": 31,
-            "generations": 2088
+            "generations": 2088,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -1012,7 +1066,9 @@
             },
             "team1Score": 105,
             "team2Score": 10,
-            "generations": 1041
+            "generations": 1041,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -1048,7 +1104,9 @@
             },
             "team1Score": 144,
             "team2Score": 126,
-            "generations": 2476
+            "generations": 2476,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -1084,7 +1142,9 @@
             },
             "team1Score": 83,
             "team2Score": 104,
-            "generations": 2066
+            "generations": 2066,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -1120,7 +1180,9 @@
             },
             "team1Score": 58,
             "team2Score": 162,
-            "generations": 2128
+            "generations": 2128,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -1156,7 +1218,9 @@
             },
             "team1Score": 333,
             "team2Score": 0,
-            "generations": 1442
+            "generations": 1442,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -1194,7 +1258,9 @@
             },
             "team1Score": 65,
             "team2Score": 90,
-            "generations": 1924
+            "generations": 1924,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -1230,7 +1296,9 @@
             },
             "team1Score": 117,
             "team2Score": 212,
-            "generations": 1004
+            "generations": 1004,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -1266,7 +1334,9 @@
             },
             "team1Score": 230,
             "team2Score": 74,
-            "generations": 1624
+            "generations": 1624,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -1302,7 +1372,9 @@
             },
             "team1Score": 152,
             "team2Score": 168,
-            "generations": 2398
+            "generations": 2398,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -1338,7 +1410,9 @@
             },
             "team1Score": 379,
             "team2Score": 32,
-            "generations": 1249
+            "generations": 1249,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Xenia Tools",
@@ -1374,7 +1448,9 @@
             },
             "team1Score": 144,
             "team2Score": 19,
-            "generations": 1982
+            "generations": 1982,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -1410,7 +1486,9 @@
             },
             "team1Score": 209,
             "team2Score": 2,
-            "generations": 1628
+            "generations": 1628,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -1446,7 +1524,9 @@
             },
             "team1Score": 351,
             "team2Score": 0,
-            "generations": 2515
+            "generations": 2515,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -1484,7 +1564,9 @@
             },
             "team1Score": 171,
             "team2Score": 62,
-            "generations": 2932
+            "generations": 2932,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -1520,7 +1602,9 @@
             },
             "team1Score": 155,
             "team2Score": 125,
-            "generations": 2265
+            "generations": 2265,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -1556,7 +1640,9 @@
             },
             "team1Score": 147,
             "team2Score": 142,
-            "generations": 1680
+            "generations": 1680,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -1592,7 +1678,9 @@
             },
             "team1Score": 110,
             "team2Score": 134,
-            "generations": 1255
+            "generations": 1255,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -1628,7 +1716,9 @@
             },
             "team1Score": 306,
             "team2Score": 48,
-            "generations": 2501
+            "generations": 2501,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -1664,7 +1754,9 @@
             },
             "team1Score": 85,
             "team2Score": 49,
-            "generations": 1469
+            "generations": 1469,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -1700,7 +1792,9 @@
             },
             "team1Score": 141,
             "team2Score": 89,
-            "generations": 1141
+            "generations": 1141,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -1736,7 +1830,9 @@
             },
             "team1Score": 126,
             "team2Score": 6,
-            "generations": 1034
+            "generations": 1034,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -1774,7 +1870,9 @@
             },
             "team1Score": 63,
             "team2Score": 36,
-            "generations": 1252
+            "generations": 1252,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -1810,7 +1908,9 @@
             },
             "team1Score": 61,
             "team2Score": 271,
-            "generations": 1696
+            "generations": 1696,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -1846,7 +1946,9 @@
             },
             "team1Score": 317,
             "team2Score": 14,
-            "generations": 2076
+            "generations": 2076,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -1882,7 +1984,9 @@
             },
             "team1Score": 337,
             "team2Score": 15,
-            "generations": 2546
+            "generations": 2546,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -1918,7 +2022,9 @@
             },
             "team1Score": 65,
             "team2Score": 93,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -1954,7 +2060,9 @@
             },
             "team1Score": 198,
             "team2Score": 46,
-            "generations": 1453
+            "generations": 1453,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -1990,7 +2098,9 @@
             },
             "team1Score": 330,
             "team2Score": 0,
-            "generations": 1094
+            "generations": 1094,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -2026,7 +2136,9 @@
             },
             "team1Score": 324,
             "team2Score": 40,
-            "generations": 2451
+            "generations": 2451,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -2064,7 +2176,9 @@
             },
             "team1Score": 139,
             "team2Score": 21,
-            "generations": 1730
+            "generations": 1730,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -2100,7 +2214,9 @@
             },
             "team1Score": 78,
             "team2Score": 113,
-            "generations": 1480
+            "generations": 1480,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Milton Butchers",
@@ -2136,7 +2252,9 @@
             },
             "team1Score": 127,
             "team2Score": 158,
-            "generations": 2100
+            "generations": 2100,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -2172,7 +2290,9 @@
             },
             "team1Score": 344,
             "team2Score": 38,
-            "generations": 1327
+            "generations": 1327,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -2208,7 +2328,9 @@
             },
             "team1Score": 132,
             "team2Score": 114,
-            "generations": 1281
+            "generations": 1281,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -2244,7 +2366,9 @@
             },
             "team1Score": 228,
             "team2Score": 63,
-            "generations": 2349
+            "generations": 2349,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -2280,7 +2404,9 @@
             },
             "team1Score": 16,
             "team2Score": 41,
-            "generations": 1215
+            "generations": 1215,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Xenia Tools",
@@ -2316,7 +2442,9 @@
             },
             "team1Score": 217,
             "team2Score": 142,
-            "generations": 1860
+            "generations": 1860,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -2354,7 +2482,9 @@
             },
             "team1Score": 139,
             "team2Score": 119,
-            "generations": 1782
+            "generations": 1782,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -2390,7 +2520,9 @@
             },
             "team1Score": 245,
             "team2Score": 3,
-            "generations": 2037
+            "generations": 2037,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -2426,7 +2558,9 @@
             },
             "team1Score": 145,
             "team2Score": 95,
-            "generations": 1669
+            "generations": 1669,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -2462,7 +2596,9 @@
             },
             "team1Score": 333,
             "team2Score": 29,
-            "generations": 2687
+            "generations": 2687,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -2498,7 +2634,9 @@
             },
             "team1Score": 194,
             "team2Score": 103,
-            "generations": 1432
+            "generations": 1432,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -2534,7 +2672,9 @@
             },
             "team1Score": 239,
             "team2Score": 63,
-            "generations": 2708
+            "generations": 2708,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -2570,7 +2710,9 @@
             },
             "team1Score": 209,
             "team2Score": 37,
-            "generations": 2621
+            "generations": 2621,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -2606,7 +2748,9 @@
             },
             "team1Score": 133,
             "team2Score": 62,
-            "generations": 1222
+            "generations": 1222,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -2644,7 +2788,9 @@
             },
             "team1Score": 712,
             "team2Score": 0,
-            "generations": 3314
+            "generations": 3314,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -2680,7 +2826,9 @@
             },
             "team1Score": 27,
             "team2Score": 177,
-            "generations": 1245
+            "generations": 1245,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -2716,7 +2864,9 @@
             },
             "team1Score": 313,
             "team2Score": 12,
-            "generations": 2879
+            "generations": 2879,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -2752,7 +2902,9 @@
             },
             "team1Score": 268,
             "team2Score": 30,
-            "generations": 1551
+            "generations": 1551,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -2788,7 +2940,9 @@
             },
             "team1Score": 174,
             "team2Score": 35,
-            "generations": 2932
+            "generations": 2932,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Xenia Tools",
@@ -2824,7 +2978,9 @@
             },
             "team1Score": 179,
             "team2Score": 25,
-            "generations": 2081
+            "generations": 2081,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -2860,7 +3016,9 @@
             },
             "team1Score": 95,
             "team2Score": 112,
-            "generations": 1995
+            "generations": 1995,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -2896,7 +3054,9 @@
             },
             "team1Score": 81,
             "team2Score": 37,
-            "generations": 1319
+            "generations": 1319,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -2934,7 +3094,9 @@
             },
             "team1Score": 91,
             "team2Score": 59,
-            "generations": 1840
+            "generations": 1840,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -2970,7 +3132,9 @@
             },
             "team1Score": 233,
             "team2Score": 45,
-            "generations": 3325
+            "generations": 3325,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -3006,7 +3170,9 @@
             },
             "team1Score": 273,
             "team2Score": 45,
-            "generations": 1442
+            "generations": 1442,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -3042,7 +3208,9 @@
             },
             "team1Score": 176,
             "team2Score": 189,
-            "generations": 3606
+            "generations": 3606,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -3078,7 +3246,9 @@
             },
             "team1Score": 115,
             "team2Score": 153,
-            "generations": 1766
+            "generations": 1766,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -3114,7 +3284,9 @@
             },
             "team1Score": 135,
             "team2Score": 4,
-            "generations": 1941
+            "generations": 1941,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -3150,7 +3322,9 @@
             },
             "team1Score": 136,
             "team2Score": 62,
-            "generations": 1401
+            "generations": 1401,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -3186,7 +3360,9 @@
             },
             "team1Score": 228,
             "team2Score": 127,
-            "generations": 1275
+            "generations": 1275,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -3224,7 +3400,9 @@
             },
             "team1Score": 116,
             "team2Score": 49,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -3260,7 +3438,9 @@
             },
             "team1Score": 253,
             "team2Score": 7,
-            "generations": 2195
+            "generations": 2195,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -3296,7 +3476,9 @@
             },
             "team1Score": 278,
             "team2Score": 27,
-            "generations": 2916
+            "generations": 2916,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Eastpoint Germophiles",
@@ -3332,7 +3514,9 @@
             },
             "team1Score": 78,
             "team2Score": 101,
-            "generations": 1446
+            "generations": 1446,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Xenia Tools",
@@ -3368,7 +3552,9 @@
             },
             "team1Score": 199,
             "team2Score": 88,
-            "generations": 2395
+            "generations": 2395,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -3404,7 +3590,9 @@
             },
             "team1Score": 48,
             "team2Score": 10,
-            "generations": 1042
+            "generations": 1042,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -3440,7 +3628,9 @@
             },
             "team1Score": 264,
             "team2Score": 56,
-            "generations": 2726
+            "generations": 2726,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -3476,7 +3666,9 @@
             },
             "team1Score": 106,
             "team2Score": 163,
-            "generations": 2835
+            "generations": 2835,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -3514,7 +3706,9 @@
             },
             "team1Score": 114,
             "team2Score": 96,
-            "generations": 2573
+            "generations": 2573,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -3550,7 +3744,9 @@
             },
             "team1Score": 266,
             "team2Score": 22,
-            "generations": 4193
+            "generations": 4193,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -3586,7 +3782,9 @@
             },
             "team1Score": 101,
             "team2Score": 107,
-            "generations": 1241
+            "generations": 1241,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -3622,7 +3820,9 @@
             },
             "team1Score": 265,
             "team2Score": 0,
-            "generations": 1416
+            "generations": 1416,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -3658,7 +3858,9 @@
             },
             "team1Score": 121,
             "team2Score": 57,
-            "generations": 1262
+            "generations": 1262,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Xenia Tools",
@@ -3694,7 +3896,9 @@
             },
             "team1Score": 294,
             "team2Score": 52,
-            "generations": 1480
+            "generations": 1480,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -3730,7 +3934,9 @@
             },
             "team1Score": 123,
             "team2Score": 109,
-            "generations": 1273
+            "generations": 1273,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -3766,7 +3972,9 @@
             },
             "team1Score": 213,
             "team2Score": 3,
-            "generations": 2542
+            "generations": 2542,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -3804,7 +4012,9 @@
             },
             "team1Score": 203,
             "team2Score": 92,
-            "generations": 1562
+            "generations": 1562,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -3840,7 +4050,9 @@
             },
             "team1Score": 163,
             "team2Score": 123,
-            "generations": 2065
+            "generations": 2065,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -3876,7 +4088,9 @@
             },
             "team1Score": 46,
             "team2Score": 176,
-            "generations": 1448
+            "generations": 1448,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -3912,7 +4126,9 @@
             },
             "team1Score": 149,
             "team2Score": 70,
-            "generations": 2037
+            "generations": 2037,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -3948,7 +4164,9 @@
             },
             "team1Score": 216,
             "team2Score": 3,
-            "generations": 3330
+            "generations": 3330,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -3984,7 +4202,9 @@
             },
             "team1Score": 319,
             "team2Score": 6,
-            "generations": 2002
+            "generations": 2002,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -4020,7 +4240,9 @@
             },
             "team1Score": 440,
             "team2Score": 0,
-            "generations": 1270
+            "generations": 1270,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -4056,7 +4278,9 @@
             },
             "team1Score": 105,
             "team2Score": 81,
-            "generations": 1717
+            "generations": 1717,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -4094,7 +4318,9 @@
             },
             "team1Score": 125,
             "team2Score": 14,
-            "generations": 1412
+            "generations": 1412,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -4130,7 +4356,9 @@
             },
             "team1Score": 96,
             "team2Score": 12,
-            "generations": 1323
+            "generations": 1323,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -4166,7 +4394,9 @@
             },
             "team1Score": 33,
             "team2Score": 220,
-            "generations": 1531
+            "generations": 1531,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -4202,7 +4432,9 @@
             },
             "team1Score": 247,
             "team2Score": 124,
-            "generations": 3363
+            "generations": 3363,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -4238,7 +4470,9 @@
             },
             "team1Score": 190,
             "team2Score": 89,
-            "generations": 2316
+            "generations": 2316,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -4274,7 +4508,9 @@
             },
             "team1Score": 245,
             "team2Score": 6,
-            "generations": 2227
+            "generations": 2227,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -4310,7 +4546,9 @@
             },
             "team1Score": 109,
             "team2Score": 27,
-            "generations": 1042
+            "generations": 1042,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -4346,7 +4584,9 @@
             },
             "team1Score": 322,
             "team2Score": 5,
-            "generations": 4479
+            "generations": 4479,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -4384,7 +4624,9 @@
             },
             "team1Score": 379,
             "team2Score": 8,
-            "generations": 1962
+            "generations": 1962,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -4420,7 +4662,9 @@
             },
             "team1Score": 97,
             "team2Score": 5,
-            "generations": 1060
+            "generations": 1060,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Eastpoint Germophiles",
@@ -4456,7 +4700,9 @@
             },
             "team1Score": 141,
             "team2Score": 95,
-            "generations": 1536
+            "generations": 1536,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -4492,7 +4738,9 @@
             },
             "team1Score": 96,
             "team2Score": 79,
-            "generations": 1283
+            "generations": 1283,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -4528,7 +4776,9 @@
             },
             "team1Score": 64,
             "team2Score": 261,
-            "generations": 2351
+            "generations": 2351,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -4564,7 +4814,9 @@
             },
             "team1Score": 83,
             "team2Score": 41,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -4600,7 +4852,9 @@
             },
             "team1Score": 56,
             "team2Score": 68,
-            "generations": 1177
+            "generations": 1177,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Xenia Tools",
@@ -4636,7 +4890,9 @@
             },
             "team1Score": 335,
             "team2Score": 9,
-            "generations": 2134
+            "generations": 2134,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -4674,7 +4930,9 @@
             },
             "team1Score": 258,
             "team2Score": 3,
-            "generations": 2234
+            "generations": 2234,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -4710,7 +4968,9 @@
             },
             "team1Score": 161,
             "team2Score": 47,
-            "generations": 1840
+            "generations": 1840,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -4746,7 +5006,9 @@
             },
             "team1Score": 91,
             "team2Score": 228,
-            "generations": 2156
+            "generations": 2156,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -4782,7 +5044,9 @@
             },
             "team1Score": 128,
             "team2Score": 100,
-            "generations": 1184
+            "generations": 1184,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -4818,7 +5082,9 @@
             },
             "team1Score": 304,
             "team2Score": 3,
-            "generations": 2625
+            "generations": 2625,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Xenia Tools",
@@ -4854,7 +5120,9 @@
             },
             "team1Score": 108,
             "team2Score": 80,
-            "generations": 1517
+            "generations": 1517,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -4890,7 +5158,9 @@
             },
             "team1Score": 511,
             "team2Score": 0,
-            "generations": 1111
+            "generations": 1111,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -4926,7 +5196,9 @@
             },
             "team1Score": 112,
             "team2Score": 67,
-            "generations": 1331
+            "generations": 1331,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -4964,7 +5236,9 @@
             },
             "team1Score": 227,
             "team2Score": 75,
-            "generations": 2365
+            "generations": 2365,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -5000,7 +5274,9 @@
             },
             "team1Score": 281,
             "team2Score": 45,
-            "generations": 2905
+            "generations": 2905,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -5036,7 +5312,9 @@
             },
             "team1Score": 137,
             "team2Score": 95,
-            "generations": 1036
+            "generations": 1036,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Milton Butchers",
@@ -5072,7 +5350,9 @@
             },
             "team1Score": 96,
             "team2Score": 78,
-            "generations": 1399
+            "generations": 1399,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -5108,7 +5388,9 @@
             },
             "team1Score": 131,
             "team2Score": 28,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -5144,7 +5426,9 @@
             },
             "team1Score": 52,
             "team2Score": 214,
-            "generations": 1256
+            "generations": 1256,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -5180,7 +5464,9 @@
             },
             "team1Score": 348,
             "team2Score": 10,
-            "generations": 3704
+            "generations": 3704,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -5216,7 +5502,9 @@
             },
             "team1Score": 204,
             "team2Score": 161,
-            "generations": 1852
+            "generations": 1852,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5254,7 +5542,9 @@
             },
             "team1Score": 51,
             "team2Score": 104,
-            "generations": 1094
+            "generations": 1094,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -5290,7 +5580,9 @@
             },
             "team1Score": 186,
             "team2Score": 81,
-            "generations": 1303
+            "generations": 1303,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -5326,7 +5618,9 @@
             },
             "team1Score": 349,
             "team2Score": 81,
-            "generations": 1580
+            "generations": 1580,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -5362,7 +5656,9 @@
             },
             "team1Score": 133,
             "team2Score": 115,
-            "generations": 1452
+            "generations": 1452,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -5398,7 +5694,9 @@
             },
             "team1Score": 160,
             "team2Score": 24,
-            "generations": 1496
+            "generations": 1496,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Xenia Tools",
@@ -5434,7 +5732,9 @@
             },
             "team1Score": 28,
             "team2Score": 78,
-            "generations": 1556
+            "generations": 1556,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -5470,7 +5770,9 @@
             },
             "team1Score": 165,
             "team2Score": 5,
-            "generations": 1310
+            "generations": 1310,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -5506,7 +5808,9 @@
             },
             "team1Score": 136,
             "team2Score": 112,
-            "generations": 3449
+            "generations": 3449,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -5544,7 +5848,9 @@
             },
             "team1Score": 176,
             "team2Score": 232,
-            "generations": 1827
+            "generations": 1827,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Milton Butchers",
@@ -5580,7 +5886,9 @@
             },
             "team1Score": 206,
             "team2Score": 94,
-            "generations": 3682
+            "generations": 3682,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -5616,7 +5924,9 @@
             },
             "team1Score": 318,
             "team2Score": 22,
-            "generations": 1324
+            "generations": 1324,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -5652,7 +5962,9 @@
             },
             "team1Score": 54,
             "team2Score": 148,
-            "generations": 1401
+            "generations": 1401,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -5688,7 +6000,9 @@
             },
             "team1Score": 85,
             "team2Score": 77,
-            "generations": 1439
+            "generations": 1439,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -5724,7 +6038,9 @@
             },
             "team1Score": 255,
             "team2Score": 9,
-            "generations": 2227
+            "generations": 2227,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -5760,7 +6076,9 @@
             },
             "team1Score": 82,
             "team2Score": 79,
-            "generations": 1117
+            "generations": 1117,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -5796,7 +6114,9 @@
             },
             "team1Score": 244,
             "team2Score": 46,
-            "generations": 2084
+            "generations": 2084,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5834,7 +6154,9 @@
             },
             "team1Score": 364,
             "team2Score": 3,
-            "generations": 1999
+            "generations": 1999,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -5870,7 +6192,9 @@
             },
             "team1Score": 157,
             "team2Score": 107,
-            "generations": 1545
+            "generations": 1545,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -5906,7 +6230,9 @@
             },
             "team1Score": 209,
             "team2Score": 45,
-            "generations": 1613
+            "generations": 1613,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -5942,7 +6268,9 @@
             },
             "team1Score": 247,
             "team2Score": 47,
-            "generations": 3189
+            "generations": 3189,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -5978,7 +6306,9 @@
             },
             "team1Score": 124,
             "team2Score": 66,
-            "generations": 1031
+            "generations": 1031,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -6014,7 +6344,9 @@
             },
             "team1Score": 137,
             "team2Score": 89,
-            "generations": 1447
+            "generations": 1447,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -6050,7 +6382,9 @@
             },
             "team1Score": 60,
             "team2Score": 9,
-            "generations": 1254
+            "generations": 1254,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -6086,7 +6420,9 @@
             },
             "team1Score": 83,
             "team2Score": 119,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -6124,7 +6460,9 @@
             },
             "team1Score": 282,
             "team2Score": 31,
-            "generations": 1000
+            "generations": 1000,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -6160,7 +6498,9 @@
             },
             "team1Score": 184,
             "team2Score": 77,
-            "generations": 1843
+            "generations": 1843,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -6196,7 +6536,9 @@
             },
             "team1Score": 243,
             "team2Score": 16,
-            "generations": 2967
+            "generations": 2967,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Milton Butchers",
@@ -6232,7 +6574,9 @@
             },
             "team1Score": 122,
             "team2Score": 118,
-            "generations": 1617
+            "generations": 1617,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Xenia Tools",
@@ -6268,7 +6612,9 @@
             },
             "team1Score": 4,
             "team2Score": 156,
-            "generations": 1332
+            "generations": 1332,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -6304,7 +6650,9 @@
             },
             "team1Score": 193,
             "team2Score": 4,
-            "generations": 1739
+            "generations": 1739,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -6340,7 +6688,9 @@
             },
             "team1Score": 193,
             "team2Score": 14,
-            "generations": 1929
+            "generations": 1929,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -6376,7 +6726,9 @@
             },
             "team1Score": 114,
             "team2Score": 56,
-            "generations": 1480
+            "generations": 1480,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -6414,7 +6766,9 @@
             },
             "team1Score": 207,
             "team2Score": 19,
-            "generations": 2357
+            "generations": 2357,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -6450,7 +6804,9 @@
             },
             "team1Score": 249,
             "team2Score": 88,
-            "generations": 1126
+            "generations": 1126,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -6486,7 +6842,9 @@
             },
             "team1Score": 109,
             "team2Score": 104,
-            "generations": 1317
+            "generations": 1317,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -6522,7 +6880,9 @@
             },
             "team1Score": 140,
             "team2Score": 74,
-            "generations": 1103
+            "generations": 1103,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -6558,7 +6918,9 @@
             },
             "team1Score": 105,
             "team2Score": 16,
-            "generations": 1671
+            "generations": 1671,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -6594,7 +6956,9 @@
             },
             "team1Score": 53,
             "team2Score": 120,
-            "generations": 1030
+            "generations": 1030,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -6630,7 +6994,9 @@
             },
             "team1Score": 187,
             "team2Score": 115,
-            "generations": 1806
+            "generations": 1806,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -6666,7 +7032,9 @@
             },
             "team1Score": 134,
             "team2Score": 69,
-            "generations": 1185
+            "generations": 1185,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -6704,7 +7072,9 @@
             },
             "team1Score": 81,
             "team2Score": 108,
-            "generations": 1634
+            "generations": 1634,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -6740,7 +7110,9 @@
             },
             "team1Score": 245,
             "team2Score": 31,
-            "generations": 1853
+            "generations": 1853,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -6776,7 +7148,9 @@
             },
             "team1Score": 126,
             "team2Score": 137,
-            "generations": 1273
+            "generations": 1273,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -6812,7 +7186,9 @@
             },
             "team1Score": 64,
             "team2Score": 266,
-            "generations": 1765
+            "generations": 1765,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -6848,7 +7224,9 @@
             },
             "team1Score": 94,
             "team2Score": 122,
-            "generations": 1880
+            "generations": 1880,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Xenia Tools",
@@ -6884,7 +7262,9 @@
             },
             "team1Score": 102,
             "team2Score": 124,
-            "generations": 2143
+            "generations": 2143,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -6920,7 +7300,9 @@
             },
             "team1Score": 246,
             "team2Score": 48,
-            "generations": 2419
+            "generations": 2419,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -6956,7 +7338,9 @@
             },
             "team1Score": 157,
             "team2Score": 131,
-            "generations": 2386
+            "generations": 2386,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -6994,7 +7378,9 @@
             },
             "team1Score": 140,
             "team2Score": 35,
-            "generations": 1633
+            "generations": 1633,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -7030,7 +7416,9 @@
             },
             "team1Score": 301,
             "team2Score": 5,
-            "generations": 2060
+            "generations": 2060,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -7066,7 +7454,9 @@
             },
             "team1Score": 327,
             "team2Score": 37,
-            "generations": 2004
+            "generations": 2004,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -7102,7 +7492,9 @@
             },
             "team1Score": 176,
             "team2Score": 103,
-            "generations": 3901
+            "generations": 3901,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -7138,7 +7530,9 @@
             },
             "team1Score": 189,
             "team2Score": 83,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -7174,7 +7568,9 @@
             },
             "team1Score": 141,
             "team2Score": 127,
-            "generations": 1753
+            "generations": 1753,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -7210,7 +7606,9 @@
             },
             "team1Score": 208,
             "team2Score": 58,
-            "generations": 2064
+            "generations": 2064,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -7246,7 +7644,9 @@
             },
             "team1Score": 133,
             "team2Score": 4,
-            "generations": 1607
+            "generations": 1607,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -7284,7 +7684,9 @@
             },
             "team1Score": 163,
             "team2Score": 126,
-            "generations": 2065
+            "generations": 2065,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -7320,7 +7722,9 @@
             },
             "team1Score": 233,
             "team2Score": 110,
-            "generations": 1512
+            "generations": 1512,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Eastpoint Germophiles",
@@ -7356,7 +7760,9 @@
             },
             "team1Score": 240,
             "team2Score": 26,
-            "generations": 3202
+            "generations": 3202,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -7392,7 +7798,9 @@
             },
             "team1Score": 181,
             "team2Score": 104,
-            "generations": 1528
+            "generations": 1528,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -7428,7 +7836,9 @@
             },
             "team1Score": 194,
             "team2Score": 84,
-            "generations": 2094
+            "generations": 2094,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -7464,7 +7874,9 @@
             },
             "team1Score": 161,
             "team2Score": 89,
-            "generations": 2888
+            "generations": 2888,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -7500,7 +7912,9 @@
             },
             "team1Score": 162,
             "team2Score": 68,
-            "generations": 1725
+            "generations": 1725,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Xenia Tools",
@@ -7536,7 +7950,9 @@
             },
             "team1Score": 231,
             "team2Score": 0,
-            "generations": 1041
+            "generations": 1041,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -7574,7 +7990,9 @@
             },
             "team1Score": 98,
             "team2Score": 63,
-            "generations": 1236
+            "generations": 1236,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -7610,7 +8028,9 @@
             },
             "team1Score": 147,
             "team2Score": 65,
-            "generations": 1774
+            "generations": 1774,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -7646,7 +8066,9 @@
             },
             "team1Score": 140,
             "team2Score": 146,
-            "generations": 1697
+            "generations": 1697,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -7682,7 +8104,9 @@
             },
             "team1Score": 96,
             "team2Score": 111,
-            "generations": 1614
+            "generations": 1614,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -7718,7 +8142,9 @@
             },
             "team1Score": 24,
             "team2Score": 145,
-            "generations": 1078
+            "generations": 1078,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Xenia Tools",
@@ -7754,7 +8180,9 @@
             },
             "team1Score": 347,
             "team2Score": 24,
-            "generations": 1990
+            "generations": 1990,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -7790,7 +8218,9 @@
             },
             "team1Score": 79,
             "team2Score": 32,
-            "generations": 1008
+            "generations": 1008,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -7826,7 +8256,9 @@
             },
             "team1Score": 51,
             "team2Score": 62,
-            "generations": 1147
+            "generations": 1147,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -7864,7 +8296,9 @@
             },
             "team1Score": 165,
             "team2Score": 63,
-            "generations": 1304
+            "generations": 1304,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -7900,7 +8334,9 @@
             },
             "team1Score": 77,
             "team2Score": 155,
-            "generations": 1797
+            "generations": 1797,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -7936,7 +8372,9 @@
             },
             "team1Score": 133,
             "team2Score": 26,
-            "generations": 1309
+            "generations": 1309,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Milton Butchers",
@@ -7972,7 +8410,9 @@
             },
             "team1Score": 144,
             "team2Score": 116,
-            "generations": 1967
+            "generations": 1967,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -8008,7 +8448,9 @@
             },
             "team1Score": 102,
             "team2Score": 42,
-            "generations": 1061
+            "generations": 1061,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -8044,7 +8486,9 @@
             },
             "team1Score": 358,
             "team2Score": 27,
-            "generations": 2445
+            "generations": 2445,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -8080,7 +8524,9 @@
             },
             "team1Score": 63,
             "team2Score": 102,
-            "generations": 1184
+            "generations": 1184,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -8116,7 +8562,9 @@
             },
             "team1Score": 118,
             "team2Score": 75,
-            "generations": 1425
+            "generations": 1425,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -8154,7 +8602,9 @@
             },
             "team1Score": 207,
             "team2Score": 11,
-            "generations": 2288
+            "generations": 2288,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -8190,7 +8640,9 @@
             },
             "team1Score": 148,
             "team2Score": 36,
-            "generations": 2156
+            "generations": 2156,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -8226,7 +8678,9 @@
             },
             "team1Score": 287,
             "team2Score": 65,
-            "generations": 2371
+            "generations": 2371,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Milton Butchers",
@@ -8262,7 +8716,9 @@
             },
             "team1Score": 152,
             "team2Score": 120,
-            "generations": 1169
+            "generations": 1169,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -8298,7 +8754,9 @@
             },
             "team1Score": 167,
             "team2Score": 43,
-            "generations": 1368
+            "generations": 1368,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -8334,7 +8792,9 @@
             },
             "team1Score": 138,
             "team2Score": 10,
-            "generations": 1809
+            "generations": 1809,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -8370,7 +8830,9 @@
             },
             "team1Score": 100,
             "team2Score": 84,
-            "generations": 1358
+            "generations": 1358,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -8406,7 +8868,9 @@
             },
             "team1Score": 148,
             "team2Score": 40,
-            "generations": 2052
+            "generations": 2052,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -8444,7 +8908,9 @@
             },
             "team1Score": 110,
             "team2Score": 4,
-            "generations": 1245
+            "generations": 1245,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -8480,7 +8946,9 @@
             },
             "team1Score": 253,
             "team2Score": 20,
-            "generations": 2179
+            "generations": 2179,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -8516,7 +8984,9 @@
             },
             "team1Score": 449,
             "team2Score": 0,
-            "generations": 1756
+            "generations": 1756,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -8552,7 +9022,9 @@
             },
             "team1Score": 191,
             "team2Score": 83,
-            "generations": 1106
+            "generations": 1106,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Xenia Tools",
@@ -8588,7 +9060,9 @@
             },
             "team1Score": 283,
             "team2Score": 58,
-            "generations": 3438
+            "generations": 3438,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -8624,7 +9098,9 @@
             },
             "team1Score": 168,
             "team2Score": 6,
-            "generations": 1618
+            "generations": 1618,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -8660,7 +9136,9 @@
             },
             "team1Score": 379,
             "team2Score": 3,
-            "generations": 2928
+            "generations": 2928,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -8696,7 +9174,9 @@
             },
             "team1Score": 141,
             "team2Score": 121,
-            "generations": 1194
+            "generations": 1194,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -8734,7 +9214,9 @@
             },
             "team1Score": 250,
             "team2Score": 74,
-            "generations": 1412
+            "generations": 1412,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -8770,7 +9252,9 @@
             },
             "team1Score": 45,
             "team2Score": 100,
-            "generations": 1154
+            "generations": 1154,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -8806,7 +9290,9 @@
             },
             "team1Score": 224,
             "team2Score": 55,
-            "generations": 1730
+            "generations": 1730,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Milton Butchers",
@@ -8842,7 +9328,9 @@
             },
             "team1Score": 109,
             "team2Score": 116,
-            "generations": 1705
+            "generations": 1705,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -8878,7 +9366,9 @@
             },
             "team1Score": 35,
             "team2Score": 88,
-            "generations": 1034
+            "generations": 1034,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -8914,7 +9404,9 @@
             },
             "team1Score": 335,
             "team2Score": 10,
-            "generations": 1225
+            "generations": 1225,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -8950,7 +9442,9 @@
             },
             "team1Score": 125,
             "team2Score": 89,
-            "generations": 1331
+            "generations": 1331,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -8986,7 +9480,9 @@
             },
             "team1Score": 206,
             "team2Score": 40,
-            "generations": 2629
+            "generations": 2629,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -9024,7 +9520,9 @@
             },
             "team1Score": 126,
             "team2Score": 82,
-            "generations": 1001
+            "generations": 1001,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -9060,7 +9558,9 @@
             },
             "team1Score": 230,
             "team2Score": 48,
-            "generations": 3366
+            "generations": 3366,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -9096,7 +9596,9 @@
             },
             "team1Score": 50,
             "team2Score": 203,
-            "generations": 1087
+            "generations": 1087,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -9132,7 +9634,9 @@
             },
             "team1Score": 302,
             "team2Score": 0,
-            "generations": 1049
+            "generations": 1049,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -9168,7 +9672,9 @@
             },
             "team1Score": 270,
             "team2Score": 23,
-            "generations": 2086
+            "generations": 2086,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Xenia Tools",
@@ -9204,7 +9710,9 @@
             },
             "team1Score": 280,
             "team2Score": 50,
-            "generations": 1280
+            "generations": 1280,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -9240,7 +9748,9 @@
             },
             "team1Score": 96,
             "team2Score": 161,
-            "generations": 2825
+            "generations": 2825,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -9276,7 +9786,9 @@
             },
             "team1Score": 172,
             "team2Score": 30,
-            "generations": 1840
+            "generations": 1840,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -9314,7 +9826,9 @@
             },
             "team1Score": 135,
             "team2Score": 27,
-            "generations": 1273
+            "generations": 1273,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -9350,7 +9864,9 @@
             },
             "team1Score": 208,
             "team2Score": 93,
-            "generations": 1417
+            "generations": 1417,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -9386,7 +9902,9 @@
             },
             "team1Score": 68,
             "team2Score": 152,
-            "generations": 2530
+            "generations": 2530,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Milton Butchers",
@@ -9422,7 +9940,9 @@
             },
             "team1Score": 198,
             "team2Score": 25,
-            "generations": 1647
+            "generations": 1647,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Xenia Tools",
@@ -9458,7 +9978,9 @@
             },
             "team1Score": 121,
             "team2Score": 138,
-            "generations": 1290
+            "generations": 1290,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -9494,7 +10016,9 @@
             },
             "team1Score": 105,
             "team2Score": 81,
-            "generations": 1717
+            "generations": 1717,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -9530,7 +10054,9 @@
             },
             "team1Score": 289,
             "team2Score": 28,
-            "generations": 1542
+            "generations": 1542,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -9566,7 +10092,9 @@
             },
             "team1Score": 303,
             "team2Score": 10,
-            "generations": 3067
+            "generations": 3067,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -9604,7 +10132,9 @@
             },
             "team1Score": 55,
             "team2Score": 204,
-            "generations": 2813
+            "generations": 2813,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Eastpoint Germophiles",
@@ -9640,7 +10170,9 @@
             },
             "team1Score": 153,
             "team2Score": 87,
-            "generations": 1929
+            "generations": 1929,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -9676,7 +10208,9 @@
             },
             "team1Score": 197,
             "team2Score": 59,
-            "generations": 1302
+            "generations": 1302,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -9712,7 +10246,9 @@
             },
             "team1Score": 44,
             "team2Score": 96,
-            "generations": 1250
+            "generations": 1250,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -9748,7 +10284,9 @@
             },
             "team1Score": 153,
             "team2Score": 101,
-            "generations": 1576
+            "generations": 1576,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -9784,7 +10322,9 @@
             },
             "team1Score": 204,
             "team2Score": 144,
-            "generations": 3963
+            "generations": 3963,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -9820,7 +10360,9 @@
             },
             "team1Score": 263,
             "team2Score": 73,
-            "generations": 2347
+            "generations": 2347,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -9856,7 +10398,9 @@
             },
             "team1Score": 107,
             "team2Score": 55,
-            "generations": 1784
+            "generations": 1784,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9894,7 +10438,9 @@
             },
             "team1Score": 161,
             "team2Score": 79,
-            "generations": 2456
+            "generations": 2456,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Eastpoint Germophiles",
@@ -9930,7 +10476,9 @@
             },
             "team1Score": 246,
             "team2Score": 23,
-            "generations": 2024
+            "generations": 2024,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -9966,7 +10514,9 @@
             },
             "team1Score": 169,
             "team2Score": 82,
-            "generations": 1495
+            "generations": 1495,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Milton Butchers",
@@ -10002,7 +10552,9 @@
             },
             "team1Score": 146,
             "team2Score": 40,
-            "generations": 1286
+            "generations": 1286,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -10038,7 +10590,9 @@
             },
             "team1Score": 309,
             "team2Score": 11,
-            "generations": 1940
+            "generations": 1940,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -10074,7 +10628,9 @@
             },
             "team1Score": 200,
             "team2Score": 129,
-            "generations": 1699
+            "generations": 1699,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -10110,7 +10666,9 @@
             },
             "team1Score": 108,
             "team2Score": 27,
-            "generations": 1837
+            "generations": 1837,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -10146,7 +10704,9 @@
             },
             "team1Score": 164,
             "team2Score": 44,
-            "generations": 1902
+            "generations": 1902,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -10184,7 +10744,9 @@
             },
             "team1Score": 128,
             "team2Score": 10,
-            "generations": 1133
+            "generations": 1133,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -10220,7 +10782,9 @@
             },
             "team1Score": 88,
             "team2Score": 213,
-            "generations": 2147
+            "generations": 2147,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -10256,7 +10820,9 @@
             },
             "team1Score": 213,
             "team2Score": 41,
-            "generations": 2151
+            "generations": 2151,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -10292,7 +10858,9 @@
             },
             "team1Score": 164,
             "team2Score": 46,
-            "generations": 1118
+            "generations": 1118,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Xenia Tools",
@@ -10328,7 +10896,9 @@
             },
             "team1Score": 316,
             "team2Score": 33,
-            "generations": 1235
+            "generations": 1235,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -10364,7 +10934,9 @@
             },
             "team1Score": 121,
             "team2Score": 120,
-            "generations": 1746
+            "generations": 1746,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -10400,7 +10972,9 @@
             },
             "team1Score": 107,
             "team2Score": 114,
-            "generations": 3060
+            "generations": 3060,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -10436,7 +11010,9 @@
             },
             "team1Score": 537,
             "team2Score": 0,
-            "generations": 4235
+            "generations": 4235,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -10474,7 +11050,9 @@
             },
             "team1Score": 59,
             "team2Score": 238,
-            "generations": 2514
+            "generations": 2514,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Eastpoint Germophiles",
@@ -10510,7 +11088,9 @@
             },
             "team1Score": 93,
             "team2Score": 104,
-            "generations": 1949
+            "generations": 1949,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -10546,7 +11126,9 @@
             },
             "team1Score": 84,
             "team2Score": 35,
-            "generations": 1414
+            "generations": 1414,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -10582,7 +11164,9 @@
             },
             "team1Score": 324,
             "team2Score": 2,
-            "generations": 5340
+            "generations": 5340,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -10618,7 +11202,9 @@
             },
             "team1Score": 39,
             "team2Score": 170,
-            "generations": 1520
+            "generations": 1520,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -10654,7 +11240,9 @@
             },
             "team1Score": 10,
             "team2Score": 166,
-            "generations": 1269
+            "generations": 1269,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -10690,7 +11278,9 @@
             },
             "team1Score": 225,
             "team2Score": 16,
-            "generations": 2179
+            "generations": 2179,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -10726,7 +11316,9 @@
             },
             "team1Score": 156,
             "team2Score": 112,
-            "generations": 1948
+            "generations": 1948,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -10764,7 +11356,9 @@
             },
             "team1Score": 134,
             "team2Score": 74,
-            "generations": 1103
+            "generations": 1103,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -10800,7 +11394,9 @@
             },
             "team1Score": 270,
             "team2Score": 75,
-            "generations": 2768
+            "generations": 2768,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -10836,7 +11432,9 @@
             },
             "team1Score": 89,
             "team2Score": 13,
-            "generations": 1383
+            "generations": 1383,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Milton Butchers",
@@ -10872,7 +11470,9 @@
             },
             "team1Score": 282,
             "team2Score": 28,
-            "generations": 1875
+            "generations": 1875,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Xenia Tools",
@@ -10908,7 +11508,9 @@
             },
             "team1Score": 222,
             "team2Score": 49,
-            "generations": 2082
+            "generations": 2082,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -10944,7 +11546,9 @@
             },
             "team1Score": 74,
             "team2Score": 134,
-            "generations": 1171
+            "generations": 1171,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -10980,7 +11584,9 @@
             },
             "team1Score": 157,
             "team2Score": 38,
-            "generations": 1272
+            "generations": 1272,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -11016,7 +11622,9 @@
             },
             "team1Score": 145,
             "team2Score": 129,
-            "generations": 1737
+            "generations": 1737,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11054,7 +11662,9 @@
             },
             "team1Score": 41,
             "team2Score": 117,
-            "generations": 1498
+            "generations": 1498,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -11090,7 +11700,9 @@
             },
             "team1Score": 351,
             "team2Score": 8,
-            "generations": 3139
+            "generations": 3139,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Milton Butchers",
@@ -11126,7 +11738,9 @@
             },
             "team1Score": 180,
             "team2Score": 86,
-            "generations": 2236
+            "generations": 2236,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -11162,7 +11776,9 @@
             },
             "team1Score": 159,
             "team2Score": 22,
-            "generations": 2183
+            "generations": 2183,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -11198,7 +11814,9 @@
             },
             "team1Score": 127,
             "team2Score": 148,
-            "generations": 1724
+            "generations": 1724,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -11234,7 +11852,9 @@
             },
             "team1Score": 174,
             "team2Score": 148,
-            "generations": 2695
+            "generations": 2695,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -11270,7 +11890,9 @@
             },
             "team1Score": 114,
             "team2Score": 95,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -11306,7 +11928,9 @@
             },
             "team1Score": 277,
             "team2Score": 7,
-            "generations": 2526
+            "generations": 2526,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -11344,7 +11968,9 @@
             },
             "team1Score": 216,
             "team2Score": 39,
-            "generations": 3515
+            "generations": 3515,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -11380,7 +12006,9 @@
             },
             "team1Score": 130,
             "team2Score": 181,
-            "generations": 3103
+            "generations": 3103,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -11416,7 +12044,9 @@
             },
             "team1Score": 163,
             "team2Score": 125,
-            "generations": 1974
+            "generations": 1974,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -11452,7 +12082,9 @@
             },
             "team1Score": 214,
             "team2Score": 39,
-            "generations": 1593
+            "generations": 1593,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -11488,7 +12120,9 @@
             },
             "team1Score": 155,
             "team2Score": 128,
-            "generations": 5905
+            "generations": 5905,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Xenia Tools",
@@ -11524,7 +12158,9 @@
             },
             "team1Score": 95,
             "team2Score": 120,
-            "generations": 2539
+            "generations": 2539,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -11560,7 +12196,9 @@
             },
             "team1Score": 99,
             "team2Score": 73,
-            "generations": 1052
+            "generations": 1052,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -11596,7 +12234,9 @@
             },
             "team1Score": 322,
             "team2Score": 49,
-            "generations": 1082
+            "generations": 1082,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11634,7 +12274,9 @@
             },
             "team1Score": 80,
             "team2Score": 149,
-            "generations": 1372
+            "generations": 1372,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -11670,7 +12312,9 @@
             },
             "team1Score": 156,
             "team2Score": 67,
-            "generations": 1184
+            "generations": 1184,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -11706,7 +12350,9 @@
             },
             "team1Score": 173,
             "team2Score": 118,
-            "generations": 2533
+            "generations": 2533,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Eastpoint Germophiles",
@@ -11742,7 +12388,9 @@
             },
             "team1Score": 199,
             "team2Score": 17,
-            "generations": 1365
+            "generations": 1365,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -11778,7 +12426,9 @@
             },
             "team1Score": 121,
             "team2Score": 148,
-            "generations": 1447
+            "generations": 1447,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -11814,7 +12464,9 @@
             },
             "team1Score": 85,
             "team2Score": 100,
-            "generations": 2693
+            "generations": 2693,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -11850,7 +12502,9 @@
             },
             "team1Score": 79,
             "team2Score": 39,
-            "generations": 1022
+            "generations": 1022,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -11886,7 +12540,9 @@
             },
             "team1Score": 693,
             "team2Score": 0,
-            "generations": 1633
+            "generations": 1633,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -11924,7 +12580,9 @@
             },
             "team1Score": 264,
             "team2Score": 14,
-            "generations": 2891
+            "generations": 2891,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -11960,7 +12618,9 @@
             },
             "team1Score": 251,
             "team2Score": 177,
-            "generations": 2832
+            "generations": 2832,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -11996,7 +12656,9 @@
             },
             "team1Score": 61,
             "team2Score": 99,
-            "generations": 1664
+            "generations": 1664,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Eastpoint Germophiles",
@@ -12032,7 +12694,9 @@
             },
             "team1Score": 199,
             "team2Score": 62,
-            "generations": 1298
+            "generations": 1298,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Xenia Tools",
@@ -12068,7 +12732,9 @@
             },
             "team1Score": 431,
             "team2Score": 6,
-            "generations": 2429
+            "generations": 2429,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -12104,7 +12770,9 @@
             },
             "team1Score": 486,
             "team2Score": 0,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -12140,7 +12808,9 @@
             },
             "team1Score": 552,
             "team2Score": 0,
-            "generations": 1940
+            "generations": 1940,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -12176,7 +12846,9 @@
             },
             "team1Score": 146,
             "team2Score": 39,
-            "generations": 5081
+            "generations": 5081,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -12214,7 +12886,9 @@
             },
             "team1Score": 120,
             "team2Score": 24,
-            "generations": 1587
+            "generations": 1587,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -12250,7 +12924,9 @@
             },
             "team1Score": 193,
             "team2Score": 128,
-            "generations": 2295
+            "generations": 2295,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -12286,7 +12962,9 @@
             },
             "team1Score": 72,
             "team2Score": 60,
-            "generations": 1224
+            "generations": 1224,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -12322,7 +13000,9 @@
             },
             "team1Score": 135,
             "team2Score": 27,
-            "generations": 1212
+            "generations": 1212,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -12358,7 +13038,9 @@
             },
             "team1Score": 380,
             "team2Score": 5,
-            "generations": 2915
+            "generations": 2915,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -12394,7 +13076,9 @@
             },
             "team1Score": 125,
             "team2Score": 96,
-            "generations": 2392
+            "generations": 2392,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -12430,7 +13114,9 @@
             },
             "team1Score": 263,
             "team2Score": 7,
-            "generations": 1749
+            "generations": 1749,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -12466,7 +13152,9 @@
             },
             "team1Score": 190,
             "team2Score": 63,
-            "generations": 2797
+            "generations": 2797,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -12504,7 +13192,9 @@
             },
             "team1Score": 79,
             "team2Score": 8,
-            "generations": 1073
+            "generations": 1073,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -12540,7 +13230,9 @@
             },
             "team1Score": 157,
             "team2Score": 43,
-            "generations": 1158
+            "generations": 1158,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Eastpoint Germophiles",
@@ -12576,7 +13268,9 @@
             },
             "team1Score": 128,
             "team2Score": 111,
-            "generations": 1818
+            "generations": 1818,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -12612,7 +13306,9 @@
             },
             "team1Score": 63,
             "team2Score": 102,
-            "generations": 1184
+            "generations": 1184,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -12648,7 +13344,9 @@
             },
             "team1Score": 92,
             "team2Score": 149,
-            "generations": 1478
+            "generations": 1478,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -12684,7 +13382,9 @@
             },
             "team1Score": 95,
             "team2Score": 120,
-            "generations": 1112
+            "generations": 1112,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -12720,7 +13420,9 @@
             },
             "team1Score": 111,
             "team2Score": 190,
-            "generations": 3424
+            "generations": 3424,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -12756,7 +13458,9 @@
             },
             "team1Score": 360,
             "team2Score": 2,
-            "generations": 1382
+            "generations": 1382,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -12794,7 +13498,9 @@
             },
             "team1Score": 49,
             "team2Score": 146,
-            "generations": 1606
+            "generations": 1606,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Reedsport Commuters",
@@ -12830,7 +13536,9 @@
             },
             "team1Score": 212,
             "team2Score": 22,
-            "generations": 1256
+            "generations": 1256,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -12866,7 +13574,9 @@
             },
             "team1Score": 53,
             "team2Score": 73,
-            "generations": 1277
+            "generations": 1277,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -12902,7 +13612,9 @@
             },
             "team1Score": 223,
             "team2Score": 84,
-            "generations": 2625
+            "generations": 2625,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Xenia Tools",
@@ -12938,7 +13650,9 @@
             },
             "team1Score": 152,
             "team2Score": 200,
-            "generations": 1582
+            "generations": 1582,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -12974,7 +13688,9 @@
             },
             "team1Score": 200,
             "team2Score": 81,
-            "generations": 3311
+            "generations": 3311,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -13010,7 +13726,9 @@
             },
             "team1Score": 82,
             "team2Score": 152,
-            "generations": 1703
+            "generations": 1703,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -13046,7 +13764,9 @@
             },
             "team1Score": 363,
             "team2Score": 8,
-            "generations": 2278
+            "generations": 2278,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -13084,7 +13804,9 @@
             },
             "team1Score": 306,
             "team2Score": 36,
-            "generations": 1907
+            "generations": 1907,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gardnerville Moths",
@@ -13120,7 +13842,9 @@
             },
             "team1Score": 217,
             "team2Score": 67,
-            "generations": 2716
+            "generations": 2716,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Eastpoint Germophiles",
@@ -13156,7 +13880,9 @@
             },
             "team1Score": 103,
             "team2Score": 150,
-            "generations": 1557
+            "generations": 1557,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -13192,7 +13918,9 @@
             },
             "team1Score": 109,
             "team2Score": 26,
-            "generations": 1263
+            "generations": 1263,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -13228,7 +13956,9 @@
             },
             "team1Score": 313,
             "team2Score": 9,
-            "generations": 3654
+            "generations": 3654,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Xenia Tools",
@@ -13264,7 +13994,9 @@
             },
             "team1Score": 134,
             "team2Score": 93,
-            "generations": 1378
+            "generations": 1378,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -13300,7 +14032,9 @@
             },
             "team1Score": 324,
             "team2Score": 4,
-            "generations": 3485
+            "generations": 3485,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -13336,7 +14070,9 @@
             },
             "team1Score": 160,
             "team2Score": 17,
-            "generations": 1982
+            "generations": 1982,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -13374,7 +14110,9 @@
             },
             "team1Score": 346,
             "team2Score": 51,
-            "generations": 2300
+            "generations": 2300,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -13410,7 +14148,9 @@
             },
             "team1Score": 103,
             "team2Score": 127,
-            "generations": 1113
+            "generations": 1113,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -13446,7 +14186,9 @@
             },
             "team1Score": 157,
             "team2Score": 65,
-            "generations": 2860
+            "generations": 2860,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -13482,7 +14224,9 @@
             },
             "team1Score": 125,
             "team2Score": 12,
-            "generations": 1246
+            "generations": 1246,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -13518,7 +14262,9 @@
             },
             "team1Score": 235,
             "team2Score": 95,
-            "generations": 4153
+            "generations": 4153,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -13554,7 +14300,9 @@
             },
             "team1Score": 125,
             "team2Score": 117,
-            "generations": 1618
+            "generations": 1618,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -13590,7 +14338,9 @@
             },
             "team1Score": 78,
             "team2Score": 89,
-            "generations": 1235
+            "generations": 1235,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -13626,7 +14376,9 @@
             },
             "team1Score": 116,
             "team2Score": 95,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13664,7 +14416,9 @@
             },
             "team1Score": 56,
             "team2Score": 34,
-            "generations": 1271
+            "generations": 1271,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Lely Closed Circuits",
@@ -13700,7 +14454,9 @@
             },
             "team1Score": 153,
             "team2Score": 4,
-            "generations": 1761
+            "generations": 1761,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Eastpoint Germophiles",
@@ -13736,7 +14492,9 @@
             },
             "team1Score": 217,
             "team2Score": 14,
-            "generations": 2259
+            "generations": 2259,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Conway Umbrellas",
@@ -13772,7 +14530,9 @@
             },
             "team1Score": 136,
             "team2Score": 102,
-            "generations": 1712
+            "generations": 1712,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Mogul Geniuses",
@@ -13808,7 +14568,9 @@
             },
             "team1Score": 82,
             "team2Score": 117,
-            "generations": 1672
+            "generations": 1672,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Xenia Tools",
@@ -13844,7 +14606,9 @@
             },
             "team1Score": 292,
             "team2Score": 41,
-            "generations": 1460
+            "generations": 1460,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Northfield Troubles",
@@ -13880,7 +14644,9 @@
             },
             "team1Score": 28,
             "team2Score": 145,
-            "generations": 1082
+            "generations": 1082,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Nokomis Squids",
@@ -13916,7 +14682,9 @@
             },
             "team1Score": 134,
             "team2Score": 139,
-            "generations": 1401
+            "generations": 1401,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13954,7 +14722,9 @@
             },
             "team1Score": 51,
             "team2Score": 123,
-            "generations": 1488
+            "generations": 1488,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Milton Butchers",
@@ -13990,7 +14760,9 @@
             },
             "team1Score": 378,
             "team2Score": 0,
-            "generations": 1629
+            "generations": 1629,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Rye Red Rumps",
@@ -14026,7 +14798,9 @@
             },
             "team1Score": 138,
             "team2Score": 47,
-            "generations": 2579
+            "generations": 2579,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Gold Bar Postdocs",
@@ -14062,7 +14836,9 @@
             },
             "team1Score": 45,
             "team2Score": 216,
-            "generations": 1732
+            "generations": 1732,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Carlinville Thirdborn",
@@ -14098,7 +14874,9 @@
             },
             "team1Score": 207,
             "team2Score": 92,
-            "generations": 2770
+            "generations": 2770,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Greenfield Train Robbers",
@@ -14134,7 +14912,9 @@
             },
             "team1Score": 344,
             "team2Score": 15,
-            "generations": 2000
+            "generations": 2000,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pleasant Prairie Frowny Faces",
@@ -14170,7 +14950,9 @@
             },
             "team1Score": 178,
             "team2Score": 50,
-            "generations": 1130
+            "generations": 1130,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Chatmoss Tailing Ponds",
@@ -14206,7 +14988,9 @@
             },
             "team1Score": 204,
             "team2Score": 147,
-            "generations": 1980
+            "generations": 1980,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ]
 ]

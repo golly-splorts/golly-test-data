@@ -44,7 +44,9 @@
                 },
                 "team1Score": 76,
                 "team2Score": 92,
-                "generations": 1006
+                "generations": 1006,
+                "team1Abbr": "TB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Eastpoint Germophiles",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 218,
                 "team2Score": 135,
-                "generations": 1584
+                "generations": 1584,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Pleasant Prairie Frowny Faces",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 63,
                 "team2Score": 58,
-                "generations": 1596
+                "generations": 1596,
+                "team1Abbr": "ORL",
+                "team2Abbr": "DET"
             },
             {
                 "team1Name": "Xenia Tools",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 219,
                 "team2Score": 91,
-                "generations": 2766
+                "generations": 2766,
+                "team1Abbr": "MILF",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 138,
                 "team2Score": 133,
-                "generations": 2837
+                "generations": 2837,
+                "team1Abbr": "TB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Eastpoint Germophiles",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 188,
                 "team2Score": 30,
-                "generations": 1361
+                "generations": 1361,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "LBFB"
             },
             {
                 "team1Name": "Pleasant Prairie Frowny Faces",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 73,
                 "team2Score": 142,
-                "generations": 1336
+                "generations": 1336,
+                "team1Abbr": "ORL",
+                "team2Abbr": "DET"
             },
             {
                 "team1Name": "Xenia Tools",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 107,
                 "team2Score": 44,
-                "generations": 1087
+                "generations": 1087,
+                "team1Abbr": "MILF",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 40,
                 "team2Score": 75,
-                "generations": 2153
+                "generations": 2153,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Lely Closed Circuits",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 188,
                 "team2Score": 111,
-                "generations": 1316
+                "generations": 1316,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Carlinville Thirdborn",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 287,
                 "team2Score": 29,
-                "generations": 1405
+                "generations": 1405,
+                "team1Abbr": "DET",
+                "team2Abbr": "ORL"
             },
             {
                 "team1Name": "Northfield Troubles",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 184,
                 "team2Score": 83,
-                "generations": 2381
+                "generations": 2381,
+                "team1Abbr": "SAC",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 253,
                 "team2Score": 19,
-                "generations": 2072
+                "generations": 2072,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Lely Closed Circuits",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 91,
                 "team2Score": 134,
-                "generations": 1645
+                "generations": 1645,
+                "team1Abbr": "LBFB",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Carlinville Thirdborn",
@@ -680,7 +708,9 @@
                 },
                 "team1Score": 194,
                 "team2Score": 76,
-                "generations": 2050
+                "generations": 2050,
+                "team1Abbr": "DET",
+                "team2Abbr": "ORL"
             },
             {
                 "team1Name": "Northfield Troubles",
@@ -725,7 +755,9 @@
                 },
                 "team1Score": 228,
                 "team2Score": 6,
-                "generations": 1280
+                "generations": 1280,
+                "team1Abbr": "SAC",
+                "team2Abbr": "MILF"
             }
         ],
         [
@@ -772,7 +804,9 @@
                 },
                 "team1Score": 191,
                 "team2Score": 7,
-                "generations": 1800
+                "generations": 1800,
+                "team1Abbr": "TB",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Xenia Tools",
@@ -817,7 +851,9 @@
                 },
                 "team1Score": 41,
                 "team2Score": 216,
-                "generations": 1732
+                "generations": 1732,
+                "team1Abbr": "MILF",
+                "team2Abbr": "SAC"
             }
         ]
     ],
@@ -866,7 +902,9 @@
                 },
                 "team1Score": 115,
                 "team2Score": 136,
-                "generations": 1933
+                "generations": 1933,
+                "team1Abbr": "TB",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Northfield Troubles",
@@ -911,7 +949,9 @@
                 },
                 "team1Score": 140,
                 "team2Score": 104,
-                "generations": 1941
+                "generations": 1941,
+                "team1Abbr": "SAC",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -958,7 +998,9 @@
                 },
                 "team1Score": 168,
                 "team2Score": 123,
-                "generations": 1568
+                "generations": 1568,
+                "team1Abbr": "TB",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Northfield Troubles",
@@ -1003,7 +1045,9 @@
                 },
                 "team1Score": 55,
                 "team2Score": 169,
-                "generations": 1731
+                "generations": 1731,
+                "team1Abbr": "SAC",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -1050,7 +1094,9 @@
                 },
                 "team1Score": 118,
                 "team2Score": 114,
-                "generations": 1561
+                "generations": 1561,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Carlinville Thirdborn",
@@ -1095,7 +1141,9 @@
                 },
                 "team1Score": 84,
                 "team2Score": 74,
-                "generations": 1263
+                "generations": 1263,
+                "team1Abbr": "DET",
+                "team2Abbr": "SAC"
             }
         ],
         [
@@ -1142,7 +1190,9 @@
                 },
                 "team1Score": 173,
                 "team2Score": 20,
-                "generations": 2029
+                "generations": 2029,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "TB"
             },
             {
                 "team1Name": "Carlinville Thirdborn",
@@ -1187,7 +1237,9 @@
                 },
                 "team1Score": 231,
                 "team2Score": 35,
-                "generations": 2662
+                "generations": 2662,
+                "team1Abbr": "DET",
+                "team2Abbr": "SAC"
             }
         ]
     ],
@@ -1235,7 +1287,9 @@
                 },
                 "team1Score": 142,
                 "team2Score": 164,
-                "generations": 2342
+                "generations": 2342,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -1281,7 +1335,9 @@
                 },
                 "team1Score": 60,
                 "team2Score": 86,
-                "generations": 1014
+                "generations": 1014,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -1327,7 +1383,9 @@
                 },
                 "team1Score": 632,
                 "team2Score": 0,
-                "generations": 1955
+                "generations": 1955,
+                "team1Abbr": "DET",
+                "team2Abbr": "OSHA"
             }
         ],
         [
@@ -1373,7 +1431,9 @@
                 },
                 "team1Score": 264,
                 "team2Score": 32,
-                "generations": 3127
+                "generations": 3127,
+                "team1Abbr": "DET",
+                "team2Abbr": "OSHA"
             }
         ]
     ]

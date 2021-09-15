@@ -34,7 +34,9 @@
             },
             "team1Score": 78,
             "team2Score": 65,
-            "generations": 3154
+            "generations": 3154,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -70,7 +72,9 @@
             },
             "team1Score": 242,
             "team2Score": 38,
-            "generations": 2891
+            "generations": 2891,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -106,7 +110,9 @@
             },
             "team1Score": 92,
             "team2Score": 261,
-            "generations": 2085
+            "generations": 2085,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -142,7 +148,9 @@
             },
             "team1Score": 134,
             "team2Score": 58,
-            "generations": 1432
+            "generations": 1432,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -178,7 +186,9 @@
             },
             "team1Score": 54,
             "team2Score": 148,
-            "generations": 1858
+            "generations": 1858,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -214,7 +224,9 @@
             },
             "team1Score": 63,
             "team2Score": 22,
-            "generations": 1045
+            "generations": 1045,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -250,7 +262,9 @@
             },
             "team1Score": 287,
             "team2Score": 75,
-            "generations": 3080
+            "generations": 3080,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -286,7 +300,9 @@
             },
             "team1Score": 179,
             "team2Score": 201,
-            "generations": 1286
+            "generations": 1286,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -324,7 +340,9 @@
             },
             "team1Score": 99,
             "team2Score": 139,
-            "generations": 1424
+            "generations": 1424,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -360,7 +378,9 @@
             },
             "team1Score": 125,
             "team2Score": 73,
-            "generations": 1962
+            "generations": 1962,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -396,7 +416,9 @@
             },
             "team1Score": 198,
             "team2Score": 118,
-            "generations": 3568
+            "generations": 3568,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -432,7 +454,9 @@
             },
             "team1Score": 43,
             "team2Score": 223,
-            "generations": 1538
+            "generations": 1538,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -468,7 +492,9 @@
             },
             "team1Score": 155,
             "team2Score": 170,
-            "generations": 1171
+            "generations": 1171,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -504,7 +530,9 @@
             },
             "team1Score": 166,
             "team2Score": 238,
-            "generations": 1517
+            "generations": 1517,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -540,7 +568,9 @@
             },
             "team1Score": 143,
             "team2Score": 136,
-            "generations": 1278
+            "generations": 1278,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -576,7 +606,9 @@
             },
             "team1Score": 273,
             "team2Score": 61,
-            "generations": 2124
+            "generations": 2124,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -614,7 +646,9 @@
             },
             "team1Score": 153,
             "team2Score": 184,
-            "generations": 1211
+            "generations": 1211,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -650,7 +684,9 @@
             },
             "team1Score": 206,
             "team2Score": 167,
-            "generations": 2364
+            "generations": 2364,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -686,7 +722,9 @@
             },
             "team1Score": 141,
             "team2Score": 148,
-            "generations": 1860
+            "generations": 1860,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -722,7 +760,9 @@
             },
             "team1Score": 156,
             "team2Score": 211,
-            "generations": 1799
+            "generations": 1799,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -758,7 +798,9 @@
             },
             "team1Score": 152,
             "team2Score": 78,
-            "generations": 1923
+            "generations": 1923,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -794,7 +836,9 @@
             },
             "team1Score": 130,
             "team2Score": 230,
-            "generations": 1691
+            "generations": 1691,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -830,7 +874,9 @@
             },
             "team1Score": 53,
             "team2Score": 375,
-            "generations": 1799
+            "generations": 1799,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -866,7 +912,9 @@
             },
             "team1Score": 138,
             "team2Score": 230,
-            "generations": 1888
+            "generations": 1888,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -904,7 +952,9 @@
             },
             "team1Score": 73,
             "team2Score": 184,
-            "generations": 1106
+            "generations": 1106,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -940,7 +990,9 @@
             },
             "team1Score": 62,
             "team2Score": 245,
-            "generations": 2507
+            "generations": 2507,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -976,7 +1028,9 @@
             },
             "team1Score": 52,
             "team2Score": 116,
-            "generations": 1474
+            "generations": 1474,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -1012,7 +1066,9 @@
             },
             "team1Score": 41,
             "team2Score": 122,
-            "generations": 1060
+            "generations": 1060,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -1048,7 +1104,9 @@
             },
             "team1Score": 135,
             "team2Score": 219,
-            "generations": 1567
+            "generations": 1567,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -1084,7 +1142,9 @@
             },
             "team1Score": 178,
             "team2Score": 137,
-            "generations": 1181
+            "generations": 1181,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -1120,7 +1180,9 @@
             },
             "team1Score": 59,
             "team2Score": 133,
-            "generations": 1361
+            "generations": 1361,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -1156,7 +1218,9 @@
             },
             "team1Score": 49,
             "team2Score": 274,
-            "generations": 2349
+            "generations": 2349,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -1194,7 +1258,9 @@
             },
             "team1Score": 134,
             "team2Score": 148,
-            "generations": 1851
+            "generations": 1851,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -1230,7 +1296,9 @@
             },
             "team1Score": 6,
             "team2Score": 189,
-            "generations": 1426
+            "generations": 1426,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -1266,7 +1334,9 @@
             },
             "team1Score": 83,
             "team2Score": 201,
-            "generations": 2964
+            "generations": 2964,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -1302,7 +1372,9 @@
             },
             "team1Score": 91,
             "team2Score": 208,
-            "generations": 1626
+            "generations": 1626,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -1338,7 +1410,9 @@
             },
             "team1Score": 49,
             "team2Score": 95,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -1374,7 +1448,9 @@
             },
             "team1Score": 186,
             "team2Score": 148,
-            "generations": 2724
+            "generations": 2724,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -1410,7 +1486,9 @@
             },
             "team1Score": 100,
             "team2Score": 116,
-            "generations": 1639
+            "generations": 1639,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -1446,7 +1524,9 @@
             },
             "team1Score": 274,
             "team2Score": 67,
-            "generations": 1680
+            "generations": 1680,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -1484,7 +1564,9 @@
             },
             "team1Score": 139,
             "team2Score": 156,
-            "generations": 1781
+            "generations": 1781,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -1520,7 +1602,9 @@
             },
             "team1Score": 219,
             "team2Score": 63,
-            "generations": 2158
+            "generations": 2158,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -1556,7 +1640,9 @@
             },
             "team1Score": 39,
             "team2Score": 129,
-            "generations": 2036
+            "generations": 2036,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -1592,7 +1678,9 @@
             },
             "team1Score": 121,
             "team2Score": 177,
-            "generations": 3322
+            "generations": 3322,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -1628,7 +1716,9 @@
             },
             "team1Score": 186,
             "team2Score": 33,
-            "generations": 1893
+            "generations": 1893,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -1664,7 +1754,9 @@
             },
             "team1Score": 77,
             "team2Score": 4,
-            "generations": 1053
+            "generations": 1053,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -1700,7 +1792,9 @@
             },
             "team1Score": 215,
             "team2Score": 87,
-            "generations": 1934
+            "generations": 1934,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -1736,7 +1830,9 @@
             },
             "team1Score": 207,
             "team2Score": 177,
-            "generations": 2070
+            "generations": 2070,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -1774,7 +1870,9 @@
             },
             "team1Score": 4,
             "team2Score": 241,
-            "generations": 4084
+            "generations": 4084,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -1810,7 +1908,9 @@
             },
             "team1Score": 83,
             "team2Score": 122,
-            "generations": 1182
+            "generations": 1182,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -1846,7 +1946,9 @@
             },
             "team1Score": 93,
             "team2Score": 155,
-            "generations": 1825
+            "generations": 1825,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -1882,7 +1984,9 @@
             },
             "team1Score": 112,
             "team2Score": 99,
-            "generations": 1535
+            "generations": 1535,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -1918,7 +2022,9 @@
             },
             "team1Score": 105,
             "team2Score": 121,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -1954,7 +2060,9 @@
             },
             "team1Score": 99,
             "team2Score": 263,
-            "generations": 2126
+            "generations": 2126,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -1990,7 +2098,9 @@
             },
             "team1Score": 76,
             "team2Score": 147,
-            "generations": 1326
+            "generations": 1326,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -2026,7 +2136,9 @@
             },
             "team1Score": 177,
             "team2Score": 85,
-            "generations": 1687
+            "generations": 1687,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -2064,7 +2176,9 @@
             },
             "team1Score": 308,
             "team2Score": 64,
-            "generations": 2114
+            "generations": 2114,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -2100,7 +2214,9 @@
             },
             "team1Score": 177,
             "team2Score": 134,
-            "generations": 1831
+            "generations": 1831,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -2136,7 +2252,9 @@
             },
             "team1Score": 154,
             "team2Score": 120,
-            "generations": 1401
+            "generations": 1401,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -2172,7 +2290,9 @@
             },
             "team1Score": 80,
             "team2Score": 266,
-            "generations": 2994
+            "generations": 2994,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -2208,7 +2328,9 @@
             },
             "team1Score": 81,
             "team2Score": 190,
-            "generations": 1193
+            "generations": 1193,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -2244,7 +2366,9 @@
             },
             "team1Score": 86,
             "team2Score": 56,
-            "generations": 1048
+            "generations": 1048,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -2280,7 +2404,9 @@
             },
             "team1Score": 104,
             "team2Score": 94,
-            "generations": 1119
+            "generations": 1119,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -2316,7 +2442,9 @@
             },
             "team1Score": 155,
             "team2Score": 181,
-            "generations": 2698
+            "generations": 2698,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -2354,7 +2482,9 @@
             },
             "team1Score": 164,
             "team2Score": 125,
-            "generations": 2185
+            "generations": 2185,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -2390,7 +2520,9 @@
             },
             "team1Score": 300,
             "team2Score": 23,
-            "generations": 1501
+            "generations": 1501,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -2426,7 +2558,9 @@
             },
             "team1Score": 216,
             "team2Score": 134,
-            "generations": 1305
+            "generations": 1305,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -2462,7 +2596,9 @@
             },
             "team1Score": 97,
             "team2Score": 82,
-            "generations": 1524
+            "generations": 1524,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -2498,7 +2634,9 @@
             },
             "team1Score": 211,
             "team2Score": 4,
-            "generations": 3999
+            "generations": 3999,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -2534,7 +2672,9 @@
             },
             "team1Score": 242,
             "team2Score": 126,
-            "generations": 2076
+            "generations": 2076,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -2570,7 +2710,9 @@
             },
             "team1Score": 165,
             "team2Score": 86,
-            "generations": 2351
+            "generations": 2351,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -2606,7 +2748,9 @@
             },
             "team1Score": 80,
             "team2Score": 73,
-            "generations": 1085
+            "generations": 1085,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -2644,7 +2788,9 @@
             },
             "team1Score": 113,
             "team2Score": 197,
-            "generations": 1902
+            "generations": 1902,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -2680,7 +2826,9 @@
             },
             "team1Score": 254,
             "team2Score": 122,
-            "generations": 1493
+            "generations": 1493,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -2716,7 +2864,9 @@
             },
             "team1Score": 61,
             "team2Score": 233,
-            "generations": 2624
+            "generations": 2624,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -2752,7 +2902,9 @@
             },
             "team1Score": 118,
             "team2Score": 90,
-            "generations": 1306
+            "generations": 1306,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -2788,7 +2940,9 @@
             },
             "team1Score": 4,
             "team2Score": 214,
-            "generations": 2611
+            "generations": 2611,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -2824,7 +2978,9 @@
             },
             "team1Score": 35,
             "team2Score": 218,
-            "generations": 2418
+            "generations": 2418,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -2860,7 +3016,9 @@
             },
             "team1Score": 247,
             "team2Score": 49,
-            "generations": 3349
+            "generations": 3349,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -2896,7 +3054,9 @@
             },
             "team1Score": 106,
             "team2Score": 216,
-            "generations": 1132
+            "generations": 1132,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -2934,7 +3094,9 @@
             },
             "team1Score": 124,
             "team2Score": 4,
-            "generations": 3136
+            "generations": 3136,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -2970,7 +3132,9 @@
             },
             "team1Score": 112,
             "team2Score": 277,
-            "generations": 2337
+            "generations": 2337,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -3006,7 +3170,9 @@
             },
             "team1Score": 207,
             "team2Score": 55,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -3042,7 +3208,9 @@
             },
             "team1Score": 377,
             "team2Score": 0,
-            "generations": 2083
+            "generations": 2083,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -3078,7 +3246,9 @@
             },
             "team1Score": 85,
             "team2Score": 110,
-            "generations": 1157
+            "generations": 1157,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -3114,7 +3284,9 @@
             },
             "team1Score": 23,
             "team2Score": 257,
-            "generations": 2720
+            "generations": 2720,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -3150,7 +3322,9 @@
             },
             "team1Score": 139,
             "team2Score": 58,
-            "generations": 1058
+            "generations": 1058,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -3186,7 +3360,9 @@
             },
             "team1Score": 198,
             "team2Score": 36,
-            "generations": 2691
+            "generations": 2691,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -3224,7 +3400,9 @@
             },
             "team1Score": 116,
             "team2Score": 234,
-            "generations": 2111
+            "generations": 2111,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -3260,7 +3438,9 @@
             },
             "team1Score": 241,
             "team2Score": 89,
-            "generations": 1134
+            "generations": 1134,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -3296,7 +3476,9 @@
             },
             "team1Score": 36,
             "team2Score": 116,
-            "generations": 1840
+            "generations": 1840,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -3332,7 +3514,9 @@
             },
             "team1Score": 63,
             "team2Score": 29,
-            "generations": 1067
+            "generations": 1067,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -3368,7 +3552,9 @@
             },
             "team1Score": 109,
             "team2Score": 199,
-            "generations": 1104
+            "generations": 1104,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -3404,7 +3590,9 @@
             },
             "team1Score": 130,
             "team2Score": 122,
-            "generations": 1247
+            "generations": 1247,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -3440,7 +3628,9 @@
             },
             "team1Score": 192,
             "team2Score": 159,
-            "generations": 2209
+            "generations": 2209,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -3476,7 +3666,9 @@
             },
             "team1Score": 76,
             "team2Score": 27,
-            "generations": 1137
+            "generations": 1137,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -3514,7 +3706,9 @@
             },
             "team1Score": 136,
             "team2Score": 134,
-            "generations": 1186
+            "generations": 1186,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -3550,7 +3744,9 @@
             },
             "team1Score": 133,
             "team2Score": 147,
-            "generations": 1727
+            "generations": 1727,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -3586,7 +3782,9 @@
             },
             "team1Score": 214,
             "team2Score": 99,
-            "generations": 3700
+            "generations": 3700,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -3622,7 +3820,9 @@
             },
             "team1Score": 36,
             "team2Score": 194,
-            "generations": 2481
+            "generations": 2481,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -3658,7 +3858,9 @@
             },
             "team1Score": 115,
             "team2Score": 60,
-            "generations": 1341
+            "generations": 1341,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -3694,7 +3896,9 @@
             },
             "team1Score": 194,
             "team2Score": 12,
-            "generations": 1157
+            "generations": 1157,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -3730,7 +3934,9 @@
             },
             "team1Score": 169,
             "team2Score": 162,
-            "generations": 1109
+            "generations": 1109,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -3766,7 +3972,9 @@
             },
             "team1Score": 294,
             "team2Score": 54,
-            "generations": 2288
+            "generations": 2288,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -3804,7 +4012,9 @@
             },
             "team1Score": 96,
             "team2Score": 127,
-            "generations": 2593
+            "generations": 2593,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -3840,7 +4050,9 @@
             },
             "team1Score": 218,
             "team2Score": 54,
-            "generations": 1282
+            "generations": 1282,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -3876,7 +4088,9 @@
             },
             "team1Score": 13,
             "team2Score": 153,
-            "generations": 1822
+            "generations": 1822,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -3912,7 +4126,9 @@
             },
             "team1Score": 176,
             "team2Score": 75,
-            "generations": 2316
+            "generations": 2316,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -3948,7 +4164,9 @@
             },
             "team1Score": 62,
             "team2Score": 142,
-            "generations": 1315
+            "generations": 1315,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -3984,7 +4202,9 @@
             },
             "team1Score": 422,
             "team2Score": 19,
-            "generations": 4950
+            "generations": 4950,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -4020,7 +4240,9 @@
             },
             "team1Score": 52,
             "team2Score": 271,
-            "generations": 1953
+            "generations": 1953,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -4056,7 +4278,9 @@
             },
             "team1Score": 78,
             "team2Score": 241,
-            "generations": 3722
+            "generations": 3722,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -4094,7 +4318,9 @@
             },
             "team1Score": 204,
             "team2Score": 85,
-            "generations": 2287
+            "generations": 2287,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -4130,7 +4356,9 @@
             },
             "team1Score": 162,
             "team2Score": 139,
-            "generations": 3078
+            "generations": 3078,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -4166,7 +4394,9 @@
             },
             "team1Score": 82,
             "team2Score": 203,
-            "generations": 2471
+            "generations": 2471,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -4202,7 +4432,9 @@
             },
             "team1Score": 230,
             "team2Score": 59,
-            "generations": 2896
+            "generations": 2896,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -4238,7 +4470,9 @@
             },
             "team1Score": 176,
             "team2Score": 135,
-            "generations": 1192
+            "generations": 1192,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -4274,7 +4508,9 @@
             },
             "team1Score": 135,
             "team2Score": 165,
-            "generations": 1982
+            "generations": 1982,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -4310,7 +4546,9 @@
             },
             "team1Score": 74,
             "team2Score": 193,
-            "generations": 1271
+            "generations": 1271,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -4346,7 +4584,9 @@
             },
             "team1Score": 141,
             "team2Score": 213,
-            "generations": 1204
+            "generations": 1204,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -4384,7 +4624,9 @@
             },
             "team1Score": 255,
             "team2Score": 21,
-            "generations": 1899
+            "generations": 1899,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -4420,7 +4662,9 @@
             },
             "team1Score": 155,
             "team2Score": 224,
-            "generations": 3610
+            "generations": 3610,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -4456,7 +4700,9 @@
             },
             "team1Score": 98,
             "team2Score": 54,
-            "generations": 1120
+            "generations": 1120,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -4492,7 +4738,9 @@
             },
             "team1Score": 220,
             "team2Score": 130,
-            "generations": 1547
+            "generations": 1547,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -4528,7 +4776,9 @@
             },
             "team1Score": 73,
             "team2Score": 212,
-            "generations": 1474
+            "generations": 1474,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -4564,7 +4814,9 @@
             },
             "team1Score": 144,
             "team2Score": 124,
-            "generations": 2331
+            "generations": 2331,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -4600,7 +4852,9 @@
             },
             "team1Score": 226,
             "team2Score": 92,
-            "generations": 2045
+            "generations": 2045,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -4636,7 +4890,9 @@
             },
             "team1Score": 107,
             "team2Score": 118,
-            "generations": 1372
+            "generations": 1372,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -4674,7 +4930,9 @@
             },
             "team1Score": 115,
             "team2Score": 246,
-            "generations": 3530
+            "generations": 3530,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -4710,7 +4968,9 @@
             },
             "team1Score": 192,
             "team2Score": 129,
-            "generations": 4456
+            "generations": 4456,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -4746,7 +5006,9 @@
             },
             "team1Score": 21,
             "team2Score": 231,
-            "generations": 2791
+            "generations": 2791,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -4782,7 +5044,9 @@
             },
             "team1Score": 201,
             "team2Score": 78,
-            "generations": 3533
+            "generations": 3533,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -4818,7 +5082,9 @@
             },
             "team1Score": 55,
             "team2Score": 110,
-            "generations": 1560
+            "generations": 1560,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -4854,7 +5120,9 @@
             },
             "team1Score": 203,
             "team2Score": 79,
-            "generations": 1159
+            "generations": 1159,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -4890,7 +5158,9 @@
             },
             "team1Score": 46,
             "team2Score": 195,
-            "generations": 2051
+            "generations": 2051,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -4926,7 +5196,9 @@
             },
             "team1Score": 269,
             "team2Score": 103,
-            "generations": 2114
+            "generations": 2114,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -4964,7 +5236,9 @@
             },
             "team1Score": 88,
             "team2Score": 126,
-            "generations": 1793
+            "generations": 1793,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -5000,7 +5274,9 @@
             },
             "team1Score": 35,
             "team2Score": 322,
-            "generations": 2466
+            "generations": 2466,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -5036,7 +5312,9 @@
             },
             "team1Score": 192,
             "team2Score": 98,
-            "generations": 1987
+            "generations": 1987,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -5072,7 +5350,9 @@
             },
             "team1Score": 214,
             "team2Score": 107,
-            "generations": 2504
+            "generations": 2504,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -5108,7 +5388,9 @@
             },
             "team1Score": 84,
             "team2Score": 152,
-            "generations": 1153
+            "generations": 1153,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -5144,7 +5426,9 @@
             },
             "team1Score": 96,
             "team2Score": 179,
-            "generations": 2773
+            "generations": 2773,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -5180,7 +5464,9 @@
             },
             "team1Score": 96,
             "team2Score": 146,
-            "generations": 1548
+            "generations": 1548,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -5216,7 +5502,9 @@
             },
             "team1Score": 161,
             "team2Score": 49,
-            "generations": 1355
+            "generations": 1355,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -5254,7 +5542,9 @@
             },
             "team1Score": 87,
             "team2Score": 222,
-            "generations": 2896
+            "generations": 2896,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -5290,7 +5580,9 @@
             },
             "team1Score": 203,
             "team2Score": 41,
-            "generations": 1741
+            "generations": 1741,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -5326,7 +5618,9 @@
             },
             "team1Score": 86,
             "team2Score": 53,
-            "generations": 1012
+            "generations": 1012,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -5362,7 +5656,9 @@
             },
             "team1Score": 84,
             "team2Score": 118,
-            "generations": 1318
+            "generations": 1318,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -5398,7 +5694,9 @@
             },
             "team1Score": 0,
             "team2Score": 276,
-            "generations": 1103
+            "generations": 1103,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -5434,7 +5732,9 @@
             },
             "team1Score": 162,
             "team2Score": 171,
-            "generations": 1729
+            "generations": 1729,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -5470,7 +5770,9 @@
             },
             "team1Score": 182,
             "team2Score": 128,
-            "generations": 1422
+            "generations": 1422,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -5506,7 +5808,9 @@
             },
             "team1Score": 168,
             "team2Score": 87,
-            "generations": 1356
+            "generations": 1356,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -5544,7 +5848,9 @@
             },
             "team1Score": 25,
             "team2Score": 151,
-            "generations": 1800
+            "generations": 1800,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -5580,7 +5886,9 @@
             },
             "team1Score": 261,
             "team2Score": 126,
-            "generations": 1121
+            "generations": 1121,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -5616,7 +5924,9 @@
             },
             "team1Score": 61,
             "team2Score": 333,
-            "generations": 1602
+            "generations": 1602,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -5652,7 +5962,9 @@
             },
             "team1Score": 33,
             "team2Score": 214,
-            "generations": 1913
+            "generations": 1913,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -5688,7 +6000,9 @@
             },
             "team1Score": 73,
             "team2Score": 219,
-            "generations": 1821
+            "generations": 1821,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -5724,7 +6038,9 @@
             },
             "team1Score": 172,
             "team2Score": 60,
-            "generations": 1472
+            "generations": 1472,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -5760,7 +6076,9 @@
             },
             "team1Score": 42,
             "team2Score": 299,
-            "generations": 2269
+            "generations": 2269,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -5796,7 +6114,9 @@
             },
             "team1Score": 123,
             "team2Score": 26,
-            "generations": 1103
+            "generations": 1103,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5834,7 +6154,9 @@
             },
             "team1Score": 171,
             "team2Score": 138,
-            "generations": 1411
+            "generations": 1411,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -5870,7 +6192,9 @@
             },
             "team1Score": 37,
             "team2Score": 107,
-            "generations": 1903
+            "generations": 1903,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -5906,7 +6230,9 @@
             },
             "team1Score": 253,
             "team2Score": 105,
-            "generations": 1552
+            "generations": 1552,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -5942,7 +6268,9 @@
             },
             "team1Score": 92,
             "team2Score": 166,
-            "generations": 1341
+            "generations": 1341,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -5978,7 +6306,9 @@
             },
             "team1Score": 99,
             "team2Score": 230,
-            "generations": 1449
+            "generations": 1449,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -6014,7 +6344,9 @@
             },
             "team1Score": 45,
             "team2Score": 121,
-            "generations": 1558
+            "generations": 1558,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -6050,7 +6382,9 @@
             },
             "team1Score": 135,
             "team2Score": 81,
-            "generations": 1562
+            "generations": 1562,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -6086,7 +6420,9 @@
             },
             "team1Score": 95,
             "team2Score": 223,
-            "generations": 2492
+            "generations": 2492,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -6124,7 +6460,9 @@
             },
             "team1Score": 75,
             "team2Score": 100,
-            "generations": 1982
+            "generations": 1982,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -6160,7 +6498,9 @@
             },
             "team1Score": 243,
             "team2Score": 117,
-            "generations": 2598
+            "generations": 2598,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -6196,7 +6536,9 @@
             },
             "team1Score": 156,
             "team2Score": 151,
-            "generations": 1823
+            "generations": 1823,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -6232,7 +6574,9 @@
             },
             "team1Score": 56,
             "team2Score": 283,
-            "generations": 2479
+            "generations": 2479,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -6268,7 +6612,9 @@
             },
             "team1Score": 51,
             "team2Score": 96,
-            "generations": 1182
+            "generations": 1182,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -6304,7 +6650,9 @@
             },
             "team1Score": 0,
             "team2Score": 400,
-            "generations": 3125
+            "generations": 3125,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -6340,7 +6688,9 @@
             },
             "team1Score": 84,
             "team2Score": 58,
-            "generations": 1138
+            "generations": 1138,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -6376,7 +6726,9 @@
             },
             "team1Score": 0,
             "team2Score": 271,
-            "generations": 1644
+            "generations": 1644,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -6414,7 +6766,9 @@
             },
             "team1Score": 89,
             "team2Score": 101,
-            "generations": 1210
+            "generations": 1210,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -6450,7 +6804,9 @@
             },
             "team1Score": 239,
             "team2Score": 49,
-            "generations": 3314
+            "generations": 3314,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -6486,7 +6842,9 @@
             },
             "team1Score": 100,
             "team2Score": 86,
-            "generations": 1458
+            "generations": 1458,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -6522,7 +6880,9 @@
             },
             "team1Score": 143,
             "team2Score": 178,
-            "generations": 1292
+            "generations": 1292,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -6558,7 +6918,9 @@
             },
             "team1Score": 168,
             "team2Score": 39,
-            "generations": 1362
+            "generations": 1362,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -6594,7 +6956,9 @@
             },
             "team1Score": 157,
             "team2Score": 171,
-            "generations": 2441
+            "generations": 2441,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -6630,7 +6994,9 @@
             },
             "team1Score": 121,
             "team2Score": 66,
-            "generations": 1350
+            "generations": 1350,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -6666,7 +7032,9 @@
             },
             "team1Score": 243,
             "team2Score": 96,
-            "generations": 1903
+            "generations": 1903,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -6704,7 +7072,9 @@
             },
             "team1Score": 131,
             "team2Score": 26,
-            "generations": 1405
+            "generations": 1405,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -6740,7 +7110,9 @@
             },
             "team1Score": 21,
             "team2Score": 125,
-            "generations": 1301
+            "generations": 1301,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -6776,7 +7148,9 @@
             },
             "team1Score": 158,
             "team2Score": 92,
-            "generations": 1598
+            "generations": 1598,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -6812,7 +7186,9 @@
             },
             "team1Score": 203,
             "team2Score": 101,
-            "generations": 1493
+            "generations": 1493,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -6848,7 +7224,9 @@
             },
             "team1Score": 239,
             "team2Score": 124,
-            "generations": 1260
+            "generations": 1260,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -6884,7 +7262,9 @@
             },
             "team1Score": 73,
             "team2Score": 29,
-            "generations": 1301
+            "generations": 1301,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -6920,7 +7300,9 @@
             },
             "team1Score": 57,
             "team2Score": 170,
-            "generations": 1830
+            "generations": 1830,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -6956,7 +7338,9 @@
             },
             "team1Score": 282,
             "team2Score": 119,
-            "generations": 2658
+            "generations": 2658,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -6994,7 +7378,9 @@
             },
             "team1Score": 147,
             "team2Score": 79,
-            "generations": 1113
+            "generations": 1113,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -7030,7 +7416,9 @@
             },
             "team1Score": 142,
             "team2Score": 177,
-            "generations": 2699
+            "generations": 2699,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -7066,7 +7454,9 @@
             },
             "team1Score": 17,
             "team2Score": 218,
-            "generations": 2248
+            "generations": 2248,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -7102,7 +7492,9 @@
             },
             "team1Score": 80,
             "team2Score": 266,
-            "generations": 3276
+            "generations": 3276,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -7138,7 +7530,9 @@
             },
             "team1Score": 265,
             "team2Score": 79,
-            "generations": 2004
+            "generations": 2004,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -7174,7 +7568,9 @@
             },
             "team1Score": 90,
             "team2Score": 80,
-            "generations": 1085
+            "generations": 1085,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -7210,7 +7606,9 @@
             },
             "team1Score": 201,
             "team2Score": 156,
-            "generations": 1922
+            "generations": 1922,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -7246,7 +7644,9 @@
             },
             "team1Score": 162,
             "team2Score": 151,
-            "generations": 1813
+            "generations": 1813,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -7284,7 +7684,9 @@
             },
             "team1Score": 148,
             "team2Score": 190,
-            "generations": 1448
+            "generations": 1448,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -7320,7 +7722,9 @@
             },
             "team1Score": 142,
             "team2Score": 185,
-            "generations": 2516
+            "generations": 2516,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -7356,7 +7760,9 @@
             },
             "team1Score": 129,
             "team2Score": 132,
-            "generations": 1613
+            "generations": 1613,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -7392,7 +7798,9 @@
             },
             "team1Score": 90,
             "team2Score": 220,
-            "generations": 2365
+            "generations": 2365,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -7428,7 +7836,9 @@
             },
             "team1Score": 246,
             "team2Score": 82,
-            "generations": 2360
+            "generations": 2360,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -7464,7 +7874,9 @@
             },
             "team1Score": 108,
             "team2Score": 88,
-            "generations": 1060
+            "generations": 1060,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -7500,7 +7912,9 @@
             },
             "team1Score": 167,
             "team2Score": 179,
-            "generations": 1021
+            "generations": 1021,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -7536,7 +7950,9 @@
             },
             "team1Score": 48,
             "team2Score": 136,
-            "generations": 1215
+            "generations": 1215,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -7574,7 +7990,9 @@
             },
             "team1Score": 25,
             "team2Score": 316,
-            "generations": 1256
+            "generations": 1256,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -7610,7 +8028,9 @@
             },
             "team1Score": 118,
             "team2Score": 218,
-            "generations": 1883
+            "generations": 1883,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -7646,7 +8066,9 @@
             },
             "team1Score": 165,
             "team2Score": 68,
-            "generations": 1912
+            "generations": 1912,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -7682,7 +8104,9 @@
             },
             "team1Score": 286,
             "team2Score": 47,
-            "generations": 2822
+            "generations": 2822,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -7718,7 +8142,9 @@
             },
             "team1Score": 297,
             "team2Score": 51,
-            "generations": 1777
+            "generations": 1777,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -7754,7 +8180,9 @@
             },
             "team1Score": 239,
             "team2Score": 54,
-            "generations": 4309
+            "generations": 4309,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -7790,7 +8218,9 @@
             },
             "team1Score": 121,
             "team2Score": 111,
-            "generations": 1004
+            "generations": 1004,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -7826,7 +8256,9 @@
             },
             "team1Score": 205,
             "team2Score": 49,
-            "generations": 3139
+            "generations": 3139,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -7864,7 +8296,9 @@
             },
             "team1Score": 166,
             "team2Score": 149,
-            "generations": 1138
+            "generations": 1138,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -7900,7 +8334,9 @@
             },
             "team1Score": 297,
             "team2Score": 72,
-            "generations": 1383
+            "generations": 1383,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -7936,7 +8372,9 @@
             },
             "team1Score": 118,
             "team2Score": 73,
-            "generations": 1322
+            "generations": 1322,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -7972,7 +8410,9 @@
             },
             "team1Score": 194,
             "team2Score": 41,
-            "generations": 1138
+            "generations": 1138,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -8008,7 +8448,9 @@
             },
             "team1Score": 161,
             "team2Score": 130,
-            "generations": 2220
+            "generations": 2220,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -8044,7 +8486,9 @@
             },
             "team1Score": 288,
             "team2Score": 62,
-            "generations": 4198
+            "generations": 4198,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -8080,7 +8524,9 @@
             },
             "team1Score": 76,
             "team2Score": 66,
-            "generations": 1030
+            "generations": 1030,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -8116,7 +8562,9 @@
             },
             "team1Score": 197,
             "team2Score": 48,
-            "generations": 2196
+            "generations": 2196,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -8154,7 +8602,9 @@
             },
             "team1Score": 144,
             "team2Score": 110,
-            "generations": 1218
+            "generations": 1218,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -8190,7 +8640,9 @@
             },
             "team1Score": 87,
             "team2Score": 221,
-            "generations": 3522
+            "generations": 3522,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -8226,7 +8678,9 @@
             },
             "team1Score": 55,
             "team2Score": 299,
-            "generations": 2470
+            "generations": 2470,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -8262,7 +8716,9 @@
             },
             "team1Score": 116,
             "team2Score": 112,
-            "generations": 1447
+            "generations": 1447,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -8298,7 +8754,9 @@
             },
             "team1Score": 104,
             "team2Score": 75,
-            "generations": 1646
+            "generations": 1646,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -8334,7 +8792,9 @@
             },
             "team1Score": 70,
             "team2Score": 137,
-            "generations": 1676
+            "generations": 1676,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -8370,7 +8830,9 @@
             },
             "team1Score": 88,
             "team2Score": 233,
-            "generations": 2447
+            "generations": 2447,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -8406,7 +8868,9 @@
             },
             "team1Score": 246,
             "team2Score": 140,
-            "generations": 1601
+            "generations": 1601,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -8444,7 +8908,9 @@
             },
             "team1Score": 44,
             "team2Score": 155,
-            "generations": 1379
+            "generations": 1379,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -8480,7 +8946,9 @@
             },
             "team1Score": 203,
             "team2Score": 126,
-            "generations": 1476
+            "generations": 1476,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -8516,7 +8984,9 @@
             },
             "team1Score": 180,
             "team2Score": 118,
-            "generations": 2087
+            "generations": 2087,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -8552,7 +9022,9 @@
             },
             "team1Score": 59,
             "team2Score": 175,
-            "generations": 1725
+            "generations": 1725,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -8588,7 +9060,9 @@
             },
             "team1Score": 118,
             "team2Score": 67,
-            "generations": 1056
+            "generations": 1056,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -8624,7 +9098,9 @@
             },
             "team1Score": 149,
             "team2Score": 187,
-            "generations": 1940
+            "generations": 1940,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -8660,7 +9136,9 @@
             },
             "team1Score": 206,
             "team2Score": 136,
-            "generations": 1243
+            "generations": 1243,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -8696,7 +9174,9 @@
             },
             "team1Score": 0,
             "team2Score": 42,
-            "generations": 1096
+            "generations": 1096,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -8734,7 +9214,9 @@
             },
             "team1Score": 190,
             "team2Score": 60,
-            "generations": 1003
+            "generations": 1003,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -8770,7 +9252,9 @@
             },
             "team1Score": 138,
             "team2Score": 170,
-            "generations": 2340
+            "generations": 2340,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -8806,7 +9290,9 @@
             },
             "team1Score": 112,
             "team2Score": 34,
-            "generations": 1587
+            "generations": 1587,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -8842,7 +9328,9 @@
             },
             "team1Score": 71,
             "team2Score": 222,
-            "generations": 1769
+            "generations": 1769,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -8878,7 +9366,9 @@
             },
             "team1Score": 245,
             "team2Score": 67,
-            "generations": 2720
+            "generations": 2720,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -8914,7 +9404,9 @@
             },
             "team1Score": 57,
             "team2Score": 149,
-            "generations": 1313
+            "generations": 1313,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -8950,7 +9442,9 @@
             },
             "team1Score": 168,
             "team2Score": 173,
-            "generations": 1634
+            "generations": 1634,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -8986,7 +9480,9 @@
             },
             "team1Score": 34,
             "team2Score": 195,
-            "generations": 1790
+            "generations": 1790,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9024,7 +9520,9 @@
             },
             "team1Score": 258,
             "team2Score": 44,
-            "generations": 1444
+            "generations": 1444,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -9060,7 +9558,9 @@
             },
             "team1Score": 164,
             "team2Score": 63,
-            "generations": 1560
+            "generations": 1560,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -9096,7 +9596,9 @@
             },
             "team1Score": 159,
             "team2Score": 179,
-            "generations": 3087
+            "generations": 3087,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -9132,7 +9634,9 @@
             },
             "team1Score": 100,
             "team2Score": 232,
-            "generations": 2662
+            "generations": 2662,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -9168,7 +9672,9 @@
             },
             "team1Score": 24,
             "team2Score": 85,
-            "generations": 1303
+            "generations": 1303,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -9204,7 +9710,9 @@
             },
             "team1Score": 136,
             "team2Score": 167,
-            "generations": 2082
+            "generations": 2082,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -9240,7 +9748,9 @@
             },
             "team1Score": 285,
             "team2Score": 27,
-            "generations": 2784
+            "generations": 2784,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -9276,7 +9786,9 @@
             },
             "team1Score": 161,
             "team2Score": 162,
-            "generations": 1881
+            "generations": 1881,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -9314,7 +9826,9 @@
             },
             "team1Score": 209,
             "team2Score": 4,
-            "generations": 1830
+            "generations": 1830,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -9350,7 +9864,9 @@
             },
             "team1Score": 197,
             "team2Score": 179,
-            "generations": 2966
+            "generations": 2966,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -9386,7 +9902,9 @@
             },
             "team1Score": 91,
             "team2Score": 108,
-            "generations": 2048
+            "generations": 2048,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -9422,7 +9940,9 @@
             },
             "team1Score": 217,
             "team2Score": 77,
-            "generations": 2169
+            "generations": 2169,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -9458,7 +9978,9 @@
             },
             "team1Score": 39,
             "team2Score": 109,
-            "generations": 1379
+            "generations": 1379,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -9494,7 +10016,9 @@
             },
             "team1Score": 22,
             "team2Score": 129,
-            "generations": 1352
+            "generations": 1352,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -9530,7 +10054,9 @@
             },
             "team1Score": 101,
             "team2Score": 126,
-            "generations": 2125
+            "generations": 2125,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -9566,7 +10092,9 @@
             },
             "team1Score": 208,
             "team2Score": 133,
-            "generations": 3733
+            "generations": 3733,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -9604,7 +10132,9 @@
             },
             "team1Score": 160,
             "team2Score": 124,
-            "generations": 3086
+            "generations": 3086,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -9640,7 +10170,9 @@
             },
             "team1Score": 41,
             "team2Score": 150,
-            "generations": 2278
+            "generations": 2278,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -9676,7 +10208,9 @@
             },
             "team1Score": 245,
             "team2Score": 63,
-            "generations": 2325
+            "generations": 2325,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -9712,7 +10246,9 @@
             },
             "team1Score": 160,
             "team2Score": 54,
-            "generations": 1466
+            "generations": 1466,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -9748,7 +10284,9 @@
             },
             "team1Score": 121,
             "team2Score": 8,
-            "generations": 1212
+            "generations": 1212,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -9784,7 +10322,9 @@
             },
             "team1Score": 85,
             "team2Score": 66,
-            "generations": 1011
+            "generations": 1011,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -9820,7 +10360,9 @@
             },
             "team1Score": 290,
             "team2Score": 93,
-            "generations": 1234
+            "generations": 1234,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -9856,7 +10398,9 @@
             },
             "team1Score": 97,
             "team2Score": 150,
-            "generations": 1685
+            "generations": 1685,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -9894,7 +10438,9 @@
             },
             "team1Score": 134,
             "team2Score": 42,
-            "generations": 2469
+            "generations": 2469,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -9930,7 +10476,9 @@
             },
             "team1Score": 227,
             "team2Score": 99,
-            "generations": 1115
+            "generations": 1115,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -9966,7 +10514,9 @@
             },
             "team1Score": 232,
             "team2Score": 63,
-            "generations": 2920
+            "generations": 2920,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -10002,7 +10552,9 @@
             },
             "team1Score": 68,
             "team2Score": 92,
-            "generations": 1484
+            "generations": 1484,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -10038,7 +10590,9 @@
             },
             "team1Score": 109,
             "team2Score": 64,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -10074,7 +10628,9 @@
             },
             "team1Score": 195,
             "team2Score": 84,
-            "generations": 1444
+            "generations": 1444,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -10110,7 +10666,9 @@
             },
             "team1Score": 61,
             "team2Score": 171,
-            "generations": 1261
+            "generations": 1261,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -10146,7 +10704,9 @@
             },
             "team1Score": 276,
             "team2Score": 74,
-            "generations": 1216
+            "generations": 1216,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -10184,7 +10744,9 @@
             },
             "team1Score": 15,
             "team2Score": 344,
-            "generations": 2594
+            "generations": 2594,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -10220,7 +10782,9 @@
             },
             "team1Score": 111,
             "team2Score": 173,
-            "generations": 2970
+            "generations": 2970,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -10256,7 +10820,9 @@
             },
             "team1Score": 216,
             "team2Score": 98,
-            "generations": 1484
+            "generations": 1484,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -10292,7 +10858,9 @@
             },
             "team1Score": 71,
             "team2Score": 115,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -10328,7 +10896,9 @@
             },
             "team1Score": 164,
             "team2Score": 147,
-            "generations": 2126
+            "generations": 2126,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -10364,7 +10934,9 @@
             },
             "team1Score": 230,
             "team2Score": 91,
-            "generations": 2092
+            "generations": 2092,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -10400,7 +10972,9 @@
             },
             "team1Score": 171,
             "team2Score": 135,
-            "generations": 1993
+            "generations": 1993,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -10436,7 +11010,9 @@
             },
             "team1Score": 146,
             "team2Score": 167,
-            "generations": 2890
+            "generations": 2890,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -10474,7 +11050,9 @@
             },
             "team1Score": 171,
             "team2Score": 173,
-            "generations": 1613
+            "generations": 1613,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -10510,7 +11088,9 @@
             },
             "team1Score": 111,
             "team2Score": 45,
-            "generations": 1111
+            "generations": 1111,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -10546,7 +11126,9 @@
             },
             "team1Score": 90,
             "team2Score": 224,
-            "generations": 2503
+            "generations": 2503,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -10582,7 +11164,9 @@
             },
             "team1Score": 61,
             "team2Score": 133,
-            "generations": 1488
+            "generations": 1488,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -10618,7 +11202,9 @@
             },
             "team1Score": 34,
             "team2Score": 80,
-            "generations": 1226
+            "generations": 1226,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -10654,7 +11240,9 @@
             },
             "team1Score": 209,
             "team2Score": 29,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -10690,7 +11278,9 @@
             },
             "team1Score": 249,
             "team2Score": 61,
-            "generations": 2654
+            "generations": 2654,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -10726,7 +11316,9 @@
             },
             "team1Score": 150,
             "team2Score": 116,
-            "generations": 2223
+            "generations": 2223,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -10764,7 +11356,9 @@
             },
             "team1Score": 133,
             "team2Score": 79,
-            "generations": 3786
+            "generations": 3786,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -10800,7 +11394,9 @@
             },
             "team1Score": 100,
             "team2Score": 240,
-            "generations": 1696
+            "generations": 1696,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -10836,7 +11432,9 @@
             },
             "team1Score": 63,
             "team2Score": 89,
-            "generations": 1521
+            "generations": 1521,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -10872,7 +11470,9 @@
             },
             "team1Score": 52,
             "team2Score": 60,
-            "generations": 1232
+            "generations": 1232,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -10908,7 +11508,9 @@
             },
             "team1Score": 6,
             "team2Score": 229,
-            "generations": 2094
+            "generations": 2094,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -10944,7 +11546,9 @@
             },
             "team1Score": 55,
             "team2Score": 329,
-            "generations": 1631
+            "generations": 1631,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -10980,7 +11584,9 @@
             },
             "team1Score": 61,
             "team2Score": 230,
-            "generations": 2467
+            "generations": 2467,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -11016,7 +11622,9 @@
             },
             "team1Score": 102,
             "team2Score": 176,
-            "generations": 3108
+            "generations": 3108,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11054,7 +11662,9 @@
             },
             "team1Score": 3,
             "team2Score": 118,
-            "generations": 1146
+            "generations": 1146,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -11090,7 +11700,9 @@
             },
             "team1Score": 92,
             "team2Score": 227,
-            "generations": 1029
+            "generations": 1029,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -11126,7 +11738,9 @@
             },
             "team1Score": 138,
             "team2Score": 157,
-            "generations": 1297
+            "generations": 1297,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -11162,7 +11776,9 @@
             },
             "team1Score": 140,
             "team2Score": 56,
-            "generations": 1054
+            "generations": 1054,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -11198,7 +11814,9 @@
             },
             "team1Score": 126,
             "team2Score": 164,
-            "generations": 2439
+            "generations": 2439,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -11234,7 +11852,9 @@
             },
             "team1Score": 96,
             "team2Score": 181,
-            "generations": 1190
+            "generations": 1190,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -11270,7 +11890,9 @@
             },
             "team1Score": 134,
             "team2Score": 80,
-            "generations": 1103
+            "generations": 1103,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -11306,7 +11928,9 @@
             },
             "team1Score": 98,
             "team2Score": 68,
-            "generations": 2358
+            "generations": 2358,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -11344,7 +11968,9 @@
             },
             "team1Score": 170,
             "team2Score": 129,
-            "generations": 3312
+            "generations": 3312,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -11380,7 +12006,9 @@
             },
             "team1Score": 121,
             "team2Score": 150,
-            "generations": 1476
+            "generations": 1476,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -11416,7 +12044,9 @@
             },
             "team1Score": 29,
             "team2Score": 93,
-            "generations": 1235
+            "generations": 1235,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -11452,7 +12082,9 @@
             },
             "team1Score": 148,
             "team2Score": 116,
-            "generations": 1664
+            "generations": 1664,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -11488,7 +12120,9 @@
             },
             "team1Score": 305,
             "team2Score": 29,
-            "generations": 5326
+            "generations": 5326,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -11524,7 +12158,9 @@
             },
             "team1Score": 112,
             "team2Score": 111,
-            "generations": 1705
+            "generations": 1705,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -11560,7 +12196,9 @@
             },
             "team1Score": 394,
             "team2Score": 0,
-            "generations": 1027
+            "generations": 1027,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -11596,7 +12234,9 @@
             },
             "team1Score": 225,
             "team2Score": 37,
-            "generations": 1721
+            "generations": 1721,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11634,7 +12274,9 @@
             },
             "team1Score": 165,
             "team2Score": 186,
-            "generations": 1771
+            "generations": 1771,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -11670,7 +12312,9 @@
             },
             "team1Score": 60,
             "team2Score": 325,
-            "generations": 3532
+            "generations": 3532,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -11706,7 +12350,9 @@
             },
             "team1Score": 95,
             "team2Score": 49,
-            "generations": 1053
+            "generations": 1053,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -11742,7 +12388,9 @@
             },
             "team1Score": 259,
             "team2Score": 120,
-            "generations": 1541
+            "generations": 1541,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -11778,7 +12426,9 @@
             },
             "team1Score": 94,
             "team2Score": 106,
-            "generations": 1123
+            "generations": 1123,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -11814,7 +12464,9 @@
             },
             "team1Score": 131,
             "team2Score": 115,
-            "generations": 2625
+            "generations": 2625,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -11850,7 +12502,9 @@
             },
             "team1Score": 67,
             "team2Score": 94,
-            "generations": 1363
+            "generations": 1363,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -11886,7 +12540,9 @@
             },
             "team1Score": 120,
             "team2Score": 128,
-            "generations": 3268
+            "generations": 3268,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -11924,7 +12580,9 @@
             },
             "team1Score": 141,
             "team2Score": 172,
-            "generations": 2380
+            "generations": 2380,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -11960,7 +12618,9 @@
             },
             "team1Score": 115,
             "team2Score": 138,
-            "generations": 1168
+            "generations": 1168,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -11996,7 +12656,9 @@
             },
             "team1Score": 116,
             "team2Score": 226,
-            "generations": 1476
+            "generations": 1476,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -12032,7 +12694,9 @@
             },
             "team1Score": 173,
             "team2Score": 125,
-            "generations": 4675
+            "generations": 4675,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -12068,7 +12732,9 @@
             },
             "team1Score": 58,
             "team2Score": 55,
-            "generations": 1306
+            "generations": 1306,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -12104,7 +12770,9 @@
             },
             "team1Score": 84,
             "team2Score": 163,
-            "generations": 1030
+            "generations": 1030,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -12140,7 +12808,9 @@
             },
             "team1Score": 129,
             "team2Score": 217,
-            "generations": 2071
+            "generations": 2071,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -12176,7 +12846,9 @@
             },
             "team1Score": 211,
             "team2Score": 102,
-            "generations": 1039
+            "generations": 1039,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -12214,7 +12886,9 @@
             },
             "team1Score": 88,
             "team2Score": 104,
-            "generations": 1593
+            "generations": 1593,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -12250,7 +12924,9 @@
             },
             "team1Score": 124,
             "team2Score": 242,
-            "generations": 2547
+            "generations": 2547,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -12286,7 +12962,9 @@
             },
             "team1Score": 188,
             "team2Score": 138,
-            "generations": 1604
+            "generations": 1604,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -12322,7 +13000,9 @@
             },
             "team1Score": 131,
             "team2Score": 148,
-            "generations": 2457
+            "generations": 2457,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -12358,7 +13038,9 @@
             },
             "team1Score": 22,
             "team2Score": 208,
-            "generations": 1583
+            "generations": 1583,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -12394,7 +13076,9 @@
             },
             "team1Score": 168,
             "team2Score": 153,
-            "generations": 1310
+            "generations": 1310,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -12430,7 +13114,9 @@
             },
             "team1Score": 169,
             "team2Score": 93,
-            "generations": 1233
+            "generations": 1233,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -12466,7 +13152,9 @@
             },
             "team1Score": 58,
             "team2Score": 48,
-            "generations": 1092
+            "generations": 1092,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -12504,7 +13192,9 @@
             },
             "team1Score": 293,
             "team2Score": 103,
-            "generations": 1791
+            "generations": 1791,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -12540,7 +13230,9 @@
             },
             "team1Score": 85,
             "team2Score": 229,
-            "generations": 2441
+            "generations": 2441,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -12576,7 +13268,9 @@
             },
             "team1Score": 302,
             "team2Score": 29,
-            "generations": 1790
+            "generations": 1790,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -12612,7 +13306,9 @@
             },
             "team1Score": 169,
             "team2Score": 75,
-            "generations": 1694
+            "generations": 1694,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -12648,7 +13344,9 @@
             },
             "team1Score": 230,
             "team2Score": 49,
-            "generations": 2098
+            "generations": 2098,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -12684,7 +13382,9 @@
             },
             "team1Score": 90,
             "team2Score": 156,
-            "generations": 1599
+            "generations": 1599,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -12720,7 +13420,9 @@
             },
             "team1Score": 93,
             "team2Score": 59,
-            "generations": 1123
+            "generations": 1123,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -12756,7 +13458,9 @@
             },
             "team1Score": 112,
             "team2Score": 135,
-            "generations": 1074
+            "generations": 1074,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -12794,7 +13498,9 @@
             },
             "team1Score": 229,
             "team2Score": 128,
-            "generations": 3195
+            "generations": 3195,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Montpelier Traversers",
@@ -12830,7 +13536,9 @@
             },
             "team1Score": 179,
             "team2Score": 69,
-            "generations": 2561
+            "generations": 2561,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -12866,7 +13574,9 @@
             },
             "team1Score": 105,
             "team2Score": 163,
-            "generations": 1680
+            "generations": 1680,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -12902,7 +13612,9 @@
             },
             "team1Score": 127,
             "team2Score": 149,
-            "generations": 1421
+            "generations": 1421,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -12938,7 +13650,9 @@
             },
             "team1Score": 102,
             "team2Score": 174,
-            "generations": 1102
+            "generations": 1102,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -12974,7 +13688,9 @@
             },
             "team1Score": 172,
             "team2Score": 82,
-            "generations": 1460
+            "generations": 1460,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -13010,7 +13726,9 @@
             },
             "team1Score": 44,
             "team2Score": 162,
-            "generations": 1488
+            "generations": 1488,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -13046,7 +13764,9 @@
             },
             "team1Score": 94,
             "team2Score": 82,
-            "generations": 1247
+            "generations": 1247,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -13084,7 +13804,9 @@
             },
             "team1Score": 134,
             "team2Score": 130,
-            "generations": 2016
+            "generations": 2016,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -13120,7 +13842,9 @@
             },
             "team1Score": 63,
             "team2Score": 128,
-            "generations": 1485
+            "generations": 1485,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -13156,7 +13880,9 @@
             },
             "team1Score": 109,
             "team2Score": 90,
-            "generations": 1369
+            "generations": 1369,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -13192,7 +13918,9 @@
             },
             "team1Score": 55,
             "team2Score": 117,
-            "generations": 1417
+            "generations": 1417,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -13228,7 +13956,9 @@
             },
             "team1Score": 300,
             "team2Score": 28,
-            "generations": 4871
+            "generations": 4871,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -13264,7 +13994,9 @@
             },
             "team1Score": 81,
             "team2Score": 115,
-            "generations": 1099
+            "generations": 1099,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -13300,7 +14032,9 @@
             },
             "team1Score": 105,
             "team2Score": 103,
-            "generations": 1232
+            "generations": 1232,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -13336,7 +14070,9 @@
             },
             "team1Score": 225,
             "team2Score": 152,
-            "generations": 2244
+            "generations": 2244,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -13374,7 +14110,9 @@
             },
             "team1Score": 25,
             "team2Score": 246,
-            "generations": 3407
+            "generations": 3407,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Essex Junction Mighty Spanners",
@@ -13410,7 +14148,9 @@
             },
             "team1Score": 81,
             "team2Score": 270,
-            "generations": 1506
+            "generations": 1506,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Essex Anaesthesiologists",
@@ -13446,7 +14186,9 @@
             },
             "team1Score": 75,
             "team2Score": 159,
-            "generations": 2793
+            "generations": 2793,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "South Burlington Sponges",
@@ -13482,7 +14224,9 @@
             },
             "team1Score": 0,
             "team2Score": 621,
-            "generations": 1175
+            "generations": 1175,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -13518,7 +14262,9 @@
             },
             "team1Score": 312,
             "team2Score": 79,
-            "generations": 3315
+            "generations": 3315,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -13554,7 +14300,9 @@
             },
             "team1Score": 170,
             "team2Score": 160,
-            "generations": 3463
+            "generations": 3463,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Barre Feral Pigs",
@@ -13590,7 +14338,9 @@
             },
             "team1Score": 128,
             "team2Score": 256,
-            "generations": 3008
+            "generations": 3008,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Burlington Pyromancers",
@@ -13626,7 +14376,9 @@
             },
             "team1Score": 125,
             "team2Score": 178,
-            "generations": 1227
+            "generations": 1227,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -13664,7 +14416,9 @@
             },
             "team1Score": 46,
             "team2Score": 312,
-            "generations": 2794
+            "generations": 2794,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -13700,7 +14454,9 @@
             },
             "team1Score": 198,
             "team2Score": 56,
-            "generations": 2348
+            "generations": 2348,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -13736,7 +14492,9 @@
             },
             "team1Score": 68,
             "team2Score": 115,
-            "generations": 1187
+            "generations": 1187,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Colchester Post Classicalists",
@@ -13772,7 +14530,9 @@
             },
             "team1Score": 72,
             "team2Score": 110,
-            "generations": 2010
+            "generations": 2010,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "St. Albans Skeptics",
@@ -13808,7 +14568,9 @@
             },
             "team1Score": 140,
             "team2Score": 178,
-            "generations": 2475
+            "generations": 2475,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Williston Responsible Citizens",
@@ -13844,7 +14606,9 @@
             },
             "team1Score": 239,
             "team2Score": 21,
-            "generations": 1343
+            "generations": 1343,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -13880,7 +14644,9 @@
             },
             "team1Score": 114,
             "team2Score": 270,
-            "generations": 3063
+            "generations": 3063,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -13916,7 +14682,9 @@
             },
             "team1Score": 55,
             "team2Score": 162,
-            "generations": 1335
+            "generations": 1335,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13954,7 +14722,9 @@
             },
             "team1Score": 16,
             "team2Score": 189,
-            "generations": 2007
+            "generations": 2007,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hartford Glaciers",
@@ -13990,7 +14760,9 @@
             },
             "team1Score": 67,
             "team2Score": 149,
-            "generations": 1121
+            "generations": 1121,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Bennington Gravity",
@@ -14026,7 +14798,9 @@
             },
             "team1Score": 68,
             "team2Score": 119,
-            "generations": 1880
+            "generations": 1880,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Middlebury Quatrains",
@@ -14062,7 +14836,9 @@
             },
             "team1Score": 306,
             "team2Score": 88,
-            "generations": 2485
+            "generations": 2485,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Brattleboro Ferrofluids",
@@ -14098,7 +14874,9 @@
             },
             "team1Score": 114,
             "team2Score": 315,
-            "generations": 1543
+            "generations": 1543,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Rutland Scissors",
@@ -14134,7 +14912,9 @@
             },
             "team1Score": 114,
             "team2Score": 213,
-            "generations": 2132
+            "generations": 2132,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "St. Johnsbury Eight Tracks",
@@ -14170,7 +14950,9 @@
             },
             "team1Score": 201,
             "team2Score": 75,
-            "generations": 1409
+            "generations": 1409,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Springfield Surgeons",
@@ -14206,7 +14988,9 @@
             },
             "team1Score": 128,
             "team2Score": 88,
-            "generations": 1457
+            "generations": 1457,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         }
     ]
 ]

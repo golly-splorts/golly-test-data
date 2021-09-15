@@ -34,7 +34,9 @@
             },
             "team1Score": 287,
             "team2Score": 20,
-            "generations": 1366
+            "generations": 1366,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -70,7 +72,9 @@
             },
             "team1Score": 98,
             "team2Score": 85,
-            "generations": 1418
+            "generations": 1418,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -106,7 +110,9 @@
             },
             "team1Score": 155,
             "team2Score": 40,
-            "generations": 1128
+            "generations": 1128,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -142,7 +148,9 @@
             },
             "team1Score": 185,
             "team2Score": 194,
-            "generations": 1244
+            "generations": 1244,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -178,7 +186,9 @@
             },
             "team1Score": 149,
             "team2Score": 79,
-            "generations": 2050
+            "generations": 2050,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -214,7 +224,9 @@
             },
             "team1Score": 300,
             "team2Score": 140,
-            "generations": 3178
+            "generations": 3178,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -250,7 +262,9 @@
             },
             "team1Score": 6,
             "team2Score": 300,
-            "generations": 2866
+            "generations": 2866,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -286,7 +300,9 @@
             },
             "team1Score": 148,
             "team2Score": 51,
-            "generations": 1624
+            "generations": 1624,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -324,7 +340,9 @@
             },
             "team1Score": 156,
             "team2Score": 127,
-            "generations": 1547
+            "generations": 1547,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -360,7 +378,9 @@
             },
             "team1Score": 125,
             "team2Score": 186,
-            "generations": 1679
+            "generations": 1679,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -396,7 +416,9 @@
             },
             "team1Score": 8,
             "team2Score": 250,
-            "generations": 3207
+            "generations": 3207,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -432,7 +454,9 @@
             },
             "team1Score": 119,
             "team2Score": 81,
-            "generations": 1621
+            "generations": 1621,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -468,7 +492,9 @@
             },
             "team1Score": 179,
             "team2Score": 139,
-            "generations": 5209
+            "generations": 5209,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -504,7 +530,9 @@
             },
             "team1Score": 186,
             "team2Score": 196,
-            "generations": 1053
+            "generations": 1053,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -540,7 +568,9 @@
             },
             "team1Score": 57,
             "team2Score": 205,
-            "generations": 2685
+            "generations": 2685,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -576,7 +606,9 @@
             },
             "team1Score": 80,
             "team2Score": 125,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -614,7 +646,9 @@
             },
             "team1Score": 100,
             "team2Score": 143,
-            "generations": 1239
+            "generations": 1239,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -650,7 +684,9 @@
             },
             "team1Score": 103,
             "team2Score": 94,
-            "generations": 1331
+            "generations": 1331,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -686,7 +722,9 @@
             },
             "team1Score": 196,
             "team2Score": 121,
-            "generations": 2919
+            "generations": 2919,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -722,7 +760,9 @@
             },
             "team1Score": 42,
             "team2Score": 133,
-            "generations": 1169
+            "generations": 1169,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -758,7 +798,9 @@
             },
             "team1Score": 118,
             "team2Score": 66,
-            "generations": 1523
+            "generations": 1523,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -794,7 +836,9 @@
             },
             "team1Score": 205,
             "team2Score": 158,
-            "generations": 1511
+            "generations": 1511,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -830,7 +874,9 @@
             },
             "team1Score": 23,
             "team2Score": 218,
-            "generations": 1408
+            "generations": 1408,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -866,7 +912,9 @@
             },
             "team1Score": 225,
             "team2Score": 82,
-            "generations": 2501
+            "generations": 2501,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -904,7 +952,9 @@
             },
             "team1Score": 47,
             "team2Score": 215,
-            "generations": 2200
+            "generations": 2200,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -940,7 +990,9 @@
             },
             "team1Score": 97,
             "team2Score": 186,
-            "generations": 3425
+            "generations": 3425,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -976,7 +1028,9 @@
             },
             "team1Score": 77,
             "team2Score": 75,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -1012,7 +1066,9 @@
             },
             "team1Score": 117,
             "team2Score": 38,
-            "generations": 1044
+            "generations": 1044,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -1048,7 +1104,9 @@
             },
             "team1Score": 254,
             "team2Score": 19,
-            "generations": 5059
+            "generations": 5059,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -1084,7 +1142,9 @@
             },
             "team1Score": 274,
             "team2Score": 111,
-            "generations": 1930
+            "generations": 1930,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -1120,7 +1180,9 @@
             },
             "team1Score": 39,
             "team2Score": 165,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -1156,7 +1218,9 @@
             },
             "team1Score": 103,
             "team2Score": 234,
-            "generations": 2328
+            "generations": 2328,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -1194,7 +1258,9 @@
             },
             "team1Score": 168,
             "team2Score": 80,
-            "generations": 2087
+            "generations": 2087,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -1230,7 +1296,9 @@
             },
             "team1Score": 124,
             "team2Score": 21,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -1266,7 +1334,9 @@
             },
             "team1Score": 47,
             "team2Score": 261,
-            "generations": 3162
+            "generations": 3162,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -1302,7 +1372,9 @@
             },
             "team1Score": 214,
             "team2Score": 167,
-            "generations": 3330
+            "generations": 3330,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -1338,7 +1410,9 @@
             },
             "team1Score": 21,
             "team2Score": 209,
-            "generations": 2097
+            "generations": 2097,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -1374,7 +1448,9 @@
             },
             "team1Score": 160,
             "team2Score": 167,
-            "generations": 2121
+            "generations": 2121,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -1410,7 +1486,9 @@
             },
             "team1Score": 105,
             "team2Score": 132,
-            "generations": 1050
+            "generations": 1050,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -1446,7 +1524,9 @@
             },
             "team1Score": 156,
             "team2Score": 149,
-            "generations": 1926
+            "generations": 1926,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -1484,7 +1564,9 @@
             },
             "team1Score": 38,
             "team2Score": 115,
-            "generations": 1821
+            "generations": 1821,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -1520,7 +1602,9 @@
             },
             "team1Score": 134,
             "team2Score": 118,
-            "generations": 2360
+            "generations": 2360,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -1556,7 +1640,9 @@
             },
             "team1Score": 9,
             "team2Score": 126,
-            "generations": 1533
+            "generations": 1533,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -1592,7 +1678,9 @@
             },
             "team1Score": 93,
             "team2Score": 151,
-            "generations": 2417
+            "generations": 2417,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -1628,7 +1716,9 @@
             },
             "team1Score": 94,
             "team2Score": 120,
-            "generations": 1907
+            "generations": 1907,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -1664,7 +1754,9 @@
             },
             "team1Score": 83,
             "team2Score": 137,
-            "generations": 1680
+            "generations": 1680,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -1700,7 +1792,9 @@
             },
             "team1Score": 113,
             "team2Score": 130,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -1736,7 +1830,9 @@
             },
             "team1Score": 200,
             "team2Score": 119,
-            "generations": 1303
+            "generations": 1303,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -1774,7 +1870,9 @@
             },
             "team1Score": 115,
             "team2Score": 44,
-            "generations": 1044
+            "generations": 1044,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -1810,7 +1908,9 @@
             },
             "team1Score": 91,
             "team2Score": 134,
-            "generations": 2232
+            "generations": 2232,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -1846,7 +1946,9 @@
             },
             "team1Score": 143,
             "team2Score": 96,
-            "generations": 1257
+            "generations": 1257,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -1882,7 +1984,9 @@
             },
             "team1Score": 112,
             "team2Score": 148,
-            "generations": 1869
+            "generations": 1869,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -1918,7 +2022,9 @@
             },
             "team1Score": 151,
             "team2Score": 37,
-            "generations": 1532
+            "generations": 1532,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -1954,7 +2060,9 @@
             },
             "team1Score": 168,
             "team2Score": 116,
-            "generations": 1561
+            "generations": 1561,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -1990,7 +2098,9 @@
             },
             "team1Score": 5,
             "team2Score": 189,
-            "generations": 1683
+            "generations": 1683,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -2026,7 +2136,9 @@
             },
             "team1Score": 215,
             "team2Score": 198,
-            "generations": 2738
+            "generations": 2738,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -2064,7 +2176,9 @@
             },
             "team1Score": 95,
             "team2Score": 61,
-            "generations": 1657
+            "generations": 1657,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -2100,7 +2214,9 @@
             },
             "team1Score": 42,
             "team2Score": 257,
-            "generations": 1973
+            "generations": 1973,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -2136,7 +2252,9 @@
             },
             "team1Score": 24,
             "team2Score": 144,
-            "generations": 1470
+            "generations": 1470,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -2172,7 +2290,9 @@
             },
             "team1Score": 130,
             "team2Score": 184,
-            "generations": 2125
+            "generations": 2125,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -2208,7 +2328,9 @@
             },
             "team1Score": 26,
             "team2Score": 159,
-            "generations": 3039
+            "generations": 3039,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -2244,7 +2366,9 @@
             },
             "team1Score": 200,
             "team2Score": 87,
-            "generations": 2823
+            "generations": 2823,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -2280,7 +2404,9 @@
             },
             "team1Score": 152,
             "team2Score": 202,
-            "generations": 2042
+            "generations": 2042,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -2316,7 +2442,9 @@
             },
             "team1Score": 111,
             "team2Score": 59,
-            "generations": 1261
+            "generations": 1261,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -2354,7 +2482,9 @@
             },
             "team1Score": 172,
             "team2Score": 14,
-            "generations": 1060
+            "generations": 1060,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -2390,7 +2520,9 @@
             },
             "team1Score": 256,
             "team2Score": 124,
-            "generations": 2773
+            "generations": 2773,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -2426,7 +2558,9 @@
             },
             "team1Score": 52,
             "team2Score": 72,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -2462,7 +2596,9 @@
             },
             "team1Score": 198,
             "team2Score": 6,
-            "generations": 3488
+            "generations": 3488,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -2498,7 +2634,9 @@
             },
             "team1Score": 160,
             "team2Score": 65,
-            "generations": 1985
+            "generations": 1985,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -2534,7 +2672,9 @@
             },
             "team1Score": 87,
             "team2Score": 46,
-            "generations": 2251
+            "generations": 2251,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -2570,7 +2710,9 @@
             },
             "team1Score": 69,
             "team2Score": 200,
-            "generations": 2653
+            "generations": 2653,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -2606,7 +2748,9 @@
             },
             "team1Score": 159,
             "team2Score": 132,
-            "generations": 1050
+            "generations": 1050,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -2644,7 +2788,9 @@
             },
             "team1Score": 345,
             "team2Score": 8,
-            "generations": 2277
+            "generations": 2277,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -2680,7 +2826,9 @@
             },
             "team1Score": 185,
             "team2Score": 74,
-            "generations": 1965
+            "generations": 1965,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -2716,7 +2864,9 @@
             },
             "team1Score": 8,
             "team2Score": 136,
-            "generations": 2121
+            "generations": 2121,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -2752,7 +2902,9 @@
             },
             "team1Score": 193,
             "team2Score": 55,
-            "generations": 2100
+            "generations": 2100,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -2788,7 +2940,9 @@
             },
             "team1Score": 295,
             "team2Score": 74,
-            "generations": 1369
+            "generations": 1369,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -2824,7 +2978,9 @@
             },
             "team1Score": 144,
             "team2Score": 200,
-            "generations": 1210
+            "generations": 1210,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -2860,7 +3016,9 @@
             },
             "team1Score": 49,
             "team2Score": 124,
-            "generations": 1256
+            "generations": 1256,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -2896,7 +3054,9 @@
             },
             "team1Score": 388,
             "team2Score": 8,
-            "generations": 2783
+            "generations": 2783,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -2934,7 +3094,9 @@
             },
             "team1Score": 30,
             "team2Score": 194,
-            "generations": 1333
+            "generations": 1333,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -2970,7 +3132,9 @@
             },
             "team1Score": 145,
             "team2Score": 118,
-            "generations": 1453
+            "generations": 1453,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -3006,7 +3170,9 @@
             },
             "team1Score": 41,
             "team2Score": 197,
-            "generations": 1668
+            "generations": 1668,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -3042,7 +3208,9 @@
             },
             "team1Score": 133,
             "team2Score": 159,
-            "generations": 2207
+            "generations": 2207,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -3078,7 +3246,9 @@
             },
             "team1Score": 127,
             "team2Score": 143,
-            "generations": 1981
+            "generations": 1981,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -3114,7 +3284,9 @@
             },
             "team1Score": 239,
             "team2Score": 103,
-            "generations": 2018
+            "generations": 2018,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -3150,7 +3322,9 @@
             },
             "team1Score": 100,
             "team2Score": 27,
-            "generations": 1619
+            "generations": 1619,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -3186,7 +3360,9 @@
             },
             "team1Score": 150,
             "team2Score": 6,
-            "generations": 1391
+            "generations": 1391,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -3224,7 +3400,9 @@
             },
             "team1Score": 9,
             "team2Score": 297,
-            "generations": 4209
+            "generations": 4209,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -3260,7 +3438,9 @@
             },
             "team1Score": 76,
             "team2Score": 316,
-            "generations": 1359
+            "generations": 1359,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -3296,7 +3476,9 @@
             },
             "team1Score": 232,
             "team2Score": 163,
-            "generations": 2563
+            "generations": 2563,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -3332,7 +3514,9 @@
             },
             "team1Score": 124,
             "team2Score": 175,
-            "generations": 4695
+            "generations": 4695,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -3368,7 +3552,9 @@
             },
             "team1Score": 135,
             "team2Score": 61,
-            "generations": 1477
+            "generations": 1477,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -3404,7 +3590,9 @@
             },
             "team1Score": 135,
             "team2Score": 52,
-            "generations": 2600
+            "generations": 2600,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -3440,7 +3628,9 @@
             },
             "team1Score": 89,
             "team2Score": 92,
-            "generations": 2580
+            "generations": 2580,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -3476,7 +3666,9 @@
             },
             "team1Score": 169,
             "team2Score": 98,
-            "generations": 1364
+            "generations": 1364,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -3514,7 +3706,9 @@
             },
             "team1Score": 121,
             "team2Score": 192,
-            "generations": 1268
+            "generations": 1268,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -3550,7 +3744,9 @@
             },
             "team1Score": 99,
             "team2Score": 214,
-            "generations": 2906
+            "generations": 2906,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -3586,7 +3782,9 @@
             },
             "team1Score": 89,
             "team2Score": 136,
-            "generations": 1633
+            "generations": 1633,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -3622,7 +3820,9 @@
             },
             "team1Score": 75,
             "team2Score": 88,
-            "generations": 1022
+            "generations": 1022,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -3658,7 +3858,9 @@
             },
             "team1Score": 204,
             "team2Score": 123,
-            "generations": 1911
+            "generations": 1911,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -3694,7 +3896,9 @@
             },
             "team1Score": 162,
             "team2Score": 109,
-            "generations": 1434
+            "generations": 1434,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -3730,7 +3934,9 @@
             },
             "team1Score": 120,
             "team2Score": 155,
-            "generations": 3218
+            "generations": 3218,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -3766,7 +3972,9 @@
             },
             "team1Score": 151,
             "team2Score": 69,
-            "generations": 1155
+            "generations": 1155,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -3804,7 +4012,9 @@
             },
             "team1Score": 190,
             "team2Score": 13,
-            "generations": 1867
+            "generations": 1867,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -3840,7 +4050,9 @@
             },
             "team1Score": 145,
             "team2Score": 133,
-            "generations": 1565
+            "generations": 1565,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -3876,7 +4088,9 @@
             },
             "team1Score": 93,
             "team2Score": 217,
-            "generations": 3322
+            "generations": 3322,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -3912,7 +4126,9 @@
             },
             "team1Score": 187,
             "team2Score": 84,
-            "generations": 3997
+            "generations": 3997,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -3948,7 +4164,9 @@
             },
             "team1Score": 157,
             "team2Score": 70,
-            "generations": 1351
+            "generations": 1351,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -3984,7 +4202,9 @@
             },
             "team1Score": 199,
             "team2Score": 114,
-            "generations": 2248
+            "generations": 2248,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -4020,7 +4240,9 @@
             },
             "team1Score": 171,
             "team2Score": 80,
-            "generations": 2371
+            "generations": 2371,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -4056,7 +4278,9 @@
             },
             "team1Score": 72,
             "team2Score": 375,
-            "generations": 1898
+            "generations": 1898,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -4094,7 +4318,9 @@
             },
             "team1Score": 197,
             "team2Score": 177,
-            "generations": 2498
+            "generations": 2498,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -4130,7 +4356,9 @@
             },
             "team1Score": 134,
             "team2Score": 261,
-            "generations": 1287
+            "generations": 1287,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -4166,7 +4394,9 @@
             },
             "team1Score": 54,
             "team2Score": 207,
-            "generations": 1459
+            "generations": 1459,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -4202,7 +4432,9 @@
             },
             "team1Score": 55,
             "team2Score": 235,
-            "generations": 2193
+            "generations": 2193,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -4238,7 +4470,9 @@
             },
             "team1Score": 154,
             "team2Score": 123,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -4274,7 +4508,9 @@
             },
             "team1Score": 186,
             "team2Score": 203,
-            "generations": 1290
+            "generations": 1290,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -4310,7 +4546,9 @@
             },
             "team1Score": 209,
             "team2Score": 68,
-            "generations": 1730
+            "generations": 1730,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -4346,7 +4584,9 @@
             },
             "team1Score": 142,
             "team2Score": 92,
-            "generations": 1388
+            "generations": 1388,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -4384,7 +4624,9 @@
             },
             "team1Score": 103,
             "team2Score": 127,
-            "generations": 1043
+            "generations": 1043,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -4420,7 +4662,9 @@
             },
             "team1Score": 75,
             "team2Score": 43,
-            "generations": 1414
+            "generations": 1414,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -4456,7 +4700,9 @@
             },
             "team1Score": 122,
             "team2Score": 78,
-            "generations": 1734
+            "generations": 1734,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -4492,7 +4738,9 @@
             },
             "team1Score": 118,
             "team2Score": 30,
-            "generations": 1735
+            "generations": 1735,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -4528,7 +4776,9 @@
             },
             "team1Score": 161,
             "team2Score": 156,
-            "generations": 5717
+            "generations": 5717,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -4564,7 +4814,9 @@
             },
             "team1Score": 42,
             "team2Score": 102,
-            "generations": 1921
+            "generations": 1921,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -4600,7 +4852,9 @@
             },
             "team1Score": 70,
             "team2Score": 118,
-            "generations": 1258
+            "generations": 1258,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -4636,7 +4890,9 @@
             },
             "team1Score": 16,
             "team2Score": 280,
-            "generations": 3519
+            "generations": 3519,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -4674,7 +4930,9 @@
             },
             "team1Score": 216,
             "team2Score": 11,
-            "generations": 1627
+            "generations": 1627,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -4710,7 +4968,9 @@
             },
             "team1Score": 182,
             "team2Score": 231,
-            "generations": 1660
+            "generations": 1660,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -4746,7 +5006,9 @@
             },
             "team1Score": 94,
             "team2Score": 220,
-            "generations": 2066
+            "generations": 2066,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -4782,7 +5044,9 @@
             },
             "team1Score": 81,
             "team2Score": 114,
-            "generations": 1605
+            "generations": 1605,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -4818,7 +5082,9 @@
             },
             "team1Score": 47,
             "team2Score": 83,
-            "generations": 1153
+            "generations": 1153,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -4854,7 +5120,9 @@
             },
             "team1Score": 182,
             "team2Score": 14,
-            "generations": 2087
+            "generations": 2087,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -4890,7 +5158,9 @@
             },
             "team1Score": 209,
             "team2Score": 184,
-            "generations": 1533
+            "generations": 1533,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -4926,7 +5196,9 @@
             },
             "team1Score": 130,
             "team2Score": 43,
-            "generations": 1042
+            "generations": 1042,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -4964,7 +5236,9 @@
             },
             "team1Score": 77,
             "team2Score": 30,
-            "generations": 1025
+            "generations": 1025,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -5000,7 +5274,9 @@
             },
             "team1Score": 106,
             "team2Score": 74,
-            "generations": 1091
+            "generations": 1091,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -5036,7 +5312,9 @@
             },
             "team1Score": 59,
             "team2Score": 93,
-            "generations": 1329
+            "generations": 1329,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -5072,7 +5350,9 @@
             },
             "team1Score": 231,
             "team2Score": 126,
-            "generations": 1909
+            "generations": 1909,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -5108,7 +5388,9 @@
             },
             "team1Score": 183,
             "team2Score": 190,
-            "generations": 1098
+            "generations": 1098,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -5144,7 +5426,9 @@
             },
             "team1Score": 161,
             "team2Score": 74,
-            "generations": 2621
+            "generations": 2621,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -5180,7 +5464,9 @@
             },
             "team1Score": 213,
             "team2Score": 70,
-            "generations": 2532
+            "generations": 2532,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -5216,7 +5502,9 @@
             },
             "team1Score": 75,
             "team2Score": 36,
-            "generations": 1008
+            "generations": 1008,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5254,7 +5542,9 @@
             },
             "team1Score": 60,
             "team2Score": 97,
-            "generations": 1876
+            "generations": 1876,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -5290,7 +5580,9 @@
             },
             "team1Score": 38,
             "team2Score": 40,
-            "generations": 1171
+            "generations": 1171,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -5326,7 +5618,9 @@
             },
             "team1Score": 253,
             "team2Score": 7,
-            "generations": 2764
+            "generations": 2764,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -5362,7 +5656,9 @@
             },
             "team1Score": 244,
             "team2Score": 75,
-            "generations": 2384
+            "generations": 2384,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -5398,7 +5694,9 @@
             },
             "team1Score": 122,
             "team2Score": 179,
-            "generations": 2404
+            "generations": 2404,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -5434,7 +5732,9 @@
             },
             "team1Score": 8,
             "team2Score": 192,
-            "generations": 2295
+            "generations": 2295,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -5470,7 +5770,9 @@
             },
             "team1Score": 59,
             "team2Score": 272,
-            "generations": 1938
+            "generations": 1938,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -5506,7 +5808,9 @@
             },
             "team1Score": 180,
             "team2Score": 56,
-            "generations": 2187
+            "generations": 2187,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -5544,7 +5848,9 @@
             },
             "team1Score": 126,
             "team2Score": 158,
-            "generations": 1201
+            "generations": 1201,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -5580,7 +5886,9 @@
             },
             "team1Score": 258,
             "team2Score": 53,
-            "generations": 1741
+            "generations": 1741,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -5616,7 +5924,9 @@
             },
             "team1Score": 180,
             "team2Score": 35,
-            "generations": 1065
+            "generations": 1065,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -5652,7 +5962,9 @@
             },
             "team1Score": 103,
             "team2Score": 13,
-            "generations": 1162
+            "generations": 1162,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -5688,7 +6000,9 @@
             },
             "team1Score": 47,
             "team2Score": 194,
-            "generations": 2028
+            "generations": 2028,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -5724,7 +6038,9 @@
             },
             "team1Score": 218,
             "team2Score": 117,
-            "generations": 1251
+            "generations": 1251,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -5760,7 +6076,9 @@
             },
             "team1Score": 171,
             "team2Score": 165,
-            "generations": 1536
+            "generations": 1536,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -5796,7 +6114,9 @@
             },
             "team1Score": 140,
             "team2Score": 166,
-            "generations": 1532
+            "generations": 1532,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5834,7 +6154,9 @@
             },
             "team1Score": 131,
             "team2Score": 92,
-            "generations": 1379
+            "generations": 1379,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -5870,7 +6192,9 @@
             },
             "team1Score": 159,
             "team2Score": 138,
-            "generations": 1023
+            "generations": 1023,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -5906,7 +6230,9 @@
             },
             "team1Score": 96,
             "team2Score": 126,
-            "generations": 2647
+            "generations": 2647,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -5942,7 +6268,9 @@
             },
             "team1Score": 149,
             "team2Score": 29,
-            "generations": 1819
+            "generations": 1819,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -5978,7 +6306,9 @@
             },
             "team1Score": 179,
             "team2Score": 199,
-            "generations": 1170
+            "generations": 1170,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -6014,7 +6344,9 @@
             },
             "team1Score": 65,
             "team2Score": 102,
-            "generations": 1361
+            "generations": 1361,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -6050,7 +6382,9 @@
             },
             "team1Score": 212,
             "team2Score": 62,
-            "generations": 2906
+            "generations": 2906,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -6086,7 +6420,9 @@
             },
             "team1Score": 157,
             "team2Score": 169,
-            "generations": 3152
+            "generations": 3152,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -6124,7 +6460,9 @@
             },
             "team1Score": 182,
             "team2Score": 56,
-            "generations": 1655
+            "generations": 1655,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -6160,7 +6498,9 @@
             },
             "team1Score": 286,
             "team2Score": 39,
-            "generations": 2953
+            "generations": 2953,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -6196,7 +6536,9 @@
             },
             "team1Score": 65,
             "team2Score": 84,
-            "generations": 1343
+            "generations": 1343,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -6232,7 +6574,9 @@
             },
             "team1Score": 151,
             "team2Score": 219,
-            "generations": 1291
+            "generations": 1291,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -6268,7 +6612,9 @@
             },
             "team1Score": 70,
             "team2Score": 102,
-            "generations": 1096
+            "generations": 1096,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -6304,7 +6650,9 @@
             },
             "team1Score": 169,
             "team2Score": 183,
-            "generations": 1138
+            "generations": 1138,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -6340,7 +6688,9 @@
             },
             "team1Score": 184,
             "team2Score": 116,
-            "generations": 1857
+            "generations": 1857,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -6376,7 +6726,9 @@
             },
             "team1Score": 89,
             "team2Score": 3,
-            "generations": 1282
+            "generations": 1282,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -6414,7 +6766,9 @@
             },
             "team1Score": 98,
             "team2Score": 87,
-            "generations": 1095
+            "generations": 1095,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -6450,7 +6804,9 @@
             },
             "team1Score": 223,
             "team2Score": 132,
-            "generations": 2735
+            "generations": 2735,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -6486,7 +6842,9 @@
             },
             "team1Score": 96,
             "team2Score": 263,
-            "generations": 1983
+            "generations": 1983,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -6522,7 +6880,9 @@
             },
             "team1Score": 17,
             "team2Score": 64,
-            "generations": 1094
+            "generations": 1094,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -6558,7 +6918,9 @@
             },
             "team1Score": 165,
             "team2Score": 83,
-            "generations": 1141
+            "generations": 1141,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -6594,7 +6956,9 @@
             },
             "team1Score": 14,
             "team2Score": 64,
-            "generations": 1320
+            "generations": 1320,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -6630,7 +6994,9 @@
             },
             "team1Score": 260,
             "team2Score": 44,
-            "generations": 1203
+            "generations": 1203,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -6666,7 +7032,9 @@
             },
             "team1Score": 75,
             "team2Score": 126,
-            "generations": 1021
+            "generations": 1021,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -6704,7 +7072,9 @@
             },
             "team1Score": 225,
             "team2Score": 30,
-            "generations": 1431
+            "generations": 1431,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -6740,7 +7110,9 @@
             },
             "team1Score": 156,
             "team2Score": 92,
-            "generations": 1230
+            "generations": 1230,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -6776,7 +7148,9 @@
             },
             "team1Score": 201,
             "team2Score": 141,
-            "generations": 4327
+            "generations": 4327,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -6812,7 +7186,9 @@
             },
             "team1Score": 122,
             "team2Score": 173,
-            "generations": 1231
+            "generations": 1231,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -6848,7 +7224,9 @@
             },
             "team1Score": 194,
             "team2Score": 129,
-            "generations": 1656
+            "generations": 1656,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -6884,7 +7262,9 @@
             },
             "team1Score": 137,
             "team2Score": 207,
-            "generations": 2963
+            "generations": 2963,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -6920,7 +7300,9 @@
             },
             "team1Score": 126,
             "team2Score": 88,
-            "generations": 1264
+            "generations": 1264,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -6956,7 +7338,9 @@
             },
             "team1Score": 136,
             "team2Score": 55,
-            "generations": 1828
+            "generations": 1828,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -6994,7 +7378,9 @@
             },
             "team1Score": 111,
             "team2Score": 182,
-            "generations": 3687
+            "generations": 3687,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -7030,7 +7416,9 @@
             },
             "team1Score": 59,
             "team2Score": 50,
-            "generations": 1022
+            "generations": 1022,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -7066,7 +7454,9 @@
             },
             "team1Score": 196,
             "team2Score": 35,
-            "generations": 1879
+            "generations": 1879,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -7102,7 +7492,9 @@
             },
             "team1Score": 56,
             "team2Score": 87,
-            "generations": 1117
+            "generations": 1117,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -7138,7 +7530,9 @@
             },
             "team1Score": 89,
             "team2Score": 128,
-            "generations": 1112
+            "generations": 1112,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -7174,7 +7568,9 @@
             },
             "team1Score": 174,
             "team2Score": 20,
-            "generations": 2005
+            "generations": 2005,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -7210,7 +7606,9 @@
             },
             "team1Score": 24,
             "team2Score": 151,
-            "generations": 1429
+            "generations": 1429,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -7246,7 +7644,9 @@
             },
             "team1Score": 39,
             "team2Score": 137,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -7284,7 +7684,9 @@
             },
             "team1Score": 336,
             "team2Score": 27,
-            "generations": 3216
+            "generations": 3216,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -7320,7 +7722,9 @@
             },
             "team1Score": 220,
             "team2Score": 171,
-            "generations": 2477
+            "generations": 2477,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -7356,7 +7760,9 @@
             },
             "team1Score": 132,
             "team2Score": 20,
-            "generations": 1025
+            "generations": 1025,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -7392,7 +7798,9 @@
             },
             "team1Score": 8,
             "team2Score": 209,
-            "generations": 1962
+            "generations": 1962,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -7428,7 +7836,9 @@
             },
             "team1Score": 75,
             "team2Score": 154,
-            "generations": 2593
+            "generations": 2593,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -7464,7 +7874,9 @@
             },
             "team1Score": 233,
             "team2Score": 151,
-            "generations": 1781
+            "generations": 1781,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -7500,7 +7912,9 @@
             },
             "team1Score": 112,
             "team2Score": 106,
-            "generations": 2191
+            "generations": 2191,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -7536,7 +7950,9 @@
             },
             "team1Score": 268,
             "team2Score": 18,
-            "generations": 3257
+            "generations": 3257,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -7574,7 +7990,9 @@
             },
             "team1Score": 214,
             "team2Score": 32,
-            "generations": 1748
+            "generations": 1748,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -7610,7 +8028,9 @@
             },
             "team1Score": 164,
             "team2Score": 104,
-            "generations": 1122
+            "generations": 1122,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -7646,7 +8066,9 @@
             },
             "team1Score": 182,
             "team2Score": 57,
-            "generations": 1500
+            "generations": 1500,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -7682,7 +8104,9 @@
             },
             "team1Score": 4,
             "team2Score": 125,
-            "generations": 1516
+            "generations": 1516,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -7718,7 +8142,9 @@
             },
             "team1Score": 103,
             "team2Score": 140,
-            "generations": 3731
+            "generations": 3731,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -7754,7 +8180,9 @@
             },
             "team1Score": 98,
             "team2Score": 32,
-            "generations": 1451
+            "generations": 1451,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -7790,7 +8218,9 @@
             },
             "team1Score": 20,
             "team2Score": 212,
-            "generations": 1557
+            "generations": 1557,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -7826,7 +8256,9 @@
             },
             "team1Score": 183,
             "team2Score": 99,
-            "generations": 1575
+            "generations": 1575,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -7864,7 +8296,9 @@
             },
             "team1Score": 235,
             "team2Score": 11,
-            "generations": 2156
+            "generations": 2156,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -7900,7 +8334,9 @@
             },
             "team1Score": 139,
             "team2Score": 75,
-            "generations": 1307
+            "generations": 1307,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -7936,7 +8372,9 @@
             },
             "team1Score": 56,
             "team2Score": 109,
-            "generations": 1242
+            "generations": 1242,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -7972,7 +8410,9 @@
             },
             "team1Score": 149,
             "team2Score": 102,
-            "generations": 1791
+            "generations": 1791,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -8008,7 +8448,9 @@
             },
             "team1Score": 89,
             "team2Score": 75,
-            "generations": 1587
+            "generations": 1587,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -8044,7 +8486,9 @@
             },
             "team1Score": 90,
             "team2Score": 92,
-            "generations": 1886
+            "generations": 1886,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -8080,7 +8524,9 @@
             },
             "team1Score": 207,
             "team2Score": 27,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -8116,7 +8562,9 @@
             },
             "team1Score": 137,
             "team2Score": 102,
-            "generations": 1164
+            "generations": 1164,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -8154,7 +8602,9 @@
             },
             "team1Score": 376,
             "team2Score": 14,
-            "generations": 3148
+            "generations": 3148,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -8190,7 +8640,9 @@
             },
             "team1Score": 259,
             "team2Score": 99,
-            "generations": 1018
+            "generations": 1018,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -8226,7 +8678,9 @@
             },
             "team1Score": 136,
             "team2Score": 114,
-            "generations": 1117
+            "generations": 1117,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -8262,7 +8716,9 @@
             },
             "team1Score": 108,
             "team2Score": 152,
-            "generations": 5198
+            "generations": 5198,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -8298,7 +8754,9 @@
             },
             "team1Score": 136,
             "team2Score": 190,
-            "generations": 2797
+            "generations": 2797,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -8334,7 +8792,9 @@
             },
             "team1Score": 35,
             "team2Score": 182,
-            "generations": 1788
+            "generations": 1788,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -8370,7 +8830,9 @@
             },
             "team1Score": 90,
             "team2Score": 129,
-            "generations": 1004
+            "generations": 1004,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -8406,7 +8868,9 @@
             },
             "team1Score": 52,
             "team2Score": 40,
-            "generations": 1074
+            "generations": 1074,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -8444,7 +8908,9 @@
             },
             "team1Score": 312,
             "team2Score": 56,
-            "generations": 1499
+            "generations": 1499,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -8480,7 +8946,9 @@
             },
             "team1Score": 114,
             "team2Score": 128,
-            "generations": 1856
+            "generations": 1856,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -8516,7 +8984,9 @@
             },
             "team1Score": 64,
             "team2Score": 199,
-            "generations": 1151
+            "generations": 1151,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -8552,7 +9022,9 @@
             },
             "team1Score": 144,
             "team2Score": 142,
-            "generations": 1211
+            "generations": 1211,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -8588,7 +9060,9 @@
             },
             "team1Score": 83,
             "team2Score": 36,
-            "generations": 1344
+            "generations": 1344,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -8624,7 +9098,9 @@
             },
             "team1Score": 18,
             "team2Score": 185,
-            "generations": 2061
+            "generations": 2061,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -8660,7 +9136,9 @@
             },
             "team1Score": 4,
             "team2Score": 255,
-            "generations": 2046
+            "generations": 2046,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -8696,7 +9174,9 @@
             },
             "team1Score": 7,
             "team2Score": 122,
-            "generations": 2206
+            "generations": 2206,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -8734,7 +9214,9 @@
             },
             "team1Score": 88,
             "team2Score": 239,
-            "generations": 2112
+            "generations": 2112,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -8770,7 +9252,9 @@
             },
             "team1Score": 113,
             "team2Score": 19,
-            "generations": 1198
+            "generations": 1198,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -8806,7 +9290,9 @@
             },
             "team1Score": 206,
             "team2Score": 175,
-            "generations": 2576
+            "generations": 2576,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -8842,7 +9328,9 @@
             },
             "team1Score": 76,
             "team2Score": 212,
-            "generations": 2412
+            "generations": 2412,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -8878,7 +9366,9 @@
             },
             "team1Score": 47,
             "team2Score": 196,
-            "generations": 2389
+            "generations": 2389,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -8914,7 +9404,9 @@
             },
             "team1Score": 176,
             "team2Score": 123,
-            "generations": 2696
+            "generations": 2696,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -8950,7 +9442,9 @@
             },
             "team1Score": 122,
             "team2Score": 181,
-            "generations": 1603
+            "generations": 1603,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -8986,7 +9480,9 @@
             },
             "team1Score": 203,
             "team2Score": 106,
-            "generations": 1749
+            "generations": 1749,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -9024,7 +9520,9 @@
             },
             "team1Score": 98,
             "team2Score": 135,
-            "generations": 1124
+            "generations": 1124,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -9060,7 +9558,9 @@
             },
             "team1Score": 75,
             "team2Score": 36,
-            "generations": 1008
+            "generations": 1008,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -9096,7 +9596,9 @@
             },
             "team1Score": 38,
             "team2Score": 141,
-            "generations": 1466
+            "generations": 1466,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -9132,7 +9634,9 @@
             },
             "team1Score": 124,
             "team2Score": 52,
-            "generations": 1056
+            "generations": 1056,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -9168,7 +9672,9 @@
             },
             "team1Score": 178,
             "team2Score": 135,
-            "generations": 1393
+            "generations": 1393,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -9204,7 +9710,9 @@
             },
             "team1Score": 143,
             "team2Score": 111,
-            "generations": 1008
+            "generations": 1008,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -9240,7 +9748,9 @@
             },
             "team1Score": 182,
             "team2Score": 137,
-            "generations": 2417
+            "generations": 2417,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -9276,7 +9786,9 @@
             },
             "team1Score": 143,
             "team2Score": 184,
-            "generations": 3123
+            "generations": 3123,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -9314,7 +9826,9 @@
             },
             "team1Score": 38,
             "team2Score": 258,
-            "generations": 2187
+            "generations": 2187,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -9350,7 +9864,9 @@
             },
             "team1Score": 103,
             "team2Score": 199,
-            "generations": 3294
+            "generations": 3294,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -9386,7 +9902,9 @@
             },
             "team1Score": 284,
             "team2Score": 38,
-            "generations": 3826
+            "generations": 3826,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -9422,7 +9940,9 @@
             },
             "team1Score": 47,
             "team2Score": 103,
-            "generations": 1350
+            "generations": 1350,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -9458,7 +9978,9 @@
             },
             "team1Score": 28,
             "team2Score": 148,
-            "generations": 1120
+            "generations": 1120,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -9494,7 +10016,9 @@
             },
             "team1Score": 60,
             "team2Score": 94,
-            "generations": 1028
+            "generations": 1028,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -9530,7 +10054,9 @@
             },
             "team1Score": 206,
             "team2Score": 29,
-            "generations": 1426
+            "generations": 1426,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -9566,7 +10092,9 @@
             },
             "team1Score": 126,
             "team2Score": 131,
-            "generations": 1547
+            "generations": 1547,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -9604,7 +10132,9 @@
             },
             "team1Score": 70,
             "team2Score": 165,
-            "generations": 2100
+            "generations": 2100,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -9640,7 +10170,9 @@
             },
             "team1Score": 116,
             "team2Score": 247,
-            "generations": 1463
+            "generations": 1463,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -9676,7 +10208,9 @@
             },
             "team1Score": 109,
             "team2Score": 8,
-            "generations": 1100
+            "generations": 1100,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -9712,7 +10246,9 @@
             },
             "team1Score": 142,
             "team2Score": 50,
-            "generations": 1204
+            "generations": 1204,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -9748,7 +10284,9 @@
             },
             "team1Score": 40,
             "team2Score": 78,
-            "generations": 1768
+            "generations": 1768,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -9784,7 +10322,9 @@
             },
             "team1Score": 58,
             "team2Score": 131,
-            "generations": 1254
+            "generations": 1254,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -9820,7 +10360,9 @@
             },
             "team1Score": 211,
             "team2Score": 15,
-            "generations": 1370
+            "generations": 1370,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -9856,7 +10398,9 @@
             },
             "team1Score": 246,
             "team2Score": 112,
-            "generations": 2121
+            "generations": 2121,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -9894,7 +10438,9 @@
             },
             "team1Score": 154,
             "team2Score": 127,
-            "generations": 1316
+            "generations": 1316,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -9930,7 +10476,9 @@
             },
             "team1Score": 145,
             "team2Score": 220,
-            "generations": 2433
+            "generations": 2433,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -9966,7 +10514,9 @@
             },
             "team1Score": 66,
             "team2Score": 106,
-            "generations": 2160
+            "generations": 2160,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -10002,7 +10552,9 @@
             },
             "team1Score": 174,
             "team2Score": 49,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -10038,7 +10590,9 @@
             },
             "team1Score": 73,
             "team2Score": 125,
-            "generations": 1063
+            "generations": 1063,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -10074,7 +10628,9 @@
             },
             "team1Score": 273,
             "team2Score": 72,
-            "generations": 2861
+            "generations": 2861,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -10110,7 +10666,9 @@
             },
             "team1Score": 124,
             "team2Score": 85,
-            "generations": 1523
+            "generations": 1523,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -10146,7 +10704,9 @@
             },
             "team1Score": 157,
             "team2Score": 39,
-            "generations": 1759
+            "generations": 1759,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -10184,7 +10744,9 @@
             },
             "team1Score": 209,
             "team2Score": 177,
-            "generations": 1737
+            "generations": 1737,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -10220,7 +10782,9 @@
             },
             "team1Score": 160,
             "team2Score": 48,
-            "generations": 3557
+            "generations": 3557,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -10256,7 +10820,9 @@
             },
             "team1Score": 167,
             "team2Score": 173,
-            "generations": 3241
+            "generations": 3241,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -10292,7 +10858,9 @@
             },
             "team1Score": 69,
             "team2Score": 121,
-            "generations": 1717
+            "generations": 1717,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -10328,7 +10896,9 @@
             },
             "team1Score": 204,
             "team2Score": 228,
-            "generations": 2199
+            "generations": 2199,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -10364,7 +10934,9 @@
             },
             "team1Score": 76,
             "team2Score": 102,
-            "generations": 1134
+            "generations": 1134,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -10400,7 +10972,9 @@
             },
             "team1Score": 64,
             "team2Score": 108,
-            "generations": 1106
+            "generations": 1106,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -10436,7 +11010,9 @@
             },
             "team1Score": 260,
             "team2Score": 34,
-            "generations": 4151
+            "generations": 4151,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -10474,7 +11050,9 @@
             },
             "team1Score": 105,
             "team2Score": 206,
-            "generations": 1099
+            "generations": 1099,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -10510,7 +11088,9 @@
             },
             "team1Score": 157,
             "team2Score": 110,
-            "generations": 1301
+            "generations": 1301,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -10546,7 +11126,9 @@
             },
             "team1Score": 113,
             "team2Score": 173,
-            "generations": 1639
+            "generations": 1639,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -10582,7 +11164,9 @@
             },
             "team1Score": 90,
             "team2Score": 123,
-            "generations": 2611
+            "generations": 2611,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -10618,7 +11202,9 @@
             },
             "team1Score": 197,
             "team2Score": 166,
-            "generations": 1712
+            "generations": 1712,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -10654,7 +11240,9 @@
             },
             "team1Score": 30,
             "team2Score": 95,
-            "generations": 1060
+            "generations": 1060,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -10690,7 +11278,9 @@
             },
             "team1Score": 72,
             "team2Score": 23,
-            "generations": 1175
+            "generations": 1175,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -10726,7 +11316,9 @@
             },
             "team1Score": 70,
             "team2Score": 260,
-            "generations": 5713
+            "generations": 5713,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -10764,7 +11356,9 @@
             },
             "team1Score": 170,
             "team2Score": 165,
-            "generations": 2106
+            "generations": 2106,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -10800,7 +11394,9 @@
             },
             "team1Score": 56,
             "team2Score": 126,
-            "generations": 1365
+            "generations": 1365,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -10836,7 +11432,9 @@
             },
             "team1Score": 106,
             "team2Score": 105,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -10872,7 +11470,9 @@
             },
             "team1Score": 134,
             "team2Score": 224,
-            "generations": 1159
+            "generations": 1159,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -10908,7 +11508,9 @@
             },
             "team1Score": 26,
             "team2Score": 169,
-            "generations": 2934
+            "generations": 2934,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -10944,7 +11546,9 @@
             },
             "team1Score": 2,
             "team2Score": 237,
-            "generations": 2975
+            "generations": 2975,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -10980,7 +11584,9 @@
             },
             "team1Score": 62,
             "team2Score": 102,
-            "generations": 2016
+            "generations": 2016,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -11016,7 +11622,9 @@
             },
             "team1Score": 101,
             "team2Score": 122,
-            "generations": 1332
+            "generations": 1332,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -11054,7 +11662,9 @@
             },
             "team1Score": 75,
             "team2Score": 43,
-            "generations": 1127
+            "generations": 1127,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -11090,7 +11700,9 @@
             },
             "team1Score": 82,
             "team2Score": 214,
-            "generations": 1612
+            "generations": 1612,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -11126,7 +11738,9 @@
             },
             "team1Score": 38,
             "team2Score": 74,
-            "generations": 1292
+            "generations": 1292,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -11162,7 +11776,9 @@
             },
             "team1Score": 191,
             "team2Score": 101,
-            "generations": 2890
+            "generations": 2890,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -11198,7 +11814,9 @@
             },
             "team1Score": 155,
             "team2Score": 55,
-            "generations": 2259
+            "generations": 2259,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -11234,7 +11852,9 @@
             },
             "team1Score": 70,
             "team2Score": 187,
-            "generations": 1908
+            "generations": 1908,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -11270,7 +11890,9 @@
             },
             "team1Score": 161,
             "team2Score": 54,
-            "generations": 2247
+            "generations": 2247,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -11306,7 +11928,9 @@
             },
             "team1Score": 141,
             "team2Score": 182,
-            "generations": 1820
+            "generations": 1820,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -11344,7 +11968,9 @@
             },
             "team1Score": 96,
             "team2Score": 170,
-            "generations": 1591
+            "generations": 1591,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -11380,7 +12006,9 @@
             },
             "team1Score": 11,
             "team2Score": 256,
-            "generations": 3421
+            "generations": 3421,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -11416,7 +12044,9 @@
             },
             "team1Score": 204,
             "team2Score": 6,
-            "generations": 1472
+            "generations": 1472,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -11452,7 +12082,9 @@
             },
             "team1Score": 133,
             "team2Score": 135,
-            "generations": 2621
+            "generations": 2621,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -11488,7 +12120,9 @@
             },
             "team1Score": 121,
             "team2Score": 38,
-            "generations": 1588
+            "generations": 1588,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -11524,7 +12158,9 @@
             },
             "team1Score": 94,
             "team2Score": 43,
-            "generations": 1285
+            "generations": 1285,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -11560,7 +12196,9 @@
             },
             "team1Score": 137,
             "team2Score": 214,
-            "generations": 2722
+            "generations": 2722,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -11596,7 +12234,9 @@
             },
             "team1Score": 23,
             "team2Score": 118,
-            "generations": 3068
+            "generations": 3068,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -11634,7 +12274,9 @@
             },
             "team1Score": 183,
             "team2Score": 98,
-            "generations": 1751
+            "generations": 1751,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -11670,7 +12312,9 @@
             },
             "team1Score": 156,
             "team2Score": 161,
-            "generations": 1620
+            "generations": 1620,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -11706,7 +12350,9 @@
             },
             "team1Score": 284,
             "team2Score": 60,
-            "generations": 3121
+            "generations": 3121,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -11742,7 +12388,9 @@
             },
             "team1Score": 206,
             "team2Score": 92,
-            "generations": 3519
+            "generations": 3519,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -11778,7 +12426,9 @@
             },
             "team1Score": 95,
             "team2Score": 161,
-            "generations": 2561
+            "generations": 2561,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -11814,7 +12464,9 @@
             },
             "team1Score": 31,
             "team2Score": 129,
-            "generations": 1119
+            "generations": 1119,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -11850,7 +12502,9 @@
             },
             "team1Score": 244,
             "team2Score": 109,
-            "generations": 2375
+            "generations": 2375,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -11886,7 +12540,9 @@
             },
             "team1Score": 183,
             "team2Score": 29,
-            "generations": 1250
+            "generations": 1250,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11924,7 +12580,9 @@
             },
             "team1Score": 274,
             "team2Score": 71,
-            "generations": 2330
+            "generations": 2330,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -11960,7 +12618,9 @@
             },
             "team1Score": 183,
             "team2Score": 182,
-            "generations": 2193
+            "generations": 2193,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -11996,7 +12656,9 @@
             },
             "team1Score": 234,
             "team2Score": 41,
-            "generations": 2299
+            "generations": 2299,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -12032,7 +12694,9 @@
             },
             "team1Score": 68,
             "team2Score": 62,
-            "generations": 1403
+            "generations": 1403,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -12068,7 +12732,9 @@
             },
             "team1Score": 10,
             "team2Score": 150,
-            "generations": 1015
+            "generations": 1015,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -12104,7 +12770,9 @@
             },
             "team1Score": 186,
             "team2Score": 84,
-            "generations": 2112
+            "generations": 2112,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -12140,7 +12808,9 @@
             },
             "team1Score": 48,
             "team2Score": 24,
-            "generations": 1000
+            "generations": 1000,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -12176,7 +12846,9 @@
             },
             "team1Score": 208,
             "team2Score": 70,
-            "generations": 2532
+            "generations": 2532,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -12214,7 +12886,9 @@
             },
             "team1Score": 166,
             "team2Score": 96,
-            "generations": 1642
+            "generations": 1642,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -12250,7 +12924,9 @@
             },
             "team1Score": 105,
             "team2Score": 81,
-            "generations": 1717
+            "generations": 1717,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -12286,7 +12962,9 @@
             },
             "team1Score": 159,
             "team2Score": 75,
-            "generations": 4070
+            "generations": 4070,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -12322,7 +13000,9 @@
             },
             "team1Score": 174,
             "team2Score": 164,
-            "generations": 3578
+            "generations": 3578,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -12358,7 +13038,9 @@
             },
             "team1Score": 246,
             "team2Score": 156,
-            "generations": 2460
+            "generations": 2460,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -12394,7 +13076,9 @@
             },
             "team1Score": 16,
             "team2Score": 170,
-            "generations": 1512
+            "generations": 1512,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -12430,7 +13114,9 @@
             },
             "team1Score": 44,
             "team2Score": 136,
-            "generations": 1558
+            "generations": 1558,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -12466,7 +13152,9 @@
             },
             "team1Score": 140,
             "team2Score": 223,
-            "generations": 1340
+            "generations": 1340,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -12504,7 +13192,9 @@
             },
             "team1Score": 212,
             "team2Score": 59,
-            "generations": 1415
+            "generations": 1415,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -12540,7 +13230,9 @@
             },
             "team1Score": 195,
             "team2Score": 117,
-            "generations": 1147
+            "generations": 1147,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -12576,7 +13268,9 @@
             },
             "team1Score": 136,
             "team2Score": 105,
-            "generations": 2294
+            "generations": 2294,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -12612,7 +13306,9 @@
             },
             "team1Score": 286,
             "team2Score": 52,
-            "generations": 2317
+            "generations": 2317,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -12648,7 +13344,9 @@
             },
             "team1Score": 36,
             "team2Score": 212,
-            "generations": 1959
+            "generations": 1959,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -12684,7 +13382,9 @@
             },
             "team1Score": 125,
             "team2Score": 105,
-            "generations": 2417
+            "generations": 2417,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -12720,7 +13420,9 @@
             },
             "team1Score": 57,
             "team2Score": 106,
-            "generations": 1352
+            "generations": 1352,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -12756,7 +13458,9 @@
             },
             "team1Score": 242,
             "team2Score": 146,
-            "generations": 1251
+            "generations": 1251,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -12794,7 +13498,9 @@
             },
             "team1Score": 260,
             "team2Score": 39,
-            "generations": 2558
+            "generations": 2558,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -12830,7 +13536,9 @@
             },
             "team1Score": 108,
             "team2Score": 23,
-            "generations": 1732
+            "generations": 1732,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -12866,7 +13574,9 @@
             },
             "team1Score": 98,
             "team2Score": 128,
-            "generations": 1685
+            "generations": 1685,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -12902,7 +13612,9 @@
             },
             "team1Score": 172,
             "team2Score": 108,
-            "generations": 3770
+            "generations": 3770,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -12938,7 +13650,9 @@
             },
             "team1Score": 115,
             "team2Score": 79,
-            "generations": 1459
+            "generations": 1459,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -12974,7 +13688,9 @@
             },
             "team1Score": 233,
             "team2Score": 24,
-            "generations": 1450
+            "generations": 1450,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -13010,7 +13726,9 @@
             },
             "team1Score": 202,
             "team2Score": 101,
-            "generations": 1253
+            "generations": 1253,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -13046,7 +13764,9 @@
             },
             "team1Score": 124,
             "team2Score": 77,
-            "generations": 1776
+            "generations": 1776,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -13084,7 +13804,9 @@
             },
             "team1Score": 191,
             "team2Score": 29,
-            "generations": 1680
+            "generations": 1680,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -13120,7 +13842,9 @@
             },
             "team1Score": 153,
             "team2Score": 75,
-            "generations": 1351
+            "generations": 1351,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -13156,7 +13880,9 @@
             },
             "team1Score": 177,
             "team2Score": 150,
-            "generations": 2156
+            "generations": 2156,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -13192,7 +13918,9 @@
             },
             "team1Score": 93,
             "team2Score": 74,
-            "generations": 1036
+            "generations": 1036,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -13228,7 +13956,9 @@
             },
             "team1Score": 56,
             "team2Score": 64,
-            "generations": 1191
+            "generations": 1191,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -13264,7 +13994,9 @@
             },
             "team1Score": 224,
             "team2Score": 141,
-            "generations": 1993
+            "generations": 1993,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -13300,7 +14032,9 @@
             },
             "team1Score": 103,
             "team2Score": 113,
-            "generations": 1277
+            "generations": 1277,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -13336,7 +14070,9 @@
             },
             "team1Score": 52,
             "team2Score": 93,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13374,7 +14110,9 @@
             },
             "team1Score": 218,
             "team2Score": 124,
-            "generations": 2634
+            "generations": 2634,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Okemos Smooth Dogs",
@@ -13410,7 +14148,9 @@
             },
             "team1Score": 89,
             "team2Score": 230,
-            "generations": 2193
+            "generations": 2193,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -13446,7 +14186,9 @@
             },
             "team1Score": 14,
             "team2Score": 122,
-            "generations": 1377
+            "generations": 1377,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Brookside Village Rainbow Trout",
@@ -13482,7 +14224,9 @@
             },
             "team1Score": 115,
             "team2Score": 176,
-            "generations": 2262
+            "generations": 2262,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -13518,7 +14262,9 @@
             },
             "team1Score": 92,
             "team2Score": 90,
-            "generations": 1572
+            "generations": 1572,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "McMechen Closed Circuits",
@@ -13554,7 +14300,9 @@
             },
             "team1Score": 164,
             "team2Score": 41,
-            "generations": 1139
+            "generations": 1139,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -13590,7 +14338,9 @@
             },
             "team1Score": 167,
             "team2Score": 46,
-            "generations": 2021
+            "generations": 2021,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -13626,7 +14376,9 @@
             },
             "team1Score": 91,
             "team2Score": 28,
-            "generations": 1261
+            "generations": 1261,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13664,7 +14416,9 @@
             },
             "team1Score": 200,
             "team2Score": 191,
-            "generations": 1041
+            "generations": 1041,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Holderness Examiners",
@@ -13700,7 +14454,9 @@
             },
             "team1Score": 176,
             "team2Score": 23,
-            "generations": 1187
+            "generations": 1187,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Hapeville Meathammers",
@@ -13736,7 +14492,9 @@
             },
             "team1Score": 138,
             "team2Score": 227,
-            "generations": 2353
+            "generations": 2353,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Gray Chessboards",
@@ -13772,7 +14530,9 @@
             },
             "team1Score": 154,
             "team2Score": 159,
-            "generations": 1510
+            "generations": 1510,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "DeLeon Springs Fighting Asparagus",
@@ -13808,7 +14568,9 @@
             },
             "team1Score": 173,
             "team2Score": 44,
-            "generations": 2284
+            "generations": 2284,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -13844,7 +14606,9 @@
             },
             "team1Score": 70,
             "team2Score": 131,
-            "generations": 1192
+            "generations": 1192,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "North Beach Ironers",
@@ -13880,7 +14644,9 @@
             },
             "team1Score": 35,
             "team2Score": 200,
-            "generations": 1434
+            "generations": 1434,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Loris High Rollers",
@@ -13916,7 +14682,9 @@
             },
             "team1Score": 34,
             "team2Score": 135,
-            "generations": 2762
+            "generations": 2762,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -13954,7 +14722,9 @@
             },
             "team1Score": 54,
             "team2Score": 232,
-            "generations": 3014
+            "generations": 3014,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "The Villages Slag Heaps",
@@ -13990,7 +14760,9 @@
             },
             "team1Score": 104,
             "team2Score": 189,
-            "generations": 3065
+            "generations": 3065,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Greenville Snakes",
@@ -14026,7 +14798,9 @@
             },
             "team1Score": 134,
             "team2Score": 57,
-            "generations": 1121
+            "generations": 1121,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Harwich Diamond Runners",
@@ -14062,7 +14836,9 @@
             },
             "team1Score": 39,
             "team2Score": 32,
-            "generations": 1377
+            "generations": 1377,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Pearl City Molars",
@@ -14098,7 +14874,9 @@
             },
             "team1Score": 56,
             "team2Score": 213,
-            "generations": 1732
+            "generations": 1732,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Monmouth Junction Chessboards",
@@ -14134,7 +14912,9 @@
             },
             "team1Score": 98,
             "team2Score": 122,
-            "generations": 4186
+            "generations": 4186,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Georgetown Dear Deer",
@@ -14170,7 +14950,9 @@
             },
             "team1Score": 151,
             "team2Score": 122,
-            "generations": 3377
+            "generations": 3377,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Wheaton Bloats",
@@ -14206,7 +14988,9 @@
             },
             "team1Score": 161,
             "team2Score": 118,
-            "generations": 2343
+            "generations": 2343,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         }
     ]
 ]

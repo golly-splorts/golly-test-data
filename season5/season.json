@@ -34,7 +34,9 @@
             },
             "team1Score": 212,
             "team2Score": 93,
-            "generations": 2267
+            "generations": 2267,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -70,7 +72,9 @@
             },
             "team1Score": 92,
             "team2Score": 70,
-            "generations": 1067
+            "generations": 1067,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -106,7 +110,9 @@
             },
             "team1Score": 33,
             "team2Score": 93,
-            "generations": 1059
+            "generations": 1059,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -142,7 +148,9 @@
             },
             "team1Score": 54,
             "team2Score": 240,
-            "generations": 3719
+            "generations": 3719,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -178,7 +186,9 @@
             },
             "team1Score": 156,
             "team2Score": 159,
-            "generations": 2079
+            "generations": 2079,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -214,7 +224,9 @@
             },
             "team1Score": 167,
             "team2Score": 173,
-            "generations": 3241
+            "generations": 3241,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -250,7 +262,9 @@
             },
             "team1Score": 159,
             "team2Score": 146,
-            "generations": 4718
+            "generations": 4718,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -286,7 +300,9 @@
             },
             "team1Score": 307,
             "team2Score": 88,
-            "generations": 2579
+            "generations": 2579,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -324,7 +340,9 @@
             },
             "team1Score": 58,
             "team2Score": 143,
-            "generations": 1633
+            "generations": 1633,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -360,7 +378,9 @@
             },
             "team1Score": 52,
             "team2Score": 107,
-            "generations": 1147
+            "generations": 1147,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -396,7 +416,9 @@
             },
             "team1Score": 70,
             "team2Score": 268,
-            "generations": 1355
+            "generations": 1355,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -432,7 +454,9 @@
             },
             "team1Score": 211,
             "team2Score": 111,
-            "generations": 3678
+            "generations": 3678,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -468,7 +492,9 @@
             },
             "team1Score": 124,
             "team2Score": 96,
-            "generations": 1696
+            "generations": 1696,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -504,7 +530,9 @@
             },
             "team1Score": 141,
             "team2Score": 144,
-            "generations": 1468
+            "generations": 1468,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -540,7 +568,9 @@
             },
             "team1Score": 150,
             "team2Score": 200,
-            "generations": 2390
+            "generations": 2390,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -576,7 +606,9 @@
             },
             "team1Score": 95,
             "team2Score": 143,
-            "generations": 1633
+            "generations": 1633,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -614,7 +646,9 @@
             },
             "team1Score": 142,
             "team2Score": 166,
-            "generations": 3194
+            "generations": 3194,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -650,7 +684,9 @@
             },
             "team1Score": 203,
             "team2Score": 97,
-            "generations": 3913
+            "generations": 3913,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -686,7 +722,9 @@
             },
             "team1Score": 86,
             "team2Score": 38,
-            "generations": 1187
+            "generations": 1187,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -722,7 +760,9 @@
             },
             "team1Score": 144,
             "team2Score": 128,
-            "generations": 2338
+            "generations": 2338,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -758,7 +798,9 @@
             },
             "team1Score": 148,
             "team2Score": 96,
-            "generations": 1970
+            "generations": 1970,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -794,7 +836,9 @@
             },
             "team1Score": 129,
             "team2Score": 130,
-            "generations": 1955
+            "generations": 1955,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -830,7 +874,9 @@
             },
             "team1Score": 63,
             "team2Score": 164,
-            "generations": 3335
+            "generations": 3335,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -866,7 +912,9 @@
             },
             "team1Score": 136,
             "team2Score": 10,
-            "generations": 1066
+            "generations": 1066,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -904,7 +952,9 @@
             },
             "team1Score": 226,
             "team2Score": 4,
-            "generations": 1243
+            "generations": 1243,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -940,7 +990,9 @@
             },
             "team1Score": 59,
             "team2Score": 181,
-            "generations": 1763
+            "generations": 1763,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -976,7 +1028,9 @@
             },
             "team1Score": 4,
             "team2Score": 281,
-            "generations": 2128
+            "generations": 2128,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -1012,7 +1066,9 @@
             },
             "team1Score": 179,
             "team2Score": 3,
-            "generations": 1294
+            "generations": 1294,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -1048,7 +1104,9 @@
             },
             "team1Score": 136,
             "team2Score": 59,
-            "generations": 2198
+            "generations": 2198,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -1084,7 +1142,9 @@
             },
             "team1Score": 169,
             "team2Score": 98,
-            "generations": 1364
+            "generations": 1364,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -1120,7 +1180,9 @@
             },
             "team1Score": 162,
             "team2Score": 84,
-            "generations": 1572
+            "generations": 1572,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -1156,7 +1218,9 @@
             },
             "team1Score": 150,
             "team2Score": 159,
-            "generations": 2181
+            "generations": 2181,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -1194,7 +1258,9 @@
             },
             "team1Score": 211,
             "team2Score": 134,
-            "generations": 3886
+            "generations": 3886,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -1230,7 +1296,9 @@
             },
             "team1Score": 225,
             "team2Score": 90,
-            "generations": 1886
+            "generations": 1886,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -1266,7 +1334,9 @@
             },
             "team1Score": 114,
             "team2Score": 255,
-            "generations": 1083
+            "generations": 1083,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -1302,7 +1372,9 @@
             },
             "team1Score": 218,
             "team2Score": 23,
-            "generations": 2127
+            "generations": 2127,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -1338,7 +1410,9 @@
             },
             "team1Score": 52,
             "team2Score": 93,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -1374,7 +1448,9 @@
             },
             "team1Score": 175,
             "team2Score": 17,
-            "generations": 2234
+            "generations": 2234,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -1410,7 +1486,9 @@
             },
             "team1Score": 129,
             "team2Score": 113,
-            "generations": 1903
+            "generations": 1903,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -1446,7 +1524,9 @@
             },
             "team1Score": 192,
             "team2Score": 4,
-            "generations": 2692
+            "generations": 2692,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -1484,7 +1564,9 @@
             },
             "team1Score": 36,
             "team2Score": 110,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -1520,7 +1602,9 @@
             },
             "team1Score": 267,
             "team2Score": 100,
-            "generations": 1517
+            "generations": 1517,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -1556,7 +1640,9 @@
             },
             "team1Score": 130,
             "team2Score": 198,
-            "generations": 1703
+            "generations": 1703,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -1592,7 +1678,9 @@
             },
             "team1Score": 127,
             "team2Score": 63,
-            "generations": 1639
+            "generations": 1639,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -1628,7 +1716,9 @@
             },
             "team1Score": 48,
             "team2Score": 289,
-            "generations": 2383
+            "generations": 2383,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -1664,7 +1754,9 @@
             },
             "team1Score": 145,
             "team2Score": 41,
-            "generations": 1457
+            "generations": 1457,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -1700,7 +1792,9 @@
             },
             "team1Score": 44,
             "team2Score": 174,
-            "generations": 1712
+            "generations": 1712,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -1736,7 +1830,9 @@
             },
             "team1Score": 137,
             "team2Score": 139,
-            "generations": 1528
+            "generations": 1528,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -1774,7 +1870,9 @@
             },
             "team1Score": 56,
             "team2Score": 125,
-            "generations": 2561
+            "generations": 2561,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -1810,7 +1908,9 @@
             },
             "team1Score": 114,
             "team2Score": 31,
-            "generations": 2542
+            "generations": 2542,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -1846,7 +1946,9 @@
             },
             "team1Score": 267,
             "team2Score": 24,
-            "generations": 2227
+            "generations": 2227,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -1882,7 +1984,9 @@
             },
             "team1Score": 175,
             "team2Score": 86,
-            "generations": 3621
+            "generations": 3621,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -1918,7 +2022,9 @@
             },
             "team1Score": 212,
             "team2Score": 169,
-            "generations": 3385
+            "generations": 3385,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -1954,7 +2060,9 @@
             },
             "team1Score": 93,
             "team2Score": 165,
-            "generations": 1771
+            "generations": 1771,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -1990,7 +2098,9 @@
             },
             "team1Score": 209,
             "team2Score": 50,
-            "generations": 1224
+            "generations": 1224,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -2026,7 +2136,9 @@
             },
             "team1Score": 206,
             "team2Score": 98,
-            "generations": 1993
+            "generations": 1993,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -2064,7 +2176,9 @@
             },
             "team1Score": 50,
             "team2Score": 247,
-            "generations": 2385
+            "generations": 2385,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -2100,7 +2214,9 @@
             },
             "team1Score": 65,
             "team2Score": 110,
-            "generations": 1203
+            "generations": 1203,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -2136,7 +2252,9 @@
             },
             "team1Score": 270,
             "team2Score": 88,
-            "generations": 3789
+            "generations": 3789,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -2172,7 +2290,9 @@
             },
             "team1Score": 253,
             "team2Score": 25,
-            "generations": 3055
+            "generations": 3055,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -2208,7 +2328,9 @@
             },
             "team1Score": 260,
             "team2Score": 16,
-            "generations": 3609
+            "generations": 3609,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -2244,7 +2366,9 @@
             },
             "team1Score": 90,
             "team2Score": 192,
-            "generations": 1571
+            "generations": 1571,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -2280,7 +2404,9 @@
             },
             "team1Score": 219,
             "team2Score": 146,
-            "generations": 1956
+            "generations": 1956,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -2316,7 +2442,9 @@
             },
             "team1Score": 125,
             "team2Score": 219,
-            "generations": 1184
+            "generations": 1184,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -2354,7 +2482,9 @@
             },
             "team1Score": 209,
             "team2Score": 59,
-            "generations": 2707
+            "generations": 2707,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -2390,7 +2520,9 @@
             },
             "team1Score": 118,
             "team2Score": 52,
-            "generations": 1386
+            "generations": 1386,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -2426,7 +2558,9 @@
             },
             "team1Score": 168,
             "team2Score": 220,
-            "generations": 2688
+            "generations": 2688,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -2462,7 +2596,9 @@
             },
             "team1Score": 35,
             "team2Score": 117,
-            "generations": 1228
+            "generations": 1228,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -2498,7 +2634,9 @@
             },
             "team1Score": 266,
             "team2Score": 98,
-            "generations": 1219
+            "generations": 1219,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -2534,7 +2672,9 @@
             },
             "team1Score": 386,
             "team2Score": 18,
-            "generations": 3603
+            "generations": 3603,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -2570,7 +2710,9 @@
             },
             "team1Score": 119,
             "team2Score": 107,
-            "generations": 2493
+            "generations": 2493,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -2606,7 +2748,9 @@
             },
             "team1Score": 111,
             "team2Score": 59,
-            "generations": 1261
+            "generations": 1261,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -2644,7 +2788,9 @@
             },
             "team1Score": 60,
             "team2Score": 69,
-            "generations": 1257
+            "generations": 1257,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -2680,7 +2826,9 @@
             },
             "team1Score": 181,
             "team2Score": 24,
-            "generations": 1206
+            "generations": 1206,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -2716,7 +2864,9 @@
             },
             "team1Score": 105,
             "team2Score": 131,
-            "generations": 1094
+            "generations": 1094,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -2752,7 +2902,9 @@
             },
             "team1Score": 195,
             "team2Score": 105,
-            "generations": 2282
+            "generations": 2282,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -2788,7 +2940,9 @@
             },
             "team1Score": 142,
             "team2Score": 217,
-            "generations": 2143
+            "generations": 2143,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -2824,7 +2978,9 @@
             },
             "team1Score": 52,
             "team2Score": 93,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -2860,7 +3016,9 @@
             },
             "team1Score": 21,
             "team2Score": 301,
-            "generations": 1561
+            "generations": 1561,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -2896,7 +3054,9 @@
             },
             "team1Score": 249,
             "team2Score": 176,
-            "generations": 1168
+            "generations": 1168,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -2934,7 +3094,9 @@
             },
             "team1Score": 72,
             "team2Score": 60,
-            "generations": 1224
+            "generations": 1224,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -2970,7 +3132,9 @@
             },
             "team1Score": 115,
             "team2Score": 105,
-            "generations": 2147
+            "generations": 2147,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -3006,7 +3170,9 @@
             },
             "team1Score": 164,
             "team2Score": 74,
-            "generations": 1377
+            "generations": 1377,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -3042,7 +3208,9 @@
             },
             "team1Score": 141,
             "team2Score": 221,
-            "generations": 1843
+            "generations": 1843,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -3078,7 +3246,9 @@
             },
             "team1Score": 84,
             "team2Score": 183,
-            "generations": 1505
+            "generations": 1505,
+            "team1Abbr": "DET",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -3114,7 +3284,9 @@
             },
             "team1Score": 171,
             "team2Score": 10,
-            "generations": 2133
+            "generations": 2133,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -3150,7 +3322,9 @@
             },
             "team1Score": 34,
             "team2Score": 118,
-            "generations": 1448
+            "generations": 1448,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -3186,7 +3360,9 @@
             },
             "team1Score": 67,
             "team2Score": 177,
-            "generations": 1351
+            "generations": 1351,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -3224,7 +3400,9 @@
             },
             "team1Score": 35,
             "team2Score": 161,
-            "generations": 1446
+            "generations": 1446,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -3260,7 +3438,9 @@
             },
             "team1Score": 177,
             "team2Score": 129,
-            "generations": 1008
+            "generations": 1008,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -3296,7 +3476,9 @@
             },
             "team1Score": 109,
             "team2Score": 34,
-            "generations": 1517
+            "generations": 1517,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -3332,7 +3514,9 @@
             },
             "team1Score": 65,
             "team2Score": 102,
-            "generations": 1310
+            "generations": 1310,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -3368,7 +3552,9 @@
             },
             "team1Score": 23,
             "team2Score": 119,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -3404,7 +3590,9 @@
             },
             "team1Score": 60,
             "team2Score": 182,
-            "generations": 1824
+            "generations": 1824,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -3440,7 +3628,9 @@
             },
             "team1Score": 46,
             "team2Score": 200,
-            "generations": 1087
+            "generations": 1087,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -3476,7 +3666,9 @@
             },
             "team1Score": 126,
             "team2Score": 117,
-            "generations": 1593
+            "generations": 1593,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -3514,7 +3706,9 @@
             },
             "team1Score": 128,
             "team2Score": 143,
-            "generations": 2747
+            "generations": 2747,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -3550,7 +3744,9 @@
             },
             "team1Score": 30,
             "team2Score": 234,
-            "generations": 1679
+            "generations": 1679,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -3586,7 +3782,9 @@
             },
             "team1Score": 143,
             "team2Score": 13,
-            "generations": 1070
+            "generations": 1070,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -3622,7 +3820,9 @@
             },
             "team1Score": 109,
             "team2Score": 27,
-            "generations": 1110
+            "generations": 1110,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -3658,7 +3858,9 @@
             },
             "team1Score": 220,
             "team2Score": 26,
-            "generations": 1964
+            "generations": 1964,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -3694,7 +3896,9 @@
             },
             "team1Score": 166,
             "team2Score": 122,
-            "generations": 1083
+            "generations": 1083,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -3730,7 +3934,9 @@
             },
             "team1Score": 114,
             "team2Score": 133,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -3766,7 +3972,9 @@
             },
             "team1Score": 179,
             "team2Score": 73,
-            "generations": 3367
+            "generations": 3367,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -3804,7 +4012,9 @@
             },
             "team1Score": 110,
             "team2Score": 81,
-            "generations": 1307
+            "generations": 1307,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -3840,7 +4050,9 @@
             },
             "team1Score": 82,
             "team2Score": 205,
-            "generations": 1637
+            "generations": 1637,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -3876,7 +4088,9 @@
             },
             "team1Score": 264,
             "team2Score": 11,
-            "generations": 1394
+            "generations": 1394,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -3912,7 +4126,9 @@
             },
             "team1Score": 158,
             "team2Score": 184,
-            "generations": 2370
+            "generations": 2370,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -3948,7 +4164,9 @@
             },
             "team1Score": 132,
             "team2Score": 46,
-            "generations": 1312
+            "generations": 1312,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -3984,7 +4202,9 @@
             },
             "team1Score": 115,
             "team2Score": 191,
-            "generations": 3329
+            "generations": 3329,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -4020,7 +4240,9 @@
             },
             "team1Score": 101,
             "team2Score": 349,
-            "generations": 1420
+            "generations": 1420,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -4056,7 +4278,9 @@
             },
             "team1Score": 50,
             "team2Score": 168,
-            "generations": 2366
+            "generations": 2366,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -4094,7 +4318,9 @@
             },
             "team1Score": 128,
             "team2Score": 174,
-            "generations": 2275
+            "generations": 2275,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -4130,7 +4356,9 @@
             },
             "team1Score": 47,
             "team2Score": 157,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -4166,7 +4394,9 @@
             },
             "team1Score": 245,
             "team2Score": 144,
-            "generations": 1639
+            "generations": 1639,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -4202,7 +4432,9 @@
             },
             "team1Score": 33,
             "team2Score": 122,
-            "generations": 1465
+            "generations": 1465,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -4238,7 +4470,9 @@
             },
             "team1Score": 153,
             "team2Score": 100,
-            "generations": 1638
+            "generations": 1638,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -4274,7 +4508,9 @@
             },
             "team1Score": 15,
             "team2Score": 208,
-            "generations": 3247
+            "generations": 3247,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -4310,7 +4546,9 @@
             },
             "team1Score": 70,
             "team2Score": 161,
-            "generations": 1342
+            "generations": 1342,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -4346,7 +4584,9 @@
             },
             "team1Score": 24,
             "team2Score": 212,
-            "generations": 1758
+            "generations": 1758,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -4384,7 +4624,9 @@
             },
             "team1Score": 74,
             "team2Score": 120,
-            "generations": 1033
+            "generations": 1033,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -4420,7 +4662,9 @@
             },
             "team1Score": 83,
             "team2Score": 181,
-            "generations": 2680
+            "generations": 2680,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -4456,7 +4700,9 @@
             },
             "team1Score": 47,
             "team2Score": 223,
-            "generations": 2495
+            "generations": 2495,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -4492,7 +4738,9 @@
             },
             "team1Score": 124,
             "team2Score": 97,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -4528,7 +4776,9 @@
             },
             "team1Score": 177,
             "team2Score": 198,
-            "generations": 1864
+            "generations": 1864,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -4564,7 +4814,9 @@
             },
             "team1Score": 234,
             "team2Score": 144,
-            "generations": 4465
+            "generations": 4465,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -4600,7 +4852,9 @@
             },
             "team1Score": 380,
             "team2Score": 0,
-            "generations": 1197
+            "generations": 1197,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -4636,7 +4890,9 @@
             },
             "team1Score": 94,
             "team2Score": 54,
-            "generations": 1446
+            "generations": 1446,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -4674,7 +4930,9 @@
             },
             "team1Score": 169,
             "team2Score": 77,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -4710,7 +4968,9 @@
             },
             "team1Score": 217,
             "team2Score": 164,
-            "generations": 2879
+            "generations": 2879,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -4746,7 +5006,9 @@
             },
             "team1Score": 51,
             "team2Score": 305,
-            "generations": 1677
+            "generations": 1677,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -4782,7 +5044,9 @@
             },
             "team1Score": 110,
             "team2Score": 104,
-            "generations": 1824
+            "generations": 1824,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -4818,7 +5082,9 @@
             },
             "team1Score": 120,
             "team2Score": 43,
-            "generations": 1448
+            "generations": 1448,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -4854,7 +5120,9 @@
             },
             "team1Score": 72,
             "team2Score": 178,
-            "generations": 1622
+            "generations": 1622,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -4890,7 +5158,9 @@
             },
             "team1Score": 91,
             "team2Score": 155,
-            "generations": 1763
+            "generations": 1763,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -4926,7 +5196,9 @@
             },
             "team1Score": 89,
             "team2Score": 75,
-            "generations": 1087
+            "generations": 1087,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -4964,7 +5236,9 @@
             },
             "team1Score": 133,
             "team2Score": 140,
-            "generations": 1871
+            "generations": 1871,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -5000,7 +5274,9 @@
             },
             "team1Score": 91,
             "team2Score": 87,
-            "generations": 1085
+            "generations": 1085,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -5036,7 +5312,9 @@
             },
             "team1Score": 207,
             "team2Score": 94,
-            "generations": 3418
+            "generations": 3418,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -5072,7 +5350,9 @@
             },
             "team1Score": 88,
             "team2Score": 123,
-            "generations": 1689
+            "generations": 1689,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -5108,7 +5388,9 @@
             },
             "team1Score": 158,
             "team2Score": 107,
-            "generations": 1993
+            "generations": 1993,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -5144,7 +5426,9 @@
             },
             "team1Score": 79,
             "team2Score": 185,
-            "generations": 2007
+            "generations": 2007,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -5180,7 +5464,9 @@
             },
             "team1Score": 167,
             "team2Score": 139,
-            "generations": 4684
+            "generations": 4684,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -5216,7 +5502,9 @@
             },
             "team1Score": 168,
             "team2Score": 125,
-            "generations": 2598
+            "generations": 2598,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -5254,7 +5542,9 @@
             },
             "team1Score": 129,
             "team2Score": 63,
-            "generations": 1173
+            "generations": 1173,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -5290,7 +5580,9 @@
             },
             "team1Score": 207,
             "team2Score": 57,
-            "generations": 1302
+            "generations": 1302,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -5326,7 +5618,9 @@
             },
             "team1Score": 113,
             "team2Score": 173,
-            "generations": 1641
+            "generations": 1641,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -5362,7 +5656,9 @@
             },
             "team1Score": 34,
             "team2Score": 336,
-            "generations": 4420
+            "generations": 4420,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -5398,7 +5694,9 @@
             },
             "team1Score": 69,
             "team2Score": 135,
-            "generations": 1623
+            "generations": 1623,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -5434,7 +5732,9 @@
             },
             "team1Score": 180,
             "team2Score": 59,
-            "generations": 2243
+            "generations": 2243,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -5470,7 +5770,9 @@
             },
             "team1Score": 41,
             "team2Score": 88,
-            "generations": 1087
+            "generations": 1087,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -5506,7 +5808,9 @@
             },
             "team1Score": 99,
             "team2Score": 102,
-            "generations": 1240
+            "generations": 1240,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -5544,7 +5848,9 @@
             },
             "team1Score": 122,
             "team2Score": 90,
-            "generations": 1728
+            "generations": 1728,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -5580,7 +5886,9 @@
             },
             "team1Score": 90,
             "team2Score": 64,
-            "generations": 1449
+            "generations": 1449,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -5616,7 +5924,9 @@
             },
             "team1Score": 66,
             "team2Score": 130,
-            "generations": 1188
+            "generations": 1188,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -5652,7 +5962,9 @@
             },
             "team1Score": 100,
             "team2Score": 31,
-            "generations": 1061
+            "generations": 1061,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -5688,7 +6000,9 @@
             },
             "team1Score": 24,
             "team2Score": 140,
-            "generations": 1099
+            "generations": 1099,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -5724,7 +6038,9 @@
             },
             "team1Score": 59,
             "team2Score": 279,
-            "generations": 1678
+            "generations": 1678,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -5760,7 +6076,9 @@
             },
             "team1Score": 87,
             "team2Score": 235,
-            "generations": 2553
+            "generations": 2553,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -5796,7 +6114,9 @@
             },
             "team1Score": 192,
             "team2Score": 128,
-            "generations": 2301
+            "generations": 2301,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -5834,7 +6154,9 @@
             },
             "team1Score": 79,
             "team2Score": 238,
-            "generations": 2646
+            "generations": 2646,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -5870,7 +6192,9 @@
             },
             "team1Score": 41,
             "team2Score": 127,
-            "generations": 1352
+            "generations": 1352,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -5906,7 +6230,9 @@
             },
             "team1Score": 163,
             "team2Score": 32,
-            "generations": 1141
+            "generations": 1141,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -5942,7 +6268,9 @@
             },
             "team1Score": 20,
             "team2Score": 155,
-            "generations": 1149
+            "generations": 1149,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -5978,7 +6306,9 @@
             },
             "team1Score": 91,
             "team2Score": 49,
-            "generations": 1180
+            "generations": 1180,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -6014,7 +6344,9 @@
             },
             "team1Score": 6,
             "team2Score": 236,
-            "generations": 2180
+            "generations": 2180,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -6050,7 +6382,9 @@
             },
             "team1Score": 188,
             "team2Score": 161,
-            "generations": 1291
+            "generations": 1291,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -6086,7 +6420,9 @@
             },
             "team1Score": 38,
             "team2Score": 216,
-            "generations": 1732
+            "generations": 1732,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -6124,7 +6460,9 @@
             },
             "team1Score": 132,
             "team2Score": 51,
-            "generations": 1581
+            "generations": 1581,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -6160,7 +6498,9 @@
             },
             "team1Score": 104,
             "team2Score": 215,
-            "generations": 1876
+            "generations": 1876,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -6196,7 +6536,9 @@
             },
             "team1Score": 28,
             "team2Score": 60,
-            "generations": 1080
+            "generations": 1080,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -6232,7 +6574,9 @@
             },
             "team1Score": 54,
             "team2Score": 130,
-            "generations": 2089
+            "generations": 2089,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -6268,7 +6612,9 @@
             },
             "team1Score": 217,
             "team2Score": 83,
-            "generations": 2152
+            "generations": 2152,
+            "team1Abbr": "ATL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -6304,7 +6650,9 @@
             },
             "team1Score": 348,
             "team2Score": 56,
-            "generations": 1497
+            "generations": 1497,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -6340,7 +6688,9 @@
             },
             "team1Score": 112,
             "team2Score": 105,
-            "generations": 1470
+            "generations": 1470,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -6376,7 +6726,9 @@
             },
             "team1Score": 128,
             "team2Score": 221,
-            "generations": 3020
+            "generations": 3020,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -6414,7 +6766,9 @@
             },
             "team1Score": 105,
             "team2Score": 118,
-            "generations": 1968
+            "generations": 1968,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -6450,7 +6804,9 @@
             },
             "team1Score": 88,
             "team2Score": 269,
-            "generations": 1501
+            "generations": 1501,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -6486,7 +6842,9 @@
             },
             "team1Score": 85,
             "team2Score": 252,
-            "generations": 1709
+            "generations": 1709,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -6522,7 +6880,9 @@
             },
             "team1Score": 188,
             "team2Score": 170,
-            "generations": 1655
+            "generations": 1655,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -6558,7 +6918,9 @@
             },
             "team1Score": 94,
             "team2Score": 25,
-            "generations": 1846
+            "generations": 1846,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -6594,7 +6956,9 @@
             },
             "team1Score": 109,
             "team2Score": 114,
-            "generations": 1308
+            "generations": 1308,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -6630,7 +6994,9 @@
             },
             "team1Score": 112,
             "team2Score": 108,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -6666,7 +7032,9 @@
             },
             "team1Score": 157,
             "team2Score": 108,
-            "generations": 2180
+            "generations": 2180,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -6704,7 +7072,9 @@
             },
             "team1Score": 223,
             "team2Score": 93,
-            "generations": 1234
+            "generations": 1234,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -6740,7 +7110,9 @@
             },
             "team1Score": 52,
             "team2Score": 76,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -6776,7 +7148,9 @@
             },
             "team1Score": 139,
             "team2Score": 98,
-            "generations": 2143
+            "generations": 2143,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -6812,7 +7186,9 @@
             },
             "team1Score": 8,
             "team2Score": 194,
-            "generations": 1440
+            "generations": 1440,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -6848,7 +7224,9 @@
             },
             "team1Score": 25,
             "team2Score": 132,
-            "generations": 1184
+            "generations": 1184,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -6884,7 +7262,9 @@
             },
             "team1Score": 68,
             "team2Score": 212,
-            "generations": 2323
+            "generations": 2323,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -6920,7 +7300,9 @@
             },
             "team1Score": 100,
             "team2Score": 150,
-            "generations": 1274
+            "generations": 1274,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -6956,7 +7338,9 @@
             },
             "team1Score": 4,
             "team2Score": 200,
-            "generations": 2892
+            "generations": 2892,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -6994,7 +7378,9 @@
             },
             "team1Score": 57,
             "team2Score": 141,
-            "generations": 2760
+            "generations": 2760,
+            "team1Abbr": "SS",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -7030,7 +7416,9 @@
             },
             "team1Score": 76,
             "team2Score": 110,
-            "generations": 1304
+            "generations": 1304,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -7066,7 +7454,9 @@
             },
             "team1Score": 256,
             "team2Score": 81,
-            "generations": 3509
+            "generations": 3509,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -7102,7 +7492,9 @@
             },
             "team1Score": 125,
             "team2Score": 167,
-            "generations": 1316
+            "generations": 1316,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -7138,7 +7530,9 @@
             },
             "team1Score": 63,
             "team2Score": 181,
-            "generations": 2156
+            "generations": 2156,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -7174,7 +7568,9 @@
             },
             "team1Score": 123,
             "team2Score": 54,
-            "generations": 1141
+            "generations": 1141,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -7210,7 +7606,9 @@
             },
             "team1Score": 28,
             "team2Score": 248,
-            "generations": 2094
+            "generations": 2094,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -7246,7 +7644,9 @@
             },
             "team1Score": 10,
             "team2Score": 272,
-            "generations": 2823
+            "generations": 2823,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -7284,7 +7684,9 @@
             },
             "team1Score": 170,
             "team2Score": 107,
-            "generations": 2815
+            "generations": 2815,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -7320,7 +7722,9 @@
             },
             "team1Score": 95,
             "team2Score": 113,
-            "generations": 1044
+            "generations": 1044,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -7356,7 +7760,9 @@
             },
             "team1Score": 57,
             "team2Score": 141,
-            "generations": 2193
+            "generations": 2193,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -7392,7 +7798,9 @@
             },
             "team1Score": 144,
             "team2Score": 66,
-            "generations": 1393
+            "generations": 1393,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -7428,7 +7836,9 @@
             },
             "team1Score": 174,
             "team2Score": 98,
-            "generations": 1472
+            "generations": 1472,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -7464,7 +7874,9 @@
             },
             "team1Score": 36,
             "team2Score": 133,
-            "generations": 1601
+            "generations": 1601,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -7500,7 +7912,9 @@
             },
             "team1Score": 119,
             "team2Score": 88,
-            "generations": 1381
+            "generations": 1381,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -7536,7 +7950,9 @@
             },
             "team1Score": 64,
             "team2Score": 125,
-            "generations": 1943
+            "generations": 1943,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -7574,7 +7990,9 @@
             },
             "team1Score": 82,
             "team2Score": 53,
-            "generations": 1076
+            "generations": 1076,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -7610,7 +8028,9 @@
             },
             "team1Score": 72,
             "team2Score": 286,
-            "generations": 3493
+            "generations": 3493,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -7646,7 +8066,9 @@
             },
             "team1Score": 25,
             "team2Score": 174,
-            "generations": 1483
+            "generations": 1483,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -7682,7 +8104,9 @@
             },
             "team1Score": 13,
             "team2Score": 231,
-            "generations": 2094
+            "generations": 2094,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -7718,7 +8142,9 @@
             },
             "team1Score": 36,
             "team2Score": 251,
-            "generations": 2432
+            "generations": 2432,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -7754,7 +8180,9 @@
             },
             "team1Score": 123,
             "team2Score": 164,
-            "generations": 1468
+            "generations": 1468,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -7790,7 +8218,9 @@
             },
             "team1Score": 243,
             "team2Score": 111,
-            "generations": 2682
+            "generations": 2682,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -7826,7 +8256,9 @@
             },
             "team1Score": 181,
             "team2Score": 143,
-            "generations": 3379
+            "generations": 3379,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -7864,7 +8296,9 @@
             },
             "team1Score": 115,
             "team2Score": 159,
-            "generations": 1389
+            "generations": 1389,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -7900,7 +8334,9 @@
             },
             "team1Score": 32,
             "team2Score": 74,
-            "generations": 1323
+            "generations": 1323,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -7936,7 +8372,9 @@
             },
             "team1Score": 46,
             "team2Score": 80,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -7972,7 +8410,9 @@
             },
             "team1Score": 11,
             "team2Score": 143,
-            "generations": 1938
+            "generations": 1938,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -8008,7 +8448,9 @@
             },
             "team1Score": 135,
             "team2Score": 67,
-            "generations": 1970
+            "generations": 1970,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -8044,7 +8486,9 @@
             },
             "team1Score": 121,
             "team2Score": 44,
-            "generations": 1068
+            "generations": 1068,
+            "team1Abbr": "ATL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -8080,7 +8524,9 @@
             },
             "team1Score": 61,
             "team2Score": 166,
-            "generations": 1719
+            "generations": 1719,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -8116,7 +8562,9 @@
             },
             "team1Score": 205,
             "team2Score": 126,
-            "generations": 3070
+            "generations": 3070,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -8154,7 +8602,9 @@
             },
             "team1Score": 150,
             "team2Score": 169,
-            "generations": 1161
+            "generations": 1161,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -8190,7 +8640,9 @@
             },
             "team1Score": 10,
             "team2Score": 280,
-            "generations": 4135
+            "generations": 4135,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -8226,7 +8678,9 @@
             },
             "team1Score": 279,
             "team2Score": 12,
-            "generations": 3099
+            "generations": 3099,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -8262,7 +8716,9 @@
             },
             "team1Score": 33,
             "team2Score": 94,
-            "generations": 1332
+            "generations": 1332,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -8298,7 +8754,9 @@
             },
             "team1Score": 194,
             "team2Score": 107,
-            "generations": 2209
+            "generations": 2209,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -8334,7 +8792,9 @@
             },
             "team1Score": 181,
             "team2Score": 142,
-            "generations": 2115
+            "generations": 2115,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -8370,7 +8830,9 @@
             },
             "team1Score": 97,
             "team2Score": 77,
-            "generations": 1697
+            "generations": 1697,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -8406,7 +8868,9 @@
             },
             "team1Score": 148,
             "team2Score": 92,
-            "generations": 1401
+            "generations": 1401,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -8444,7 +8908,9 @@
             },
             "team1Score": 40,
             "team2Score": 94,
-            "generations": 1277
+            "generations": 1277,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -8480,7 +8946,9 @@
             },
             "team1Score": 22,
             "team2Score": 217,
-            "generations": 1991
+            "generations": 1991,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -8516,7 +8984,9 @@
             },
             "team1Score": 49,
             "team2Score": 136,
-            "generations": 1339
+            "generations": 1339,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -8552,7 +9022,9 @@
             },
             "team1Score": 171,
             "team2Score": 151,
-            "generations": 1414
+            "generations": 1414,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -8588,7 +9060,9 @@
             },
             "team1Score": 172,
             "team2Score": 159,
-            "generations": 1683
+            "generations": 1683,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -8624,7 +9098,9 @@
             },
             "team1Score": 150,
             "team2Score": 175,
-            "generations": 2858
+            "generations": 2858,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -8660,7 +9136,9 @@
             },
             "team1Score": 194,
             "team2Score": 40,
-            "generations": 2050
+            "generations": 2050,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -8696,7 +9174,9 @@
             },
             "team1Score": 218,
             "team2Score": 76,
-            "generations": 2242
+            "generations": 2242,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -8734,7 +9214,9 @@
             },
             "team1Score": 189,
             "team2Score": 132,
-            "generations": 1488
+            "generations": 1488,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -8770,7 +9252,9 @@
             },
             "team1Score": 62,
             "team2Score": 69,
-            "generations": 1090
+            "generations": 1090,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -8806,7 +9290,9 @@
             },
             "team1Score": 273,
             "team2Score": 37,
-            "generations": 2005
+            "generations": 2005,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -8842,7 +9328,9 @@
             },
             "team1Score": 145,
             "team2Score": 220,
-            "generations": 2740
+            "generations": 2740,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -8878,7 +9366,9 @@
             },
             "team1Score": 113,
             "team2Score": 51,
-            "generations": 1160
+            "generations": 1160,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -8914,7 +9404,9 @@
             },
             "team1Score": 96,
             "team2Score": 217,
-            "generations": 1620
+            "generations": 1620,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -8950,7 +9442,9 @@
             },
             "team1Score": 144,
             "team2Score": 97,
-            "generations": 1382
+            "generations": 1382,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -8986,7 +9480,9 @@
             },
             "team1Score": 113,
             "team2Score": 106,
-            "generations": 1693
+            "generations": 1693,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -9024,7 +9520,9 @@
             },
             "team1Score": 115,
             "team2Score": 58,
-            "generations": 1186
+            "generations": 1186,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -9060,7 +9558,9 @@
             },
             "team1Score": 84,
             "team2Score": 72,
-            "generations": 1480
+            "generations": 1480,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -9096,7 +9596,9 @@
             },
             "team1Score": 163,
             "team2Score": 122,
-            "generations": 1754
+            "generations": 1754,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -9132,7 +9634,9 @@
             },
             "team1Score": 137,
             "team2Score": 117,
-            "generations": 2125
+            "generations": 2125,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -9168,7 +9672,9 @@
             },
             "team1Score": 107,
             "team2Score": 259,
-            "generations": 1083
+            "generations": 1083,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -9204,7 +9710,9 @@
             },
             "team1Score": 134,
             "team2Score": 121,
-            "generations": 1411
+            "generations": 1411,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -9240,7 +9748,9 @@
             },
             "team1Score": 255,
             "team2Score": 16,
-            "generations": 3502
+            "generations": 3502,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -9276,7 +9786,9 @@
             },
             "team1Score": 471,
             "team2Score": 0,
-            "generations": 3435
+            "generations": 3435,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -9314,7 +9826,9 @@
             },
             "team1Score": 148,
             "team2Score": 91,
-            "generations": 1787
+            "generations": 1787,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -9350,7 +9864,9 @@
             },
             "team1Score": 68,
             "team2Score": 29,
-            "generations": 1138
+            "generations": 1138,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -9386,7 +9902,9 @@
             },
             "team1Score": 0,
             "team2Score": 433,
-            "generations": 3153
+            "generations": 3153,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -9422,7 +9940,9 @@
             },
             "team1Score": 99,
             "team2Score": 70,
-            "generations": 1095
+            "generations": 1095,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -9458,7 +9978,9 @@
             },
             "team1Score": 150,
             "team2Score": 132,
-            "generations": 1578
+            "generations": 1578,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -9494,7 +10016,9 @@
             },
             "team1Score": 43,
             "team2Score": 117,
-            "generations": 1039
+            "generations": 1039,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -9530,7 +10054,9 @@
             },
             "team1Score": 167,
             "team2Score": 100,
-            "generations": 1639
+            "generations": 1639,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -9566,7 +10092,9 @@
             },
             "team1Score": 223,
             "team2Score": 118,
-            "generations": 1310
+            "generations": 1310,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9604,7 +10132,9 @@
             },
             "team1Score": 213,
             "team2Score": 38,
-            "generations": 1802
+            "generations": 1802,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -9640,7 +10170,9 @@
             },
             "team1Score": 8,
             "team2Score": 158,
-            "generations": 1195
+            "generations": 1195,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -9676,7 +10208,9 @@
             },
             "team1Score": 102,
             "team2Score": 173,
-            "generations": 2432
+            "generations": 2432,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -9712,7 +10246,9 @@
             },
             "team1Score": 137,
             "team2Score": 205,
-            "generations": 1971
+            "generations": 1971,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -9748,7 +10284,9 @@
             },
             "team1Score": 51,
             "team2Score": 143,
-            "generations": 1967
+            "generations": 1967,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -9784,7 +10322,9 @@
             },
             "team1Score": 150,
             "team2Score": 110,
-            "generations": 1449
+            "generations": 1449,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -9820,7 +10360,9 @@
             },
             "team1Score": 94,
             "team2Score": 249,
-            "generations": 1800
+            "generations": 1800,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -9856,7 +10398,9 @@
             },
             "team1Score": 143,
             "team2Score": 154,
-            "generations": 1812
+            "generations": 1812,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -9894,7 +10438,9 @@
             },
             "team1Score": 0,
             "team2Score": 175,
-            "generations": 1401
+            "generations": 1401,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -9930,7 +10476,9 @@
             },
             "team1Score": 49,
             "team2Score": 249,
-            "generations": 3671
+            "generations": 3671,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -9966,7 +10514,9 @@
             },
             "team1Score": 90,
             "team2Score": 169,
-            "generations": 1326
+            "generations": 1326,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -10002,7 +10552,9 @@
             },
             "team1Score": 0,
             "team2Score": 481,
-            "generations": 1425
+            "generations": 1425,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -10038,7 +10590,9 @@
             },
             "team1Score": 108,
             "team2Score": 154,
-            "generations": 1343
+            "generations": 1343,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -10074,7 +10628,9 @@
             },
             "team1Score": 138,
             "team2Score": 135,
-            "generations": 2159
+            "generations": 2159,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -10110,7 +10666,9 @@
             },
             "team1Score": 113,
             "team2Score": 78,
-            "generations": 2233
+            "generations": 2233,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -10146,7 +10704,9 @@
             },
             "team1Score": 106,
             "team2Score": 313,
-            "generations": 2584
+            "generations": 2584,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -10184,7 +10744,9 @@
             },
             "team1Score": 125,
             "team2Score": 176,
-            "generations": 1589
+            "generations": 1589,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -10220,7 +10782,9 @@
             },
             "team1Score": 58,
             "team2Score": 203,
-            "generations": 2931
+            "generations": 2931,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -10256,7 +10820,9 @@
             },
             "team1Score": 197,
             "team2Score": 25,
-            "generations": 2274
+            "generations": 2274,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -10292,7 +10858,9 @@
             },
             "team1Score": 214,
             "team2Score": 39,
-            "generations": 2898
+            "generations": 2898,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -10328,7 +10896,9 @@
             },
             "team1Score": 145,
             "team2Score": 106,
-            "generations": 2052
+            "generations": 2052,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -10364,7 +10934,9 @@
             },
             "team1Score": 54,
             "team2Score": 97,
-            "generations": 1020
+            "generations": 1020,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -10400,7 +10972,9 @@
             },
             "team1Score": 262,
             "team2Score": 86,
-            "generations": 2296
+            "generations": 2296,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -10436,7 +11010,9 @@
             },
             "team1Score": 60,
             "team2Score": 160,
-            "generations": 1117
+            "generations": 1117,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -10474,7 +11050,9 @@
             },
             "team1Score": 150,
             "team2Score": 59,
-            "generations": 1990
+            "generations": 1990,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -10510,7 +11088,9 @@
             },
             "team1Score": 205,
             "team2Score": 115,
-            "generations": 3846
+            "generations": 3846,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -10546,7 +11126,9 @@
             },
             "team1Score": 213,
             "team2Score": 142,
-            "generations": 2976
+            "generations": 2976,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -10582,7 +11164,9 @@
             },
             "team1Score": 167,
             "team2Score": 134,
-            "generations": 3285
+            "generations": 3285,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -10618,7 +11202,9 @@
             },
             "team1Score": 229,
             "team2Score": 116,
-            "generations": 2270
+            "generations": 2270,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -10654,7 +11240,9 @@
             },
             "team1Score": 40,
             "team2Score": 62,
-            "generations": 1322
+            "generations": 1322,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -10690,7 +11278,9 @@
             },
             "team1Score": 149,
             "team2Score": 21,
-            "generations": 1093
+            "generations": 1093,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -10726,7 +11316,9 @@
             },
             "team1Score": 39,
             "team2Score": 166,
-            "generations": 1667
+            "generations": 1667,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -10764,7 +11356,9 @@
             },
             "team1Score": 226,
             "team2Score": 85,
-            "generations": 2122
+            "generations": 2122,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -10800,7 +11394,9 @@
             },
             "team1Score": 181,
             "team2Score": 135,
-            "generations": 2710
+            "generations": 2710,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -10836,7 +11432,9 @@
             },
             "team1Score": 156,
             "team2Score": 94,
-            "generations": 1313
+            "generations": 1313,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -10872,7 +11470,9 @@
             },
             "team1Score": 171,
             "team2Score": 167,
-            "generations": 3619
+            "generations": 3619,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -10908,7 +11508,9 @@
             },
             "team1Score": 282,
             "team2Score": 24,
-            "generations": 2006
+            "generations": 2006,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -10944,7 +11546,9 @@
             },
             "team1Score": 178,
             "team2Score": 25,
-            "generations": 1450
+            "generations": 1450,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -10980,7 +11584,9 @@
             },
             "team1Score": 62,
             "team2Score": 142,
-            "generations": 3508
+            "generations": 3508,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -11016,7 +11622,9 @@
             },
             "team1Score": 160,
             "team2Score": 43,
-            "generations": 2200
+            "generations": 2200,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -11054,7 +11662,9 @@
             },
             "team1Score": 39,
             "team2Score": 150,
-            "generations": 1728
+            "generations": 1728,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -11090,7 +11700,9 @@
             },
             "team1Score": 177,
             "team2Score": 75,
-            "generations": 2648
+            "generations": 2648,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -11126,7 +11738,9 @@
             },
             "team1Score": 52,
             "team2Score": 170,
-            "generations": 2436
+            "generations": 2436,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -11162,7 +11776,9 @@
             },
             "team1Score": 150,
             "team2Score": 160,
-            "generations": 2445
+            "generations": 2445,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -11198,7 +11814,9 @@
             },
             "team1Score": 81,
             "team2Score": 128,
-            "generations": 2014
+            "generations": 2014,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -11234,7 +11852,9 @@
             },
             "team1Score": 72,
             "team2Score": 241,
-            "generations": 1314
+            "generations": 1314,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -11270,7 +11890,9 @@
             },
             "team1Score": 180,
             "team2Score": 146,
-            "generations": 2770
+            "generations": 2770,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -11306,7 +11928,9 @@
             },
             "team1Score": 90,
             "team2Score": 217,
-            "generations": 1965
+            "generations": 1965,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -11344,7 +11968,9 @@
             },
             "team1Score": 158,
             "team2Score": 63,
-            "generations": 1560
+            "generations": 1560,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -11380,7 +12006,9 @@
             },
             "team1Score": 152,
             "team2Score": 146,
-            "generations": 1561
+            "generations": 1561,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -11416,7 +12044,9 @@
             },
             "team1Score": 312,
             "team2Score": 98,
-            "generations": 1906
+            "generations": 1906,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -11452,7 +12082,9 @@
             },
             "team1Score": 189,
             "team2Score": 167,
-            "generations": 1702
+            "generations": 1702,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -11488,7 +12120,9 @@
             },
             "team1Score": 165,
             "team2Score": 53,
-            "generations": 1446
+            "generations": 1446,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -11524,7 +12158,9 @@
             },
             "team1Score": 206,
             "team2Score": 171,
-            "generations": 1855
+            "generations": 1855,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -11560,7 +12196,9 @@
             },
             "team1Score": 106,
             "team2Score": 227,
-            "generations": 3146
+            "generations": 3146,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -11596,7 +12234,9 @@
             },
             "team1Score": 113,
             "team2Score": 110,
-            "generations": 1599
+            "generations": 1599,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -11634,7 +12274,9 @@
             },
             "team1Score": 87,
             "team2Score": 99,
-            "generations": 1051
+            "generations": 1051,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -11670,7 +12312,9 @@
             },
             "team1Score": 92,
             "team2Score": 91,
-            "generations": 1061
+            "generations": 1061,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -11706,7 +12350,9 @@
             },
             "team1Score": 146,
             "team2Score": 112,
-            "generations": 1357
+            "generations": 1357,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -11742,7 +12388,9 @@
             },
             "team1Score": 8,
             "team2Score": 219,
-            "generations": 2221
+            "generations": 2221,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -11778,7 +12426,9 @@
             },
             "team1Score": 186,
             "team2Score": 222,
-            "generations": 3230
+            "generations": 3230,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -11814,7 +12464,9 @@
             },
             "team1Score": 208,
             "team2Score": 2,
-            "generations": 1975
+            "generations": 1975,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -11850,7 +12502,9 @@
             },
             "team1Score": 118,
             "team2Score": 202,
-            "generations": 1702
+            "generations": 1702,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -11886,7 +12540,9 @@
             },
             "team1Score": 64,
             "team2Score": 257,
-            "generations": 1869
+            "generations": 1869,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -11924,7 +12580,9 @@
             },
             "team1Score": 437,
             "team2Score": 0,
-            "generations": 2126
+            "generations": 2126,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -11960,7 +12618,9 @@
             },
             "team1Score": 117,
             "team2Score": 78,
-            "generations": 1480
+            "generations": 1480,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -11996,7 +12656,9 @@
             },
             "team1Score": 124,
             "team2Score": 127,
-            "generations": 1913
+            "generations": 1913,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -12032,7 +12694,9 @@
             },
             "team1Score": 165,
             "team2Score": 164,
-            "generations": 2187
+            "generations": 2187,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -12068,7 +12732,9 @@
             },
             "team1Score": 60,
             "team2Score": 127,
-            "generations": 1422
+            "generations": 1422,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -12104,7 +12770,9 @@
             },
             "team1Score": 60,
             "team2Score": 219,
-            "generations": 2420
+            "generations": 2420,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -12140,7 +12808,9 @@
             },
             "team1Score": 268,
             "team2Score": 99,
-            "generations": 3174
+            "generations": 3174,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -12176,7 +12846,9 @@
             },
             "team1Score": 66,
             "team2Score": 104,
-            "generations": 1012
+            "generations": 1012,
+            "team1Abbr": "ATL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -12214,7 +12886,9 @@
             },
             "team1Score": 21,
             "team2Score": 171,
-            "generations": 1784
+            "generations": 1784,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -12250,7 +12924,9 @@
             },
             "team1Score": 78,
             "team2Score": 103,
-            "generations": 1156
+            "generations": 1156,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -12286,7 +12962,9 @@
             },
             "team1Score": 50,
             "team2Score": 146,
-            "generations": 2287
+            "generations": 2287,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -12322,7 +13000,9 @@
             },
             "team1Score": 158,
             "team2Score": 110,
-            "generations": 2007
+            "generations": 2007,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -12358,7 +13038,9 @@
             },
             "team1Score": 24,
             "team2Score": 134,
-            "generations": 1175
+            "generations": 1175,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -12394,7 +13076,9 @@
             },
             "team1Score": 76,
             "team2Score": 182,
-            "generations": 1320
+            "generations": 1320,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -12430,7 +13114,9 @@
             },
             "team1Score": 117,
             "team2Score": 133,
-            "generations": 1259
+            "generations": 1259,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -12466,7 +13152,9 @@
             },
             "team1Score": 75,
             "team2Score": 98,
-            "generations": 1982
+            "generations": 1982,
+            "team1Abbr": "ATL",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -12504,7 +13192,9 @@
             },
             "team1Score": 115,
             "team2Score": 83,
-            "generations": 1414
+            "generations": 1414,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -12540,7 +13230,9 @@
             },
             "team1Score": 126,
             "team2Score": 86,
-            "generations": 1683
+            "generations": 1683,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -12576,7 +13268,9 @@
             },
             "team1Score": 206,
             "team2Score": 88,
-            "generations": 1210
+            "generations": 1210,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -12612,7 +13306,9 @@
             },
             "team1Score": 47,
             "team2Score": 137,
-            "generations": 1184
+            "generations": 1184,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -12648,7 +13344,9 @@
             },
             "team1Score": 173,
             "team2Score": 140,
-            "generations": 2342
+            "generations": 2342,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -12684,7 +13382,9 @@
             },
             "team1Score": 82,
             "team2Score": 56,
-            "generations": 1361
+            "generations": 1361,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -12720,7 +13420,9 @@
             },
             "team1Score": 215,
             "team2Score": 92,
-            "generations": 2625
+            "generations": 2625,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -12756,7 +13458,9 @@
             },
             "team1Score": 32,
             "team2Score": 173,
-            "generations": 1888
+            "generations": 1888,
+            "team1Abbr": "ORL",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -12794,7 +13498,9 @@
             },
             "team1Score": 197,
             "team2Score": 111,
-            "generations": 1968
+            "generations": 1968,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Martins Ferry Chessboards",
@@ -12830,7 +13536,9 @@
             },
             "team1Score": 185,
             "team2Score": 53,
-            "generations": 1668
+            "generations": 1668,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -12866,7 +13574,9 @@
             },
             "team1Score": 48,
             "team2Score": 201,
-            "generations": 1742
+            "generations": 1742,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -12902,7 +13612,9 @@
             },
             "team1Score": 88,
             "team2Score": 59,
-            "generations": 1141
+            "generations": 1141,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -12938,7 +13650,9 @@
             },
             "team1Score": 99,
             "team2Score": 90,
-            "generations": 1000
+            "generations": 1000,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -12974,7 +13688,9 @@
             },
             "team1Score": 45,
             "team2Score": 141,
-            "generations": 1792
+            "generations": 1792,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -13010,7 +13726,9 @@
             },
             "team1Score": 130,
             "team2Score": 158,
-            "generations": 3183
+            "generations": 3183,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -13046,7 +13764,9 @@
             },
             "team1Score": 167,
             "team2Score": 152,
-            "generations": 2455
+            "generations": 2455,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -13084,7 +13804,9 @@
             },
             "team1Score": 102,
             "team2Score": 191,
-            "generations": 2890
+            "generations": 2890,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -13120,7 +13842,9 @@
             },
             "team1Score": 98,
             "team2Score": 131,
-            "generations": 1874
+            "generations": 1874,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -13156,7 +13880,9 @@
             },
             "team1Score": 210,
             "team2Score": 76,
-            "generations": 2452
+            "generations": 2452,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -13192,7 +13918,9 @@
             },
             "team1Score": 108,
             "team2Score": 94,
-            "generations": 1544
+            "generations": 1544,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -13228,7 +13956,9 @@
             },
             "team1Score": 89,
             "team2Score": 24,
-            "generations": 1032
+            "generations": 1032,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -13264,7 +13994,9 @@
             },
             "team1Score": 131,
             "team2Score": 117,
-            "generations": 2629
+            "generations": 2629,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -13300,7 +14032,9 @@
             },
             "team1Score": 19,
             "team2Score": 118,
-            "generations": 1549
+            "generations": 1549,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -13336,7 +14070,9 @@
             },
             "team1Score": 162,
             "team2Score": 77,
-            "generations": 1449
+            "generations": 1449,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -13374,7 +14110,9 @@
             },
             "team1Score": 134,
             "team2Score": 172,
-            "generations": 2540
+            "generations": 2540,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -13410,7 +14148,9 @@
             },
             "team1Score": 120,
             "team2Score": 130,
-            "generations": 3165
+            "generations": 3165,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Irwin Detectives",
@@ -13446,7 +14186,9 @@
             },
             "team1Score": 147,
             "team2Score": 148,
-            "generations": 2456
+            "generations": 2456,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Warrensburg Knuckle Sandwiches",
@@ -13482,7 +14224,9 @@
             },
             "team1Score": 21,
             "team2Score": 217,
-            "generations": 5484
+            "generations": 5484,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Friendship Village Snakes",
@@ -13518,7 +14262,9 @@
             },
             "team1Score": 148,
             "team2Score": 100,
-            "generations": 1508
+            "generations": 1508,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Watsonville Cliff Divers",
@@ -13554,7 +14300,9 @@
             },
             "team1Score": 149,
             "team2Score": 161,
-            "generations": 2914
+            "generations": 2914,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -13590,7 +14338,9 @@
             },
             "team1Score": 114,
             "team2Score": 121,
-            "generations": 1920
+            "generations": 1920,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "East Lansing Party Snacks",
@@ -13626,7 +14376,9 @@
             },
             "team1Score": 266,
             "team2Score": 4,
-            "generations": 5896
+            "generations": 5896,
+            "team1Abbr": "ATL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13664,7 +14416,9 @@
             },
             "team1Score": 148,
             "team2Score": 180,
-            "generations": 1414
+            "generations": 1414,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Rossville Examiners",
@@ -13700,7 +14454,9 @@
             },
             "team1Score": 36,
             "team2Score": 238,
-            "generations": 3335
+            "generations": 3335,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "El Campo Expensive Cameras",
@@ -13736,7 +14492,9 @@
             },
             "team1Score": 15,
             "team2Score": 214,
-            "generations": 1986
+            "generations": 1986,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -13772,7 +14530,9 @@
             },
             "team1Score": 130,
             "team2Score": 60,
-            "generations": 1090
+            "generations": 1090,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Grove Hill Group Hugs",
@@ -13808,7 +14568,9 @@
             },
             "team1Score": 185,
             "team2Score": 85,
-            "generations": 1587
+            "generations": 1587,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -13844,7 +14606,9 @@
             },
             "team1Score": 48,
             "team2Score": 198,
-            "generations": 1634
+            "generations": 1634,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -13880,7 +14644,9 @@
             },
             "team1Score": 323,
             "team2Score": 38,
-            "generations": 1294
+            "generations": 1294,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -13916,7 +14682,9 @@
             },
             "team1Score": 133,
             "team2Score": 132,
-            "generations": 1766
+            "generations": 1766,
+            "team1Abbr": "AA",
+            "team2Abbr": "ATL"
         }
     ],
     [
@@ -13954,7 +14722,9 @@
             },
             "team1Score": 75,
             "team2Score": 98,
-            "generations": 1982
+            "generations": 1982,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Salinas Boarders",
@@ -13990,7 +14760,9 @@
             },
             "team1Score": 17,
             "team2Score": 222,
-            "generations": 2102
+            "generations": 2102,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Beaver Lost Causes",
@@ -14026,7 +14798,9 @@
             },
             "team1Score": 91,
             "team2Score": 86,
-            "generations": 1923
+            "generations": 1923,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Campton Starched Collars",
@@ -14062,7 +14836,9 @@
             },
             "team1Score": 60,
             "team2Score": 189,
-            "generations": 1843
+            "generations": 1843,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Kaukauna Curse Words",
@@ -14098,7 +14874,9 @@
             },
             "team1Score": 123,
             "team2Score": 112,
-            "generations": 1260
+            "generations": 1260,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ATL"
         },
         {
             "team1Name": "North Weeki Wachee Capitalists",
@@ -14134,7 +14912,9 @@
             },
             "team1Score": 495,
             "team2Score": 0,
-            "generations": 4880
+            "generations": 4880,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Garrison Flamethrowers",
@@ -14170,7 +14950,9 @@
             },
             "team1Score": 162,
             "team2Score": 138,
-            "generations": 1743
+            "generations": 1743,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Clarksburg High Rollers",
@@ -14206,7 +14988,9 @@
             },
             "team1Score": 62,
             "team2Score": 298,
-            "generations": 2411
+            "generations": 2411,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         }
     ]
 ]

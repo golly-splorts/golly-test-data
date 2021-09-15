@@ -44,7 +44,9 @@
                 },
                 "team1Score": 78,
                 "team2Score": 113,
-                "generations": 1480
+                "generations": 1480,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Fairview Furniture Assemblers",
@@ -89,7 +91,9 @@
                 },
                 "team1Score": 137,
                 "team2Score": 174,
-                "generations": 1032
+                "generations": 1032,
+                "team1Abbr": "EA",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Junction City Cavesystems",
@@ -134,7 +138,9 @@
                 },
                 "team1Score": 64,
                 "team2Score": 190,
-                "generations": 1752
+                "generations": 1752,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "AA"
             },
             {
                 "team1Name": "Ft. Valley Black Bananas",
@@ -179,7 +185,9 @@
                 },
                 "team1Score": 59,
                 "team2Score": 208,
-                "generations": 1950
+                "generations": 1950,
+                "team1Abbr": "ATL",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -226,7 +234,9 @@
                 },
                 "team1Score": 162,
                 "team2Score": 134,
-                "generations": 1142
+                "generations": 1142,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Fairview Furniture Assemblers",
@@ -271,7 +281,9 @@
                 },
                 "team1Score": 200,
                 "team2Score": 32,
-                "generations": 1549
+                "generations": 1549,
+                "team1Abbr": "EA",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Junction City Cavesystems",
@@ -316,7 +328,9 @@
                 },
                 "team1Score": 171,
                 "team2Score": 113,
-                "generations": 1182
+                "generations": 1182,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "AA"
             },
             {
                 "team1Name": "Ft. Valley Black Bananas",
@@ -361,7 +375,9 @@
                 },
                 "team1Score": 77,
                 "team2Score": 142,
-                "generations": 1824
+                "generations": 1824,
+                "team1Abbr": "ATL",
+                "team2Abbr": "DET"
             }
         ],
         [
@@ -408,7 +424,9 @@
                 },
                 "team1Score": 137,
                 "team2Score": 111,
-                "generations": 1372
+                "generations": 1372,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Libby Woodfingers",
@@ -453,7 +471,9 @@
                 },
                 "team1Score": 86,
                 "team2Score": 60,
-                "generations": 1320
+                "generations": 1320,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Barataria Fighting Asparagus",
@@ -498,7 +518,9 @@
                 },
                 "team1Score": 84,
                 "team2Score": 42,
-                "generations": 1257
+                "generations": 1257,
+                "team1Abbr": "AA",
+                "team2Abbr": "SFBS"
             },
             {
                 "team1Name": "Humboldt Hill Closed Doors",
@@ -543,7 +565,9 @@
                 },
                 "team1Score": 52,
                 "team2Score": 144,
-                "generations": 1094
+                "generations": 1094,
+                "team1Abbr": "DET",
+                "team2Abbr": "ATL"
             }
         ],
         [
@@ -590,7 +614,9 @@
                 },
                 "team1Score": 156,
                 "team2Score": 176,
-                "generations": 2489
+                "generations": 2489,
+                "team1Abbr": "OSHA",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Libby Woodfingers",
@@ -635,7 +661,9 @@
                 },
                 "team1Score": 142,
                 "team2Score": 218,
-                "generations": 2945
+                "generations": 2945,
+                "team1Abbr": "FWPT",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Barataria Fighting Asparagus",
@@ -680,7 +708,9 @@
                 },
                 "team1Score": 51,
                 "team2Score": 185,
-                "generations": 1769
+                "generations": 1769,
+                "team1Abbr": "AA",
+                "team2Abbr": "SFBS"
             },
             {
                 "team1Name": "Humboldt Hill Closed Doors",
@@ -725,7 +755,9 @@
                 },
                 "team1Score": 87,
                 "team2Score": 133,
-                "generations": 1321
+                "generations": 1321,
+                "team1Abbr": "DET",
+                "team2Abbr": "ATL"
             }
         ],
         [
@@ -772,7 +804,9 @@
                 },
                 "team1Score": 106,
                 "team2Score": 45,
-                "generations": 1175
+                "generations": 1175,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "OSHA"
             },
             {
                 "team1Name": "Fairview Furniture Assemblers",
@@ -817,7 +851,9 @@
                 },
                 "team1Score": 127,
                 "team2Score": 11,
-                "generations": 1355
+                "generations": 1355,
+                "team1Abbr": "EA",
+                "team2Abbr": "FWPT"
             },
             {
                 "team1Name": "Junction City Cavesystems",
@@ -862,7 +898,9 @@
                 },
                 "team1Score": 255,
                 "team2Score": 172,
-                "generations": 2348
+                "generations": 2348,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "AA"
             },
             {
                 "team1Name": "Ft. Valley Black Bananas",
@@ -907,7 +945,9 @@
                 },
                 "team1Score": 164,
                 "team2Score": 152,
-                "generations": 3748
+                "generations": 3748,
+                "team1Abbr": "ATL",
+                "team2Abbr": "DET"
             }
         ]
     ],
@@ -956,7 +996,9 @@
                 },
                 "team1Score": 102,
                 "team2Score": 176,
-                "generations": 2485
+                "generations": 2485,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Junction City Cavesystems",
@@ -1001,7 +1043,9 @@
                 },
                 "team1Score": 170,
                 "team2Score": 10,
-                "generations": 1372
+                "generations": 1372,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ATL"
             }
         ],
         [
@@ -1048,7 +1092,9 @@
                 },
                 "team1Score": 71,
                 "team2Score": 221,
-                "generations": 1643
+                "generations": 1643,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA"
             },
             {
                 "team1Name": "Junction City Cavesystems",
@@ -1093,7 +1139,9 @@
                 },
                 "team1Score": 97,
                 "team2Score": 124,
-                "generations": 1457
+                "generations": 1457,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "ATL"
             }
         ],
         [
@@ -1140,7 +1188,9 @@
                 },
                 "team1Score": 45,
                 "team2Score": 261,
-                "generations": 2895
+                "generations": 2895,
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Ft. Valley Black Bananas",
@@ -1185,7 +1235,9 @@
                 },
                 "team1Score": 147,
                 "team2Score": 203,
-                "generations": 2135
+                "generations": 2135,
+                "team1Abbr": "ATL",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1232,7 +1284,9 @@
                 },
                 "team1Score": 142,
                 "team2Score": 229,
-                "generations": 1700
+                "generations": 1700,
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA"
             },
             {
                 "team1Name": "Ft. Valley Black Bananas",
@@ -1277,7 +1331,9 @@
                 },
                 "team1Score": 102,
                 "team2Score": 126,
-                "generations": 2497
+                "generations": 2497,
+                "team1Abbr": "ATL",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1324,7 +1380,9 @@
                 },
                 "team1Score": 86,
                 "team2Score": 148,
-                "generations": 1205
+                "generations": 1205,
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA"
             }
         ]
     ],
@@ -1372,7 +1430,9 @@
                 },
                 "team1Score": 123,
                 "team2Score": 192,
-                "generations": 1350
+                "generations": 1350,
+                "team1Abbr": "EA",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1418,7 +1478,9 @@
                 },
                 "team1Score": 212,
                 "team2Score": 133,
-                "generations": 1583
+                "generations": 1583,
+                "team1Abbr": "EA",
+                "team2Abbr": "SFBS"
             }
         ],
         [
@@ -1464,7 +1526,9 @@
                 },
                 "team1Score": 118,
                 "team2Score": 31,
-                "generations": 1308
+                "generations": 1308,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1510,7 +1574,9 @@
                 },
                 "team1Score": 137,
                 "team2Score": 77,
-                "generations": 1472
+                "generations": 1472,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "EA"
             }
         ],
         [
@@ -1556,7 +1622,9 @@
                 },
                 "team1Score": 180,
                 "team2Score": 75,
-                "generations": 1843
+                "generations": 1843,
+                "team1Abbr": "SFBS",
+                "team2Abbr": "EA"
             }
         ]
     ]

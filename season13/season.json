@@ -35,7 +35,9 @@
             },
             "team1Score": 220,
             "team2Score": 90,
-            "generations": 1484
+            "generations": 1484,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -72,7 +74,9 @@
             },
             "team1Score": 117,
             "team2Score": 153,
-            "generations": 1052
+            "generations": 1052,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -109,7 +113,9 @@
             },
             "team1Score": 186,
             "team2Score": 110,
-            "generations": 2482
+            "generations": 2482,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -146,7 +152,9 @@
             },
             "team1Score": 165,
             "team2Score": 235,
-            "generations": 1805
+            "generations": 1805,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -183,7 +191,9 @@
             },
             "team1Score": 234,
             "team2Score": 88,
-            "generations": 1201
+            "generations": 1201,
+            "team1Abbr": "DET",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -220,7 +230,9 @@
             },
             "team1Score": 35,
             "team2Score": 99,
-            "generations": 1155
+            "generations": 1155,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -257,7 +269,9 @@
             },
             "team1Score": 261,
             "team2Score": 60,
-            "generations": 2370
+            "generations": 2370,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -294,7 +308,9 @@
             },
             "team1Score": 191,
             "team2Score": 185,
-            "generations": 1724
+            "generations": 1724,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -333,7 +349,9 @@
             },
             "team1Score": 102,
             "team2Score": 111,
-            "generations": 1795
+            "generations": 1795,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -370,7 +388,9 @@
             },
             "team1Score": 45,
             "team2Score": 112,
-            "generations": 1747
+            "generations": 1747,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -407,7 +427,9 @@
             },
             "team1Score": 263,
             "team2Score": 69,
-            "generations": 2817
+            "generations": 2817,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -444,7 +466,9 @@
             },
             "team1Score": 180,
             "team2Score": 146,
-            "generations": 1006
+            "generations": 1006,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -481,7 +505,9 @@
             },
             "team1Score": 192,
             "team2Score": 102,
-            "generations": 2669
+            "generations": 2669,
+            "team1Abbr": "BB",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -518,7 +544,9 @@
             },
             "team1Score": 158,
             "team2Score": 179,
-            "generations": 2415
+            "generations": 2415,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -555,7 +583,9 @@
             },
             "team1Score": 93,
             "team2Score": 110,
-            "generations": 1041
+            "generations": 1041,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -592,7 +622,9 @@
             },
             "team1Score": 101,
             "team2Score": 144,
-            "generations": 1304
+            "generations": 1304,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -631,7 +663,9 @@
             },
             "team1Score": 170,
             "team2Score": 46,
-            "generations": 1722
+            "generations": 1722,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -668,7 +702,9 @@
             },
             "team1Score": 72,
             "team2Score": 130,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -705,7 +741,9 @@
             },
             "team1Score": 73,
             "team2Score": 152,
-            "generations": 1165
+            "generations": 1165,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -742,7 +780,9 @@
             },
             "team1Score": 74,
             "team2Score": 269,
-            "generations": 2966
+            "generations": 2966,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -779,7 +819,9 @@
             },
             "team1Score": 143,
             "team2Score": 213,
-            "generations": 1233
+            "generations": 1233,
+            "team1Abbr": "DET",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -816,7 +858,9 @@
             },
             "team1Score": 227,
             "team2Score": 33,
-            "generations": 1021
+            "generations": 1021,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -853,7 +897,9 @@
             },
             "team1Score": 103,
             "team2Score": 246,
-            "generations": 1709
+            "generations": 1709,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -890,7 +936,9 @@
             },
             "team1Score": 0,
             "team2Score": 394,
-            "generations": 1344
+            "generations": 1344,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -929,7 +977,9 @@
             },
             "team1Score": 70,
             "team2Score": 170,
-            "generations": 1487
+            "generations": 1487,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -966,7 +1016,9 @@
             },
             "team1Score": 18,
             "team2Score": 166,
-            "generations": 1110
+            "generations": 1110,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -1003,7 +1055,9 @@
             },
             "team1Score": 197,
             "team2Score": 99,
-            "generations": 2485
+            "generations": 2485,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -1040,7 +1094,9 @@
             },
             "team1Score": 72,
             "team2Score": 130,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -1077,7 +1133,9 @@
             },
             "team1Score": 19,
             "team2Score": 156,
-            "generations": 1163
+            "generations": 1163,
+            "team1Abbr": "BB",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -1114,7 +1172,9 @@
             },
             "team1Score": 162,
             "team2Score": 48,
-            "generations": 1723
+            "generations": 1723,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -1151,7 +1211,9 @@
             },
             "team1Score": 16,
             "team2Score": 261,
-            "generations": 2646
+            "generations": 2646,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -1188,7 +1250,9 @@
             },
             "team1Score": 141,
             "team2Score": 72,
-            "generations": 1487
+            "generations": 1487,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -1227,7 +1291,9 @@
             },
             "team1Score": 113,
             "team2Score": 166,
-            "generations": 3137
+            "generations": 3137,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -1264,7 +1330,9 @@
             },
             "team1Score": 123,
             "team2Score": 219,
-            "generations": 2288
+            "generations": 2288,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -1301,7 +1369,9 @@
             },
             "team1Score": 98,
             "team2Score": 207,
-            "generations": 1366
+            "generations": 1366,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -1338,7 +1408,9 @@
             },
             "team1Score": 80,
             "team2Score": 135,
-            "generations": 1563
+            "generations": 1563,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -1375,7 +1447,9 @@
             },
             "team1Score": 193,
             "team2Score": 74,
-            "generations": 3082
+            "generations": 3082,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -1412,7 +1486,9 @@
             },
             "team1Score": 125,
             "team2Score": 137,
-            "generations": 2530
+            "generations": 2530,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -1449,7 +1525,9 @@
             },
             "team1Score": 88,
             "team2Score": 172,
-            "generations": 1418
+            "generations": 1418,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -1486,7 +1564,9 @@
             },
             "team1Score": 119,
             "team2Score": 198,
-            "generations": 1250
+            "generations": 1250,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "BB"
         }
     ],
     [
@@ -1525,7 +1605,9 @@
             },
             "team1Score": 0,
             "team2Score": 611,
-            "generations": 1562
+            "generations": 1562,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -1562,7 +1644,9 @@
             },
             "team1Score": 32,
             "team2Score": 269,
-            "generations": 3183
+            "generations": 3183,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -1599,7 +1683,9 @@
             },
             "team1Score": 134,
             "team2Score": 157,
-            "generations": 2021
+            "generations": 2021,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -1636,7 +1722,9 @@
             },
             "team1Score": 165,
             "team2Score": 54,
-            "generations": 1674
+            "generations": 1674,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -1673,7 +1761,9 @@
             },
             "team1Score": 180,
             "team2Score": 141,
-            "generations": 2658
+            "generations": 2658,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -1710,7 +1800,9 @@
             },
             "team1Score": 18,
             "team2Score": 124,
-            "generations": 1759
+            "generations": 1759,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -1747,7 +1839,9 @@
             },
             "team1Score": 72,
             "team2Score": 128,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -1784,7 +1878,9 @@
             },
             "team1Score": 26,
             "team2Score": 131,
-            "generations": 1448
+            "generations": 1448,
+            "team1Abbr": "BB",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -1823,7 +1919,9 @@
             },
             "team1Score": 82,
             "team2Score": 107,
-            "generations": 1061
+            "generations": 1061,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -1860,7 +1958,9 @@
             },
             "team1Score": 160,
             "team2Score": 254,
-            "generations": 2001
+            "generations": 2001,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -1897,7 +1997,9 @@
             },
             "team1Score": 56,
             "team2Score": 105,
-            "generations": 1512
+            "generations": 1512,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -1934,7 +2036,9 @@
             },
             "team1Score": 156,
             "team2Score": 196,
-            "generations": 1263
+            "generations": 1263,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -1971,7 +2075,9 @@
             },
             "team1Score": 239,
             "team2Score": 21,
-            "generations": 1098
+            "generations": 1098,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -2008,7 +2114,9 @@
             },
             "team1Score": 270,
             "team2Score": 66,
-            "generations": 2193
+            "generations": 2193,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -2045,7 +2153,9 @@
             },
             "team1Score": 207,
             "team2Score": 136,
-            "generations": 1059
+            "generations": 1059,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -2082,7 +2192,9 @@
             },
             "team1Score": 101,
             "team2Score": 260,
-            "generations": 2170
+            "generations": 2170,
+            "team1Abbr": "DET",
+            "team2Abbr": "BB"
         }
     ],
     [
@@ -2121,7 +2233,9 @@
             },
             "team1Score": 10,
             "team2Score": 135,
-            "generations": 1689
+            "generations": 1689,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -2158,7 +2272,9 @@
             },
             "team1Score": 144,
             "team2Score": 89,
-            "generations": 1852
+            "generations": 1852,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -2195,7 +2311,9 @@
             },
             "team1Score": 161,
             "team2Score": 160,
-            "generations": 1313
+            "generations": 1313,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -2232,7 +2350,9 @@
             },
             "team1Score": 268,
             "team2Score": 8,
-            "generations": 3201
+            "generations": 3201,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -2269,7 +2389,9 @@
             },
             "team1Score": 147,
             "team2Score": 131,
-            "generations": 3868
+            "generations": 3868,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -2306,7 +2428,9 @@
             },
             "team1Score": 119,
             "team2Score": 222,
-            "generations": 1353
+            "generations": 1353,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -2343,7 +2467,9 @@
             },
             "team1Score": 135,
             "team2Score": 155,
-            "generations": 1633
+            "generations": 1633,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -2380,7 +2506,9 @@
             },
             "team1Score": 104,
             "team2Score": 223,
-            "generations": 3095
+            "generations": 3095,
+            "team1Abbr": "BB",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -2419,7 +2547,9 @@
             },
             "team1Score": 72,
             "team2Score": 133,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -2456,7 +2586,9 @@
             },
             "team1Score": 223,
             "team2Score": 105,
-            "generations": 1335
+            "generations": 1335,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -2493,7 +2625,9 @@
             },
             "team1Score": 0,
             "team2Score": 355,
-            "generations": 1679
+            "generations": 1679,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -2530,7 +2664,9 @@
             },
             "team1Score": 108,
             "team2Score": 189,
-            "generations": 5697
+            "generations": 5697,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -2567,7 +2703,9 @@
             },
             "team1Score": 156,
             "team2Score": 153,
-            "generations": 1239
+            "generations": 1239,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -2604,7 +2742,9 @@
             },
             "team1Score": 207,
             "team2Score": 86,
-            "generations": 1875
+            "generations": 1875,
+            "team1Abbr": "DECO",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -2641,7 +2781,9 @@
             },
             "team1Score": 205,
             "team2Score": 114,
-            "generations": 2533
+            "generations": 2533,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -2678,7 +2820,9 @@
             },
             "team1Score": 92,
             "team2Score": 118,
-            "generations": 1310
+            "generations": 1310,
+            "team1Abbr": "DET",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -2717,7 +2861,9 @@
             },
             "team1Score": 99,
             "team2Score": 105,
-            "generations": 1368
+            "generations": 1368,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -2754,7 +2900,9 @@
             },
             "team1Score": 115,
             "team2Score": 181,
-            "generations": 6112
+            "generations": 6112,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -2791,7 +2939,9 @@
             },
             "team1Score": 74,
             "team2Score": 32,
-            "generations": 1182
+            "generations": 1182,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -2828,7 +2978,9 @@
             },
             "team1Score": 197,
             "team2Score": 91,
-            "generations": 1077
+            "generations": 1077,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -2865,7 +3017,9 @@
             },
             "team1Score": 57,
             "team2Score": 103,
-            "generations": 2183
+            "generations": 2183,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -2902,7 +3056,9 @@
             },
             "team1Score": 180,
             "team2Score": 118,
-            "generations": 2092
+            "generations": 2092,
+            "team1Abbr": "BB",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -2939,7 +3095,9 @@
             },
             "team1Score": 91,
             "team2Score": 107,
-            "generations": 2597
+            "generations": 2597,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -2976,7 +3134,9 @@
             },
             "team1Score": 54,
             "team2Score": 71,
-            "generations": 1313
+            "generations": 1313,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -3015,7 +3175,9 @@
             },
             "team1Score": 93,
             "team2Score": 108,
-            "generations": 1316
+            "generations": 1316,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -3052,7 +3214,9 @@
             },
             "team1Score": 175,
             "team2Score": 187,
-            "generations": 2555
+            "generations": 2555,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -3089,7 +3253,9 @@
             },
             "team1Score": 311,
             "team2Score": 46,
-            "generations": 3408
+            "generations": 3408,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -3126,7 +3292,9 @@
             },
             "team1Score": 167,
             "team2Score": 195,
-            "generations": 2521
+            "generations": 2521,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -3163,7 +3331,9 @@
             },
             "team1Score": 65,
             "team2Score": 162,
-            "generations": 2124
+            "generations": 2124,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -3200,7 +3370,9 @@
             },
             "team1Score": 153,
             "team2Score": 118,
-            "generations": 2169
+            "generations": 2169,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -3237,7 +3409,9 @@
             },
             "team1Score": 176,
             "team2Score": 221,
-            "generations": 1684
+            "generations": 1684,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -3274,7 +3448,9 @@
             },
             "team1Score": 24,
             "team2Score": 266,
-            "generations": 3641
+            "generations": 3641,
+            "team1Abbr": "MILF",
+            "team2Abbr": "BB"
         }
     ],
     [
@@ -3313,7 +3489,9 @@
             },
             "team1Score": 60,
             "team2Score": 207,
-            "generations": 2274
+            "generations": 2274,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -3350,7 +3528,9 @@
             },
             "team1Score": 193,
             "team2Score": 124,
-            "generations": 4079
+            "generations": 4079,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -3387,7 +3567,9 @@
             },
             "team1Score": 155,
             "team2Score": 179,
-            "generations": 1401
+            "generations": 1401,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -3424,7 +3606,9 @@
             },
             "team1Score": 119,
             "team2Score": 227,
-            "generations": 2821
+            "generations": 2821,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -3461,7 +3645,9 @@
             },
             "team1Score": 170,
             "team2Score": 149,
-            "generations": 4462
+            "generations": 4462,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -3498,7 +3684,9 @@
             },
             "team1Score": 176,
             "team2Score": 145,
-            "generations": 4514
+            "generations": 4514,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -3535,7 +3723,9 @@
             },
             "team1Score": 325,
             "team2Score": 47,
-            "generations": 3730
+            "generations": 3730,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -3572,7 +3762,9 @@
             },
             "team1Score": 32,
             "team2Score": 286,
-            "generations": 3661
+            "generations": 3661,
+            "team1Abbr": "BB",
+            "team2Abbr": "MILF"
         }
     ],
     [
@@ -3611,7 +3803,9 @@
             },
             "team1Score": 125,
             "team2Score": 217,
-            "generations": 1998
+            "generations": 1998,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -3648,7 +3842,9 @@
             },
             "team1Score": 188,
             "team2Score": 152,
-            "generations": 1390
+            "generations": 1390,
+            "team1Abbr": "BTX",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -3685,7 +3881,9 @@
             },
             "team1Score": 210,
             "team2Score": 98,
-            "generations": 2101
+            "generations": 2101,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -3722,7 +3920,9 @@
             },
             "team1Score": 4,
             "team2Score": 111,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -3759,7 +3959,9 @@
             },
             "team1Score": 209,
             "team2Score": 92,
-            "generations": 4378
+            "generations": 4378,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -3796,7 +3998,9 @@
             },
             "team1Score": 21,
             "team2Score": 191,
-            "generations": 1336
+            "generations": 1336,
+            "team1Abbr": "MILF",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -3833,7 +4037,9 @@
             },
             "team1Score": 134,
             "team2Score": 98,
-            "generations": 1825
+            "generations": 1825,
+            "team1Abbr": "DET",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -3870,7 +4076,9 @@
             },
             "team1Score": 93,
             "team2Score": 208,
-            "generations": 1481
+            "generations": 1481,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -3909,7 +4117,9 @@
             },
             "team1Score": 297,
             "team2Score": 0,
-            "generations": 1023
+            "generations": 1023,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -3946,7 +4156,9 @@
             },
             "team1Score": 159,
             "team2Score": 173,
-            "generations": 1416
+            "generations": 1416,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -3983,7 +4195,9 @@
             },
             "team1Score": 56,
             "team2Score": 217,
-            "generations": 1485
+            "generations": 1485,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -4020,7 +4234,9 @@
             },
             "team1Score": 285,
             "team2Score": 46,
-            "generations": 2710
+            "generations": 2710,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -4057,7 +4273,9 @@
             },
             "team1Score": 182,
             "team2Score": 193,
-            "generations": 4806
+            "generations": 4806,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -4094,7 +4312,9 @@
             },
             "team1Score": 102,
             "team2Score": 141,
-            "generations": 3342
+            "generations": 3342,
+            "team1Abbr": "AA",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -4131,7 +4351,9 @@
             },
             "team1Score": 133,
             "team2Score": 146,
-            "generations": 1761
+            "generations": 1761,
+            "team1Abbr": "BB",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -4168,7 +4390,9 @@
             },
             "team1Score": 172,
             "team2Score": 135,
-            "generations": 3337
+            "generations": 3337,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -4207,7 +4431,9 @@
             },
             "team1Score": 33,
             "team2Score": 127,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -4244,7 +4470,9 @@
             },
             "team1Score": 142,
             "team2Score": 134,
-            "generations": 1280
+            "generations": 1280,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -4281,7 +4509,9 @@
             },
             "team1Score": 267,
             "team2Score": 88,
-            "generations": 3861
+            "generations": 3861,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -4318,7 +4548,9 @@
             },
             "team1Score": 168,
             "team2Score": 133,
-            "generations": 2487
+            "generations": 2487,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -4355,7 +4587,9 @@
             },
             "team1Score": 198,
             "team2Score": 200,
-            "generations": 1604
+            "generations": 1604,
+            "team1Abbr": "MILF",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -4392,7 +4626,9 @@
             },
             "team1Score": 68,
             "team2Score": 163,
-            "generations": 1759
+            "generations": 1759,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -4429,7 +4665,9 @@
             },
             "team1Score": 130,
             "team2Score": 70,
-            "generations": 1432
+            "generations": 1432,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -4466,7 +4704,9 @@
             },
             "team1Score": 317,
             "team2Score": 99,
-            "generations": 1885
+            "generations": 1885,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -4505,7 +4745,9 @@
             },
             "team1Score": 196,
             "team2Score": 13,
-            "generations": 2257
+            "generations": 2257,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -4542,7 +4784,9 @@
             },
             "team1Score": 124,
             "team2Score": 159,
-            "generations": 1436
+            "generations": 1436,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -4579,7 +4823,9 @@
             },
             "team1Score": 45,
             "team2Score": 208,
-            "generations": 2830
+            "generations": 2830,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -4616,7 +4862,9 @@
             },
             "team1Score": 72,
             "team2Score": 130,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -4653,7 +4901,9 @@
             },
             "team1Score": 210,
             "team2Score": 184,
-            "generations": 1081
+            "generations": 1081,
+            "team1Abbr": "BB",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -4690,7 +4940,9 @@
             },
             "team1Score": 218,
             "team2Score": 50,
-            "generations": 1439
+            "generations": 1439,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -4727,7 +4979,9 @@
             },
             "team1Score": 132,
             "team2Score": 67,
-            "generations": 1990
+            "generations": 1990,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -4764,7 +5018,9 @@
             },
             "team1Score": 71,
             "team2Score": 125,
-            "generations": 1601
+            "generations": 1601,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -4803,7 +5059,9 @@
             },
             "team1Score": 39,
             "team2Score": 169,
-            "generations": 1646
+            "generations": 1646,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -4840,7 +5098,9 @@
             },
             "team1Score": 115,
             "team2Score": 255,
-            "generations": 1650
+            "generations": 1650,
+            "team1Abbr": "EA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -4877,7 +5137,9 @@
             },
             "team1Score": 145,
             "team2Score": 160,
-            "generations": 1356
+            "generations": 1356,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -4914,7 +5176,9 @@
             },
             "team1Score": 278,
             "team2Score": 94,
-            "generations": 2587
+            "generations": 2587,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -4951,7 +5215,9 @@
             },
             "team1Score": 126,
             "team2Score": 71,
-            "generations": 1810
+            "generations": 1810,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -4988,7 +5254,9 @@
             },
             "team1Score": 183,
             "team2Score": 117,
-            "generations": 4748
+            "generations": 4748,
+            "team1Abbr": "DECO",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -5025,7 +5293,9 @@
             },
             "team1Score": 163,
             "team2Score": 168,
-            "generations": 4928
+            "generations": 4928,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -5062,7 +5332,9 @@
             },
             "team1Score": 177,
             "team2Score": 115,
-            "generations": 1638
+            "generations": 1638,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -5101,7 +5373,9 @@
             },
             "team1Score": 169,
             "team2Score": 122,
-            "generations": 2216
+            "generations": 2216,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -5138,7 +5412,9 @@
             },
             "team1Score": 144,
             "team2Score": 158,
-            "generations": 3987
+            "generations": 3987,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -5175,7 +5451,9 @@
             },
             "team1Score": 83,
             "team2Score": 161,
-            "generations": 1808
+            "generations": 1808,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -5212,7 +5490,9 @@
             },
             "team1Score": 33,
             "team2Score": 124,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -5249,7 +5529,9 @@
             },
             "team1Score": 170,
             "team2Score": 153,
-            "generations": 1948
+            "generations": 1948,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -5286,7 +5568,9 @@
             },
             "team1Score": 244,
             "team2Score": 80,
-            "generations": 2799
+            "generations": 2799,
+            "team1Abbr": "BB",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -5323,7 +5607,9 @@
             },
             "team1Score": 247,
             "team2Score": 64,
-            "generations": 2668
+            "generations": 2668,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -5360,7 +5646,9 @@
             },
             "team1Score": 40,
             "team2Score": 107,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -5399,7 +5687,9 @@
             },
             "team1Score": 108,
             "team2Score": 228,
-            "generations": 1384
+            "generations": 1384,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -5436,7 +5726,9 @@
             },
             "team1Score": 131,
             "team2Score": 108,
-            "generations": 1352
+            "generations": 1352,
+            "team1Abbr": "EA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -5473,7 +5765,9 @@
             },
             "team1Score": 72,
             "team2Score": 127,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -5510,7 +5804,9 @@
             },
             "team1Score": 147,
             "team2Score": 19,
-            "generations": 1324
+            "generations": 1324,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -5547,7 +5843,9 @@
             },
             "team1Score": 223,
             "team2Score": 44,
-            "generations": 3197
+            "generations": 3197,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -5584,7 +5882,9 @@
             },
             "team1Score": 41,
             "team2Score": 136,
-            "generations": 1768
+            "generations": 1768,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -5621,7 +5921,9 @@
             },
             "team1Score": 103,
             "team2Score": 189,
-            "generations": 3453
+            "generations": 3453,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -5658,7 +5960,9 @@
             },
             "team1Score": 151,
             "team2Score": 27,
-            "generations": 1579
+            "generations": 1579,
+            "team1Abbr": "DECO",
+            "team2Abbr": "BB"
         }
     ],
     [
@@ -5697,7 +6001,9 @@
             },
             "team1Score": 154,
             "team2Score": 126,
-            "generations": 4186
+            "generations": 4186,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -5734,7 +6040,9 @@
             },
             "team1Score": 155,
             "team2Score": 4,
-            "generations": 1513
+            "generations": 1513,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -5771,7 +6079,9 @@
             },
             "team1Score": 17,
             "team2Score": 137,
-            "generations": 1731
+            "generations": 1731,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -5808,7 +6118,9 @@
             },
             "team1Score": 160,
             "team2Score": 120,
-            "generations": 1115
+            "generations": 1115,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -5845,7 +6157,9 @@
             },
             "team1Score": 100,
             "team2Score": 284,
-            "generations": 3283
+            "generations": 3283,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -5882,7 +6196,9 @@
             },
             "team1Score": 98,
             "team2Score": 286,
-            "generations": 3725
+            "generations": 3725,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -5919,7 +6235,9 @@
             },
             "team1Score": 80,
             "team2Score": 197,
-            "generations": 1048
+            "generations": 1048,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -5956,7 +6274,9 @@
             },
             "team1Score": 122,
             "team2Score": 68,
-            "generations": 1744
+            "generations": 1744,
+            "team1Abbr": "BB",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -5995,7 +6315,9 @@
             },
             "team1Score": 10,
             "team2Score": 89,
-            "generations": 1236
+            "generations": 1236,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -6032,7 +6354,9 @@
             },
             "team1Score": 241,
             "team2Score": 98,
-            "generations": 2241
+            "generations": 2241,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -6069,7 +6393,9 @@
             },
             "team1Score": 185,
             "team2Score": 120,
-            "generations": 3798
+            "generations": 3798,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -6106,7 +6432,9 @@
             },
             "team1Score": 142,
             "team2Score": 208,
-            "generations": 1392
+            "generations": 1392,
+            "team1Abbr": "BTX",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -6143,7 +6471,9 @@
             },
             "team1Score": 115,
             "team2Score": 98,
-            "generations": 1099
+            "generations": 1099,
+            "team1Abbr": "DECO",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -6180,7 +6510,9 @@
             },
             "team1Score": 256,
             "team2Score": 132,
-            "generations": 1339
+            "generations": 1339,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -6217,7 +6549,9 @@
             },
             "team1Score": 99,
             "team2Score": 107,
-            "generations": 1664
+            "generations": 1664,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -6254,7 +6588,9 @@
             },
             "team1Score": 83,
             "team2Score": 331,
-            "generations": 2866
+            "generations": 2866,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -6293,7 +6629,9 @@
             },
             "team1Score": 71,
             "team2Score": 110,
-            "generations": 1436
+            "generations": 1436,
+            "team1Abbr": "TB",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -6330,7 +6668,9 @@
             },
             "team1Score": 155,
             "team2Score": 142,
-            "generations": 3011
+            "generations": 3011,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -6367,7 +6707,9 @@
             },
             "team1Score": 84,
             "team2Score": 293,
-            "generations": 1536
+            "generations": 1536,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -6404,7 +6746,9 @@
             },
             "team1Score": 344,
             "team2Score": 47,
-            "generations": 4886
+            "generations": 4886,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -6441,7 +6785,9 @@
             },
             "team1Score": 93,
             "team2Score": 135,
-            "generations": 3199
+            "generations": 3199,
+            "team1Abbr": "BB",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -6478,7 +6824,9 @@
             },
             "team1Score": 163,
             "team2Score": 54,
-            "generations": 1861
+            "generations": 1861,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -6515,7 +6863,9 @@
             },
             "team1Score": 21,
             "team2Score": 120,
-            "generations": 1007
+            "generations": 1007,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -6552,7 +6902,9 @@
             },
             "team1Score": 115,
             "team2Score": 176,
-            "generations": 1765
+            "generations": 1765,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         }
     ],
     [
@@ -6591,7 +6943,9 @@
             },
             "team1Score": 33,
             "team2Score": 286,
-            "generations": 2244
+            "generations": 2244,
+            "team1Abbr": "SS",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -6628,7 +6982,9 @@
             },
             "team1Score": 257,
             "team2Score": 177,
-            "generations": 1137
+            "generations": 1137,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -6665,7 +7021,9 @@
             },
             "team1Score": 42,
             "team2Score": 131,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -6702,7 +7060,9 @@
             },
             "team1Score": 46,
             "team2Score": 201,
-            "generations": 3197
+            "generations": 3197,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -6739,7 +7099,9 @@
             },
             "team1Score": 185,
             "team2Score": 170,
-            "generations": 3059
+            "generations": 3059,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -6776,7 +7138,9 @@
             },
             "team1Score": 193,
             "team2Score": 102,
-            "generations": 1412
+            "generations": 1412,
+            "team1Abbr": "DET",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -6813,7 +7177,9 @@
             },
             "team1Score": 249,
             "team2Score": 76,
-            "generations": 3263
+            "generations": 3263,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -6850,7 +7216,9 @@
             },
             "team1Score": 155,
             "team2Score": 122,
-            "generations": 1923
+            "generations": 1923,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -6889,7 +7257,9 @@
             },
             "team1Score": 13,
             "team2Score": 150,
-            "generations": 2164
+            "generations": 2164,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -6926,7 +7296,9 @@
             },
             "team1Score": 237,
             "team2Score": 99,
-            "generations": 2074
+            "generations": 2074,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -6963,7 +7335,9 @@
             },
             "team1Score": 40,
             "team2Score": 107,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -7000,7 +7374,9 @@
             },
             "team1Score": 141,
             "team2Score": 112,
-            "generations": 1050
+            "generations": 1050,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -7037,7 +7413,9 @@
             },
             "team1Score": 157,
             "team2Score": 93,
-            "generations": 2012
+            "generations": 2012,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -7074,7 +7452,9 @@
             },
             "team1Score": 303,
             "team2Score": 76,
-            "generations": 2221
+            "generations": 2221,
+            "team1Abbr": "BB",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -7111,7 +7491,9 @@
             },
             "team1Score": 90,
             "team2Score": 260,
-            "generations": 1929
+            "generations": 1929,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -7148,7 +7530,9 @@
             },
             "team1Score": 300,
             "team2Score": 116,
-            "generations": 3262
+            "generations": 3262,
+            "team1Abbr": "SAC",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -7187,7 +7571,9 @@
             },
             "team1Score": 33,
             "team2Score": 120,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "BTX",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -7224,7 +7610,9 @@
             },
             "team1Score": 248,
             "team2Score": 130,
-            "generations": 3268
+            "generations": 3268,
+            "team1Abbr": "SS",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -7261,7 +7649,9 @@
             },
             "team1Score": 55,
             "team2Score": 283,
-            "generations": 1283
+            "generations": 1283,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -7298,7 +7688,9 @@
             },
             "team1Score": 105,
             "team2Score": 256,
-            "generations": 1674
+            "generations": 1674,
+            "team1Abbr": "EA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -7335,7 +7727,9 @@
             },
             "team1Score": 152,
             "team2Score": 102,
-            "generations": 3483
+            "generations": 3483,
+            "team1Abbr": "DECO",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -7372,7 +7766,9 @@
             },
             "team1Score": 233,
             "team2Score": 12,
-            "generations": 1631
+            "generations": 1631,
+            "team1Abbr": "DET",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -7409,7 +7805,9 @@
             },
             "team1Score": 123,
             "team2Score": 183,
-            "generations": 2813
+            "generations": 2813,
+            "team1Abbr": "MILF",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -7446,7 +7844,9 @@
             },
             "team1Score": 124,
             "team2Score": 95,
-            "generations": 2221
+            "generations": 2221,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -7485,7 +7885,9 @@
             },
             "team1Score": 200,
             "team2Score": 201,
-            "generations": 1728
+            "generations": 1728,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -7522,7 +7924,9 @@
             },
             "team1Score": 152,
             "team2Score": 161,
-            "generations": 2916
+            "generations": 2916,
+            "team1Abbr": "TB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -7559,7 +7963,9 @@
             },
             "team1Score": 205,
             "team2Score": 128,
-            "generations": 1806
+            "generations": 1806,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -7596,7 +8002,9 @@
             },
             "team1Score": 192,
             "team2Score": 48,
-            "generations": 2108
+            "generations": 2108,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -7633,7 +8041,9 @@
             },
             "team1Score": 95,
             "team2Score": 82,
-            "generations": 2304
+            "generations": 2304,
+            "team1Abbr": "AA",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -7670,7 +8080,9 @@
             },
             "team1Score": 69,
             "team2Score": 287,
-            "generations": 2503
+            "generations": 2503,
+            "team1Abbr": "BB",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -7707,7 +8119,9 @@
             },
             "team1Score": 245,
             "team2Score": 149,
-            "generations": 1343
+            "generations": 1343,
+            "team1Abbr": "ORL",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -7744,7 +8158,9 @@
             },
             "team1Score": 198,
             "team2Score": 31,
-            "generations": 1396
+            "generations": 1396,
+            "team1Abbr": "SAC",
+            "team2Abbr": "SFBS"
         }
     ],
     [
@@ -7783,7 +8199,9 @@
             },
             "team1Score": 220,
             "team2Score": 130,
-            "generations": 2956
+            "generations": 2956,
+            "team1Abbr": "EA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -7820,7 +8238,9 @@
             },
             "team1Score": 203,
             "team2Score": 189,
-            "generations": 1206
+            "generations": 1206,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -7857,7 +8277,9 @@
             },
             "team1Score": 80,
             "team2Score": 128,
-            "generations": 1548
+            "generations": 1548,
+            "team1Abbr": "SS",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -7894,7 +8316,9 @@
             },
             "team1Score": 252,
             "team2Score": 71,
-            "generations": 3783
+            "generations": 3783,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -7931,7 +8355,9 @@
             },
             "team1Score": 149,
             "team2Score": 294,
-            "generations": 3984
+            "generations": 3984,
+            "team1Abbr": "DET",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -7968,7 +8394,9 @@
             },
             "team1Score": 90,
             "team2Score": 152,
-            "generations": 1115
+            "generations": 1115,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -8005,7 +8433,9 @@
             },
             "team1Score": 157,
             "team2Score": 72,
-            "generations": 1150
+            "generations": 1150,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -8042,7 +8472,9 @@
             },
             "team1Score": 146,
             "team2Score": 88,
-            "generations": 1014
+            "generations": 1014,
+            "team1Abbr": "DECO",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -8081,7 +8513,9 @@
             },
             "team1Score": 94,
             "team2Score": 92,
-            "generations": 1195
+            "generations": 1195,
+            "team1Abbr": "TB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -8118,7 +8552,9 @@
             },
             "team1Score": 62,
             "team2Score": 208,
-            "generations": 3147
+            "generations": 3147,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -8155,7 +8591,9 @@
             },
             "team1Score": 203,
             "team2Score": 172,
-            "generations": 2279
+            "generations": 2279,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -8192,7 +8630,9 @@
             },
             "team1Score": 107,
             "team2Score": 129,
-            "generations": 1755
+            "generations": 1755,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -8229,7 +8669,9 @@
             },
             "team1Score": 72,
             "team2Score": 127,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "AA",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -8266,7 +8708,9 @@
             },
             "team1Score": 72,
             "team2Score": 303,
-            "generations": 5043
+            "generations": 5043,
+            "team1Abbr": "SAC",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -8303,7 +8747,9 @@
             },
             "team1Score": 168,
             "team2Score": 108,
-            "generations": 1075
+            "generations": 1075,
+            "team1Abbr": "BB",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -8340,7 +8786,9 @@
             },
             "team1Score": 219,
             "team2Score": 153,
-            "generations": 1697
+            "generations": 1697,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         }
     ],
     [
@@ -8379,7 +8827,9 @@
             },
             "team1Score": 218,
             "team2Score": 158,
-            "generations": 1433
+            "generations": 1433,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -8416,7 +8866,9 @@
             },
             "team1Score": 60,
             "team2Score": 209,
-            "generations": 1925
+            "generations": 1925,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -8453,7 +8905,9 @@
             },
             "team1Score": 160,
             "team2Score": 109,
-            "generations": 2702
+            "generations": 2702,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -8490,7 +8944,9 @@
             },
             "team1Score": 116,
             "team2Score": 147,
-            "generations": 4169
+            "generations": 4169,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -8527,7 +8983,9 @@
             },
             "team1Score": 113,
             "team2Score": 4,
-            "generations": 1188
+            "generations": 1188,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -8564,7 +9022,9 @@
             },
             "team1Score": 226,
             "team2Score": 119,
-            "generations": 2402
+            "generations": 2402,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -8601,7 +9061,9 @@
             },
             "team1Score": 72,
             "team2Score": 111,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -8638,7 +9100,9 @@
             },
             "team1Score": 162,
             "team2Score": 170,
-            "generations": 1581
+            "generations": 1581,
+            "team1Abbr": "AA",
+            "team2Abbr": "BB"
         }
     ],
     [
@@ -8677,7 +9141,9 @@
             },
             "team1Score": 130,
             "team2Score": 90,
-            "generations": 1811
+            "generations": 1811,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -8714,7 +9180,9 @@
             },
             "team1Score": 105,
             "team2Score": 130,
-            "generations": 1421
+            "generations": 1421,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -8751,7 +9219,9 @@
             },
             "team1Score": 114,
             "team2Score": 150,
-            "generations": 1075
+            "generations": 1075,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -8788,7 +9258,9 @@
             },
             "team1Score": 32,
             "team2Score": 148,
-            "generations": 1437
+            "generations": 1437,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -8825,7 +9297,9 @@
             },
             "team1Score": 190,
             "team2Score": 145,
-            "generations": 2001
+            "generations": 2001,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -8862,7 +9336,9 @@
             },
             "team1Score": 72,
             "team2Score": 130,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -8899,7 +9375,9 @@
             },
             "team1Score": 184,
             "team2Score": 85,
-            "generations": 1208
+            "generations": 1208,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -8936,7 +9414,9 @@
             },
             "team1Score": 252,
             "team2Score": 43,
-            "generations": 4197
+            "generations": 4197,
+            "team1Abbr": "BB",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -8975,7 +9455,9 @@
             },
             "team1Score": 52,
             "team2Score": 227,
-            "generations": 3145
+            "generations": 3145,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -9012,7 +9494,9 @@
             },
             "team1Score": 256,
             "team2Score": 139,
-            "generations": 4897
+            "generations": 4897,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -9049,7 +9533,9 @@
             },
             "team1Score": 166,
             "team2Score": 155,
-            "generations": 1102
+            "generations": 1102,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -9086,7 +9572,9 @@
             },
             "team1Score": 120,
             "team2Score": 109,
-            "generations": 2643
+            "generations": 2643,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -9123,7 +9611,9 @@
             },
             "team1Score": 165,
             "team2Score": 110,
-            "generations": 2523
+            "generations": 2523,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -9160,7 +9650,9 @@
             },
             "team1Score": 166,
             "team2Score": 136,
-            "generations": 1999
+            "generations": 1999,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -9197,7 +9689,9 @@
             },
             "team1Score": 0,
             "team2Score": 322,
-            "generations": 2064
+            "generations": 2064,
+            "team1Abbr": "BB",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -9234,7 +9728,9 @@
             },
             "team1Score": 133,
             "team2Score": 65,
-            "generations": 1279
+            "generations": 1279,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -9273,7 +9769,9 @@
             },
             "team1Score": 96,
             "team2Score": 211,
-            "generations": 1103
+            "generations": 1103,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -9310,7 +9808,9 @@
             },
             "team1Score": 107,
             "team2Score": 216,
-            "generations": 3687
+            "generations": 3687,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -9347,7 +9847,9 @@
             },
             "team1Score": 123,
             "team2Score": 160,
-            "generations": 2418
+            "generations": 2418,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -9384,7 +9886,9 @@
             },
             "team1Score": 282,
             "team2Score": 39,
-            "generations": 1288
+            "generations": 1288,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -9421,7 +9925,9 @@
             },
             "team1Score": 171,
             "team2Score": 61,
-            "generations": 3066
+            "generations": 3066,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -9458,7 +9964,9 @@
             },
             "team1Score": 92,
             "team2Score": 65,
-            "generations": 1137
+            "generations": 1137,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -9495,7 +10003,9 @@
             },
             "team1Score": 78,
             "team2Score": 115,
-            "generations": 1477
+            "generations": 1477,
+            "team1Abbr": "ORL",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -9532,7 +10042,9 @@
             },
             "team1Score": 60,
             "team2Score": 125,
-            "generations": 1112
+            "generations": 1112,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9571,7 +10083,9 @@
             },
             "team1Score": 78,
             "team2Score": 165,
-            "generations": 1877
+            "generations": 1877,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -9608,7 +10122,9 @@
             },
             "team1Score": 9,
             "team2Score": 165,
-            "generations": 2677
+            "generations": 2677,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -9645,7 +10161,9 @@
             },
             "team1Score": 20,
             "team2Score": 98,
-            "generations": 1302
+            "generations": 1302,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -9682,7 +10200,9 @@
             },
             "team1Score": 116,
             "team2Score": 212,
-            "generations": 3477
+            "generations": 3477,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -9719,7 +10239,9 @@
             },
             "team1Score": 230,
             "team2Score": 174,
-            "generations": 3116
+            "generations": 3116,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -9756,7 +10278,9 @@
             },
             "team1Score": 42,
             "team2Score": 109,
-            "generations": 1607
+            "generations": 1607,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -9793,7 +10317,9 @@
             },
             "team1Score": 143,
             "team2Score": 213,
-            "generations": 2215
+            "generations": 2215,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -9830,7 +10356,9 @@
             },
             "team1Score": 159,
             "team2Score": 107,
-            "generations": 1513
+            "generations": 1513,
+            "team1Abbr": "BB",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -9869,7 +10397,9 @@
             },
             "team1Score": 70,
             "team2Score": 143,
-            "generations": 1904
+            "generations": 1904,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -9906,7 +10436,9 @@
             },
             "team1Score": 99,
             "team2Score": 54,
-            "generations": 1013
+            "generations": 1013,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -9943,7 +10475,9 @@
             },
             "team1Score": 168,
             "team2Score": 139,
-            "generations": 3718
+            "generations": 3718,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -9980,7 +10514,9 @@
             },
             "team1Score": 153,
             "team2Score": 177,
-            "generations": 1844
+            "generations": 1844,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -10017,7 +10553,9 @@
             },
             "team1Score": 7,
             "team2Score": 111,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -10054,7 +10592,9 @@
             },
             "team1Score": 72,
             "team2Score": 113,
-            "generations": 1794
+            "generations": 1794,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -10091,7 +10631,9 @@
             },
             "team1Score": 168,
             "team2Score": 154,
-            "generations": 3793
+            "generations": 3793,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -10128,7 +10670,9 @@
             },
             "team1Score": 143,
             "team2Score": 91,
-            "generations": 1189
+            "generations": 1189,
+            "team1Abbr": "SAC",
+            "team2Abbr": "BB"
         }
     ],
     [
@@ -10167,7 +10711,9 @@
             },
             "team1Score": 85,
             "team2Score": 183,
-            "generations": 1216
+            "generations": 1216,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -10204,7 +10750,9 @@
             },
             "team1Score": 77,
             "team2Score": 128,
-            "generations": 1158
+            "generations": 1158,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -10241,7 +10789,9 @@
             },
             "team1Score": 33,
             "team2Score": 128,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -10278,7 +10828,9 @@
             },
             "team1Score": 219,
             "team2Score": 36,
-            "generations": 1981
+            "generations": 1981,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -10315,7 +10867,9 @@
             },
             "team1Score": 73,
             "team2Score": 166,
-            "generations": 3011
+            "generations": 3011,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -10352,7 +10906,9 @@
             },
             "team1Score": 139,
             "team2Score": 79,
-            "generations": 1313
+            "generations": 1313,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -10389,7 +10945,9 @@
             },
             "team1Score": 182,
             "team2Score": 155,
-            "generations": 2325
+            "generations": 2325,
+            "team1Abbr": "BB",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -10426,7 +10984,9 @@
             },
             "team1Score": 12,
             "team2Score": 178,
-            "generations": 2716
+            "generations": 2716,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -10465,7 +11025,9 @@
             },
             "team1Score": 397,
             "team2Score": 4,
-            "generations": 2057
+            "generations": 2057,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -10502,7 +11064,9 @@
             },
             "team1Score": 27,
             "team2Score": 119,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -10539,7 +11103,9 @@
             },
             "team1Score": 124,
             "team2Score": 121,
-            "generations": 2534
+            "generations": 2534,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -10576,7 +11142,9 @@
             },
             "team1Score": 143,
             "team2Score": 46,
-            "generations": 1246
+            "generations": 1246,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -10613,7 +11181,9 @@
             },
             "team1Score": 380,
             "team2Score": 8,
-            "generations": 3208
+            "generations": 3208,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -10650,7 +11220,9 @@
             },
             "team1Score": 186,
             "team2Score": 168,
-            "generations": 1889
+            "generations": 1889,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -10687,7 +11259,9 @@
             },
             "team1Score": 41,
             "team2Score": 168,
-            "generations": 2262
+            "generations": 2262,
+            "team1Abbr": "SAC",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -10724,7 +11298,9 @@
             },
             "team1Score": 331,
             "team2Score": 41,
-            "generations": 2216
+            "generations": 2216,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -10763,7 +11339,9 @@
             },
             "team1Score": 36,
             "team2Score": 315,
-            "generations": 3832
+            "generations": 3832,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -10800,7 +11378,9 @@
             },
             "team1Score": 106,
             "team2Score": 40,
-            "generations": 1201
+            "generations": 1201,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -10837,7 +11417,9 @@
             },
             "team1Score": 3,
             "team2Score": 241,
-            "generations": 5159
+            "generations": 5159,
+            "team1Abbr": "TB",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -10874,7 +11456,9 @@
             },
             "team1Score": 283,
             "team2Score": 31,
-            "generations": 2905
+            "generations": 2905,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -10911,7 +11495,9 @@
             },
             "team1Score": 125,
             "team2Score": 217,
-            "generations": 2161
+            "generations": 2161,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -10948,7 +11534,9 @@
             },
             "team1Score": 42,
             "team2Score": 133,
-            "generations": 1596
+            "generations": 1596,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -10985,7 +11573,9 @@
             },
             "team1Score": 118,
             "team2Score": 89,
-            "generations": 1298
+            "generations": 1298,
+            "team1Abbr": "ORL",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -11022,7 +11612,9 @@
             },
             "team1Score": 137,
             "team2Score": 228,
-            "generations": 3428
+            "generations": 3428,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -11061,7 +11653,9 @@
             },
             "team1Score": 317,
             "team2Score": 54,
-            "generations": 2168
+            "generations": 2168,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -11098,7 +11692,9 @@
             },
             "team1Score": 47,
             "team2Score": 79,
-            "generations": 1358
+            "generations": 1358,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -11135,7 +11731,9 @@
             },
             "team1Score": 79,
             "team2Score": 200,
-            "generations": 2704
+            "generations": 2704,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -11172,7 +11770,9 @@
             },
             "team1Score": 141,
             "team2Score": 258,
-            "generations": 1922
+            "generations": 1922,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -11209,7 +11809,9 @@
             },
             "team1Score": 64,
             "team2Score": 131,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -11246,7 +11848,9 @@
             },
             "team1Score": 40,
             "team2Score": 166,
-            "generations": 1803
+            "generations": 1803,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -11283,7 +11887,9 @@
             },
             "team1Score": 184,
             "team2Score": 176,
-            "generations": 2043
+            "generations": 2043,
+            "team1Abbr": "BB",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -11320,7 +11926,9 @@
             },
             "team1Score": 238,
             "team2Score": 97,
-            "generations": 1714
+            "generations": 1714,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11359,7 +11967,9 @@
             },
             "team1Score": 100,
             "team2Score": 145,
-            "generations": 1052
+            "generations": 1052,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -11396,7 +12006,9 @@
             },
             "team1Score": 80,
             "team2Score": 96,
-            "generations": 2156
+            "generations": 2156,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -11433,7 +12045,9 @@
             },
             "team1Score": 123,
             "team2Score": 178,
-            "generations": 1543
+            "generations": 1543,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -11470,7 +12084,9 @@
             },
             "team1Score": 557,
             "team2Score": 0,
-            "generations": 1178
+            "generations": 1178,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -11507,7 +12123,9 @@
             },
             "team1Score": 248,
             "team2Score": 26,
-            "generations": 2557
+            "generations": 2557,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -11544,7 +12162,9 @@
             },
             "team1Score": 235,
             "team2Score": 82,
-            "generations": 1609
+            "generations": 1609,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -11581,7 +12201,9 @@
             },
             "team1Score": 171,
             "team2Score": 72,
-            "generations": 999
+            "generations": 999,
+            "team1Abbr": "BB",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -11618,7 +12240,9 @@
             },
             "team1Score": 72,
             "team2Score": 111,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         }
     ],
     [
@@ -11657,7 +12281,9 @@
             },
             "team1Score": 178,
             "team2Score": 34,
-            "generations": 1318
+            "generations": 1318,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -11694,7 +12320,9 @@
             },
             "team1Score": 111,
             "team2Score": 220,
-            "generations": 5119
+            "generations": 5119,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -11731,7 +12359,9 @@
             },
             "team1Score": 291,
             "team2Score": 0,
-            "generations": 1168
+            "generations": 1168,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -11768,7 +12398,9 @@
             },
             "team1Score": 232,
             "team2Score": 91,
-            "generations": 4405
+            "generations": 4405,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -11805,7 +12437,9 @@
             },
             "team1Score": 181,
             "team2Score": 113,
-            "generations": 2014
+            "generations": 2014,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -11842,7 +12476,9 @@
             },
             "team1Score": 146,
             "team2Score": 73,
-            "generations": 1164
+            "generations": 1164,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -11879,7 +12515,9 @@
             },
             "team1Score": 72,
             "team2Score": 111,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "SAC",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -11916,7 +12554,9 @@
             },
             "team1Score": 127,
             "team2Score": 98,
-            "generations": 1373
+            "generations": 1373,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -11955,7 +12595,9 @@
             },
             "team1Score": 111,
             "team2Score": 88,
-            "generations": 1273
+            "generations": 1273,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -11992,7 +12634,9 @@
             },
             "team1Score": 154,
             "team2Score": 157,
-            "generations": 2582
+            "generations": 2582,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -12029,7 +12673,9 @@
             },
             "team1Score": 58,
             "team2Score": 157,
-            "generations": 1559
+            "generations": 1559,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -12066,7 +12712,9 @@
             },
             "team1Score": 139,
             "team2Score": 195,
-            "generations": 4439
+            "generations": 4439,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -12103,7 +12751,9 @@
             },
             "team1Score": 112,
             "team2Score": 193,
-            "generations": 1002
+            "generations": 1002,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -12140,7 +12790,9 @@
             },
             "team1Score": 109,
             "team2Score": 101,
-            "generations": 1110
+            "generations": 1110,
+            "team1Abbr": "DET",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -12177,7 +12829,9 @@
             },
             "team1Score": 180,
             "team2Score": 36,
-            "generations": 1127
+            "generations": 1127,
+            "team1Abbr": "AA",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -12214,7 +12868,9 @@
             },
             "team1Score": 65,
             "team2Score": 127,
-            "generations": 1348
+            "generations": 1348,
+            "team1Abbr": "SAC",
+            "team2Abbr": "BB"
         }
     ],
     [
@@ -12253,7 +12909,9 @@
             },
             "team1Score": 88,
             "team2Score": 207,
-            "generations": 3830
+            "generations": 3830,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -12290,7 +12948,9 @@
             },
             "team1Score": 215,
             "team2Score": 33,
-            "generations": 2158
+            "generations": 2158,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -12327,7 +12987,9 @@
             },
             "team1Score": 186,
             "team2Score": 107,
-            "generations": 2645
+            "generations": 2645,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -12364,7 +13026,9 @@
             },
             "team1Score": 199,
             "team2Score": 39,
-            "generations": 2099
+            "generations": 2099,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -12401,7 +13065,9 @@
             },
             "team1Score": 161,
             "team2Score": 124,
-            "generations": 1414
+            "generations": 1414,
+            "team1Abbr": "DECO",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -12438,7 +13104,9 @@
             },
             "team1Score": 172,
             "team2Score": 76,
-            "generations": 2051
+            "generations": 2051,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -12475,7 +13143,9 @@
             },
             "team1Score": 25,
             "team2Score": 125,
-            "generations": 1166
+            "generations": 1166,
+            "team1Abbr": "ORL",
+            "team2Abbr": "AA"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -12512,7 +13182,9 @@
             },
             "team1Score": 299,
             "team2Score": 52,
-            "generations": 2371
+            "generations": 2371,
+            "team1Abbr": "BB",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -12551,7 +13223,9 @@
             },
             "team1Score": 53,
             "team2Score": 154,
-            "generations": 1288
+            "generations": 1288,
+            "team1Abbr": "SS",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -12588,7 +13262,9 @@
             },
             "team1Score": 119,
             "team2Score": 37,
-            "generations": 1638
+            "generations": 1638,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -12625,7 +13301,9 @@
             },
             "team1Score": 296,
             "team2Score": 53,
-            "generations": 1671
+            "generations": 1671,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -12662,7 +13340,9 @@
             },
             "team1Score": 67,
             "team2Score": 201,
-            "generations": 3803
+            "generations": 3803,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -12699,7 +13379,9 @@
             },
             "team1Score": 178,
             "team2Score": 156,
-            "generations": 1525
+            "generations": 1525,
+            "team1Abbr": "MILF",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -12736,7 +13418,9 @@
             },
             "team1Score": 230,
             "team2Score": 12,
-            "generations": 1634
+            "generations": 1634,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -12773,7 +13457,9 @@
             },
             "team1Score": 58,
             "team2Score": 100,
-            "generations": 1329
+            "generations": 1329,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -12810,7 +13496,9 @@
             },
             "team1Score": 139,
             "team2Score": 203,
-            "generations": 1406
+            "generations": 1406,
+            "team1Abbr": "AA",
+            "team2Abbr": "BB"
         }
     ],
     [
@@ -12849,7 +13537,9 @@
             },
             "team1Score": 77,
             "team2Score": 15,
-            "generations": 1060
+            "generations": 1060,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Moscow Potholes",
@@ -12886,7 +13576,9 @@
             },
             "team1Score": 86,
             "team2Score": 269,
-            "generations": 1077
+            "generations": 1077,
+            "team1Abbr": "BTX",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -12923,7 +13615,9 @@
             },
             "team1Score": 159,
             "team2Score": 132,
-            "generations": 1307
+            "generations": 1307,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -12960,7 +13654,9 @@
             },
             "team1Score": 122,
             "team2Score": 263,
-            "generations": 3349
+            "generations": 3349,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -12997,7 +13693,9 @@
             },
             "team1Score": 147,
             "team2Score": 178,
-            "generations": 2536
+            "generations": 2536,
+            "team1Abbr": "DET",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -13034,7 +13732,9 @@
             },
             "team1Score": 271,
             "team2Score": 13,
-            "generations": 2441
+            "generations": 2441,
+            "team1Abbr": "DECO",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -13071,7 +13771,9 @@
             },
             "team1Score": 194,
             "team2Score": 68,
-            "generations": 1268
+            "generations": 1268,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -13108,7 +13810,9 @@
             },
             "team1Score": 72,
             "team2Score": 132,
-            "generations": 1301
+            "generations": 1301,
+            "team1Abbr": "BB",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13147,7 +13851,9 @@
             },
             "team1Score": 114,
             "team2Score": 177,
-            "generations": 1896
+            "generations": 1896,
+            "team1Abbr": "BTX",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -13184,7 +13890,9 @@
             },
             "team1Score": 389,
             "team2Score": 39,
-            "generations": 3188
+            "generations": 3188,
+            "team1Abbr": "EA",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -13221,7 +13929,9 @@
             },
             "team1Score": 119,
             "team2Score": 251,
-            "generations": 1538
+            "generations": 1538,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -13258,7 +13968,9 @@
             },
             "team1Score": 97,
             "team2Score": 233,
-            "generations": 3230
+            "generations": 3230,
+            "team1Abbr": "TB",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -13295,7 +14007,9 @@
             },
             "team1Score": 91,
             "team2Score": 48,
-            "generations": 1050
+            "generations": 1050,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -13332,7 +14046,9 @@
             },
             "team1Score": 174,
             "team2Score": 108,
-            "generations": 2249
+            "generations": 2249,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -13369,7 +14085,9 @@
             },
             "team1Score": 131,
             "team2Score": 82,
-            "generations": 1767
+            "generations": 1767,
+            "team1Abbr": "SAC",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -13406,7 +14124,9 @@
             },
             "team1Score": 41,
             "team2Score": 160,
-            "generations": 2697
+            "generations": 2697,
+            "team1Abbr": "AA",
+            "team2Abbr": "BB"
         }
     ],
     [
@@ -13445,7 +14165,9 @@
             },
             "team1Score": 221,
             "team2Score": 69,
-            "generations": 4126
+            "generations": 4126,
+            "team1Abbr": "SS",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -13482,7 +14204,9 @@
             },
             "team1Score": 179,
             "team2Score": 189,
-            "generations": 1804
+            "generations": 1804,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -13519,7 +14243,9 @@
             },
             "team1Score": 125,
             "team2Score": 119,
-            "generations": 2183
+            "generations": 2183,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -13556,7 +14282,9 @@
             },
             "team1Score": 135,
             "team2Score": 188,
-            "generations": 1686
+            "generations": 1686,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -13593,7 +14321,9 @@
             },
             "team1Score": 176,
             "team2Score": 131,
-            "generations": 3288
+            "generations": 3288,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -13630,7 +14360,9 @@
             },
             "team1Score": 110,
             "team2Score": 253,
-            "generations": 1481
+            "generations": 1481,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -13667,7 +14399,9 @@
             },
             "team1Score": 101,
             "team2Score": 57,
-            "generations": 1046
+            "generations": 1046,
+            "team1Abbr": "ORL",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -13704,7 +14438,9 @@
             },
             "team1Score": 76,
             "team2Score": 250,
-            "generations": 1646
+            "generations": 1646,
+            "team1Abbr": "BB",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -13743,7 +14479,9 @@
             },
             "team1Score": 95,
             "team2Score": 233,
-            "generations": 2090
+            "generations": 2090,
+            "team1Abbr": "BTX",
+            "team2Abbr": "EA"
         },
         {
             "team1Name": "Hailey Avoiders",
@@ -13780,7 +14518,9 @@
             },
             "team1Score": 150,
             "team2Score": 148,
-            "generations": 1245
+            "generations": 1245,
+            "team1Abbr": "LBFB",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -13817,7 +14557,9 @@
             },
             "team1Score": 266,
             "team2Score": 102,
-            "generations": 2406
+            "generations": 2406,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Caldwell Rapscallions",
@@ -13854,7 +14596,9 @@
             },
             "team1Score": 198,
             "team2Score": 133,
-            "generations": 2210
+            "generations": 2210,
+            "team1Abbr": "TB",
+            "team2Abbr": "OSHA"
         },
         {
             "team1Name": "Lewiston Loaves",
@@ -13891,7 +14635,9 @@
             },
             "team1Score": 142,
             "team2Score": 76,
-            "generations": 1372
+            "generations": 1372,
+            "team1Abbr": "DECO",
+            "team2Abbr": "DET"
         },
         {
             "team1Name": "Jerome Equilibria",
@@ -13928,7 +14674,9 @@
             },
             "team1Score": 115,
             "team2Score": 213,
-            "generations": 2418
+            "generations": 2418,
+            "team1Abbr": "SFBS",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -13965,7 +14713,9 @@
             },
             "team1Score": 55,
             "team2Score": 72,
-            "generations": 1135
+            "generations": 1135,
+            "team1Abbr": "ORL",
+            "team2Abbr": "BB"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -14002,7 +14752,9 @@
             },
             "team1Score": 0,
             "team2Score": 350,
-            "generations": 1787
+            "generations": 1787,
+            "team1Abbr": "AA",
+            "team2Abbr": "SAC"
         }
     ],
     [
@@ -14041,7 +14793,9 @@
             },
             "team1Score": 220,
             "team2Score": 96,
-            "generations": 1089
+            "generations": 1089,
+            "team1Abbr": "EA",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Coeur d'Alene Flatulence",
@@ -14078,7 +14832,9 @@
             },
             "team1Score": 182,
             "team2Score": 49,
-            "generations": 1201
+            "generations": 1201,
+            "team1Abbr": "SS",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Idaho Falls Seraphim",
@@ -14115,7 +14871,9 @@
             },
             "team1Score": 33,
             "team2Score": 324,
-            "generations": 2899
+            "generations": 2899,
+            "team1Abbr": "SDBA",
+            "team2Abbr": "FWPT"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -14152,7 +14910,9 @@
             },
             "team1Score": 122,
             "team2Score": 266,
-            "generations": 2760
+            "generations": 2760,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "TB"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -14189,7 +14949,9 @@
             },
             "team1Score": 185,
             "team2Score": 265,
-            "generations": 4092
+            "generations": 4092,
+            "team1Abbr": "DET",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Meridian Lagrangians",
@@ -14226,7 +14988,9 @@
             },
             "team1Score": 271,
             "team2Score": 41,
-            "generations": 1071
+            "generations": 1071,
+            "team1Abbr": "MILF",
+            "team2Abbr": "SFBS"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -14263,7 +15027,9 @@
             },
             "team1Score": 17,
             "team2Score": 107,
-            "generations": 1491
+            "generations": 1491,
+            "team1Abbr": "BB",
+            "team2Abbr": "ORL"
         },
         {
             "team1Name": "Boise Haymakers",
@@ -14300,7 +15066,9 @@
             },
             "team1Score": 143,
             "team2Score": 204,
-            "generations": 5210
+            "generations": 5210,
+            "team1Abbr": "SAC",
+            "team2Abbr": "AA"
         }
     ],
     [
@@ -14339,7 +15107,9 @@
             },
             "team1Score": 100,
             "team2Score": 206,
-            "generations": 1328
+            "generations": 1328,
+            "team1Abbr": "TB",
+            "team2Abbr": "BTX"
         },
         {
             "team1Name": "Twin Falls Slashers",
@@ -14376,7 +15146,9 @@
             },
             "team1Score": 144,
             "team2Score": 67,
-            "generations": 1730
+            "generations": 1730,
+            "team1Abbr": "OSHA",
+            "team2Abbr": "SDBA"
         },
         {
             "team1Name": "Sandpoint Sparkleflashes",
@@ -14413,7 +15185,9 @@
             },
             "team1Score": 211,
             "team2Score": 174,
-            "generations": 1747
+            "generations": 1747,
+            "team1Abbr": "EA",
+            "team2Abbr": "SS"
         },
         {
             "team1Name": "Nampa Electrical Outlets",
@@ -14450,7 +15224,9 @@
             },
             "team1Score": 162,
             "team2Score": 196,
-            "generations": 1563
+            "generations": 1563,
+            "team1Abbr": "FWPT",
+            "team2Abbr": "LBFB"
         },
         {
             "team1Name": "Eagle Octagons",
@@ -14487,7 +15263,9 @@
             },
             "team1Score": 81,
             "team2Score": 112,
-            "generations": 1982
+            "generations": 1982,
+            "team1Abbr": "ORL",
+            "team2Abbr": "DECO"
         },
         {
             "team1Name": "Burley Insurrectionists",
@@ -14524,7 +15302,9 @@
             },
             "team1Score": 109,
             "team2Score": 245,
-            "generations": 2336
+            "generations": 2336,
+            "team1Abbr": "DET",
+            "team2Abbr": "SAC"
         },
         {
             "team1Name": "Ammon Clojurists",
@@ -14561,7 +15341,9 @@
             },
             "team1Score": 66,
             "team2Score": 243,
-            "generations": 1514
+            "generations": 1514,
+            "team1Abbr": "BB",
+            "team2Abbr": "MILF"
         },
         {
             "team1Name": "Pocatello Gaussians",
@@ -14598,7 +15380,9 @@
             },
             "team1Score": 182,
             "team2Score": 103,
-            "generations": 2887
+            "generations": 2887,
+            "team1Abbr": "AA",
+            "team2Abbr": "SFBS"
         }
     ]
 ]
