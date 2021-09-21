@@ -9,7 +9,7 @@
                 "team1Abbr": "FWPT",
                 "team2Abbr": "EA",
                 "description": "Game 1, Cold League Division Series 1",
-                "id": "f3342173-fdd8-4f4c-9e33-619c8284e963",
+                "gameid": "f3342173-fdd8-4f4c-9e33-619c8284e963",
                 "isPostseason": true,
                 "map": {
                     "patternName": "spaceshipcluster",
@@ -56,7 +56,7 @@
                 "team1Abbr": "TB",
                 "team2Abbr": "SS",
                 "description": "Game 1, Cold League Division Series 2",
-                "id": "8010ce1e-d513-488d-89fb-97bce600520a",
+                "gameid": "8010ce1e-d513-488d-89fb-97bce600520a",
                 "isPostseason": true,
                 "map": {
                     "patternName": "fourrabbits",
@@ -103,7 +103,7 @@
                 "team1Abbr": "ABQ",
                 "team2Abbr": "SFBS",
                 "description": "Game 1, Hot League Division Series 1",
-                "id": "0e248121-09ea-461c-803c-81757675f0ea",
+                "gameid": "0e248121-09ea-461c-803c-81757675f0ea",
                 "isPostseason": true,
                 "map": {
                     "patternName": "timebombredux",
@@ -150,7 +150,7 @@
                 "team1Abbr": "SAC",
                 "team2Abbr": "MILF",
                 "description": "Game 1, Hot League Division Series 2",
-                "id": "8015c27a-5194-4993-9541-3032914cb617",
+                "gameid": "8015c27a-5194-4993-9541-3032914cb617",
                 "isPostseason": true,
                 "map": {
                     "patternName": "spiders",
@@ -199,7 +199,7 @@
                 "team1Abbr": "FWPT",
                 "team2Abbr": "EA",
                 "description": "Game 2, Cold League Division Series 1",
-                "id": "5bade0bf-6b4a-425a-9cfd-2dd58a95adb8",
+                "gameid": "5bade0bf-6b4a-425a-9cfd-2dd58a95adb8",
                 "isPostseason": true,
                 "map": {
                     "patternName": "randomsegment",
@@ -246,7 +246,7 @@
                 "team1Abbr": "TB",
                 "team2Abbr": "SS",
                 "description": "Game 2, Cold League Division Series 2",
-                "id": "37b2aa2d-7cf1-4d53-81d8-0064844f6f71",
+                "gameid": "37b2aa2d-7cf1-4d53-81d8-0064844f6f71",
                 "isPostseason": true,
                 "map": {
                     "patternName": "spiders",
@@ -293,7 +293,7 @@
                 "team1Abbr": "ABQ",
                 "team2Abbr": "SFBS",
                 "description": "Game 2, Hot League Division Series 1",
-                "id": "bfb06fe3-9f51-4ea8-bc9f-9a503e87731e",
+                "gameid": "bfb06fe3-9f51-4ea8-bc9f-9a503e87731e",
                 "isPostseason": true,
                 "map": {
                     "patternName": "randommetheuselas",
@@ -340,7 +340,7 @@
                 "team1Abbr": "SAC",
                 "team2Abbr": "MILF",
                 "description": "Game 2, Hot League Division Series 2",
-                "id": "64cea75d-feb3-4c31-97dd-37dbbbe7d666",
+                "gameid": "64cea75d-feb3-4c31-97dd-37dbbbe7d666",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eightpi",
@@ -389,7 +389,7 @@
                 "team1Abbr": "EA",
                 "team2Abbr": "FWPT",
                 "description": "Game 3, Cold League Division Series 1",
-                "id": "5b22978e-86c8-4d2a-b9eb-6df3a1cc9a2e",
+                "gameid": "5b22978e-86c8-4d2a-b9eb-6df3a1cc9a2e",
                 "isPostseason": true,
                 "map": {
                     "patternName": "orchard",
@@ -436,7 +436,7 @@
                 "team1Abbr": "SS",
                 "team2Abbr": "TB",
                 "description": "Game 3, Cold League Division Series 2",
-                "id": "3ee4e1f2-4369-472c-98ea-0ae56d855581",
+                "gameid": "3ee4e1f2-4369-472c-98ea-0ae56d855581",
                 "isPostseason": true,
                 "map": {
                     "patternName": "random",
@@ -483,7 +483,7 @@
                 "team1Abbr": "SFBS",
                 "team2Abbr": "ABQ",
                 "description": "Game 3, Hot League Division Series 1",
-                "id": "b2de9a14-9857-4645-b8af-19ca7b29a7b9",
+                "gameid": "b2de9a14-9857-4645-b8af-19ca7b29a7b9",
                 "isPostseason": true,
                 "map": {
                     "patternName": "randompartition",
@@ -530,7 +530,7 @@
                 "team1Abbr": "MILF",
                 "team2Abbr": "SAC",
                 "description": "Game 3, Hot League Division Series 2",
-                "id": "92638d40-83dd-45f9-8d07-178bfbad64df",
+                "gameid": "92638d40-83dd-45f9-8d07-178bfbad64df",
                 "isPostseason": true,
                 "map": {
                     "patternName": "switchengines",
@@ -579,7 +579,7 @@
                 "team1Abbr": "EA",
                 "team2Abbr": "FWPT",
                 "description": "Game 4, Cold League Division Series 1",
-                "id": "a4cce1f5-2223-4c6a-b638-08fcc442b571",
+                "gameid": "a4cce1f5-2223-4c6a-b638-08fcc442b571",
                 "isPostseason": true,
                 "map": {
                     "patternName": "orchard",
@@ -626,7 +626,7 @@
                 "team1Abbr": "SS",
                 "team2Abbr": "TB",
                 "description": "Game 4, Cold League Division Series 2",
-                "id": "35b10779-d604-4afb-959c-ee044a0685dc",
+                "gameid": "35b10779-d604-4afb-959c-ee044a0685dc",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eightr",
@@ -673,7 +673,7 @@
                 "team1Abbr": "SFBS",
                 "team2Abbr": "ABQ",
                 "description": "Game 4, Hot League Division Series 1",
-                "id": "0a142e2e-d926-4ac6-877a-40bdd1be8dfb",
+                "gameid": "0a142e2e-d926-4ac6-877a-40bdd1be8dfb",
                 "isPostseason": true,
                 "map": {
                     "patternName": "quadjustyna",
@@ -720,7 +720,7 @@
                 "team1Abbr": "MILF",
                 "team2Abbr": "SAC",
                 "description": "Game 4, Hot League Division Series 2",
-                "id": "2215c831-3df9-41a6-a07b-9627814bd7b2",
+                "gameid": "2215c831-3df9-41a6-a07b-9627814bd7b2",
                 "isPostseason": true,
                 "map": {
                     "patternName": "switchengines",
@@ -769,7 +769,7 @@
                 "team1Abbr": "TB",
                 "team2Abbr": "SS",
                 "description": "Game 5, Cold League Division Series 2",
-                "id": "74cb8a96-34ad-4219-b43a-90977d6f974b",
+                "gameid": "74cb8a96-34ad-4219-b43a-90977d6f974b",
                 "isPostseason": true,
                 "map": {
                     "patternName": "switchengines",
@@ -820,7 +820,7 @@
                 "league": "Cold League",
                 "season": 20,
                 "description": "Game 1, Cold League Championship Series",
-                "id": "d58c6d58-37e1-4457-9d4f-cce1436cf2e5",
+                "gameid": "d58c6d58-37e1-4457-9d4f-cce1436cf2e5",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -867,7 +867,7 @@
                 "league": "Hot League",
                 "season": 20,
                 "description": "Game 1, Hot League Championship Series",
-                "id": "ced413ef-0dbe-4d5b-8bc1-fc370662a276",
+                "gameid": "ced413ef-0dbe-4d5b-8bc1-fc370662a276",
                 "isPostseason": true,
                 "map": {
                     "patternName": "twomultum",
@@ -916,7 +916,7 @@
                 "league": "Cold League",
                 "season": 20,
                 "description": "Game 2, Cold League Championship Series",
-                "id": "eb7e7509-cb41-4933-8653-9f311f477d38",
+                "gameid": "eb7e7509-cb41-4933-8653-9f311f477d38",
                 "isPostseason": true,
                 "map": {
                     "patternName": "spaceshipcrash",
@@ -963,7 +963,7 @@
                 "league": "Hot League",
                 "season": 20,
                 "description": "Game 2, Hot League Championship Series",
-                "id": "c819ccbd-43d1-4dac-9c25-7fe4d2c0f08c",
+                "gameid": "c819ccbd-43d1-4dac-9c25-7fe4d2c0f08c",
                 "isPostseason": true,
                 "map": {
                     "patternName": "spiders",
@@ -1012,7 +1012,7 @@
                 "league": "Cold League",
                 "season": 20,
                 "description": "Game 3, Cold League Championship Series",
-                "id": "68ca184c-2d93-447e-98b8-33689bacd62c",
+                "gameid": "68ca184c-2d93-447e-98b8-33689bacd62c",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -1059,7 +1059,7 @@
                 "league": "Hot League",
                 "season": 20,
                 "description": "Game 3, Hot League Championship Series",
-                "id": "89484385-ae41-4307-b820-f435dd8a8064",
+                "gameid": "89484385-ae41-4307-b820-f435dd8a8064",
                 "isPostseason": true,
                 "map": {
                     "patternName": "timebombredux",
@@ -1109,7 +1109,7 @@
                 "team2Abbr": "FWPT",
                 "description": "Game 1, Hellmouth Cup",
                 "season": 20,
-                "id": "44c75143-e4c2-435e-a293-45836ca809ce",
+                "gameid": "44c75143-e4c2-435e-a293-45836ca809ce",
                 "isPostseason": true,
                 "map": {
                     "patternName": "random",
@@ -1157,7 +1157,7 @@
                 "team2Abbr": "FWPT",
                 "description": "Game 2, Hellmouth Cup",
                 "season": 20,
-                "id": "6b846f0b-cc37-435b-9439-4e8bb3a41963",
+                "gameid": "6b846f0b-cc37-435b-9439-4e8bb3a41963",
                 "isPostseason": true,
                 "map": {
                     "patternName": "crabs",
@@ -1205,7 +1205,7 @@
                 "team2Abbr": "MILF",
                 "description": "Game 3, Hellmouth Cup",
                 "season": 20,
-                "id": "a345921b-29ad-4a2e-af4b-be7a045812e0",
+                "gameid": "a345921b-29ad-4a2e-af4b-be7a045812e0",
                 "isPostseason": true,
                 "map": {
                     "patternName": "bigsegment",
@@ -1253,7 +1253,7 @@
                 "team2Abbr": "MILF",
                 "description": "Game 4, Hellmouth Cup",
                 "season": 20,
-                "id": "fb8367ab-ef2b-4c1b-8aeb-2cffb5913537",
+                "gameid": "fb8367ab-ef2b-4c1b-8aeb-2cffb5913537",
                 "isPostseason": true,
                 "map": {
                     "patternName": "eightpi",
@@ -1301,7 +1301,7 @@
                 "team2Abbr": "MILF",
                 "description": "Game 5, Hellmouth Cup",
                 "season": 20,
-                "id": "ea38c0b3-78d3-4fa7-becd-ad460a0a4478",
+                "gameid": "ea38c0b3-78d3-4fa7-becd-ad460a0a4478",
                 "isPostseason": true,
                 "map": {
                     "patternName": "randomsegment",
@@ -1349,7 +1349,7 @@
                 "team2Abbr": "FWPT",
                 "description": "Game 6, Hellmouth Cup",
                 "season": 20,
-                "id": "96f9832f-ffdf-4973-88cc-af4e8d4ec284",
+                "gameid": "96f9832f-ffdf-4973-88cc-af4e8d4ec284",
                 "isPostseason": true,
                 "map": {
                     "patternName": "quadjustyna",
