@@ -8,7 +8,7 @@
                 "team2Name": "Martins Ferry Chessboards",
                 "patternName": "twomultum",
                 "description": "Game 1, Cold League Division Series 1",
-                "id": "c1b2c9f6-26c4-4dff-9d8f-dc7126081200",
+                "gameid": "c1b2c9f6-26c4-4dff-9d8f-dc7126081200",
                 "isPostseason": true
             },
             {
@@ -18,7 +18,7 @@
                 "team2Name": "Rossville Examiners",
                 "patternName": "twoacorn",
                 "description": "Game 1, Cold League Division Series 2",
-                "id": "2f77ba7d-406c-45a1-ab5b-807d7c556ea1",
+                "gameid": "2f77ba7d-406c-45a1-ab5b-807d7c556ea1",
                 "isPostseason": true
             },
             {
@@ -28,7 +28,7 @@
                 "team2Name": "Garrison Flamethrowers",
                 "patternName": "randompartition",
                 "description": "Game 1, Hot League Division Series 1",
-                "id": "dbd5cdf1-db6b-48e4-b85e-cfa46f48ca1c",
+                "gameid": "dbd5cdf1-db6b-48e4-b85e-cfa46f48ca1c",
                 "isPostseason": true
             },
             {
@@ -38,7 +38,7 @@
                 "team2Name": "North Weeki Wachee Capitalists",
                 "patternName": "eightpi",
                 "description": "Game 1, Hot League Division Series 2",
-                "id": "da168ff4-03fa-4bd5-afee-8135f5025864",
+                "gameid": "da168ff4-03fa-4bd5-afee-8135f5025864",
                 "isPostseason": true
             }
         ],
@@ -50,7 +50,7 @@
                 "team2Name": "Martins Ferry Chessboards",
                 "patternName": "fourrabbits",
                 "description": "Game 2, Cold League Division Series 1",
-                "id": "7366b5d5-7c5d-4586-9f6e-795b9351a333",
+                "gameid": "7366b5d5-7c5d-4586-9f6e-795b9351a333",
                 "isPostseason": true
             },
             {
@@ -60,7 +60,7 @@
                 "team2Name": "Rossville Examiners",
                 "patternName": "eightr",
                 "description": "Game 2, Cold League Division Series 2",
-                "id": "9b97c6b1-8091-4525-8a37-93a4530a0cc8",
+                "gameid": "9b97c6b1-8091-4525-8a37-93a4530a0cc8",
                 "isPostseason": true
             },
             {
@@ -70,7 +70,7 @@
                 "team2Name": "Garrison Flamethrowers",
                 "patternName": "spaceshipcluster",
                 "description": "Game 2, Hot League Division Series 1",
-                "id": "b930a81d-d8fa-4a57-b794-b499bd144497",
+                "gameid": "b930a81d-d8fa-4a57-b794-b499bd144497",
                 "isPostseason": true
             },
             {
@@ -80,7 +80,7 @@
                 "team2Name": "North Weeki Wachee Capitalists",
                 "patternName": "twospaceshipgenerators",
                 "description": "Game 2, Hot League Division Series 2",
-                "id": "2d07deb6-9606-4cbe-8dff-bd9366948a54",
+                "gameid": "2d07deb6-9606-4cbe-8dff-bd9366948a54",
                 "isPostseason": true
             }
         ],
@@ -92,7 +92,7 @@
                 "team2Name": "Irwin Detectives",
                 "patternName": "eightpi",
                 "description": "Game 3, Cold League Division Series 1",
-                "id": "fa942ebb-7496-4026-8790-1c3d19b9fee0",
+                "gameid": "fa942ebb-7496-4026-8790-1c3d19b9fee0",
                 "isPostseason": true
             },
             {
@@ -102,7 +102,7 @@
                 "team2Name": "Beaver Lost Causes",
                 "patternName": "timebomb",
                 "description": "Game 3, Cold League Division Series 2",
-                "id": "2143337c-7f50-450b-991c-ebd6ebf76cde",
+                "gameid": "2143337c-7f50-450b-991c-ebd6ebf76cde",
                 "isPostseason": true
             },
             {
@@ -112,7 +112,7 @@
                 "team2Name": "Friendship Village Snakes",
                 "patternName": "spaceshipcluster",
                 "description": "Game 3, Hot League Division Series 1",
-                "id": "15a9f6ff-e88a-469a-a38b-7639c90567ad",
+                "gameid": "15a9f6ff-e88a-469a-a38b-7639c90567ad",
                 "isPostseason": true
             },
             {
@@ -122,7 +122,7 @@
                 "team2Name": "Watsonville Cliff Divers",
                 "patternName": "random",
                 "description": "Game 3, Hot League Division Series 2",
-                "id": "11dbb3c8-0aca-46f2-bcc6-874c28ecaf3d",
+                "gameid": "11dbb3c8-0aca-46f2-bcc6-874c28ecaf3d",
                 "isPostseason": true
             }
         ],
@@ -134,7 +134,7 @@
                 "team2Name": "Irwin Detectives",
                 "patternName": "eightpi",
                 "description": "Game 4, Cold League Division Series 1",
-                "id": "77f617a3-c237-48e4-bc4c-602d24505ed5",
+                "gameid": "77f617a3-c237-48e4-bc4c-602d24505ed5",
                 "isPostseason": true
             },
             {
@@ -144,7 +144,7 @@
                 "team2Name": "Beaver Lost Causes",
                 "patternName": "twoacorn",
                 "description": "Game 4, Cold League Division Series 2",
-                "id": "2a27844a-9bee-426a-9643-daff42186558",
+                "gameid": "2a27844a-9bee-426a-9643-daff42186558",
                 "isPostseason": true
             },
             {
@@ -154,7 +154,7 @@
                 "team2Name": "Friendship Village Snakes",
                 "patternName": "twospaceshipgenerators",
                 "description": "Game 4, Hot League Division Series 1",
-                "id": "d7e79346-3e4d-45c8-a629-bfe604b3c7aa",
+                "gameid": "d7e79346-3e4d-45c8-a629-bfe604b3c7aa",
                 "isPostseason": true
             },
             {
@@ -164,7 +164,7 @@
                 "team2Name": "Watsonville Cliff Divers",
                 "patternName": "quadjustyna",
                 "description": "Game 4, Hot League Division Series 2",
-                "id": "1d348964-4093-412d-8847-8b4e74140c1d",
+                "gameid": "1d348964-4093-412d-8847-8b4e74140c1d",
                 "isPostseason": true
             }
         ],
@@ -176,7 +176,7 @@
                 "team2Name": "Martins Ferry Chessboards",
                 "patternName": "spaceshipcluster",
                 "description": "Game 5, Cold League Division Series 1",
-                "id": "081cacc0-6147-451c-af78-09745bcf6b48",
+                "gameid": "081cacc0-6147-451c-af78-09745bcf6b48",
                 "isPostseason": true
             },
             {
@@ -186,7 +186,7 @@
                 "team2Name": "Rossville Examiners",
                 "patternName": "timebomb",
                 "description": "Game 5, Cold League Division Series 2",
-                "id": "588177ff-3692-4b04-b575-028f759598c7",
+                "gameid": "588177ff-3692-4b04-b575-028f759598c7",
                 "isPostseason": true
             },
             {
@@ -196,7 +196,7 @@
                 "team2Name": "Garrison Flamethrowers",
                 "patternName": "random",
                 "description": "Game 5, Hot League Division Series 1",
-                "id": "3f0f8762-7b7d-41c1-9cd5-d91506cacc88",
+                "gameid": "3f0f8762-7b7d-41c1-9cd5-d91506cacc88",
                 "isPostseason": true
             },
             {
@@ -206,7 +206,7 @@
                 "team2Name": "North Weeki Wachee Capitalists",
                 "patternName": "twomultum",
                 "description": "Game 5, Hot League Division Series 2",
-                "id": "300b6e50-7341-48a2-a9be-629c6422dc1f",
+                "gameid": "300b6e50-7341-48a2-a9be-629c6422dc1f",
                 "isPostseason": true
             }
         ]
@@ -220,7 +220,7 @@
                 "league": "Cold League",
                 "season": 5,
                 "description": "Game 1, Cold League Championship Series",
-                "id": "0870f208-4bb2-483a-bfc2-1892caeae047",
+                "gameid": "0870f208-4bb2-483a-bfc2-1892caeae047",
                 "isPostseason": true
             },
             {
@@ -230,7 +230,7 @@
                 "league": "Hot League",
                 "season": 5,
                 "description": "Game 1, Hot League Championship Series",
-                "id": "a15fcd84-b27b-4d8e-8ff7-68339148b879",
+                "gameid": "a15fcd84-b27b-4d8e-8ff7-68339148b879",
                 "isPostseason": true
             }
         ],
@@ -242,7 +242,7 @@
                 "league": "Cold League",
                 "season": 5,
                 "description": "Game 2, Cold League Championship Series",
-                "id": "8239ed5c-7614-45c0-9ee4-db66d15d4fc7",
+                "gameid": "8239ed5c-7614-45c0-9ee4-db66d15d4fc7",
                 "isPostseason": true
             },
             {
@@ -252,7 +252,7 @@
                 "league": "Hot League",
                 "season": 5,
                 "description": "Game 2, Hot League Championship Series",
-                "id": "2e71da53-8e7e-4998-8b52-1b436201069d",
+                "gameid": "2e71da53-8e7e-4998-8b52-1b436201069d",
                 "isPostseason": true
             }
         ],
@@ -264,7 +264,7 @@
                 "league": "Cold League",
                 "season": 5,
                 "description": "Game 3, Cold League Championship Series",
-                "id": "41b26210-80b2-48a9-810e-ecbe904acd74",
+                "gameid": "41b26210-80b2-48a9-810e-ecbe904acd74",
                 "isPostseason": true
             },
             {
@@ -274,7 +274,7 @@
                 "league": "Hot League",
                 "season": 5,
                 "description": "Game 3, Hot League Championship Series",
-                "id": "dd2b04a7-1337-42e2-b8f6-67e7b231c17e",
+                "gameid": "dd2b04a7-1337-42e2-b8f6-67e7b231c17e",
                 "isPostseason": true
             }
         ],
@@ -286,7 +286,7 @@
                 "league": "Cold League",
                 "season": 5,
                 "description": "Game 4, Cold League Championship Series",
-                "id": "3fdb293c-edc1-4c32-821e-7639b429e873",
+                "gameid": "3fdb293c-edc1-4c32-821e-7639b429e873",
                 "isPostseason": true
             },
             {
@@ -296,7 +296,7 @@
                 "league": "Hot League",
                 "season": 5,
                 "description": "Game 4, Hot League Championship Series",
-                "id": "641f2a49-90db-4357-84c3-6f674b2f267a",
+                "gameid": "641f2a49-90db-4357-84c3-6f674b2f267a",
                 "isPostseason": true
             }
         ],
@@ -308,7 +308,7 @@
                 "league": "Cold League",
                 "season": 5,
                 "description": "Game 5, Cold League Championship Series",
-                "id": "0f9828f5-4856-4c05-80d3-47233642cecb",
+                "gameid": "0f9828f5-4856-4c05-80d3-47233642cecb",
                 "isPostseason": true
             },
             {
@@ -318,7 +318,7 @@
                 "league": "Hot League",
                 "season": 5,
                 "description": "Game 5, Hot League Championship Series",
-                "id": "9767e1c7-c096-4ba1-a5f1-9f90d8c93e98",
+                "gameid": "9767e1c7-c096-4ba1-a5f1-9f90d8c93e98",
                 "isPostseason": true
             }
         ]
@@ -331,7 +331,7 @@
                 "patternName": "eightpi",
                 "description": "Game 1, Hellmouth Cup",
                 "season": 5,
-                "id": "e47531d3-8f79-41b0-9e9b-ed3e873bf96c",
+                "gameid": "e47531d3-8f79-41b0-9e9b-ed3e873bf96c",
                 "isPostseason": true
             }
         ],
@@ -342,7 +342,7 @@
                 "patternName": "spaceshipcrash",
                 "description": "Game 2, Hellmouth Cup",
                 "season": 5,
-                "id": "e3a3de3b-39c0-4e55-bfa5-8bc3c909ead5",
+                "gameid": "e3a3de3b-39c0-4e55-bfa5-8bc3c909ead5",
                 "isPostseason": true
             }
         ],
@@ -353,7 +353,7 @@
                 "patternName": "twospaceshipgenerators",
                 "description": "Game 3, Hellmouth Cup",
                 "season": 5,
-                "id": "afbbdfb6-5f65-4d77-b819-dc8c1bb345ea",
+                "gameid": "afbbdfb6-5f65-4d77-b819-dc8c1bb345ea",
                 "isPostseason": true
             }
         ],
@@ -364,7 +364,7 @@
                 "patternName": "fourrabbits",
                 "description": "Game 4, Hellmouth Cup",
                 "season": 5,
-                "id": "055e2d2a-10eb-42e6-a5ef-b4ee4f27097a",
+                "gameid": "055e2d2a-10eb-42e6-a5ef-b4ee4f27097a",
                 "isPostseason": true
             }
         ],
@@ -375,7 +375,7 @@
                 "patternName": "twoacorn",
                 "description": "Game 5, Hellmouth Cup",
                 "season": 5,
-                "id": "57f3bc68-85c1-44d3-9b50-5e91b61b3c9b",
+                "gameid": "57f3bc68-85c1-44d3-9b50-5e91b61b3c9b",
                 "isPostseason": true
             }
         ],
@@ -386,7 +386,7 @@
                 "patternName": "twomultum",
                 "description": "Game 6, Hellmouth Cup",
                 "season": 5,
-                "id": "148fb9ac-032f-411f-9857-d0e8926f934b",
+                "gameid": "148fb9ac-032f-411f-9857-d0e8926f934b",
                 "isPostseason": true
             }
         ],
@@ -397,7 +397,7 @@
                 "patternName": "random",
                 "description": "Game 7, Hellmouth Cup",
                 "season": 5,
-                "id": "0e8d9833-25f7-4285-9976-34fa814e798e",
+                "gameid": "0e8d9833-25f7-4285-9976-34fa814e798e",
                 "isPostseason": true
             }
         ]
