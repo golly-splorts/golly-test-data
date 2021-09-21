@@ -2,7 +2,7 @@ import os
 import json
 
 
-NSEASONS = 23
+LAST_SEASON0 = 23
 
 SERIES_GPD = {"LDS": 4, "LCS": 2, "HCS": 1}
 
@@ -13,7 +13,7 @@ ABBR_TO_NAME = {
 }
 
 
-for iseason in range(NSEASONS + 1):
+for iseason in range(LAST_SEASON0 + 1):
     seasondir = "season%d" % (iseason)
 
     #####################
@@ -54,7 +54,7 @@ for iseason in range(NSEASONS + 1):
     # game function defs
 
     def check_id(game):
-        if "id" not in game:
+        if "gameid" not in game:
             raise Exception(f"Error: missing game id from game {game}")
 
     def check_name_color_match(game):
@@ -62,14 +62,14 @@ for iseason in range(NSEASONS + 1):
         t1 = game["team1Name"]
         t1c = game["team1Color"]
         if t1c != get_team_color(t1):
-            err = f"Error in game {game['id']} of season {game['season']} day {game['day']}:\n"
+            err = f"Error in game {game['gameid']} of season {game['season']} day {game['day']}:\n"
             err += f"Team 1 {t1} had specified team color {t1c}\n"
             err += f"Does not match get_team_color({t1}) = {get_team_color(t1)}"
             raise Exception(err)
-        t2 = game["team1Name"]
-        t2c = game["team1Color"]
+        t2 = game["team2Name"]
+        t2c = game["team2Color"]
         if t2c != get_team_color(t2):
-            err = f"Error in game {game['id']} of season {game['season']} day {game['day']}:\n"
+            err = f"Error in game {game['gameid']} of season {game['season']} day {game['day']}:\n"
             err += f"Team 2 {t2} had specified team color {t2c}\n"
             err += f"Does not match get_team_color({t2}) = {get_team_color(t2)}"
             raise Exception(err)
@@ -79,22 +79,22 @@ for iseason in range(NSEASONS + 1):
         t2s = game["team2Score"]
         if t1s == t2s:
             raise Exception(
-                f"Error in game {game['id']} of season {game['season']} day {game['day']}: game is tied! {team1Score}-{team2Score}"
+                f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: game is tied! {team1Score}-{team2Score}"
             )
         if t1s < 0 or t2s < 0:
             raise Exception(
-                f"Error in game {game['id']} of season {game['season']} day {game['day']}: negative score ({t1s})-({t2s})"
+                f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: negative score ({t1s})-({t2s})"
             )
         if t1s < 10 and t2s < 10:
             raise Exception(
-                f"Error in game {game['id']} of season {game['season']} day {game['day']}: both teams had scores < 10"
+                f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: both teams had scores < 10"
             )
 
     def check_generations(game):
         gens = game["generations"]
         if gens < 500:
             raise Exception(
-                f"Error in game {game['id']} of season {game['season']} day {game['day']}: game is too short (< 500 generations)!"
+                f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: game is too short (< 500 generations)!"
             )
 
     def check_league(game):
@@ -105,11 +105,11 @@ for iseason in range(NSEASONS + 1):
         t2lea = get_team_league(t2)
         if (t1lea != league) or (t2lea != league):
             raise Exception(
-                f"Error in game {game['id']} of season {game['season']} day {game['day']}: league information does not match: {t1}:{t1lea}, {t2}:{t2lea}"
+                f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: league information does not match: {t1}:{t1lea}, {t2}:{t2lea}"
             )
 
     def check_id(game):
-        if "id" not in game.keys():
+        if "gameid" not in game.keys():
             print(game)
             raise Exception(
                 f"Error in game of season {game['season']} day {game['day']}: no id found"
@@ -118,13 +118,13 @@ for iseason in range(NSEASONS + 1):
     def check_pattern(game):
         if "patternName" not in game.keys():
             raise Exception(
-                f"Error in game {game['id']} of season {game['season']} day {game['day']}: game is missing required key patternName"
+                f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: game is missing required key patternName"
             )
 
     def check_map(game):
         if "map" not in game.keys():
             raise Exception(
-                f"Error in game {game['id']} of season {game['season']} day {game['day']}: game is missing required key patternName"
+                f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: game is missing required key patternName"
             )
         mapp = game["map"]
         # required keys that must be present
@@ -147,36 +147,36 @@ for iseason in range(NSEASONS + 1):
         for rk in req_keys:
             if rk not in mapp:
                 raise Exception(
-                    "Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
+                    f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
                 )
         # for urk in unreq_keys:
         #    if urk in mapp:
-        #        raise Exception("Error in game {game['id']} of season {game['season']} day {game['day']}: game map should not have key \"{urk}\"!")
+        #        raise Exception("Error in game {game['gameid']} of season {game['season']} day {game['day']}: game map should not have key \"{urk}\"!")
 
     def check_wl(game):
         req_keys = ["team1WinLoss", "team2WinLoss"]
         for rk in req_keys:
             if rk not in game:
                 raise Exception(
-                    "Error in game {game['id']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
+                    f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: game map is missing key \"{rk}\"!"
                 )
 
         wlsum1 = game["team1WinLoss"][0] + game["team1WinLoss"][1]
-        wlsum2 = game["team1WinLoss"][0] + game["team1WinLoss"][1]
+        wlsum2 = game["team2WinLoss"][0] + game["team2WinLoss"][1]
         if wlsum1 != (game["day"]):
             print(game)
             raise Exception(
-                f"Error in game {game['id']} of season {game['season']} day {game['day']}: win loss record for team 1 sums to {wlsum1}, should sum to {game['day']}"
+                f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: win loss record for team 1 sums to {wlsum1}, should sum to {game['day']}"
             )
         if wlsum2 != (game["day"]):
             raise Exception(
-                f"Error in game {game['id']} of season {game['season']} day {game['day']}: win loss record for team 2 sums to {wlsum2}, should sum to {game['day']}"
+                f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: win loss record for team 2 sums to {wlsum2}, should sum to {game['day']}"
             )
 
     def check_game_season(game, correct_season):
         if iseason != game["season"]:
             raise Exception(
-                f"Error in game {game['id']} of season {game['season']} day {game['day']}: season should be {correct_season}"
+                f"Error in game {game['gameid']} of season {game['season']} day {game['day']}: season should be {correct_season}"
             )
 
     def check_season_day(day):
@@ -222,7 +222,7 @@ for iseason in range(NSEASONS + 1):
         games = day
         for igame, game in enumerate(games):
             t1 = game["team1Name"]
-            t2 = game["team1Name"]
+            t2 = game["team2Name"]
 
             check_id(game)
             check_name_color_match(game)
@@ -233,12 +233,12 @@ for iseason in range(NSEASONS + 1):
             sched_team_names.add(t1)
             sched_team_names.add(t2)
 
-            if game["id"] in sched_game_ids:
+            if game["gameid"] in sched_game_ids:
                 raise Exception(
-                    f"Error: game id {game['id']} is a duplicate in the schedule!"
+                    f"Error: game id {game['gameid']} is a duplicate in the schedule!"
                 )
             else:
-                sched_game_ids.add(game["id"])
+                sched_game_ids.add(game["gameid"])
 
     # schedule.json and teams.json must have the same number of teams
     if len(sched_team_names) != len(teams):
@@ -297,12 +297,12 @@ for iseason in range(NSEASONS + 1):
             season_team_names.add(t1)
             season_team_names.add(t2)
 
-            if game['id'] in season_game_ids:
+            if game["gameid"] in season_game_ids:
                 raise Exception(
-                    f"Error: game id {game['id']} is a duplicate in the season!"
+                    f"Error: game id {game['gameid']} is a duplicate in the season!"
                 )
             else:
-                season_game_ids.add(game['id'])
+                season_game_ids.add(game["gameid"])
 
     # season.json and teams.json must have the same number of teams
     if len(season_team_names) != len(teams):
@@ -328,12 +328,12 @@ for iseason in range(NSEASONS + 1):
     # season.json and schedule.json must have exactly the same game ids
     diff3 = season_game_ids - sched_game_ids
     diff4 = sched_game_ids - season_game_ids
-    if len(diff3)>0 or len(diff4)>0:
+    if len(diff3) > 0 or len(diff4) > 0:
         err = "Error: mismatch in game IDs between schedule and season:\n"
-        if len(diff3)>0:
+        if len(diff3) > 0:
             for gameid in sorted(list(diff3)):
                 err += f" - {gameid}\n"
-        if len(diff4)>0:
+        if len(diff4) > 0:
             for gameid in sorted(list(diff4)):
                 err += f" - {gameid}\n"
         raise Exception(err)
@@ -396,12 +396,12 @@ for iseason in range(NSEASONS + 1):
             for game in day:
                 bracket_team_names.add(game["team1Name"])
                 bracket_team_names.add(game["team2Name"])
-                if game['id'] in bracket_game_ids:
+                if game["gameid"] in bracket_game_ids:
                     raise Exception(
-                        f"Error: game id {game['id']} is a duplicate in the bracket!"
+                        f"Error: game id {game['gameid']} is a duplicate in the bracket!"
                     )
                 else:
-                    bracket_game_ids.add(game['id'])
+                    bracket_game_ids.add(game["gameid"])
 
     # Verify series are the correct lengths
     ldslen = len(bracket["LDS"])
@@ -433,10 +433,11 @@ for iseason in range(NSEASONS + 1):
     ignore_list = set(ignore_list)
     bracket_team_names = bracket_team_names - ignore_list
 
-    if not set(bracket_team_names).issubset(teams_team_names):
+    if not set(bracket_team_names).issubset(set(teams_team_names)):
         err = "Error: mismatch in teams.json and bracket.json team names:\n"
-        err += f"bracket.json team names: {', '.join(bracket_team_names)}\n"
-        err += f"teams.json team names: {', '.join(teams_team_names)}\n"
+        err += f"bracket.json team names: {', '.join(sorted(bracket_team_names))}\n"
+        err += f"teams.json team names: {', '.join(sorted(teams_team_names))}\n"
+        err += f"Missing from teams: {', '.join(sorted(set(bracket_team_names) - set(teams_team_names)))}"
         raise Exception(err)
 
     # -----------
@@ -473,12 +474,12 @@ for iseason in range(NSEASONS + 1):
 
                 postseason_team_names.add(t1)
                 postseason_team_names.add(t2)
-                if game['id'] in postseason_game_ids:
+                if game["gameid"] in postseason_game_ids:
                     raise Exception(
-                        f"Error: game id {game['id']} is a duplicate in the postseason!"
+                        f"Error: game id {game['gameid']} is a duplicate in the postseason!"
                     )
                 else:
-                    postseason_game_ids.add(game['id'])
+                    postseason_game_ids.add(game["gameid"])
 
     for abbr, series_name in ABBR_TO_NAME.items():
         miniseason = postseason[abbr]
@@ -527,7 +528,7 @@ for iseason in range(NSEASONS + 1):
 
     # postseason.json game ids must be a subset of bracket.json game ids
     diff = postseason_game_ids - bracket_game_ids
-    if len(diff)>0:
+    if len(diff) > 0:
         err = "Error: mismatch in game IDs, game IDs found in postseason.json but not in bracket.json:\n"
         for gameid in sorted(list(diff)):
             err += f" - {gameid}\n"
